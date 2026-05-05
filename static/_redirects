@@ -5,15 +5,15 @@
 # ENGLISH - Main intro section
 # =============================================================================
 
-/intro/                              /essentials/                         301
-/intro/at-a-glance/                  /essentials/                         301
-/intro/at-a-glance/*                 /essentials/                         301
+/intro/                              /read/                              301
+/intro/at-a-glance/                  /read/                              301
+/intro/at-a-glance/*                 /read/                              301
 
 # At-a-glance subsections
-/intro/wheel-of-heaven/              /essentials/what-is-woh/             301
-/intro/the-setting/                  /essentials/revelation-vs-myth/      301
-/intro/the-foundation/               /essentials/elohim-hypothesis/       301
-/intro/the-hypothesis/               /essentials/elohim-hypothesis/       301
+/intro/wheel-of-heaven/              /read/                              301
+/intro/the-setting/                  /timeline/preamble/                  301
+/intro/the-foundation/               /wiki/elohim/                        301
+/intro/the-hypothesis/               /wiki/elohim/                        301
 
 # Timeline section
 /intro/timeline/                     /timeline/                           301
@@ -33,12 +33,12 @@
 /intro/age-of-capricorn/             /timeline/age-of-capricorn/          301
 
 # Take-aways subsections
-/intro/take-aways/                   /essentials/elohim-hypothesis/       301
+/intro/take-aways/                   /wiki/elohim/                        301
 /intro/take-aways/*                  /wiki/                               301
 /intro/extraterrestrial-civilization/ /wiki/elohim/                       301
 /intro/intelligent-design/           /wiki/intelligent-design/            301
 /intro/religious-syncretism/         /wiki/comparative-mythology/         301
-/intro/the-great-awakening/          /essentials/world-ages/              301
+/intro/the-great-awakening/          /wiki/world-age/                     301
 
 # See-more subsections
 /intro/see-more/                     /wiki/                               301
@@ -65,8 +65,8 @@
 # LANGUAGE PREFIXED - German (de)
 # =============================================================================
 
-/de/intro/                           /de/essentials/                      301
-/de/intro/*                          /de/essentials/                      301
+/de/intro/                           /de/read/                           301
+/de/intro/*                          /de/read/                           301
 /de/intro/timeline/                  /de/timeline/                        301
 /de/intro/timeline/*                 /de/timeline/                        301
 /de/wiki/encyclopedia/               /de/wiki/                            301
@@ -83,8 +83,8 @@
 # LANGUAGE PREFIXED - Spanish (es)
 # =============================================================================
 
-/es/intro/                           /es/essentials/                      301
-/es/intro/*                          /es/essentials/                      301
+/es/intro/                           /es/read/                           301
+/es/intro/*                          /es/read/                           301
 /es/intro/timeline/                  /es/timeline/                        301
 /es/intro/timeline/*                 /es/timeline/                        301
 /es/wiki/encyclopedia/               /es/wiki/                            301
@@ -101,8 +101,8 @@
 # LANGUAGE PREFIXED - French (fr)
 # =============================================================================
 
-/fr/intro/                           /fr/essentials/                      301
-/fr/intro/*                          /fr/essentials/                      301
+/fr/intro/                           /fr/read/                           301
+/fr/intro/*                          /fr/read/                           301
 /fr/intro/timeline/                  /fr/timeline/                        301
 /fr/intro/timeline/*                 /fr/timeline/                        301
 /fr/wiki/encyclopedia/               /fr/wiki/                            301
@@ -119,8 +119,8 @@
 # LANGUAGE PREFIXED - Japanese (ja)
 # =============================================================================
 
-/ja/intro/                           /ja/essentials/                      301
-/ja/intro/*                          /ja/essentials/                      301
+/ja/intro/                           /ja/read/                           301
+/ja/intro/*                          /ja/read/                           301
 /ja/intro/timeline/                  /ja/timeline/                        301
 /ja/intro/timeline/*                 /ja/timeline/                        301
 /ja/wiki/encyclopedia/               /ja/wiki/                            301
@@ -137,8 +137,8 @@
 # LANGUAGE PREFIXED - Russian (ru)
 # =============================================================================
 
-/ru/intro/                           /ru/essentials/                      301
-/ru/intro/*                          /ru/essentials/                      301
+/ru/intro/                           /ru/read/                           301
+/ru/intro/*                          /ru/read/                           301
 /ru/intro/timeline/                  /ru/timeline/                        301
 /ru/intro/timeline/*                 /ru/timeline/                        301
 /ru/wiki/encyclopedia/               /ru/wiki/                            301
@@ -155,8 +155,8 @@
 # LANGUAGE PREFIXED - Chinese Simplified (zh)
 # =============================================================================
 
-/zh/intro/                           /zh/essentials/                      301
-/zh/intro/*                          /zh/essentials/                      301
+/zh/intro/                           /zh/read/                           301
+/zh/intro/*                          /zh/read/                           301
 /zh/intro/timeline/                  /zh/timeline/                        301
 /zh/intro/timeline/*                 /zh/timeline/                        301
 /zh/wiki/encyclopedia/               /zh/wiki/                            301
@@ -173,8 +173,8 @@
 # LANGUAGE PREFIXED - Korean (ko)
 # =============================================================================
 
-/ko/intro/                           /ko/essentials/                      301
-/ko/intro/*                          /ko/essentials/                      301
+/ko/intro/                           /ko/read/                           301
+/ko/intro/*                          /ko/read/                           301
 /ko/intro/timeline/                  /ko/timeline/                        301
 /ko/intro/timeline/*                 /ko/timeline/                        301
 /ko/wiki/encyclopedia/               /ko/wiki/                            301
@@ -191,8 +191,8 @@
 # LANGUAGE PREFIXED - Chinese Traditional (zh-Hant)
 # =============================================================================
 
-/zh-Hant/intro/                      /zh-Hant/essentials/                 301
-/zh-Hant/intro/*                     /zh-Hant/essentials/                 301
+/zh-Hant/intro/                      /zh-Hant/read/                      301
+/zh-Hant/intro/*                     /zh-Hant/read/                      301
 /zh-Hant/intro/timeline/             /zh-Hant/timeline/                   301
 /zh-Hant/intro/timeline/*            /zh-Hant/timeline/                   301
 /zh-Hant/wiki/encyclopedia/          /zh-Hant/wiki/                       301
@@ -204,6 +204,139 @@
 /zh-Hant/medium/*                    /zh-Hant/wiki/                       301
 /zh-Hant/explainers/                 /zh-Hant/articles/                   301
 /zh-Hant/explainers/*                /zh-Hant/articles/:splat             301
+
+
+# =============================================================================
+# ESSENTIALS RETIREMENT - 2026-05
+# =============================================================================
+# Section retired in favor of /read/ (orientation), /wiki/ (reference),
+# /timeline/ (narrative), and /library/ (sources).
+
+# English flat structure
+/essentials/                                /read/                              301
+/essentials/what-is-woh/                    /read/                              301
+/essentials/our-method/                     /read/#how-to-read                  301
+/essentials/elohim-hypothesis/              /wiki/elohim/                        301
+/essentials/precession/                     /wiki/precession/                    301
+/essentials/world-ages/                     /wiki/world-age/                     301
+/essentials/genesis-lab-log/                /timeline/in-the-beginning/          301
+/essentials/revelation-vs-myth/             /timeline/preamble/                  301
+
+# de legacy structure
+/de/essentials/                                       /de/read/                          301
+/de/essentials/at-a-glance/                           /de/read/                          301
+/de/essentials/at-a-glance/wheel-of-heaven/           /de/read/                          301
+/de/essentials/at-a-glance/the-foundation/            /de/wiki/elohim/                    301
+/de/essentials/at-a-glance/the-hypothesis/            /de/wiki/elohim/                    301
+/de/essentials/at-a-glance/the-setting/               /de/timeline/preamble/              301
+/de/essentials/take-aways/                            /de/read/                          301
+/de/essentials/take-aways/extraterrestrial-civilization/  /de/wiki/elohim/                301
+/de/essentials/take-aways/intelligent-design/         /de/wiki/elohim/                    301
+/de/essentials/take-aways/religious-syncretism/       /de/timeline/preamble/              301
+/de/essentials/take-aways/the-great-awakening/        /de/read/                          301
+/de/essentials/see-more/                              /de/read/                          301
+/de/essentials/see-more/community/                    /de/forums/                         301
+/de/essentials/see-more/faq/                          /de/faq/                            301
+/de/essentials/see-more/knowledge-base/               /de/wiki/                           301
+/de/essentials/*                                      /de/read/                          301
+
+# es legacy structure
+/es/essentials/                                       /es/read/                          301
+/es/essentials/at-a-glance/                           /es/read/                          301
+/es/essentials/at-a-glance/wheel-of-heaven/           /es/read/                          301
+/es/essentials/at-a-glance/the-foundation/            /es/wiki/elohim/                    301
+/es/essentials/at-a-glance/the-hypothesis/            /es/wiki/elohim/                    301
+/es/essentials/at-a-glance/the-setting/               /es/timeline/preamble/              301
+/es/essentials/take-aways/                            /es/read/                          301
+/es/essentials/take-aways/extraterrestrial-civilization/  /es/wiki/elohim/                301
+/es/essentials/take-aways/intelligent-design/         /es/wiki/elohim/                    301
+/es/essentials/take-aways/religious-syncretism/       /es/timeline/preamble/              301
+/es/essentials/take-aways/the-great-awakening/        /es/read/                          301
+/es/essentials/see-more/                              /es/read/                          301
+/es/essentials/see-more/community/                    /es/forums/                         301
+/es/essentials/see-more/faq/                          /es/faq/                            301
+/es/essentials/see-more/knowledge-base/               /es/wiki/                           301
+/es/essentials/*                                      /es/read/                          301
+
+# fr legacy structure
+/fr/essentials/                                       /fr/read/                          301
+/fr/essentials/at-a-glance/                           /fr/read/                          301
+/fr/essentials/at-a-glance/wheel-of-heaven/           /fr/read/                          301
+/fr/essentials/at-a-glance/the-foundation/            /fr/wiki/elohim/                    301
+/fr/essentials/at-a-glance/the-hypothesis/            /fr/wiki/elohim/                    301
+/fr/essentials/at-a-glance/the-setting/               /fr/timeline/preamble/              301
+/fr/essentials/take-aways/                            /fr/read/                          301
+/fr/essentials/take-aways/extraterrestrial-civilization/  /fr/wiki/elohim/                301
+/fr/essentials/take-aways/intelligent-design/         /fr/wiki/elohim/                    301
+/fr/essentials/take-aways/religious-syncretism/       /fr/timeline/preamble/              301
+/fr/essentials/take-aways/the-great-awakening/        /fr/read/                          301
+/fr/essentials/see-more/                              /fr/read/                          301
+/fr/essentials/see-more/community/                    /fr/forums/                         301
+/fr/essentials/see-more/faq/                          /fr/faq/                            301
+/fr/essentials/see-more/knowledge-base/               /fr/wiki/                           301
+/fr/essentials/*                                      /fr/read/                          301
+
+# ja legacy structure
+/ja/essentials/                                       /ja/read/                          301
+/ja/essentials/at-a-glance/                           /ja/read/                          301
+/ja/essentials/at-a-glance/wheel-of-heaven/           /ja/read/                          301
+/ja/essentials/at-a-glance/the-foundation/            /ja/wiki/elohim/                    301
+/ja/essentials/at-a-glance/the-hypothesis/            /ja/wiki/elohim/                    301
+/ja/essentials/at-a-glance/the-setting/               /ja/timeline/preamble/              301
+/ja/essentials/take-aways/                            /ja/read/                          301
+/ja/essentials/take-aways/extraterrestrial-civilization/  /ja/wiki/elohim/                301
+/ja/essentials/take-aways/intelligent-design/         /ja/wiki/elohim/                    301
+/ja/essentials/take-aways/religious-syncretism/       /ja/timeline/preamble/              301
+/ja/essentials/take-aways/the-great-awakening/        /ja/read/                          301
+/ja/essentials/see-more/                              /ja/read/                          301
+/ja/essentials/see-more/community/                    /ja/forums/                         301
+/ja/essentials/see-more/faq/                          /ja/faq/                            301
+/ja/essentials/see-more/knowledge-base/               /ja/wiki/                           301
+/ja/essentials/*                                      /ja/read/                          301
+
+# ru legacy structure
+/ru/essentials/                                       /ru/read/                          301
+/ru/essentials/at-a-glance/                           /ru/read/                          301
+/ru/essentials/at-a-glance/wheel-of-heaven/           /ru/read/                          301
+/ru/essentials/at-a-glance/the-foundation/            /ru/wiki/elohim/                    301
+/ru/essentials/at-a-glance/the-hypothesis/            /ru/wiki/elohim/                    301
+/ru/essentials/at-a-glance/the-setting/               /ru/timeline/preamble/              301
+/ru/essentials/take-aways/                            /ru/read/                          301
+/ru/essentials/take-aways/extraterrestrial-civilization/  /ru/wiki/elohim/                301
+/ru/essentials/take-aways/intelligent-design/         /ru/wiki/elohim/                    301
+/ru/essentials/take-aways/religious-syncretism/       /ru/timeline/preamble/              301
+/ru/essentials/take-aways/the-great-awakening/        /ru/read/                          301
+/ru/essentials/see-more/                              /ru/read/                          301
+/ru/essentials/see-more/community/                    /ru/forums/                         301
+/ru/essentials/see-more/faq/                          /ru/faq/                            301
+/ru/essentials/see-more/knowledge-base/               /ru/wiki/                           301
+/ru/essentials/*                                      /ru/read/                          301
+
+# zh legacy structure
+/zh/essentials/                                       /zh/read/                          301
+/zh/essentials/at-a-glance/                           /zh/read/                          301
+/zh/essentials/at-a-glance/wheel-of-heaven/           /zh/read/                          301
+/zh/essentials/at-a-glance/the-foundation/            /zh/wiki/elohim/                    301
+/zh/essentials/at-a-glance/the-hypothesis/            /zh/wiki/elohim/                    301
+/zh/essentials/at-a-glance/the-setting/               /zh/timeline/preamble/              301
+/zh/essentials/take-aways/                            /zh/read/                          301
+/zh/essentials/take-aways/extraterrestrial-civilization/  /zh/wiki/elohim/                301
+/zh/essentials/take-aways/intelligent-design/         /zh/wiki/elohim/                    301
+/zh/essentials/take-aways/religious-syncretism/       /zh/timeline/preamble/              301
+/zh/essentials/take-aways/the-great-awakening/        /zh/read/                          301
+/zh/essentials/see-more/                              /zh/read/                          301
+/zh/essentials/see-more/community/                    /zh/forums/                         301
+/zh/essentials/see-more/faq/                          /zh/faq/                            301
+/zh/essentials/see-more/knowledge-base/               /zh/wiki/                           301
+/zh/essentials/*                                      /zh/read/                          301
+
+# ko
+/ko/essentials/                                       /ko/read/                          301
+/ko/essentials/*                                      /ko/read/                          301
+
+# zh-Hant
+/zh-Hant/essentials/                                       /zh-Hant/read/                          301
+/zh-Hant/essentials/*                                      /zh-Hant/read/                          301
 
 # =============================================================================
 # ENGLISH - Catch-all patterns (must be LAST)
