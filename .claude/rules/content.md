@@ -141,6 +141,36 @@ isbn = "978-..."
 +++
 ```
 
+### Newsroom Dispatch
+
+```toml
++++
+title = "Dispatch headline"
+description = "150–160 char summary of the event and angle"
+template = "news-page.html"
+date = 2026-05-08
+
+[extra]
+event_date = 2026-05-07              # When the event happened
+event_type = "announcement"          # announcement | discovery | anniversary | cultural-moment | obituary
+claim_type = "inferred"              # direct | inferred | speculative
+summary = "One-paragraph TLDR — the lede plus the canon angle in 2–4 sentences."
+canon_links = [                      # Required: at least one canon entry touched
+    { title = "Elohim", path = "/wiki/elohim/" }
+]
+sources = [                          # The news source(s) being read
+    { title = "Source headline", url = "https://...", outlet = "Outlet Name", date = "2026-05-07" }
+]
++++
+```
+
+Dispatches are short (300–800 words), time-anchored entries that read a
+current event through the canon. They are exempt from the six-source minimum
+that applies to Articles — the floor is the primary news source(s) plus at
+least one `canon_links` entry. See
+[`content-editing.md`](content-editing.md) "Newsroom Dispatches" for
+editorial structure and tone.
+
 ### Resource Entry
 
 ```toml

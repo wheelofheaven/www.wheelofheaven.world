@@ -10,6 +10,7 @@
 | Library | `Book` | `partials/schema/book.html` |
 | Essentials | `HowTo` | `partials/schema/how-to.html` |
 | Resources | `Article` | (main seo.html) |
+| Newsroom | `NewsArticle` | `partials/schema/news-article.html` |
 | Homepage | `WebSite` | `partials/schema/website.html` |
 
 ## Creating New Schema Templates
