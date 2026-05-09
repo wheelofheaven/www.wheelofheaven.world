@@ -43,6 +43,11 @@ sort_by = "weight"  # or "date", "title"
 summary = "Quick summary paragraph"
 tldr = "One-sentence takeaway"
 
+# Editorial pass that produced this entry (date-coded YYYY-MM).
+# Set when you fundamentally rewrite an entry. See `editorial_pass`
+# section in the cross-repo rules for full guidance.
+editorial_pass = "2026-05"
+
 # Categorization
 category = "Category Name"
 keywords = ["keyword1", "keyword2"]
@@ -62,6 +67,19 @@ author = "Author Name"
 # Control indexing
 noindex = false
 ```
+
+### `editorial_pass` quick rules
+
+A `YYYY-MM` date code marking which editorial campaign last
+fundamentally rewrote the entry.
+
+- **Current pass:** `2026-05` — modern, working-hypothesis,
+  human-civilization framing.
+- **Set on:** fundamental rewrites and new entries.
+- **Don't set on:** typo fixes, single-line tweaks, reference additions.
+- **Legacy entries** (no field) reflect the pre-2026-05 framing.
+
+Full convention in the cross-repo `.claude/rules/content.md`.
 
 ## Section-Specific Patterns
 
