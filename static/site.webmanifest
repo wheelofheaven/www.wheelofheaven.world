@@ -1,20 +1,18 @@
 {
   "name": "Wheel of Heaven",
-  "short_name": "WoH",
-  "description": "Wheel of Heaven is a public knowledge hub that threads Raëlian scriptures, world myth, and modern genomics into a critical, citation-rich narrative about humanity's potential engineered origin. Read concise primers, explore annotated source texts, and explore the lore all transparent, open-source, and free.",
+  "short_name": "Wheel",
+  "description": "A long reading of the ancient world's creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.",
   "version": "1.0.0",
   "start_url": "/",
   "scope": "/",
   "id": "/",
   "display": "standalone",
-  "orientation": "portrait-primary",
+  "orientation": "any",
   "theme_color": "#9d81d9",
   "background_color": "#1b1f22",
   "lang": "en",
   "dir": "ltr",
-  "categories": ["education", "reference", "books"],
-  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
-
+  "categories": ["education", "news", "books"],
   "icons": [
     {
       "src": "/brand/favicon.svg",
