@@ -7,3 +7,6 @@
 [submodule "themes/bifrost"]
 	path = themes/bifrost
 	url = https://github.com/wheelofheaven/bifrost.git
+[submodule "data/sources"]
+	path = data/sources
+	url = git@github.com:wheelofheaven/data-bibliography.git
