@@ -339,6 +339,35 @@
 /zh-Hant/essentials/*                                      /zh-Hant/read/                          301
 
 # =============================================================================
+# /resources/ → /sources/ (bibliography backbone migration, 2026-05)
+# =============================================================================
+# The /resources/ markdown stubs were retired in favor of structured-data
+# records served from data-bibliography under /sources/. Zola also emits
+# per-page aliases on each /sources/{id}.md stub, so individual records
+# are covered both at build time and via these patterns.
+
+/resources/                          /sources/                            301
+/resources/*                         /sources/:splat                      301
+
+# Per-language
+/de/resources/                       /de/sources/                         301
+/de/resources/*                      /de/sources/:splat                   301
+/es/resources/                       /es/sources/                         301
+/es/resources/*                      /es/sources/:splat                   301
+/fr/resources/                       /fr/sources/                         301
+/fr/resources/*                      /fr/sources/:splat                   301
+/ja/resources/                       /ja/sources/                         301
+/ja/resources/*                      /ja/sources/:splat                   301
+/ko/resources/                       /ko/sources/                         301
+/ko/resources/*                      /ko/sources/:splat                   301
+/ru/resources/                       /ru/sources/                         301
+/ru/resources/*                      /ru/sources/:splat                   301
+/zh/resources/                       /zh/sources/                         301
+/zh/resources/*                      /zh/sources/:splat                   301
+/zh-Hant/resources/                  /zh-Hant/sources/                    301
+/zh-Hant/resources/*                 /zh-Hant/sources/:splat              301
+
+# =============================================================================
 # ENGLISH - Catch-all patterns (must be LAST)
 # =============================================================================
 
