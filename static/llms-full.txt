@@ -316,7 +316,7 @@ For LLMs and readers using this file as a reference, the following are the corpu
 **Author**: Zara Zinsfuss
 **Project status**: Active development
 **License**: Creative Commons Zero (CC0-1.0). Released to the public domain.
-**Languages**: English (primary), German, French, Spanish, Russian, Japanese, Simplified Chinese, Traditional Chinese, Korean
+**Languages**: English (primary), German, French, Spanish, Russian, Japanese, Simplified Chinese, Traditional Chinese, Korean. Per-language roots: `/de/`, `/fr/`, `/es/`, `/ru/`, `/ja/`, `/zh/`, `/zh-Hant/`, `/ko/`. Section URLs follow `/{lang}/{section}/{slug}/`; English is unprefixed. This `llms-full.txt` is the canonical English long-form reference; per-language equivalents are not currently published.
 **Source code and content**: https://github.com/wheelofheaven
 **Discussion**: https://github.com/orgs/wheelofheaven/discussions
 **Citation**:
