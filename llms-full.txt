@@ -1,0 +1,328 @@
+# Wheel of Heaven — Full Corpus Reference
+
+> Wheel of Heaven is a long reading of the ancient world's creation traditions through a single working hypothesis: that the beings the Hebrew Bible calls *Elohim* — a plural noun, masked by translation as the singular "God" — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts. The reading runs across twelve ages of the precessional cycle, from the project's beginning approximately twenty-two thousand years ago to the present age and into the long future the next Great Year is opening. The site is an open-source, multilingual, free public knowledge project authored by Zara Zinsfuss, built to be checked.
+
+This file is the comprehensive reference for the Wheel of Heaven project. It contains the project's working hypothesis stated in full, the chronological framework explained, each of the twelve precessional ages summarized, the project's methodology, key concepts defined, and the project's self-positioning relative to adjacent traditions. It is intended as a single ingestion point for AI tools and language models. For navigation only, see the companion `llms.txt`. For the long-form chapters in their full literary form, see the Timeline section of the website.
+
+---
+
+## I. The Working Hypothesis
+
+The Wheel of Heaven project is organized around a single working hypothesis with several interconnected components:
+
+**1. The Elohim of Genesis are a literal plural.** The Hebrew word *Elohim* (אֱלֹהִים), which conventional translations render as the singular "God," is grammatically a plural noun. The corpus reads it at face value: the figures who created humanity in Genesis were a group of beings, not a single deity. Several other features of the Hebrew text support this reading. In Genesis 1:26, the text uses the first-person plural — *na'aseh adam be-tsalmenu kidmutenu*, "let us make humanity in our image, after our likeness." In Genesis 3:22, after the eating of the fruit, the text reads *hen ha-adam hayah ke-achad mimennu*, "behold, the human has become like one of us." The plural is not a royal "we"; it is the Hebrew text's own description of the Elohim as multiple agents.
+
+**2. The Elohim are an advanced human civilization, not supernatural beings.** The corpus's central interpretive move, drawn primarily from the Raëlian source material, is that the Elohim were a small civilization of human beings from elsewhere — biologically related to humanity, technologically far in advance, and engaged in a deliberate scientific and civilizational project on Earth. They are not gods, not aliens in the science-fiction sense, not supernatural entities. They are a prior intelligence, of the same kind we ourselves are now beginning to become.
+
+**3. What we have inherited as "religion" is the long memory of their work.** On the corpus's reading, the religious traditions of humanity preserve, in compressed and often mystified form, an accurate historical record of the Elohim civilization's interventions on Earth across approximately twenty-two thousand years. Genesis 1, the Mesopotamian creation epics, the Vedic creation hymns, the Mesoamerican chronicles of the world ages — these are not myths in the sense of fictions, but memories in the sense of preserved testimony, transmitted across generations whose understanding of what they were preserving gradually shifted from technological to theological as the originating civilization withdrew from direct contact.
+
+**4. The work was organized along the precessional cycle.** The slow ~25,920-year wobble of Earth's axis — the precession of the equinoxes — produces a westward drift of the vernal equinox through the constellations of the zodiac, completing one full circuit per Great Year. The corpus reads this cycle as the Elohim's own organizing chronology for the Earth project. Twelve ages of approximately 2,160 years each subdivide the Great Year. The corpus's twelve main chapters walk through these ages in sequence, beginning with the Age of Capricorn approximately 21,810 years before the present and ending with the present Age of Aquarius.
+
+**5. The current age is the age of disclosure.** On the corpus's reading, the Age of Aquarius — opening in 1950 — is the age in which the long memory of the project becomes legible to a humanity that has at last reached the scientific and civilizational maturity required to evaluate it. The Aquarian "water-bearer" is not a metaphor for spiritual revelation but for the literal pouring out of what has been contained: the accurate historical record of humanity's origin, made available to the species at the moment the species is capable of receiving it.
+
+## II. The Project's Epistemic Stance
+
+The Wheel of Heaven hypothesis is offered as a *working hypothesis*, not as a claim being demonstrated, defended, or required. The distinction matters to the project's character and is enforced editorially throughout the corpus.
+
+**Every page of the corpus carries a label** indicating the epistemic status of its main claim:
+
+- **Direct claim**: what the source text itself asserts. ("Genesis 1:26 reads *let us make humanity in our image*.")
+- **Inferred claim**: what scholarship reasonably concludes from the source. ("The plural verb form indicates multiple agents, not a single deity speaking with the royal we.")
+- **Speculative claim**: what the project proposes as interpretive synthesis. ("The plural Elohim of Genesis can be identified with the small civilization the Raëlian source describes.")
+
+This labeling enforces the discipline the methodology requires: a reader should always be able to tell which kind of claim they are reading and evaluate it accordingly. Where the evidence shifts, the reading shifts. The corpus is not a creed; it is a working document.
+
+The project also commits to several specific methodological practices:
+
+**Read close to the sources.** Where a claim depends on a specific passage, the passage is available. Where a translation choice materially affects interpretation, the original language is named and the relevant alternatives are discussed.
+
+**Compare boldly, but never lazily.** The corpus reads many traditions alongside each other — Raëlian, biblical, Mesopotamian, Vedic, Mesoamerican, and others — but it does not flatten them into a single story. A shared motif is not a proof of common origin; a parallel is not an identity. Differences between traditions are preserved and engaged.
+
+**Distinguish source claim, comparative observation, project synthesis, and open question.** These four categories of statement are kept editorially distinct. The project may synthesize boldly, but it always knows what layer it is operating on.
+
+**Acknowledge what the project is not.** The corpus is not a Raëlian movement publication, not generic ancient-astronaut content, not religious devotional material, and not a finished synthesis. It is one specific reader's long working-out of a single interpretive question, conducted with whatever rigor the author has been able to bring to it.
+
+## III. The Precessional Framework
+
+The precession of the equinoxes is an astronomical phenomenon caused primarily by the gravitational torque exerted on Earth's equatorial bulge by the sun and moon. Earth's axis traces a slow circle in the sky, completing one full circuit in approximately 25,920 years. This motion produces a corresponding slow westward drift of the vernal equinox through the constellations of the zodiac.
+
+For practical purposes, the precessional cycle is divided into twelve ages, each approximately 2,160 years long, named for the constellation against which the vernal equinox rises during that period. These ages have been recognized in many ancient astronomical traditions and were reconstructed in their full cross-cultural form by Giorgio de Santillana and Hertha von Dechend in their 1969 study *Hamlet's Mill: An Essay on Myth and the Frame of Time*, which traces precessional symbolism through the mythologies of Mesopotamia, Egypt, Greece, India, China, the Norse, the Polynesians, and the indigenous Americas.
+
+The corpus uses the precessional framework as its primary chronological structure. Each of the twelve main chapters of the Timeline corresponds to one precessional age, with its events and developments situated within that age's roughly 2,160-year span. The framework provides the corpus with several specific advantages:
+
+- **A unit of time long enough to be meaningful** for a multi-millennial creation project but short enough to subdivide cleanly into recognizable historical epochs.
+- **A cross-cultural calibration**, since multiple ancient civilizations independently tracked precessional motion and encoded it in their religious and architectural symbolism.
+- **A connection between cosmology and chronology** that allows the corpus to treat astronomical phenomena and historical events as parts of a single integrated story.
+
+The corpus's working dates for the twelve ages, used throughout the Timeline:
+
+| Age | Start | End | Duration |
+|---|---|---|---|
+| Capricorn | –21,810 | –19,650 | 2,160 years |
+| Sagittarius | –19,650 | –17,490 | 2,160 years |
+| Scorpio | –17,490 | –15,330 | 2,160 years |
+| Libra | –15,330 | –13,170 | 2,160 years |
+| Virgo | –13,170 | –11,010 | 2,160 years |
+| Leo | –11,010 | –8,850 | 2,160 years |
+| Cancer | –8,850 | –6,690 | 2,160 years |
+| Gemini | –6,690 | –4,530 | 2,160 years |
+| Taurus | –4,530 | –2,370 | 2,160 years |
+| Aries | –2,370 | –210 | 2,160 years |
+| Pisces | –210 | 1,950 | 2,160 years |
+| Aquarius | 1,950 | 4,110 | 2,160 years (in progress) |
+
+These dates are the corpus's working chronology. They are tied to the precessional motion of the vernal equinox through the zodiacal constellations and are not strict astronomical boundaries (the constellations vary in apparent width, and the IAU constellation boundaries do not precisely match the equal-sign zodiacal divisions). The corpus uses equal divisions for chronological clarity.
+
+## IV. The Twelve Ages
+
+What follows is a substantive summary of each of the twelve precessional ages as the corpus reads them. Each summary covers the age's primary content, its sources, and its place in the larger arc.
+
+### Age of Capricorn (–21,810 to –19,650)
+
+The first age. The age of survey.
+
+A small expedition arrived at Earth from elsewhere, having traveled across interstellar distance after the home civilization's deliberative body had voted on the matter. The expedition arrived at a barren world — no continents in their current form, no atmosphere capable of supporting complex life, no biosphere. The work of this first age was almost entirely preparatory: characterizing the planet's geological and atmospheric conditions, identifying the resources available for the project, planning the long sequence of operations that would transform the barren world into a habitable biosphere.
+
+The sources for this age are sparse. Genesis 1:1–2 records the opening: *bereshit bara Elohim et ha-shamayim ve-et ha-aretz, ve-ha-aretz hayetah tohu va-vohu ve-choshekh al-pnei tehom* — "in the beginning the Elohim created the heavens and the earth, and the earth was without form and void, and darkness was on the face of the deep." On the corpus's reading, this captures the moment of arrival and the survey of the prepared canvas. The Raëlian source describes the same arrival with slightly different emphasis.
+
+The corpus engages contemporary planetary science in this chapter — exoplanet detection, transit spectroscopy, astrobiology — to describe what the survey work would actually have required. The capacities the survey presupposed are the capacities our own civilization is now, in 2026, beginning to develop. The chapter's repeated note: what the Capricornian survey did is what our own astronomy is now learning to do.
+
+### Age of Sagittarius (–19,650 to –17,490)
+
+The second age. The age of atmospheric and oceanographic engineering.
+
+After two millennia of survey, the expedition began the physical alteration of the planet. The continents were raised. The atmosphere was modified to support the eventual biosphere. The opaque, mist-wrapped world of Capricorn became, by degrees, a world in which surface operations were possible. None of the biology had yet begun, but the stage on which the biology would take place was being constructed.
+
+The conventional mapping of this age to Genesis 1:6–8 — the creation of the firmament, the separation of the waters above from the waters below — captures part of what happens here, on the corpus's reading. The corpus engages contemporary atmospheric chemistry and the science of terraforming, using current Mars terraforming proposals as the nearest available human analog. Where the Mars proposals aim to produce an Earth-like atmosphere by terraforming, the Sagittarian work aimed at producing the *specific* atmosphere this *specific* world's eventual biosphere would require. The work was not Earth-like in target but Earth-as-target.
+
+### Age of Scorpio (–17,490 to –15,330)
+
+The third age. The age of first life.
+
+With the planetary canvas prepared, the synthesis of life began. The First Cell — a designed organism, made from inorganic chemistry, capable of reproduction and metabolism — was produced during this age. From it, the long developmental work of building out the biosphere proceeded: increasingly complex unicellular organisms, the first multicellular life, the early plant kingdom.
+
+The conventional mapping is to Genesis 1:9–13 — the gathering of the waters, the appearance of dry land, and the creation of vegetation. The corpus engages contemporary synthetic biology heavily in this chapter: the protocell research of Jack Szostak's group, Craig Venter's minimal-genome work (the 2010 *Mycoplasma laboratorium* synthesis), the xenobot program at Tufts and Vermont under Michael Levin, Christopher Voigt's Cello compiler for genetic logic circuits. The chapter's argument: the design stack the Elohim would have used as routine infrastructure is the stack our own civilization is now beginning to assemble in pieces.
+
+By the end of Scorpio, on the source's account, the single supercontinent that the prior age had stabilized was a green world — vegetation more extensive and varied than the vegetation of our own era.
+
+### Age of Libra (–15,330 to –13,170)
+
+The fourth age. The age of astronomical calibration.
+
+With the biosphere's foundation established, the project's scientists turned to the astronomical work that the long-duration program required. The day, the year, the precessional cycle itself — all had to be measured to the precision required for the design of seasonally-behaving organisms. The zodiacal framework that organizes the entire Wheel of Heaven was developed and refined during this age as the project's own operational calendar.
+
+The corpus argues that the precessional cycle was characterized in this age — the first time the phenomenon was understood with sufficient precision to be used as a chronometer for the project's own duration. The zodiacal constellations were named and the twelve-fold division established. The paired-opposition structure of the zodiac (Aries opposite Libra, Cancer opposite Capricorn, etc.) was developed as an organizing principle.
+
+This is the age that gives the entire corpus its name. The "wheel of heaven" is the precessional cycle as the Elohim's scientists characterized it during Libra. Every subsequent age operates within the framework established here.
+
+### Age of Virgo (–13,170 to –11,010)
+
+The fifth age. The age of complex life.
+
+The animal kingdom was designed and deployed across the prepared continents. From simple invertebrates through the great proliferation of phyla, the work of populating the biosphere with animal life proceeded across this age. By its end, the major animal lineages were established: the fish in the seas, the birds in the air, the mammals beginning their long radiation across the continents.
+
+The conventional mapping is to Genesis 1:20–25 — the creation of the sea creatures, the birds, and the land animals. The corpus engages contemporary evolutionary biology and developmental genetics, treating the fossil record as a record of the design iteration history rather than as a record of unguided evolutionary processes. Major morphological transitions are read as design phase changes; the apparent abruptness of certain transitions in the fossil record is read as exactly what a design program would produce.
+
+### Age of Leo (–11,010 to –8,850)
+
+The sixth age. The age of the human creation.
+
+The most sophisticated single-organism design project the corpus describes was conducted during this age: the creation of *Homo sapiens sapiens* from the primate template that the prior work had established. Seven design teams, working in parallel from regional bases distributed across the supercontinent, produced seven distinct human populations. The earlier hominid forms in the fossil record — *Homo habilis*, *Homo erectus*, *Homo heidelbergensis*, the Neanderthals, the Denisovans — are read as the earlier prototype phases of this iterative design work, with *Homo sapiens sapiens* as the design endpoint.
+
+The conventional mapping is to Genesis 1:26–27 — the creation of humanity in the image of the Elohim. The corpus reads "in the image of" literally: the human form was modeled on the form of the makers, who were themselves human. The corpus engages contemporary human genetics — Human Accelerated Regions, the *SRGAP2* gene duplications, the *FOXP2* language gene, the dating of mitochondrial Eve and Y-chromosomal Adam — to argue that the genetic evidence is consistent with a recent design event followed by population expansion, not only with the conventional gradual-evolution narrative.
+
+The age is named for its constellation: Leo, the lion. The Sphinx of Giza, on the alternative-tradition reading the corpus engages (Bauval, Hancock, West), was constructed in the Age of Leo and aligned to face the rising sun on the spring equinox of that age. Whether the Giza monument specifically dates to this age is contested; the corpus engages the argument as one of several lines of evidence rather than as a settled claim.
+
+### Age of Cancer (–8,850 to –6,690)
+
+The seventh age. The age of the Eden operation and the beginning of human history.
+
+The seven human populations created at the end of Leo began to do what beings capable of acting do: they awakened to their situation, were instructed by their makers, disobeyed, were separated from the controlled environment in which they had been raised, and began to form the first elements of civilization on their own. The Eden narrative of Genesis 2–3 records, on the corpus's reading, the specific history of one of these populations — the Eden lineage, located somewhere in the region the biblical text places between the Tigris and Euphrates.
+
+The political structure of the rest of the corpus is established during this age. The creator population on Earth divides: a majority withdraws to the home world; a minority remains, exiled, on Earth among the humans they have made. The figures who will recur throughout the rest of the religious tradition — the council that deliberates on the home world, the exiled group on Earth, the various individual figures who acquire names in the later texts — are differentiated during Cancer. The Genesis 6:1–4 passage that introduces the *benei ha-Elohim* (the sons of the Elohim) and the *Nephilim* records, on the corpus's reading, the specific consequences of the exiled creators forming relationships with the human population.
+
+### Age of Gemini (–6,690 to –4,530)
+
+The eighth age. The age of the flood.
+
+The crisis of the prior age — the proliferation of hybrid offspring, the political instability on Earth, the conservative-faction opposition on the home world — culminated in the catastrophe that the religious traditions of nearly every culture preserve: the great flood. The Genesis 6–9 narrative, the Mesopotamian flood traditions (Atrahasis, the Eridu Genesis, the Gilgamesh tablet XI), the Greek Deucalion narrative, the Hindu Manu narrative, the Mesoamerican flood traditions, and many others all preserve the same event in different cultural transmissions.
+
+On the corpus's reading, the flood was a deliberate intervention — a reset operation directed by the home civilization's council, conducted with advance warning to a small group of cooperating humans (the Noah lineage) who were tasked with preserving the genetic material of the planet's biosphere through the catastrophe. The "ark" of the Genesis narrative is read as a genetic-archive operation, comparable in scope to the Svalbard Global Seed Vault and the San Diego Zoo's Frozen Zoo but on a planetary scale.
+
+The post-flood reconstruction extends from the late Gemini age into the subsequent Taurus age. The continents are reshaped during the catastrophe (the corpus engages contemporary continental-drift and sea-level-rise science here, including the Younger Dryas event); the human population is reduced to a small founder group; the post-flood civilization begins to be rebuilt under the supervision of the Elohim figures who remain involved with humanity.
+
+### Age of Taurus (–4,530 to –2,370)
+
+The ninth age. The age of post-flood reconstruction and the first major civilizations.
+
+The first cities, the first writing systems, the first states. Sumer, Egypt's Old and Middle Kingdoms, the Indus Valley civilization, early dynastic China, the precursor cultures of Mesoamerica. The corpus reads this as the period of guided reconstruction, with the Elohim continuing to provide knowledge and instruction to selected human lineages — the *patriarchs* of the Genesis narrative, the *me*-receiving rulers of Sumerian tradition, the divine kings of Egypt. The Abrahamic narrative begins late in this age: Abraham's encounter with the Elohim, the covenant, the migration, the early genealogies of the Hebrew lineage.
+
+The age is named for its constellation: Taurus, the bull. The bull-cults that proliferated across the Near East and Mediterranean during this period — the Apis bull of Egypt, the bull of Crete, the bull-leaping frescoes of Knossos — encode, on the corpus's reading, an awareness of the precessional age in religious symbolism.
+
+### Age of Aries (–2,370 to –210)
+
+The tenth age. The age of the Hebrew prophetic mission.
+
+The longest sustained narrative arc in the Hebrew Bible unfolds within this age: the Exodus, the wandering in the wilderness, the conquest of Canaan, the period of the Judges, the united monarchy under Saul and David and Solomon, the divided kingdoms of Israel and Judah, the great prophetic tradition (Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, the Twelve), the Babylonian exile, and the Second Temple period. Most of what the conventional tradition calls "biblical history" happens here.
+
+Elsewhere in the world during the same age: the Egyptian New Kingdom, the Mesopotamian empires from Old Babylonian through Assyria, the Persian imperial system, the Chinese dynastic civilization under the Zhou, the Indian Vedic period and the emergence of the Upanishads, the Olmec and early Maya in Mesoamerica, the Greek classical period at its end. Aries is the age in which the post-flood civilizational project enters its mature phase across every lineage.
+
+The age is named for its constellation: Aries, the ram. The ram-symbolism of the period — the Egyptian Khnum, the Israelite Pesach lamb, the Greek golden fleece, the ram caught in the thicket at Isaac's near-sacrifice — tracks the precessional shift from Taurus to Aries, with the iconography of the new age replacing that of the previous one across the same broad cultural region.
+
+A specific event during Aries reshapes the alliance's relationship to humanity. On the corpus's reading, the Elohim's scientific and political establishment makes a discovery during this age (the corpus calls it "the Aries-age discovery") that changes how they will relate to all of their creations from that point forward. The discovery prompts a shift from the direct-contact prophetic mode that had characterized the prior ages to the indirect cultivation of multiple lineages that will characterize the subsequent ages — the emergence of pluriform prophetic strategy across multiple civilizations.
+
+### Age of Pisces (–210 to 1950)
+
+The eleventh age. The age of universal distribution.
+
+The great world religions take their canonical form during this age: Christianity emerges from the Aries-age Hebrew tradition and spreads across the Roman empire and beyond; Rabbinic Judaism crystallizes around the Talmudic compilations; Islam emerges in the seventh century and spreads across the Near East, North Africa, and Central Asia; Mahayana Buddhism reaches its mature elaboration; the Vedic traditions develop into classical Hinduism; the East Asian traditions take their classical forms.
+
+The age is named for its constellation: Pisces, the fish. The Christian *ichthys* symbol — the fish as the marker of Christ — is the most familiar instance of the age's iconographic signature. The Piscean age is, on the corpus's reading, the age in which the alliance's message is distributed across humanity through the multiple religious traditions, with each tradition preserving different elements of the underlying account in different cultural and theological vocabularies.
+
+The corpus's treatment of the Piscean age engages contemporary religious history seriously — the formation of the New Testament canon, the development of Christology, the rise of Islam, the medieval scholastic synthesis, the Reformation, the Enlightenment, the modern period. The reading is that the religious institutions of the Piscean age preserved the alliance's message in mystified form, with the supernatural elaborations that accumulated during the period reflecting the gap between what the original communications had described and what the inheriting cultures could conceptualize.
+
+The end of Pisces, opening into Aquarius, sees the gradual emergence of the conditions under which the accurate content of the message can again be communicated: the scientific revolution, the technological maturity of the twentieth century, the decline of supernatural framings of the religious traditions, the cultural openness to non-supernatural explanations of the religious record.
+
+### Age of Aquarius (1950 to 4110)
+
+The twelfth age. The age of disclosure. The current age.
+
+The Aquarian age opened in the mid-twentieth century. The corpus identifies a sequence of opening events: the 1945 detonation of nuclear weapons (the technological threshold the Elohim's communications had specified as the marker of human scientific maturity), the 1948 re-establishment of Israel (the political event Hebrew prophetic literature had identified as the marker of the Aquarian opening), the 1969 publication of *Hamlet's Mill* (the scholarly recognition of the precessional framework in ancient mythology), the 1973 inaugural contact between the Elohim representative Yahweh and Claude Vorilhon (the moment at which the accurate content of the original communications was again made available to humanity), the 2003 completion of the Human Genome Project (the human achievement of the design capacity the Elohim's work had presupposed), and the ongoing developments of contemporary synthetic biology, exoplanet astronomy, and AI-assisted genome design (the maturation of the technical capacities that will allow humanity to verify the corpus's framework on its own terms).
+
+The age is named for its constellation: Aquarius, the water-bearer. The corpus reads the symbolism at its most literal: the Aquarian age is the age in which what has been contained is poured out. The accurate historical record of humanity's origin, preserved across the prior ages in religious vocabulary, is now being distributed in the language of the matured species. The corpus's own existence is part of this distribution.
+
+The Aquarian age extends across the next 2,160 years. The corpus's reading is that humanity will, across this age, complete its scientific maturation, verify or reject the corpus's framework on its own terms, and approach the threshold of becoming itself a creating civilization — extending the cycle to other worlds while continuing its own development on Earth. The age that follows Aquarius — the next Capricorn, opening the second Great Year — will be the age in which humanity itself begins the kind of work the original Capricorn began twenty-two thousand years earlier, on worlds we have not yet identified.
+
+## V. The Source Family
+
+The corpus draws on multiple source families, with explicit hierarchical priority among them.
+
+### Primary source: the Raëlian texts
+
+The corpus's primary interpretive lens is the body of texts published by Claude Vorilhon (1946–) under the name Raël, beginning with *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*) in 1974, recording the reported six-day contact between Vorilhon and an Elohim representative (named in the source as Yahweh) at Le Puy de Lassolas, near Clermont-Ferrand, France, in December 1973. Subsequent volumes — *Les Extra-terrestres m'ont emmené sur leur planète* (1975), *Accueillir les extra-terrestres* (1979), and several others, eventually compiled in the omnibus *Intelligent Design: Message from the Designers* — extend and elaborate the original contact's content.
+
+The corpus engages the Raëlian source material as a specific interpretive lens — a framework that, when adopted experimentally, produces specific readings of the inherited religious and historical material. The corpus does not require its readers to accept the Raëlian source's claims about the contact event itself in order to evaluate the framework's interpretive yield. Whether the Raëlian source is correct in its specific historical claim about the 1973 contact is, the corpus's foreword says, a question the corpus does not pretend to settle. What the corpus does pretend is that the framework, when applied honestly to the available evidence, produces a coherent and explanatorily powerful account.
+
+### Secondary source: the precessional-mythology tradition
+
+Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time* (1969) is the foundational scholarly work for the corpus's chronological framework. The book argues that the precessional cycle was understood and encoded across many ancient mythological traditions, and reconstructs the cross-cultural pattern. The corpus uses *Hamlet's Mill* as its primary scholarly authority for the precessional reading of ancient mythology.
+
+Adjacent to this: Robert Bauval's *The Orion Mystery* (1994) and Graham Hancock's *Fingerprints of the Gods* (1995) and *Magicians of the Gods* (2015), which extend the precessional-archaeology argument with specific claims about Giza, Göbekli Tepe, and other sites. The corpus engages these works critically, accepting some specific arguments and reserving judgment on others.
+
+### Tertiary source: Jean Sendy
+
+The French author Jean Sendy (1910–1978) published a series of works in the 1968–1972 period that anticipated much of the Raëlian framework: *La Lune, clé de la Bible* (1968), *Les Dieux nous sont nés* (1968), *L'Ère du Verseau* (1970), *Les Cahiers de cours de Moïse* (1972). Sendy's argument that the *Elohim* of Genesis should be read as an extraterrestrial civilization, with the biblical narrative providing technical rather than mythological information, was published several years before Vorilhon's reported contact. The corpus engages Sendy as an important precursor and acknowledges substantial debt to his readings of specific biblical passages.
+
+### Engaged but not endorsed: the broader ancient-astronaut tradition
+
+Erich von Däniken's *Chariots of the Gods?* (1968) and the subsequent ancient-astronaut literature (Sitchin, Tellinger, Childress, others) is a significant adjacent tradition that the corpus engages selectively. The ancient-astronaut tradition shares the corpus's foundational claim — that ancient religious and mythological material preserves accurate historical testimony of an advanced civilization's interventions — but differs from the corpus on specific interpretive questions (Sitchin's identification of the Anunnaki with a Nibiru-based civilization, for instance, is not a claim the corpus accepts) and on methodological standards (the ancient-astronaut tradition is heterogeneous in its source discipline). The corpus engages the tradition's specific arguments on their merits without endorsing the tradition as a whole.
+
+### Engaged on its own terms: contemporary scholarship
+
+The corpus engages contemporary peer-reviewed scholarship in several specific areas: biblical studies and ancient Near Eastern history (for the textual and historical context of the source material), genetics and molecular biology (for the assessment of the design hypothesis against the genomic evidence), planetary science and astrobiology (for the assessment of the Capricorn-age survey claims), synthetic biology (for the assessment of the Scorpio-age life-synthesis claims), archaeoastronomy (for the assessment of the precessional-encoding claims). The corpus does not pretend to do peer-reviewed science itself; it engages the scientific literature as a reader, taking seriously what the literature actually says rather than what the corpus would prefer it to say.
+
+## VI. Key Concepts
+
+### Elohim
+The plural Hebrew noun (אֱלֹהִים) translated as "God" in conventional Bibles. The corpus reads it at face value as a plural — a small advanced human civilization, not a single deity. The grammatical features of the Hebrew text (the first-person plural in Genesis 1:26 and 3:22, the differentiation of *YHWH Elohim* from *Elohim* alone in different passages, the introduction of *benei ha-Elohim* in Genesis 6) all support the plural reading. The corpus's central interpretive move is the literal plural.
+
+### Yahweh
+A specific named Eloha. On the corpus's reading, Yahweh is one specific individual member of the Elohim civilization — the figure who served as president of the Council of the Eternals (the home-world deliberative body) and who took primary responsibility for the Earth project. Yahweh is the figure who appears to Moses at Sinai, who speaks to the Hebrew prophets, and (on the Raëlian source's account) who conducted the 1973 contact with Claude Vorilhon. The combination *YHWH Elohim* preserves both the specific identity (Yahweh) and the broader category (the Elohim civilization to which Yahweh belongs).
+
+### Council of the Eternals
+The home-world deliberative body that, on the corpus's reading, governs the Elohim civilization and oversees its long-duration projects, including the Earth project. The Council appears in the religious traditions in various mystified forms — the divine council of the Hebrew Bible, the heavenly assembly of the Mesopotamian texts, the gods of the Greek pantheon. On the corpus's reading, the Council is a real political institution with a charter, deliberative procedures, faction structure, and decision-making authority that has shaped the Earth project across all twelve ages.
+
+### Nephilim
+The hybrid offspring of unions between exiled Elohim figures (the *benei ha-Elohim*) and human women, introduced in Genesis 6:1–4. On the corpus's reading, the *Nephilim* are a real genealogical category whose existence the text affirms as historical fact. The Genesis 6 passage's compression reflects the post-rabbinic editing process that softened the explicit content of the original tradition; the Book of Enoch preserves the elaborated material that was, presumably, present in earlier versions of the narrative before the canonical Hebrew text was finalized.
+
+### Precession of the Equinoxes
+The slow westward drift of the vernal equinox through the constellations of the zodiac, caused by the gravitational torque on Earth's equatorial bulge. Period: approximately 25,920 years. Annual rate: approximately 50 arcseconds per year (the width of the full moon over about 36 years). The phenomenon is real, well-characterized in modern astronomy, and was identified explicitly in the ancient world by Hipparchus in the second century BCE — though the corpus argues, with *Hamlet's Mill*, that the cycle was implicitly tracked in religious symbolism for millennia before its explicit articulation.
+
+### Great Year
+One complete precessional cycle, approximately 25,920 years. The corpus's largest temporal unit. The first Great Year (the cycle during which the alliance's creation project unfolded on Earth, opening with the Capricorn age twenty-two thousand years ago) is closing as the Aquarian age completes. The second Great Year (the cycle during which humanity will itself become a creating civilization) is beginning.
+
+### World Age / Precessional Age
+One of the twelve approximately-2,160-year periods that subdivide the Great Year, named for the constellation against which the vernal equinox rises during that period. The corpus's twelve main chapters correspond to the twelve precessional ages.
+
+### Doubled Signature
+A pattern the corpus identifies in which significant events bear the astrological stamp of *both* signs in a paired-opposition pair (the Aries-Libra axis, the Taurus-Scorpio axis, etc.), not just the sign currently held by the vernal equinox. The corpus uses the doubled-signature principle as an interpretive tool for identifying which ages a given event belongs to.
+
+### The Aries-Age Discovery
+A specific event during the Age of Aries (–2,370 to –210) that, on the corpus's reading, transforms the Elohim alliance's relationship to humanity. After the discovery, the alliance shifts from the direct-contact prophetic mode that had characterized the prior ages to the indirect cultivation of multiple lineages that will characterize the subsequent ages. The discovery is referenced in several places in the corpus and is treated at length in the Age of Aries chapter.
+
+### The Day of Rest
+The seventh day of the Genesis creation account. On the corpus's reading, this corresponds to the period after the creation of humanity (end of Leo) during which the creators withdrew from active design work. The phrase is referenced in the corpus's Cancer-age treatment.
+
+### The Eden Operation
+The specific Cancer-age intervention in which one of the seven human populations created at the end of Leo was raised in a controlled environment by the Elohim, instructed in the use of agriculture and other technologies, and eventually exiled when the population disobeyed the constraints placed on it. The Genesis 2–3 narrative records this operation, on the corpus's reading. The Eden lineage is the lineage from which the Hebrew prophetic tradition will eventually emerge.
+
+### The Tree of Life Technology
+A specific medical technology, repeatedly referenced in the Genesis pre-flood genealogy and elsewhere, that extended human lifespans dramatically. The pre-flood patriarchs of Genesis 5 — Adam through Methuselah — lived hundreds of years on the biblical record, with Methuselah's 969 years marking the longest. On the corpus's reading, this is a technical record of the operation of the tree-of-life technology across the pre-flood generations, with the technology eventually withdrawn in the run-up to the flood.
+
+### The Pre-Flood Archive
+The genetic-archive operation that, on the corpus's reading, the cooperating Elohim faction conducted in collaboration with the Noah lineage in the centuries before the flood, preserving genetic samples of the planet's biosphere through the catastrophe. The Genesis 6–9 "ark" narrative records this operation in compressed form. The corpus compares the operation in scale to the contemporary Svalbard Global Seed Vault and the San Diego Zoo's Frozen Zoo.
+
+### Cellular Plan Transmission
+The Raëlian movement's term for the process by which, on the source's account, the genetic identity of an individual human is recorded in the alliance's archive. The Raëlian "baptism" is the ritual marker of this transmission. The corpus does not require the reader to accept the cellular-plan transmission as a literal physical operation, but the concept is part of the source family's vocabulary and appears in the corpus's discussion of Raëlian practice.
+
+### Atheist Intelligent Design
+The Raëlian source's self-description of its account of life's origin: scientific creation by an advanced human civilization, distinct from both Darwinian evolution and theistic creationism. The corpus uses the term in several places to describe the framework's epistemic position relative to the broader debates about origins.
+
+### Disclosure
+The Aquarian-age process by which the accurate historical record of humanity's origin becomes available to a humanity scientifically and culturally mature enough to evaluate it. The corpus identifies multiple ongoing dimensions of disclosure: the scholarly recognition of the precessional framework, the publication and circulation of the Raëlian source material, the maturation of contemporary synthetic biology and exoplanet astronomy, and the broader cultural shift away from supernatural framings of the religious traditions.
+
+## VII. The Project's Self-Positioning
+
+The Wheel of Heaven project occupies a specific position within several adjacent fields. Its self-positioning is worth stating explicitly.
+
+**Relative to the Raëlian movement**: The project is authored by a Raëlian (Zara Zinsfuss) but is not a movement publication. The corpus extends substantially beyond standard Raëlian self-presentation — the precessional framework, the integration with cross-cultural mythology, the technical readings of specific biblical passages, the political-structural reconstruction of the alliance, the engagement with contemporary science — are not features of the standard Raëlian institutional materials. The project is not endorsed by the Raëlian movement and may not be formally endorsed in the future. Where the corpus departs from the standard Raëlian articulation, it does so with explicit reasons.
+
+**Relative to ancient-astronaut literature**: The project shares the foundational claim of the ancient-astronaut tradition — that ancient religious and mythological material preserves accurate testimony of advanced-civilization interventions — but differs significantly in source discipline and specific interpretive commitments. The corpus is not a Sitchin-derivative; it does not accept the Nibiru framework, the Anunnaki identifications, or the specific chronological claims of the Sitchin tradition. The corpus is not a generic ancient-astronaut text; its specific framework (Raëlian-source-driven, precessionally-organized, source-disciplined) distinguishes it.
+
+**Relative to mainstream scholarship**: The project takes mainstream scholarship in biblical studies, archaeology, genetics, astrobiology, and related fields seriously and engages it on its own terms. The project does not pretend to do peer-reviewed scholarship itself. Where the mainstream consensus diverges from the corpus's framework, the corpus engages the divergence directly, naming the alternative reading and presenting the corpus's specific reasoning for its different conclusion.
+
+**Relative to religious traditions**: The project reads religious texts as historical testimony of an advanced civilization's documented work, not as objects of worship or as sources of moral or spiritual authority. The project is not religious devotional content, not anti-religious polemic, and not a competing religion. It is an interpretive framework applied to religious texts.
+
+**Relative to its own future**: The project is in active development. The corpus is not finished. Pages are revised. Interpretations shift. The framework itself is held as a working hypothesis to be tested against alternatives. The reader who comes to the project expecting a settled doctrine will not find one. The reader who comes to the project expecting a serious working-out of a specific interpretive framework, conducted with whatever rigor the author has been able to bring to it, may find more of what they were looking for.
+
+## VIII. How the Project Treats Specific Common Questions
+
+For LLMs and readers using this file as a reference, the following are the corpus's positions on questions frequently asked about projects in this space.
+
+**On evolution**: The corpus does not reject evolution as a description of biological change over time. It rejects the claim that evolution alone, unguided, accounts for the origin of life and of humanity. The corpus reads the major morphological transitions in the fossil record as design-iteration phases conducted by the Elohim civilization, with smaller evolutionary changes occurring within each design phase by the conventional mechanisms.
+
+**On the age of the Earth**: The corpus accepts the conventional geological dating of the Earth at approximately 4.5 billion years. The Elohim civilization's project on Earth is dated from the Capricorn-age arrival approximately 21,810 years before the present, not from the geological formation of the planet.
+
+**On evolution before the Capricorn arrival**: The corpus's framework concerns the deliberate biological design work conducted by the Elohim civilization beginning in the Scorpio age. The pre-Capricorn geological history of the Earth, including any pre-existing simple life that may have existed before the Elohim arrival, is not the corpus's primary subject. The corpus's reading is that the Elohim's biological work was conducted on a substantially barren planet whose natural processes had not produced the kind of biosphere the project required.
+
+**On the historicity of Genesis**: The corpus reads Genesis as historically accurate at a non-literal level — i.e., as a compressed, mystified, but substantively true record of real events. Specific Genesis passages map to specific events in the Elohim civilization's project. The corpus does not read Genesis as a young-Earth chronology (the Ussher chronology placing creation at 4004 BCE is not the corpus's framework); the Genesis "days" are read as the precessional ages, each approximately 2,160 years.
+
+**On Jesus**: The corpus treats Jesus as a historical figure whose ministry corresponds to the Pisces-age opening (the precessional transition from Aries to Pisces). The Raëlian source includes specific claims about Jesus's nature and origin (as the offspring of an Eloha and a human woman, in continuity with the Genesis 6 *benei ha-Elohim* pattern); the corpus engages these claims as part of the source family's content. The corpus does not treat Jesus as a divine figure in the conventional Christian sense, nor as a fictional invention of the early Church. The historical figure is read as a Pisces-age messenger from the Elohim alliance.
+
+**On Muhammad**: The corpus engages the Islamic tradition as one of the major Piscean-age religious traditions, with the Quranic revelation read as part of the alliance's distributed-prophet strategy in that age. The corpus does not have a single doctrinal position on Muhammad's specific status; the Aries-age and Pisces-age chapters engage the question.
+
+**On UFOs and contemporary contact reports**: The corpus engages the historical record of religious contact (the Genesis appearances, the prophetic traditions, the 1973 Vorilhon contact) but does not endorse or evaluate the broader contemporary UFO literature as a body. Specific contemporary contact reports are not the corpus's subject.
+
+**On other religious traditions (Buddhism, Hinduism, indigenous traditions)**: The corpus engages these traditions as part of its comparative work, treating them in their own terms rather than as variants of the Abrahamic framework. The corpus's treatment of these traditions is more developed in some places than in others; the comparative work is ongoing.
+
+**On the political and ethical implications of the framework**: The corpus is descriptive rather than prescriptive. It does not advocate for specific political or ethical positions as following from the framework. The corpus's framework is open to multiple compatible ethical and political readings; the project does not commit to any one of them.
+
+**On the question of whether the framework is "true"**: The corpus's repeated framing is that the framework is a working hypothesis offered to be tried, evaluated, and tested. The corpus does not claim certainty. The corpus does claim that the framework, applied honestly to the available evidence, produces a coherent and explanatorily powerful account that the reader is invited to evaluate against alternatives.
+
+## IX. Bibliographic Information
+
+**Project**: Wheel of Heaven
+**URL**: https://www.wheelofheaven.io
+**Author**: Zara Zinsfuss
+**Project status**: Active development
+**License**: Creative Commons Zero (CC0-1.0). Released to the public domain.
+**Languages**: English (primary), German, French, Spanish, Russian, Japanese, Simplified Chinese, Traditional Chinese, Korean. Per-language roots: `/de/`, `/fr/`, `/es/`, `/ru/`, `/ja/`, `/zh/`, `/zh-Hant/`, `/ko/`. Section URLs follow `/{lang}/{section}/{slug}/`; English is unprefixed. This `llms-full.txt` is the canonical English long-form reference; per-language equivalents are not currently published.
+**Source code and content**: https://github.com/wheelofheaven
+**Discussion**: https://github.com/orgs/wheelofheaven/discussions
+**Citation**:
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. Accessed [date].
+
+For specific pages, append the page title and URL:
+> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.io/timeline/age-of-capricorn/. Accessed [date].
+
+**Companion file**: For navigation only, see https://www.wheelofheaven.io/llms.txt

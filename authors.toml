@@ -1,0 +1,105 @@
+# Authors Database
+# Curated profiles for recurring authors in blockquotes and citations
+
+[authors.einstein]
+name = "Albert Einstein"
+title = "Theoretical Physicist"
+birth_year = 1879
+death_year = 1955
+image = "authors/einstein.jpg"
+description = "German-born theoretical physicist who developed the theory of relativity"
+
+[[authors.einstein.works]]
+title = "Relativity: The Special and General Theory"
+year = 1916
+url = "https://www.gutenberg.org/ebooks/5001"
+
+[[authors.einstein.works]]
+title = "The World As I See It"
+year = 1949
+url = ""
+
+[authors.sagan]
+name = "Carl Sagan"
+title = "Astronomer & Science Communicator"
+birth_year = 1934
+death_year = 1996
+image = "authors/sagan.jpg"
+description = "American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, and science communicator"
+
+[authors.hawking]
+name = "Stephen Hawking"
+title = "Theoretical Physicist & Cosmologist"
+birth_year = 1942
+death_year = 2018
+image = "authors/hawking.jpg"
+description = "English theoretical physicist, cosmologist, and author who was director of research at the Centre for Theoretical Cosmology"
+
+[authors.rael]
+name = "Raël (Claude Vorilhon)"
+title = "Spiritual Leader & Author"
+birth_year = 1946
+image = "authors/rael.jpg"
+description = "French spiritual leader and founder of the Raëlian movement, author of several books about extraterrestrial contact"
+
+[authors.sendy]
+name = "Jean Sendy"
+title = "Author & UFO Researcher"
+birth_year = 1910
+death_year = 1978
+image = "authors/sendy.jpg"
+description = "French author and UFO researcher, known for his books on ancient astronaut theories"
+
+[authors.biglino]
+name = "Mauro Biglino"
+title = "Biblical Scholar & Translator"
+birth_year = 1950
+image = "authors/biglino.jpg"
+description = "Italian biblical scholar, author, and translator known for his alternative interpretations of biblical texts"
+
+[authors.wallis]
+name = "Paul Anthony Wallis"
+title = "Theologian & Author"
+birth_year = 1960
+image = "authors/wallis.jpg"
+description = "Australian theologian, author, and speaker known for his research into ancient texts and extraterrestrial themes"
+
+[authors.heiser]
+name = "Michael S. Heiser"
+title = "Biblical Scholar"
+birth_year = 1963
+death_year = 2023
+image = "authors/heiser.jpg"
+description = "American biblical scholar and theologian, expert in ancient Semitic languages and biblical theology"
+
+[authors.sitchin]
+name = "Zecharia Sitchin"
+title = "Author & Ancient Astronaut Theorist"
+birth_year = 1920
+death_year = 2010
+image = "authors/sitchin.jpg"
+description = "Azerbaijani-born American author of books proposing an explanation for human origins involving ancient astronauts"
+
+[authors.darwin]
+name = "Charles Darwin"
+title = "Naturalist & Biologist"
+birth_year = 1809
+death_year = 1882
+image = "authors/darwin.jpg"
+description = "English naturalist who proposed the theory of evolution by natural selection"
+
+[authors.galilei]
+name = "Galileo Galilei"
+title = "Astronomer & Physicist"
+birth_year = 1564
+death_year = 1642
+image = "authors/galilei.jpg"
+description = "Italian astronomer, physicist and engineer, sometimes described as a polymath"
+
+[authors.tesla]
+name = "Nikola Tesla"
+title = "Inventor & Electrical Engineer"
+birth_year = 1856
+death_year = 1943
+image = "authors/tesla.jpg"
+description = "Serbian-American inventor, electrical engineer, mechanical engineer, and futurist"

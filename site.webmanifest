@@ -1,0 +1,177 @@
+{
+  "name": "Wheel of Heaven",
+  "short_name": "Wheel",
+  "description": "A long reading of the ancient world's creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.",
+  "version": "1.0.0",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#9d81d9",
+  "background_color": "#1b1f22",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "news", "books"],
+  "icons": [
+    {
+      "src": "/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brand/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "/images/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Wheel of Heaven knowledge base homepage"
+    },
+    {
+      "src": "/images/screenshot-narrow.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Wheel of Heaven mobile interface"
+    }
+  ],
+
+  "shortcuts": [
+    {
+      "name": "Wiki",
+      "short_name": "Wiki",
+      "description": "Browse the knowledge base wiki",
+      "url": "/wiki/",
+      "icons": [
+        {
+          "src": "/brand/favicon-32x32.png",
+          "sizes": "32x32",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Articles",
+      "short_name": "Articles",
+      "description": "Read latest articles and insights",
+      "url": "/articles/",
+      "icons": [
+        {
+          "src": "/brand/favicon-32x32.png",
+          "sizes": "32x32",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "short_name": "Search",
+      "description": "Search the knowledge base",
+      "url": "/search/",
+      "icons": [
+        {
+          "src": "/brand/favicon-32x32.png",
+          "sizes": "32x32",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Essentials",
+      "short_name": "Essentials",
+      "description": "Get started with Wheel of Heaven",
+      "url": "/essentials/",
+      "icons": [
+        {
+          "src": "/brand/favicon-32x32.png",
+          "sizes": "32x32",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+
+  "share_target": {
+    "action": "/share/",
+    "method": "GET",
+    "enctype": "application/x-www-form-urlencoded",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
+
+  "handle_links": "preferred",
+
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+
+  "protocol_handlers": [
+    {
+      "protocol": "web+wheelofheaven",
+      "url": "/protocol/?url=%s"
+    }
+  ],
+
+  "file_handlers": [
+    {
+      "action": "/open-file/",
+      "accept": {
+        "text/markdown": [".md", ".markdown"],
+        "text/plain": [".txt"]
+      },
+      "icons": [
+        {
+          "src": "/brand/favicon-32x32.png",
+          "sizes": "32x32",
+          "type": "image/png"
+        }
+      ],
+      "launch_type": "single-client"
+    }
+  ],
+
+  "prefer_related_applications": false,
+
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://www.wheelofheaven.io/site.webmanifest"
+    }
+  ],
+
+  "scope_extensions": [
+    {
+      "origin": "https://www.wheelofheaven.io"
+    }
+  ],
+
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui", "browser"]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Wheel of Heaven - 기사</title>
+    <subtitle>A long reading of the ancient world&#x27;s creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://www.wheelofheaven.io/ko/articles/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/ko/articles/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    
+    <id>https://www.wheelofheaven.io/ko/articles/atom.xml</id>
+</feed>

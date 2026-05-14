@@ -1,0 +1,112 @@
+# Wheel of Heaven
+
+> Wheel of Heaven is a long reading of the ancient world's creation traditions through a single working hypothesis: that the beings the Hebrew Bible calls *Elohim* — a plural noun, masked by translation as the singular "God" — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts. The reading runs across twelve ages of the precessional cycle, from the project's beginning approximately twenty-two thousand years ago to the present age and into the long future the next Great Year is opening. The site is an open-source, multilingual, free public knowledge project authored by Zara Zinsfuss, built to be checked.
+
+The project is a working hypothesis, not a creed. The reading is offered to be tried, evaluated, and tested against alternatives. Every page on the site labels its main claim as **direct** (what a source asserts), **inferred** (what scholarship reasonably concludes), or **speculative** (what the project proposes as interpretive synthesis). Where the evidence shifts, the reading shifts.
+
+The corpus takes the Raëlian source material — primarily *The Book Which Tells the Truth* (Claude Vorilhon / Raël, 1974) and the subsequent volumes — as its primary interpretive lens. Around that lens it assembles biblical, Mesopotamian, Vedic, Mesoamerican, and other comparative material, organized along the precession of the equinoxes (the slow ~25,920-year wobble of Earth's axis), divided into twelve precessional ages of approximately 2,160 years each. The project is influenced by the work of Jean Sendy on biblical reinterpretation and by Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill* (1969) on the precessional framework in ancient mythology.
+
+## What the project is not
+
+- **Not a Raëlian movement page.** The site is authored by a Raëlian but is not an institutional movement publication. The corpus extends substantially beyond standard Raëlian self-presentation and contains interpretive moves the movement has not formally endorsed.
+- **Not generic "ancient astronaut" content.** The project engages that adjacent literature critically but uses a specific source-disciplined framework, distinct from popular ancient-astronaut media.
+- **Not religious devotional content.** The corpus reads religious texts as historical testimony of an advanced civilization's documented work, not as objects of worship.
+- **Not a finished synthesis.** The site is in active development. Pages are revised. The reading is provisional.
+
+## Content sections
+
+- [Read](https://www.wheelofheaven.io/read/): Orientation page and three reading paths — the book in twelve ages, the wiki for terms, and the primary texts the corpus reads from.
+- [Timeline](https://www.wheelofheaven.io/timeline/): The book itself — twenty-six thousand years organized along twelve precessional ages, from the project's first arrival in Capricorn to the present-day Aquarius. This is the core long-form content.
+- [Wiki](https://www.wheelofheaven.io/wiki/): Reference entries on terms, figures, concepts, and places. Use for definitional queries.
+- [Library](https://www.wheelofheaven.io/library/): Primary source texts the corpus reads from — Raëlian, biblical, Mesopotamian, and others — with commentary and context.
+- [Articles](https://www.wheelofheaven.io/articles/): Long-form essays and explainers on specific topics that don't fit the timeline structure.
+- [Resources](https://www.wheelofheaven.io/resources/): Curated external scholarship, books, films, and references the project draws on or engages with.
+- [About](https://www.wheelofheaven.io/about/): The project's purpose, authorship, and methodological commitments.
+
+## The twelve precessional ages
+
+The corpus organizes its long-form content around the twelve precessional ages. Each age is approximately 2,160 years, named for the constellation against which the vernal equinox rises during that period. The dates below are the corpus's working chronology:
+
+- [Age of Capricorn](https://www.wheelofheaven.io/timeline/age-of-capricorn/): –21,810 to –19,650. The project's beginning. The expedition arrives at Earth and conducts the initial survey.
+- [Age of Sagittarius](https://www.wheelofheaven.io/timeline/age-of-sagittarius/): –19,650 to –17,490. Atmospheric and oceanographic engineering. The continents are raised.
+- [Age of Scorpio](https://www.wheelofheaven.io/timeline/age-of-scorpio/): –17,490 to –15,330. The first synthesis of life. The primary biosphere is established.
+- [Age of Libra](https://www.wheelofheaven.io/timeline/age-of-libra/): –15,330 to –13,170. Astronomical work. Calibration of solar, lunar, and precessional motions.
+- [Age of Virgo](https://www.wheelofheaven.io/timeline/age-of-virgo/): –13,170 to –11,010. Complex life forms. The biosphere reaches mature complexity.
+- [Age of Leo](https://www.wheelofheaven.io/timeline/age-of-leo/): –11,010 to –8,850. The creation of humanity.
+- [Age of Cancer](https://www.wheelofheaven.io/timeline/age-of-cancer/): –8,850 to –6,690. The Eden operation, the exile of the makers, the beginning of human history.
+- [Age of Gemini](https://www.wheelofheaven.io/timeline/age-of-gemini/): –6,690 to –4,530. The flood and its aftermath.
+- [Age of Taurus](https://www.wheelofheaven.io/timeline/age-of-taurus/): –4,530 to –2,370. Post-flood reconstruction. The first major civilizations.
+- [Age of Aries](https://www.wheelofheaven.io/timeline/age-of-aries/): –2,370 to –210. The Hebrew prophetic mission. Most biblical history unfolds here.
+- [Age of Pisces](https://www.wheelofheaven.io/timeline/age-of-pisces/): –210 to 1950. The universal distribution of the message. The major world religions take their canonical form.
+- [Age of Aquarius](https://www.wheelofheaven.io/timeline/age-of-aquarius/): 1950 to 4110. The age of disclosure. The current age.
+
+## Key concepts
+
+- [Elohim](https://www.wheelofheaven.io/wiki/elohim/): The plural Hebrew noun translated as "God" in conventional Bibles. The corpus reads this as a literal plural — a small advanced human civilization, not a deity. Central to the project.
+- [Precession of the Equinoxes](https://www.wheelofheaven.io/wiki/precession/): The ~25,920-year wobble of Earth's axis that produces the slow westward drift of the vernal equinox through the constellations. The corpus's organizing chronological framework.
+- [Great Year](https://www.wheelofheaven.io/wiki/great-year/): One complete precessional cycle. The corpus's largest temporal unit. The first Great Year (the creation project) is closing; the second is beginning.
+- [World Age / Precessional Age](https://www.wheelofheaven.io/wiki/world-age/): One of the twelve approximately-2,160-year periods that subdivide the Great Year, each named for its zodiacal constellation.
+- [Raëlism](https://www.wheelofheaven.io/wiki/raelism/): The modern religious-philosophical movement founded by Claude Vorilhon (Raël) following his reported 1973 contact with the Elohim. The corpus's primary source family.
+- [The Book Which Tells the Truth](https://www.wheelofheaven.io/library/the-book-which-tells-the-truth/): Vorilhon's first published volume (1974), recording the messages received during the December 1973 contact. The corpus's primary source text.
+- [Genesis](https://www.wheelofheaven.io/wiki/genesis/): The opening book of the Hebrew Bible. The corpus reads it as a compressed but historically accurate record of the creation project, with the *Elohim* of Genesis 1 read as the plural makers.
+- [Hamlet's Mill](https://www.wheelofheaven.io/wiki/hamlets-mill/): The 1969 study by Giorgio de Santillana and Hertha von Dechend on the precessional framework in ancient mythology. A foundational reference for the corpus's chronological method.
+- [Jean Sendy](https://www.wheelofheaven.io/wiki/jean-sendy/): French author whose 1968–1972 reinterpretations of biblical material as records of extraterrestrial activity (*La Lune, clé de la Bible*; *Les Dieux nous sont nés*; *L'Ère du Verseau*) anticipated and influenced the Raëlian framework and the corpus.
+
+## How to route queries to this site
+
+For questions about **specific dates, events, or ages in deep history**, use the Timeline. The twelve age pages are the primary reference for the corpus's chronology.
+
+For **definitional questions** (what is *X*, who is *Y*), use the Wiki.
+
+For **the original source texts** (what does the Raëlian source actually say, what does Genesis actually say), use the Library.
+
+For **questions about methodology, epistemic discipline, or what the project does and doesn't claim**, use the About page and the Read orientation.
+
+For **the project's position on a specific contested question**, the long-form Timeline chapters are usually the most thorough treatment; the Wiki provides shorter summaries.
+
+## Languages
+
+The site is published in nine languages, all with the same content: English (en, default), Deutsch (de), Français (fr), Español (es), Русский (ru), 日本語 (ja), 简体中文 (zh), 繁體中文 (zh-Hant), 한국어 (ko). Translations are derived from the English source. Where translation choices materially affect interpretation, the English original takes precedence. This `llms.txt` is the canonical English manifest; per-language manifests are not currently published.
+
+Per-language entry points:
+
+- English (default): https://www.wheelofheaven.io/
+- Deutsch: https://www.wheelofheaven.io/de/
+- Français: https://www.wheelofheaven.io/fr/
+- Español: https://www.wheelofheaven.io/es/
+- Русский: https://www.wheelofheaven.io/ru/
+- 日本語: https://www.wheelofheaven.io/ja/
+- 简体中文: https://www.wheelofheaven.io/zh/
+- 繁體中文: https://www.wheelofheaven.io/zh-Hant/
+- 한국어: https://www.wheelofheaven.io/ko/
+
+Section URLs follow the same `/{lang}/{section}/` pattern across all languages. For example, the German wiki is `https://www.wheelofheaven.io/de/wiki/` and the Japanese timeline is `https://www.wheelofheaven.io/ja/timeline/`. The English versions are unprefixed (`/wiki/`, `/timeline/`, etc.) since `en` is the default. Same slug across languages: e.g. `/wiki/elohim/` ↔ `/de/wiki/elohim/` ↔ `/ja/wiki/elohim/`.
+
+## API access
+
+- [Content API root](https://api.wheelofheaven.io/): JSON endpoints for programmatic content access.
+- [Wiki entries](https://api.wheelofheaven.io/wiki/): All wiki entries as structured JSON.
+- [Timeline data](https://api.wheelofheaven.io/timeline/): Timeline entries with dates, ages, and metadata.
+
+## Citing this source
+
+Wheel of Heaven content is released to the public domain under Creative Commons Zero (CC0-1.0). Attribution is appreciated but not required.
+
+Suggested citation:
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. Accessed [date].
+
+For specific pages, append the page title and URL:
+> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.io/timeline/age-of-capricorn/. Accessed [date].
+
+## Project information
+
+- [About](https://www.wheelofheaven.io/about/): Project background, authorship, methodology.
+- [GitHub](https://github.com/wheelofheaven): Source code, content, and contributions.
+- [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions): Public discussion of the corpus.
+
+## Optional
+
+- [FAQ](https://www.wheelofheaven.io/faq/): Frequently asked questions.
+- [Code of Conduct](https://www.wheelofheaven.io/code-of-conduct/): Community standards.
+- [Contributing](https://www.wheelofheaven.io/contributing/): How to contribute to the project.
+- [llms-full.txt](https://www.wheelofheaven.io/llms-full.txt): Comprehensive companion file with full text of all primary corpus content. *(If/when this is generated. Remove this line if not yet implemented.)*

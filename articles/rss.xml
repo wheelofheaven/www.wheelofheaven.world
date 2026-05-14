@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Wheel of Heaven - Articles</title>
+      <link>https://www.wheelofheaven.io/articles/</link>
+      <description>A long reading of the ancient world&#x27;s creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.wheelofheaven.io/articles/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Example Explainer: Understanding Complex Topics</title>
+          <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.io/articles/example-explainer/</link>
+          <guid>https://www.wheelofheaven.io/articles/example-explainer/</guid>
+          <description xml:base="https://www.wheelofheaven.io/articles/example-explainer/">&lt;h1 id=&quot;understanding-complex-topics-a-comprehensive-guide&quot;&gt;Understanding Complex Topics: A Comprehensive Guide&lt;&#x2F;h1&gt;
+&lt;p&gt;Welcome to this example explainer that demonstrates how we break down complex subjects into understandable, actionable insights. This format allows us to explore topics in depth while maintaining clarity and accessibility.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-makes-this-format-special&quot;&gt;What Makes This Format Special?&lt;&#x2F;h2&gt;
+&lt;p&gt;Our explainer format is designed with several key principles in mind:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;comprehensive-coverage&quot;&gt;Comprehensive Coverage&lt;&#x2F;h3&gt;
+&lt;p&gt;Unlike brief articles or simple summaries, explainers dive deep into topics, providing the context and detail needed for true understanding.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;clear-structure&quot;&gt;Clear Structure&lt;&#x2F;h3&gt;
+&lt;p&gt;Each explainer follows a logical progression, building concepts step by step to ensure readers can follow along regardless of your starting knowledge level.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;rich-context&quot;&gt;Rich Context&lt;&#x2F;h3&gt;
+&lt;p&gt;We don&#x27;t just tell you &lt;em&gt;what&lt;&#x2F;em&gt; something is – we explain &lt;em&gt;why&lt;&#x2F;em&gt; it matters, &lt;em&gt;how&lt;&#x2F;em&gt; it connects to other concepts, and &lt;em&gt;where&lt;&#x2F;em&gt; you might encounter it in practice.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;types-of-insights&quot;&gt;Types of Insights&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;conventional-wisdom&quot;&gt;Conventional Wisdom&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+&lt;cite&gt;Stephen Hawking&lt;&#x2F;cite&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This represents standard academic or widely accepted perspectives on the topic.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;different-perspectives&quot;&gt;Different Perspectives&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Every great advance in science has issued from a new audacity of imagination.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;These showcase insights from specific authors, researchers, or thought leaders in the field.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The truth is not always beautiful, nor beautiful words the truth.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;These sections contain deeper, often transformative insights that challenge conventional understanding.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;core-components&quot;&gt;Core Components&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;hero-section&quot;&gt;Hero Section&lt;&#x2F;h3&gt;
+&lt;p&gt;At the top of each explainer, you&#x27;ll find a landscape header image that visually represents the topic. When no specific image is available, we generate an attractive gradient background that matches the content category.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;alternative-names&quot;&gt;Alternative Names&lt;&#x2F;h3&gt;
+&lt;p&gt;Many complex topics are known by different names or have various spellings. We list these alternatives to help you recognize the concept in different contexts.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;&#x2F;h3&gt;
+&lt;p&gt;Every explainer begins with a concise summary that gives you the key points upfront. This allows you to quickly determine if the content matches what you&#x27;re looking for.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;structured-content&quot;&gt;Structured Content&lt;&#x2F;h3&gt;
+&lt;p&gt;The main content is broken into logical sections with clear headings, making it easy to navigate and reference specific parts later.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;advanced-features&quot;&gt;Advanced Features&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;category-organization&quot;&gt;Category Organization&lt;&#x2F;h3&gt;
+&lt;p&gt;All explainers are organized by category, allowing you to explore related topics and build comprehensive knowledge in specific areas.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cross-references&quot;&gt;Cross-References&lt;&#x2F;h3&gt;
+&lt;p&gt;We extensively link to related content, both within our explainer collection and to relevant wiki articles, creating a web of interconnected knowledge.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;external-resources&quot;&gt;External Resources&lt;&#x2F;h3&gt;
+&lt;p&gt;Each explainer includes curated external links to authoritative sources, research papers, and additional reading materials.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;academic-references&quot;&gt;Academic References&lt;&#x2F;h3&gt;
+&lt;p&gt;Proper citations and references ensure you can verify information and dive deeper into the academic literature on any topic.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;interactive-elements&quot;&gt;Interactive Elements&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;search-and-filtering&quot;&gt;Search and Filtering&lt;&#x2F;h3&gt;
+&lt;p&gt;The explainer section includes powerful search and filtering tools that help you find exactly what you&#x27;re looking for based on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title keywords&lt;&#x2F;li&gt;
+&lt;li&gt;Category&lt;&#x2F;li&gt;
+&lt;li&gt;Content themes&lt;&#x2F;li&gt;
+&lt;li&gt;Publication date&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;alphabetical-navigation&quot;&gt;Alphabetical Navigation&lt;&#x2F;h3&gt;
+&lt;p&gt;Quick-jump links let you browse explainers alphabetically, making it easy to find topics when you know roughly what you&#x27;re looking for.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;multiple-view-modes&quot;&gt;Multiple View Modes&lt;&#x2F;h3&gt;
+&lt;p&gt;Choose between grid and list views depending on your browsing preferences and the amount of detail you want to see at a glance.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;best-practices-for-reading&quot;&gt;Best Practices for Reading&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;start-with-the-summary&quot;&gt;Start with the Summary&lt;&#x2F;h3&gt;
+&lt;p&gt;The executive summary gives you a roadmap for the entire explainer. Use it to gauge whether the content matches your needs and interests.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;follow-the-cross-references&quot;&gt;Follow the Cross-References&lt;&#x2F;h3&gt;
+&lt;p&gt;Don&#x27;t hesitate to explore related links as you read. The interconnected nature of our content means you&#x27;ll often discover valuable context in related explainers and wiki articles.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;check-the-references&quot;&gt;Check the References&lt;&#x2F;h3&gt;
+&lt;p&gt;The reference section isn&#x27;t just for citation – it&#x27;s a curated list of the most valuable resources for continued learning on the topic.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;use-the-alternative-names&quot;&gt;Use the Alternative Names&lt;&#x2F;h3&gt;
+&lt;p&gt;Keep note of alternative terminology. This will help you recognize the same concepts when you encounter them in other contexts or sources.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;This example demonstrates the comprehensive approach we take to explaining complex topics. By combining structured content, rich context, visual elements, and multiple perspectives through different types of blockquotes, our explainers serve as both standalone guides and entry points into broader areas of knowledge.&lt;&#x2F;p&gt;
+&lt;p&gt;Whether you&#x27;re a beginner looking for an introduction or an expert seeking comprehensive coverage, our explainer format is designed to meet your needs while maintaining the highest standards of accuracy and clarity.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-path-forward&quot;&gt;The Path Forward&lt;&#x2F;h2&gt;
+&lt;p&gt;Understanding complex topics requires patience, curiosity, and the willingness to challenge our assumptions. Through this explainer format, we aim to provide not just information, but genuine understanding that can transform how you see the world.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;This example explainer serves as a template and demonstration of our format. Real explainers will focus on specific topics with the same level of detail and structure shown here.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

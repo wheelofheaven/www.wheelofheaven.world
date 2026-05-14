@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+        <title>Page Not Found | Wheel of Heaven</title>
+        <meta name="description" content="The page you&#x27;re looking for doesn&#x27;t exist or has been moved." />
+
+        <!-- SEO: noindex for 404 pages -->
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="googlebot" content="noindex, nofollow">
+        <meta name="bingbot" content="noindex, nofollow">
+
+        <!-- PWA and Favicon -->
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.wheelofheaven.io/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.wheelofheaven.io/icons/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.wheelofheaven.io/icons/apple-touch-icon.png">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="https://www.wheelofheaven.io/main.css">
+    </head>
+    <body>
+        
+        <main id="main-content" role="main" aria-label="Page Not Found" style="min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 2rem;">
+            <div style="text-align: center; max-width: 600px;">
+                <div style="font-size: 6rem; margin-bottom: 1rem; opacity: 0.2;">404</div>
+                <h1 data-i18n="heading" style="font-size: 2rem; margin-bottom: 1rem; color: var(--color-text);">Page Not Found</h1>
+                <p data-i18n="body" style="font-size: 1.1rem; color: var(--color-text-muted); margin-bottom: 2rem; line-height: 1.6;">
+                    The page you&#x27;re looking for doesn&#x27;t exist or has been moved to a new location.
+                </p>
+                <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+                    <a href="/" data-i18n-link="home" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--color-accent-primary); color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 500;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                            <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                        </svg>
+                        <span data-i18n="goHome">Go Home</span>
+                    </a>
+                    <a href="/wiki/" data-i18n-link="wiki" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--color-surface); color: var(--color-text); text-decoration: none; border-radius: 0.5rem; font-weight: 500; border: 1px solid var(--color-border);">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                        </svg>
+                        <span data-i18n="browseWiki">Browse Wiki</span>
+                    </a>
+                    <a href="/read/" data-i18n-link="read" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--color-surface); color: var(--color-text); text-decoration: none; border-radius: 0.5rem; font-weight: 500; border: 1px solid var(--color-border);">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                            <path d="M12 7v14"></path>
+                        </svg>
+                        <span data-i18n="startReading">Start Reading</span>
+                    </a>
+                </div>
+                <p style="margin-top: 2rem; font-size: 0.9rem; color: var(--color-text-muted);">
+                    <span data-i18n="reorganized">If you followed a link from another site, the content may have been reorganized.</span>
+                    <br><span data-i18n="tryLinks">Try one of the links above to find what you&#x27;re looking for.</span>
+                </p>
+            </div>
+        </main>
+
+        <script>
+        (function () {
+            // All locale strings rendered server-side so JS can pick by URL.
+            
+            const I18N = {
+                
+                "en": {
+                    title: "Page Not Found",
+                    heading: "Page Not Found",
+                    body: "The page you're looking for doesn't exist or has been moved to a new location.",
+                    goHome: "Go Home",
+                    browseWiki: "Browse Wiki",
+                    startReading: "Start Reading",
+                    reorganized: "If you followed a link from another site, the content may have been reorganized.",
+                    tryLinks: "Try one of the links above to find what you're looking for."
+                },
+                
+                "de": {
+                    title: "Seite nicht gefunden",
+                    heading: "Seite nicht gefunden",
+                    body: "Die gesuchte Seite existiert nicht oder wurde an einen neuen Ort verschoben.",
+                    goHome: "Zur Startseite",
+                    browseWiki: "Wiki durchsuchen",
+                    startReading: "Lesen beginnen",
+                    reorganized: "Wenn Sie einem Link von einer anderen Website gefolgt sind, wurde der Inhalt möglicherweise neu organisiert.",
+                    tryLinks: "Versuchen Sie einen der Links oben, um das Gesuchte zu finden."
+                },
+                
+                "fr": {
+                    title: "Page introuvable",
+                    heading: "Page introuvable",
+                    body: "La page que vous recherchez n'existe pas ou a été déplacée vers un nouvel emplacement.",
+                    goHome: "Accueil",
+                    browseWiki: "Parcourir le Wiki",
+                    startReading: "Commencer à lire",
+                    reorganized: "Si vous avez suivi un lien depuis un autre site, le contenu a peut-être été réorganisé.",
+                    tryLinks: "Essayez l'un des liens ci-dessus pour trouver ce que vous cherchez."
+                },
+                
+                "es": {
+                    title: "Página no encontrada",
+                    heading: "Página no encontrada",
+                    body: "La página que busca no existe o se ha movido a una nueva ubicación.",
+                    goHome: "Ir al inicio",
+                    browseWiki: "Explorar el Wiki",
+                    startReading: "Empezar a leer",
+                    reorganized: "Si siguió un enlace desde otro sitio, el contenido puede haberse reorganizado.",
+                    tryLinks: "Pruebe uno de los enlaces de arriba para encontrar lo que busca."
+                },
+                
+                "ru": {
+                    title: "Страница не найдена",
+                    heading: "Страница не найдена",
+                    body: "Запрашиваемая страница не существует или была перемещена в другое место.",
+                    goHome: "На главную",
+                    browseWiki: "Просмотр Wiki",
+                    startReading: "Начать чтение",
+                    reorganized: "Если вы перешли по ссылке с другого сайта, контент мог быть реорганизован.",
+                    tryLinks: "Попробуйте одну из ссылок выше, чтобы найти нужное."
+                },
+                
+                "ja": {
+                    title: "ページが見つかりません",
+                    heading: "ページが見つかりません",
+                    body: "お探しのページは存在しないか、新しい場所に移動されました。",
+                    goHome: "ホームへ",
+                    browseWiki: "Wikiを見る",
+                    startReading: "読み始める",
+                    reorganized: "他のサイトからリンクをたどった場合、コンテンツが再編成された可能性があります。",
+                    tryLinks: "上のリンクからお探しのものを見つけてください。"
+                },
+                
+                "zh": {
+                    title: "页面未找到",
+                    heading: "页面未找到",
+                    body: "您查找的页面不存在或已移至新位置。",
+                    goHome: "返回首页",
+                    browseWiki: "浏览维基",
+                    startReading: "开始阅读",
+                    reorganized: "如果您从其他网站点击链接进入，内容可能已被重新组织。",
+                    tryLinks: "请尝试上方的链接以查找您需要的内容。"
+                },
+                
+                "zh-Hant": {
+                    title: "頁面未找到",
+                    heading: "頁面未找到",
+                    body: "您尋找的頁面不存在或已移至新位置。",
+                    goHome: "返回首頁",
+                    browseWiki: "瀏覽維基",
+                    startReading: "開始閱讀",
+                    reorganized: "如果您從其他網站點擊連結進入，內容可能已被重新組織。",
+                    tryLinks: "請嘗試上方的連結以尋找您需要的內容。"
+                },
+                
+                "ko": {
+                    title: "페이지를 찾을 수 없습니다",
+                    heading: "페이지를 찾을 수 없습니다",
+                    body: "찾으시는 페이지가 존재하지 않거나 새 위치로 이동되었습니다.",
+                    goHome: "홈으로",
+                    browseWiki: "위키 둘러보기",
+                    startReading: "읽기 시작",
+                    reorganized: "다른 사이트에서 링크를 따라오신 경우 내용이 재구성되었을 수 있습니다.",
+                    tryLinks: "위 링크 중 하나를 시도해 원하시는 내용을 찾아보세요."
+                }
+                
+            };
+
+            // Detect lang from URL path. zh-Hant has a hyphen so check it first.
+            const SUPPORTED = ["zh-Hant", "de", "es", "fr", "ja", "ko", "ru", "zh"];
+            const path = window.location.pathname || "/";
+            let lang = "en";
+            for (const candidate of SUPPORTED) {
+                if (path === "/" + candidate || path.startsWith("/" + candidate + "/")) {
+                    lang = candidate;
+                    break;
+                }
+            }
+
+            const t = I18N[lang] || I18N.en;
+
+            // Swap lang attribute and text nodes.
+            document.documentElement.lang = lang;
+            document.title = t.title + " | Wheel of Heaven";
+            document.querySelectorAll("[data-i18n]").forEach((el) => {
+                const key = el.dataset.i18n;
+                if (t[key]) el.textContent = t[key];
+            });
+
+            // Re-point the action links to lang-prefixed paths.
+            const linkPath = lang === "en" ? "" : "/" + lang;
+            document.querySelectorAll("[data-i18n-link]").forEach((el) => {
+                const target = el.dataset.i18nLink;
+                if (target === "home") el.href = linkPath + "/";
+                else if (target === "wiki") el.href = linkPath + "/wiki/";
+                else if (target === "read") el.href = linkPath + "/read/";
+            });
+
+            // Update <main> aria-label to match the heading.
+            const main = document.getElementById("main-content");
+            if (main) main.setAttribute("aria-label", t.heading);
+
+            // Update <meta name="description"> too, in case bots can see it.
+            const metaDesc = document.querySelector('meta[name="description"]');
+            if (metaDesc) metaDesc.setAttribute("content", t.body);
+        })();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+# Wheel of Heaven - Caching Headers
+# https://developers.cloudflare.com/pages/configuration/headers/
+
+# Fonts - immutable, cache for 1 year
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# CSS - cache for 1 week with stale-while-revalidate
+/*.css
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+# JavaScript - cache for 1 week with stale-while-revalidate
+/js/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+# Brand assets - cache for 1 month
+/brand/*
+  Cache-Control: public, max-age=2592000
+
+# Icons - cache for 1 month
+/icons/*
+  Cache-Control: public, max-age=2592000
+
+# Static images - cache for 1 week
+/images/*
+  Cache-Control: public, max-age=604800
+
+# Map tiles - cache for 1 month
+/map/*
+  Cache-Control: public, max-age=2592000
+
+# Starmap SVG - cache for 1 month (large file, rarely changes)
+/starmap.svg
+  Cache-Control: public, max-age=2592000
+
+# Service worker - no cache (needs fresh checks)
+/sw.js
+  Cache-Control: no-cache
+
+# Web manifest - cache for 1 day
+/site.webmanifest
+  Cache-Control: public, max-age=86400
+
+# Security headers for all pages
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' https://assets.wheelofheaven.io data: blob:; font-src 'self'; connect-src 'self' https://assets.wheelofheaven.io; media-src 'self' https://assets.wheelofheaven.io; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'

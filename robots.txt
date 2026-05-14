@@ -1,0 +1,51 @@
+# Wheel of Heaven - robots.txt
+# Post-AI optimized for search engines and AI crawlers
+
+User-agent: *
+Allow: /
+
+# AI Crawlers - Explicitly Allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemap (Zola generates a single sitemap with all language URLs)
+Sitemap: https://www.wheelofheaven.io/sitemap.xml
+
+# Crawl-delay for courtesy (optional, not all bots respect this)
+Crawl-delay: 1
