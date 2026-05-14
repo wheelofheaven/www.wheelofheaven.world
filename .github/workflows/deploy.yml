@@ -1,17 +1,47 @@
-# On every push this script is executed
+# Build the site (zola + bundle.js + PurgeCSS) and deploy /public to
+# gh-pages. The previous workflow used shalzz/zola-deploy-action, which
+# only ran `zola build` — PurgeCSS was never applied in production, so
+# main.css shipped at full size (393 KB instead of 271 KB).
+#
+# We install tools via mise (zola 0.21.0, node 22, python 3.12, uv per
+# mise.toml) but invoke npm + zola directly rather than `mise run`, so
+# parse errors in unrelated content-authoring tasks under .mise/tasks/
+# can't break the CI build.
 on: push
 name: Build and deploy GH Pages
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
     steps:
       - name: checkout
         uses: actions/checkout@v4
-      - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.21.0
-        env:
-          # Target branch
-          PAGES_BRANCH: gh-pages
-          # Use the automatic token for same repository deployment
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          submodules: recursive
+
+      - name: install build tools
+        uses: jdx/mise-action@v2
+
+      - name: install bifrost npm deps
+        working-directory: themes/bifrost
+        run: npm ci
+
+      - name: bundle JS
+        working-directory: themes/bifrost
+        run: npm run bundle
+
+      - name: zola build
+        run: zola build
+
+      - name: PurgeCSS
+        working-directory: themes/bifrost
+        run: npm run purgecss
+
+      - name: deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
