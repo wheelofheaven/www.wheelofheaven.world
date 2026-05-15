@@ -374,16 +374,7 @@
         
             
             
-        <link rel="alternate" hreflang="fr" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;">
-            
-        
-    
-
-    
-        
-            
-            
-        <link rel="alternate" hreflang="ko" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ko&#x2F;">
+        <link rel="alternate" hreflang="ru" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;">
             
         
     
@@ -401,7 +392,25 @@
         
             
             
-        <link rel="alternate" hreflang="ru" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;">
+        <link rel="alternate" hreflang="en" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;">
+            
+        
+    
+
+    
+        
+            
+            
+        <link rel="alternate" hreflang="ko" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ko&#x2F;">
+            
+        
+    
+
+    
+        
+            
+            
+        <link rel="alternate" hreflang="fr" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;">
             
         
     
@@ -420,15 +429,6 @@
             
             
         <link rel="alternate" hreflang="zh-Hant" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh-Hant&#x2F;">
-            
-        
-    
-
-    
-        
-            
-            
-        <link rel="alternate" hreflang="en" href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;">
             
         
     
@@ -2132,7 +2132,7 @@
             
             <li class="landing__nav-item">
                 <a href="#section-1"
-                   class="landing__nav-dot"
+                   class="landing__nav-dot landing__nav-dot--active"
                    data-section-link="1"
                    aria-label="1. 問い">
                     <span class="landing__nav-dot-number">1</span>
@@ -2219,7 +2219,7 @@
     </div>
 
     
-    <section id="section-1" class="landing-section landing-section--question" data-section="1">
+    <section id="section-1" class="landing-section landing-section--question is-active" data-section="1">
         <div class="landing-section__media" aria-hidden="true">
             <video
                 class="landing-section__video"
@@ -2227,7 +2227,7 @@
                 loop
                 playsinline
                 preload="none"
-                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/01-question-poster.jpg"
+                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/01-question-poster.webp"
                 onloadedmetadata="this.playbackRate = 0.5;"
             >
                 <source src="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/01-question.webm" type="video/webm">
@@ -2281,7 +2281,7 @@
                 loop
                 playsinline
                 preload="none"
-                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/02-hypothesis-poster.jpg"
+                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/02-hypothesis-poster.webp"
                 onloadedmetadata="this.playbackRate = 0.5;"
             >
                 <source src="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/02-hypothesis.webm" type="video/webm">
@@ -2314,7 +2314,7 @@
                 loop
                 playsinline
                 preload="none"
-                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/03-arc-poster.jpg"
+                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/03-arc-poster.webp"
                 onloadedmetadata="this.playbackRate = 0.5;"
             >
                 <source src="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/03-arc.webm" type="video/webm">
@@ -2385,7 +2385,7 @@
                 loop
                 playsinline
                 preload="none"
-                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/04-clock-poster.jpg"
+                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/04-clock-poster.webp"
                 onloadedmetadata="this.playbackRate = 0.5;"
             >
                 <source src="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/04-clock.webm" type="video/webm">
@@ -2680,7 +2680,7 @@
                 loop
                 playsinline
                 preload="none"
-                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/05-now-poster.jpg"
+                poster="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/05-now-poster.webp"
                 onloadedmetadata="this.playbackRate = 0.5;"
             >
                 <source src="https:&#x2F;&#x2F;assets.wheelofheaven.io/videos/landing/05-now.webm" type="video/webm">
@@ -2874,73 +2874,107 @@
     // signal: the pagination dot highlight, the `is-active` class on the
     // section (which fades the pinned video background in/out via CSS), and
     // play/pause on the video element so off-screen videos don't burn cycles.
-    const dots = document.querySelectorAll('.landing__nav-dot');
-    const sections = document.querySelectorAll('.landing-section');
-    const progressFill = document.querySelector('[data-progress-fill]');
-    if (!dots.length || !sections.length) return;
+    //
+    // Performance note: the §1 video has preload="none" and its poster is
+    // the LCP element. Calling video.play() forces a fetch + decode and
+    // bumps LCP by ~2s (forced reflow). So we (a) defer all observer setup
+    // until after the first paint, and (b) split visual state (cheap,
+    // class toggles) from video playback (expensive, deferred further).
+    // Section 1's is-active class and dot 1's --active class are set
+    // server-side, so first paint already shows the correct visual state.
+    const init = () => {
+        const dots = document.querySelectorAll('.landing__nav-dot');
+        const sections = document.querySelectorAll('.landing-section');
+        const progressFill = document.querySelector('[data-progress-fill]');
+        if (!dots.length || !sections.length) return;
 
-    const total = sections.length;
+        const total = sections.length;
 
-    const setActive = (idx) => {
-        dots.forEach((d) => {
-            d.classList.toggle(
-                'landing__nav-dot--active',
-                d.getAttribute('data-section-link') === String(idx)
-            );
-        });
-        if (progressFill) {
-            const pct = (Number(idx) / total) * 100;
-            progressFill.style.width = pct + '%';
-        }
-        sections.forEach((s) => {
-            const isActive = s.getAttribute('data-section') === String(idx);
-            s.classList.toggle('is-active', isActive);
-            const video = s.querySelector('.landing-section__video');
-            if (video) {
-                if (isActive) {
+        const setActiveVisual = (idx) => {
+            dots.forEach((d) => {
+                d.classList.toggle(
+                    'landing__nav-dot--active',
+                    d.getAttribute('data-section-link') === String(idx)
+                );
+            });
+            if (progressFill) {
+                progressFill.style.width = ((Number(idx) / total) * 100) + '%';
+            }
+            sections.forEach((s) => {
+                s.classList.toggle(
+                    'is-active',
+                    s.getAttribute('data-section') === String(idx)
+                );
+            });
+        };
+
+        const setActiveVideo = (idx) => {
+            sections.forEach((s) => {
+                const video = s.querySelector('.landing-section__video');
+                if (!video) return;
+                if (s.getAttribute('data-section') === String(idx)) {
                     const p = video.play();
                     if (p && typeof p.catch === 'function') p.catch(() => {});
                 } else {
                     video.pause();
                 }
-            }
-        });
-    };
-
-    const observer = new IntersectionObserver(
-        (entries) => {
-            // Pick the entry with the highest intersectionRatio that's intersecting.
-            let best = null;
-            entries.forEach((entry) => {
-                if (entry.isIntersecting) {
-                    if (!best || entry.intersectionRatio > best.intersectionRatio) {
-                        best = entry;
-                    }
-                }
             });
-            if (best) {
-                setActive(best.target.getAttribute('data-section'));
-            }
-        },
-        { threshold: [0.4, 0.6, 0.8], rootMargin: '-10% 0px -10% 0px' }
-    );
+        };
 
-    sections.forEach((s) => observer.observe(s));
+        const observer = new IntersectionObserver(
+            (entries) => {
+                let best = null;
+                entries.forEach((entry) => {
+                    if (entry.isIntersecting) {
+                        if (!best || entry.intersectionRatio > best.intersectionRatio) {
+                            best = entry;
+                        }
+                    }
+                });
+                if (best) {
+                    const idx = best.target.getAttribute('data-section');
+                    setActiveVisual(idx);
+                    setActiveVideo(idx);
+                }
+            },
+            { threshold: [0.4, 0.6, 0.8], rootMargin: '-10% 0px -10% 0px' }
+        );
 
-    // Seed the active state from the section currently under the viewport
-    // center on first paint, so the §1 video is already faded in before the
-    // observer fires.
-    const seedActive = () => {
-        const mid = window.innerHeight / 2;
-        for (const s of sections) {
-            const r = s.getBoundingClientRect();
-            if (r.top <= mid && r.bottom >= mid) {
-                setActive(s.getAttribute('data-section'));
-                return;
-            }
+        sections.forEach((s) => observer.observe(s));
+
+        // Kick off §1 video playback after the load event + one rAF + a
+        // short delay. This gives the LCP poster time to paint and be
+        // measured before the WebM decode replaces it on screen. The
+        // static is-active markup on §1 keeps the correct visual state
+        // during the wait. Auto-play is the design intent for the hero,
+        // we just don't want the WebM competing with first paint.
+        const playFirstVideo = () => {
+            const firstVideo = document.querySelector(
+                '.landing-section.is-active .landing-section__video'
+            );
+            if (!firstVideo) return;
+            const p = firstVideo.play();
+            if (p && typeof p.catch === 'function') p.catch(() => {});
+        };
+        const schedulePlay = () => requestAnimationFrame(() => {
+            setTimeout(playFirstVideo, 300);
+        });
+        if (document.readyState === 'complete') {
+            schedulePlay();
+        } else {
+            window.addEventListener('load', schedulePlay, { once: true });
         }
     };
-    seedActive();
+
+    // Defer setup to after first paint. rAF runs before paint; rAF-in-rAF
+    // runs after the first frame is on screen.
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => {
+            requestAnimationFrame(() => requestAnimationFrame(init));
+        });
+    } else {
+        requestAnimationFrame(() => requestAnimationFrame(init));
+    }
 })();
 </script>
 </main>
