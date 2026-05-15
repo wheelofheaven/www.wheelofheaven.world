@@ -39,6 +39,10 @@ jobs:
         working-directory: themes/bifrost
         run: npm run purgecss
 
+      - name: inline critical CSS + async main.css
+        working-directory: themes/bifrost
+        run: npm run inline-critical
+
       - name: deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
