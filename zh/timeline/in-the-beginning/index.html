@@ -2361,8 +2361,6 @@
     
 
     
-
-    
         
         
         
@@ -2372,6 +2370,8 @@
         
         
         
+    
+
     
 
     
@@ -2480,11 +2480,11 @@
     </h2>
     <div class="related-content__grid">
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh&#x2F;timeline&#x2F;preamble&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh&#x2F;timeline&#x2F;age-of-leo&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">序言</h3>
+            <h3 class="related-content__card-title">狮子座时代</h3>
             
-            <p class="related-content__card-desc">序言引入了一个关于先进外星文明——伊洛西姆（Elohim）的推测性叙事，他们投身于基因实验和星际探索。与“侏罗纪公园”系列相呼应，它深入探讨了伊洛西姆抵达地球之前的假设性事件，背景设定在21810年前的摩羯座时代。这个故事将科幻元素与神话相…</p>
+            <p class="related-content__card-desc">狮子座时代，从公元前11010年持续到公元前8850年，在《Wheel of Heaven》叙事中紧随处女座时代。这个时代以陆地动物的创造为标志，紧接着海洋生物和鸟类的确立。如今植被丰富的地球为这些新的食草动物提供了丰富的资源，后来引入了食…</p>
             
             <span class="related-content__card-link">
                 阅读更多
@@ -2510,11 +2510,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh&#x2F;timeline&#x2F;age-of-pisces&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh&#x2F;timeline&#x2F;age-of-cancer&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">双鱼座时代（公元前 210 年—1950 年）</h3>
+            <h3 class="related-content__card-title">癌症时代</h3>
             
-            <p class="related-content__card-desc">《双鱼座时代》，从公元前210年持续到公元1950年，紧随金牛座时代在《Wheel of Heaven》叙述中。这个时代以特别与基督有关的重要圣经事件为标志，其使命是将圣经经文的真理传播到世界各地，为即将到来的科学时代的人类理解奠定基础。1…</p>
+            <p class="related-content__card-desc">巨蟹座时代，从公元前8850年持续到公元前6690年，在《Wheel of Heaven》的叙述中紧随狮子座时代。这个时代对于人类与其外星创造者——伊洛西姆之间的关系发展至关重要。关键事件包括被称为“蛇”的伊洛西姆科学家们，违反了自己政府的…</p>
             
             <span class="related-content__card-link">
                 阅读更多
@@ -2525,11 +2525,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh&#x2F;timeline&#x2F;age-of-scorpio&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;zh&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">天蝎座时代</h3>
+            <h3 class="related-content__card-title">天秤座时代</h3>
             
-            <p class="related-content__card-desc">天蝎座时代，从公元前17490年持续到公元前15330年，代表了《Wheel of Heaven》叙事的“创世第三日”。继射手座时代的地球改造成就之后，这个时代的特点是伊洛西姆科学家们在新形成的超大陆上进行合成生物学的努力。他们专注于创造植…</p>
+            <p class="related-content__card-desc">天秤座时代，从公元前15330年持续到公元前13170年，在《Wheel of Heaven》叙事中代表了“创世第四日”。继天蝎座时代建立植物生命之后，天秤座时代专注于进一步发展和调节地球新工程化生态系统。伊洛西姆科学家们利用对天体的理解来…</p>
             
             <span class="related-content__card-link">
                 阅读更多
@@ -4690,14 +4690,20 @@ window.readingListTranslations = {
         navbarMin = 0.5 * r;                    // English navbar position
         range = navbarStart - navbarMin;        // px to traverse
 
-        // Publish the *measured* banner height (in rem) so the SCSS
-        // padding-top calc clears the actual rendered banner — long
-        // translation strings can wrap and exceed the static budget,
-        // which previously left the breadcrumb hidden on narrow
+        // Publish the *measured* banner and navbar heights (in rem) so
+        // the SCSS padding-top calc clears the actual rendered chrome.
+        // The mobile navbar in particular can be taller than the static
+        // budget assumed (burger menu, extra controls), which used to
+        // leave the breadcrumb hidden behind the navbar on narrow
         // viewports.
+        const navbarH = navbar.offsetHeight;
         document.documentElement.style.setProperty(
             "--translation-notice-h",
             (bannerH / r) + "rem"
+        );
+        document.documentElement.style.setProperty(
+            "--navbar-h",
+            (navbarH / r) + "rem"
         );
     };
 

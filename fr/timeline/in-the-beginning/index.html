@@ -2350,10 +2350,6 @@
     
 
     
-        
-        
-        
-    
 
     
         
@@ -2373,6 +2369,10 @@
         
     
 
+    
+        
+        
+        
     
 
     
@@ -2475,36 +2475,6 @@
     </h2>
     <div class="related-content__grid">
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-capricorn&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Ère du Capricorne</h3>
-            
-            <p class="related-content__card-desc">L&#x27;Âge du Capricorne traite du premier mois précessionnel dans le cycle de la Grande Année, une période de 2 160 ans lors…</p>
-            
-            <span class="related-content__card-link">
-                Lire la suite
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-aquarius&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Ère du Verseau</h3>
-            
-            <p class="related-content__card-desc">L&#x27;Âge du Verseau, s&#x27;étendant de 1950 à 4110 ap. J.-C., marque l&#x27;ère actuelle dans la narration de « Wheel of Heaven », s…</p>
-            
-            <span class="related-content__card-link">
-                Lire la suite
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
         <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-aries&#x2F;" class="related-content__card">
             
             <h3 class="related-content__card-title">Âge du Bélier</h3>
@@ -2525,6 +2495,36 @@
             <h3 class="related-content__card-title">Préambule</h3>
             
             <p class="related-content__card-desc">Le préambule introduit un récit spéculatif sur une civilisation extraterrestre avancée, les Elohim, qui se lancent dans …</p>
+            
+            <span class="related-content__card-link">
+                Lire la suite
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-cancer&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Âge du cancer</h3>
+            
+            <p class="related-content__card-desc">L&#x27;Âge du Cancer, s&#x27;étendant de 8 850 à 6 690 av. J.-C., suit l&#x27;Âge du Lion dans le récit de &quot;Wheel of Heaven&quot;. Cette ère…</p>
+            
+            <span class="related-content__card-link">
+                Lire la suite
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-capricorn&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Ère du Capricorne</h3>
+            
+            <p class="related-content__card-desc">L&#x27;Âge du Capricorne traite du premier mois précessionnel dans le cycle de la Grande Année, une période de 2 160 ans lors…</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -4685,14 +4685,20 @@ window.readingListTranslations = {
         navbarMin = 0.5 * r;                    // English navbar position
         range = navbarStart - navbarMin;        // px to traverse
 
-        // Publish the *measured* banner height (in rem) so the SCSS
-        // padding-top calc clears the actual rendered banner — long
-        // translation strings can wrap and exceed the static budget,
-        // which previously left the breadcrumb hidden on narrow
+        // Publish the *measured* banner and navbar heights (in rem) so
+        // the SCSS padding-top calc clears the actual rendered chrome.
+        // The mobile navbar in particular can be taller than the static
+        // budget assumed (burger menu, extra controls), which used to
+        // leave the breadcrumb hidden behind the navbar on narrow
         // viewports.
+        const navbarH = navbar.offsetHeight;
         document.documentElement.style.setProperty(
             "--translation-notice-h",
             (bannerH / r) + "rem"
+        );
+        document.documentElement.style.setProperty(
+            "--navbar-h",
+            (navbarH / r) + "rem"
         );
     };
 

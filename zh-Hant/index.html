@@ -400,7 +400,7 @@
             
             
                 
-        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh-Hant">
+        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant">
             
         
     
@@ -420,6 +420,16 @@
             
             
                 
+        <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//zh-Hant">
+            
+        
+    
+
+    
+        
+            
+            
+                
         <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//zh-Hant">
             
         
@@ -430,7 +440,7 @@
             
             
                 
-        <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//zh-Hant">
+        <link rel="alternate" hreflang="fr" href="https://www.wheelofheaven.io/fr//zh-Hant">
             
         
     
@@ -450,16 +460,6 @@
             
             
                 
-        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant">
-            
-        
-    
-
-    
-        
-            
-            
-                
         <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//zh-Hant">
             
         
@@ -470,7 +470,7 @@
             
             
                 
-        <link rel="alternate" hreflang="fr" href="https://www.wheelofheaven.io/fr//zh-Hant">
+        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh-Hant">
             
         
     
@@ -4512,14 +4512,20 @@ window.readingListTranslations = {
         navbarMin = 0.5 * r;                    // English navbar position
         range = navbarStart - navbarMin;        // px to traverse
 
-        // Publish the *measured* banner height (in rem) so the SCSS
-        // padding-top calc clears the actual rendered banner — long
-        // translation strings can wrap and exceed the static budget,
-        // which previously left the breadcrumb hidden on narrow
+        // Publish the *measured* banner and navbar heights (in rem) so
+        // the SCSS padding-top calc clears the actual rendered chrome.
+        // The mobile navbar in particular can be taller than the static
+        // budget assumed (burger menu, extra controls), which used to
+        // leave the breadcrumb hidden behind the navbar on narrow
         // viewports.
+        const navbarH = navbar.offsetHeight;
         document.documentElement.style.setProperty(
             "--translation-notice-h",
             (bannerH / r) + "rem"
+        );
+        document.documentElement.style.setProperty(
+            "--navbar-h",
+            (navbarH / r) + "rem"
         );
     };
 
