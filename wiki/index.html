@@ -396,7 +396,37 @@
             
             
                 
+        <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//wiki">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="fr" href="https://www.wheelofheaven.io/fr//wiki">
+            
+        
+    
+
+    
+        
+            
+            
+                
         <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//wiki">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//wiki">
             
         
     
@@ -416,17 +446,7 @@
             
             
                 
-        <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//wiki">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//wiki">
+        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//wiki">
             
         
     
@@ -447,26 +467,6 @@
             
                 
         <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//wiki">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="fr" href="https://www.wheelofheaven.io/fr//wiki">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//wiki">
             
         
     
@@ -2322,7 +2322,6 @@
         
         
         
-        
             
             
         
@@ -2652,7 +2651,13 @@
         
             
             
+        
+        
+
         
+        
+        
+            
         
 
         <!-- Alphabetical Quick Navigation — shown only when the Group-by
@@ -16786,12 +16791,16 @@ document.addEventListener('DOMContentLoaded', function() {
     viewToggle.forEach(btn => btn.addEventListener('click', () => toggleView(btn.dataset.view)));
 
     // Smooth-scroll for alphabet bar (active in Group A-Z mode only).
+    // Use getElementById so the lookup is safe for non-ASCII letters
+    // (Cyrillic, CJK, accented Latin) — querySelector would need CSS
+    // escaping for the same characters.
     if (alphabetBar) {
         alphabetBar.addEventListener('click', function(e) {
             const link = e.target.closest('.wiki-alphabet__link--active');
             if (!link) return;
             e.preventDefault();
-            const target = document.querySelector(link.getAttribute('href'));
+            const id = link.getAttribute('href').slice(1);
+            const target = id ? document.getElementById(id) : null;
             if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
     }
