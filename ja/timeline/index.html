@@ -420,17 +420,7 @@
             
             
                 
-        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//ja/timeline">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//ja/timeline">
+        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//ja/timeline">
             
         
     
@@ -460,16 +450,6 @@
             
             
                 
-        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//ja/timeline">
-            
-        
-    
-
-    
-        
-            
-            
-                
         <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//ja/timeline">
             
         
@@ -480,7 +460,27 @@
             
             
                 
-        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//ja/timeline">
+        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//ja/timeline">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//ja/timeline">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//ja/timeline">
             
         
     
@@ -4953,6 +4953,16 @@ window.readingListTranslations = {
         navbarStart = bannerH + r;              // banner height + 1rem gap
         navbarMin = 0.5 * r;                    // English navbar position
         range = navbarStart - navbarMin;        // px to traverse
+
+        // Publish the *measured* banner height (in rem) so the SCSS
+        // padding-top calc clears the actual rendered banner — long
+        // translation strings can wrap and exceed the static budget,
+        // which previously left the breadcrumb hidden on narrow
+        // viewports.
+        document.documentElement.style.setProperty(
+            "--translation-notice-h",
+            (bannerH / r) + "rem"
+        );
     };
 
     const update = () => {

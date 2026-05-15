@@ -2365,8 +2365,6 @@
     
 
     
-
-    
         
         
         
@@ -2382,6 +2380,8 @@
         
         
         
+    
+
     
 
     
@@ -2472,11 +2472,11 @@
     </h2>
     <div class="related-content__grid">
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;es&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;es&#x2F;timeline&#x2F;age-of-gemini&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Era de Libra</h3>
+            <h3 class="related-content__card-title">Edad de Géminis</h3>
             
-            <p class="related-content__card-desc">La Era de Libra, que dura desde 15.330 hasta 13.170 a.C., en la narrativa de la &quot;Wheel of Heaven&quot;, representa el &quot;Cuarto…</p>
+            <p class="related-content__card-desc">La Era de Géminis, que dura desde 6.690 hasta 4.530 a.C., sigue a la Era de Cáncer en la narrativa de &quot;Wheel of Heaven&quot;.…</p>
             
             <span class="related-content__card-link">
                 Leer más
@@ -2502,11 +2502,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;es&#x2F;timeline&#x2F;age-of-gemini&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;es&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Edad de Géminis</h3>
+            <h3 class="related-content__card-title">Era de Libra</h3>
             
-            <p class="related-content__card-desc">La Era de Géminis, que dura desde 6.690 hasta 4.530 a.C., sigue a la Era de Cáncer en la narrativa de &quot;Wheel of Heaven&quot;.…</p>
+            <p class="related-content__card-desc">La Era de Libra, que dura desde 15.330 hasta 13.170 a.C., en la narrativa de la &quot;Wheel of Heaven&quot;, representa el &quot;Cuarto…</p>
             
             <span class="related-content__card-link">
                 Leer más
@@ -2517,11 +2517,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;es&#x2F;timeline&#x2F;age-of-cancer&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;es&#x2F;timeline&#x2F;age-of-leo&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Edad de Cáncer</h3>
+            <h3 class="related-content__card-title">Edad de Leo</h3>
             
-            <p class="related-content__card-desc">La Era de Cáncer, que abarca desde 8.850 hasta 6.690 a.C., sigue a la Era de Leo en la narrativa de &quot;Wheel of Heaven&quot;. E…</p>
+            <p class="related-content__card-desc">La Era de Leo, que abarca desde 11.010 hasta 8.850 a.C., sigue a la Era de Virgo en la narrativa de la &quot;Wheel of Heaven&quot;…</p>
             
             <span class="related-content__card-link">
                 Leer más
@@ -4658,6 +4658,16 @@ window.readingListTranslations = {
         navbarStart = bannerH + r;              // banner height + 1rem gap
         navbarMin = 0.5 * r;                    // English navbar position
         range = navbarStart - navbarMin;        // px to traverse
+
+        // Publish the *measured* banner height (in rem) so the SCSS
+        // padding-top calc clears the actual rendered banner — long
+        // translation strings can wrap and exceed the static budget,
+        // which previously left the breadcrumb hidden on narrow
+        // viewports.
+        document.documentElement.style.setProperty(
+            "--translation-notice-h",
+            (bannerH / r) + "rem"
+        );
     };
 
     const update = () => {

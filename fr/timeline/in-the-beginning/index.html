@@ -2335,11 +2335,11 @@
     
 
     
-
+        
+        
+        
     
-        
-        
-        
+
     
 
     
@@ -2430,19 +2430,19 @@
     
 
     
-
+        
+        
+            
+        
+            
+        
+            
+        
+        
+            
+        
     
-        
-        
-            
-        
-            
-        
-            
-        
-        
-            
-        
+
     
 
     
@@ -2472,11 +2472,11 @@
     </h2>
     <div class="related-content__grid">
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-aries&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-cancer&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Âge du Bélier</h3>
+            <h3 class="related-content__card-title">Âge du cancer</h3>
             
-            <p class="related-content__card-desc">L&#x27;Âge du Bélier, s&#x27;étendant de 2 370 à 210 av. J.-C., succède à l&#x27;Âge du Taureau dans le récit de « Wheel of Heaven ». C…</p>
+            <p class="related-content__card-desc">L&#x27;Âge du Cancer, s&#x27;étendant de 8 850 à 6 690 av. J.-C., suit l&#x27;Âge du Lion dans le récit de &quot;Wheel of Heaven&quot;. Cette ère…</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -2487,11 +2487,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-aquarius&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-pisces&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Ère du Verseau</h3>
+            <h3 class="related-content__card-title">Âge des Poissons</h3>
             
-            <p class="related-content__card-desc">L&#x27;Âge du Verseau, s&#x27;étendant de 1950 à 4110 ap. J.-C., marque l&#x27;ère actuelle dans la narration de « Wheel of Heaven », s…</p>
+            <p class="related-content__card-desc">L&#x27;Âge des Poissons, s&#x27;étendant de 210 av. J.-C. à 1950 ap. J.-C., a succédé à l&#x27;Âge du Bélier et est récemment passé à l…</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -2517,11 +2517,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-gemini&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-taurus&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Âge des Gémeaux</h3>
+            <h3 class="related-content__card-title">Âge du Taureau</h3>
             
-            <p class="related-content__card-desc">L&#x27;Âge des Gémeaux, s&#x27;étendant de 6 690 à 4 530 av. J.-C., suit l&#x27;Âge du Cancer dans le récit de &quot;Wheel of Heaven&quot;. Cet â…</p>
+            <p class="related-content__card-desc">L&#x27;Âge du Taureau, de 4 530 à 2 370 av. J.-C., est une période significative dans la narration de « Wheel of Heaven », su…</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -4658,6 +4658,16 @@ window.readingListTranslations = {
         navbarStart = bannerH + r;              // banner height + 1rem gap
         navbarMin = 0.5 * r;                    // English navbar position
         range = navbarStart - navbarMin;        // px to traverse
+
+        // Publish the *measured* banner height (in rem) so the SCSS
+        // padding-top calc clears the actual rendered banner — long
+        // translation strings can wrap and exceed the static budget,
+        // which previously left the breadcrumb hidden on narrow
+        // viewports.
+        document.documentElement.style.setProperty(
+            "--translation-notice-h",
+            (bannerH / r) + "rem"
+        );
     };
 
     const update = () => {
