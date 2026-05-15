@@ -12645,7 +12645,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <span class="glossary-tooltip__badge">Wiki</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">Click to read more</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">Click to read more</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -12655,6 +12655,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -12731,6 +12732,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

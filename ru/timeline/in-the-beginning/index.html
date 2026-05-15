@@ -2367,10 +2367,6 @@
     
 
     
-        
-        
-        
-    
 
     
         
@@ -2384,6 +2380,10 @@
         
     
 
+    
+        
+        
+        
     
 
     
@@ -2480,6 +2480,21 @@
     </h2>
     <div class="related-content__grid">
         
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Эпоха Весов</h3>
+            
+            <p class="related-content__card-desc">Эпоха Весов, продолжающаяся с 15 330 по 13 170 год до н.э., в повествовании &quot;Колеса Небес&quot; представляет собой &quot;Четвертый…</p>
+            
+            <span class="related-content__card-link">
+                Подробнее
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
         <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-gemini&#x2F;" class="related-content__card">
             
             <h3 class="related-content__card-title">Эпоха Близнецов</h3>
@@ -2495,26 +2510,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-capricorn&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-aquarius&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Эпоха Козерога</h3>
+            <h3 class="related-content__card-title">Эпоха Водолея</h3>
             
-            <p class="related-content__card-desc">Эпоха Козерога обсуждает первый прецессионный месяц в цикле Великого Года, период в 2,160 лет, когда восходящее солнце н…</p>
-            
-            <span class="related-content__card-link">
-                Подробнее
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-sagittarius&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Эпоха Стрельца</h3>
-            
-            <p class="related-content__card-desc">Эпоха Стрельца, охватывающая период с 19 650 по 17 490 год до н.э., изображается как второй Мировой Век, следующий за Эп…</p>
+            <p class="related-content__card-desc">Эпоха Водолея, охватывающая период с 1950 по 4110 год н.э., является текущей эрой в повествовании &quot;Wheel of Heaven&quot;, сле…</p>
             
             <span class="related-content__card-link">
                 Подробнее
@@ -3849,7 +3849,7 @@
             <span class="glossary-tooltip__badge">Вики</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">Нажмите, чтобы прочитать</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">Нажмите, чтобы прочитать</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -3859,6 +3859,7 @@
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -3935,6 +3936,7 @@
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

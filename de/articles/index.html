@@ -416,27 +416,7 @@
             
             
                 
-        <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//de/articles">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//de/articles">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//de/articles">
+        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de/articles">
             
         
     
@@ -456,17 +436,7 @@
             
             
                 
-        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//de/articles">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de/articles">
+        <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//de/articles">
             
         
     
@@ -477,6 +447,36 @@
             
                 
         <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//de/articles">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//de/articles">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//de/articles">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//de/articles">
             
         
     
@@ -2990,7 +2990,7 @@
             <span class="glossary-tooltip__badge">Wiki</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">Zum Weiterlesen klicken</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">Zum Weiterlesen klicken</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -3000,6 +3000,7 @@
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -3076,6 +3077,7 @@
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

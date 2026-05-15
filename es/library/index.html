@@ -404,16 +404,6 @@
             
             
                 
-        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//es/library">
-            
-        
-    
-
-    
-        
-            
-            
-                
         <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//es/library">
             
         
@@ -424,7 +414,37 @@
             
             
                 
+        <link rel="alternate" hreflang="fr" href="https://www.wheelofheaven.io/fr//es/library">
+            
+        
+    
+
+    
+        
+            
+            
+                
         <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es/library">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//es/library">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//es/library">
             
         
     
@@ -445,26 +465,6 @@
             
                 
         <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//es/library">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="fr" href="https://www.wheelofheaven.io/fr//es/library">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//es/library">
             
         
     
@@ -11223,7 +11223,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <span class="glossary-tooltip__badge">Wiki</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">Haga clic para leer más</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">Haga clic para leer más</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -11233,6 +11233,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -11309,6 +11310,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

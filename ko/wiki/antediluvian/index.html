@@ -4757,7 +4757,7 @@
             <span class="glossary-tooltip__badge">위키</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">클릭하여 자세히 보기</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">클릭하여 자세히 보기</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -4767,6 +4767,7 @@
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -4843,6 +4844,7 @@
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

@@ -4223,7 +4223,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
             <span class="glossary-tooltip__badge">百科</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">点击阅读更多</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">点击阅读更多</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -4233,6 +4233,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -4309,6 +4310,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

@@ -411,6 +411,36 @@
             
             
                 
+        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//zh/contributors">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//zh/contributors">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//zh/contributors">
+            
+        
+    
+
+    
+        
+            
+            
+                
         <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//zh/contributors">
             
         
@@ -421,17 +451,7 @@
             
             
                 
-        <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//zh/contributors">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//zh/contributors">
+        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//zh/contributors">
             
         
     
@@ -461,27 +481,7 @@
             
             
                 
-        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//zh/contributors">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//zh/contributors">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//zh/contributors">
+        <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//zh/contributors">
             
         
     
@@ -2884,7 +2884,7 @@
             <span class="glossary-tooltip__badge">百科</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">点击阅读更多</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">点击阅读更多</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -2894,6 +2894,7 @@
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -2970,6 +2971,7 @@
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

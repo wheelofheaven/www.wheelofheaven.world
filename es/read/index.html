@@ -406,7 +406,7 @@
             
             
                 
-        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//es/read">
+        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//es/read">
             
         
     
@@ -417,6 +417,26 @@
             
                 
         <link rel="alternate" hreflang="ru" href="https://www.wheelofheaven.io/ru//es/read">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//es/read">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//es/read">
             
         
     
@@ -456,27 +476,7 @@
             
             
                 
-        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//es/read">
-            
-        
-    
-
-    
-        
-            
-            
-                
         <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//es/read">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="de" href="https://www.wheelofheaven.io/de//es/read">
             
         
     
@@ -3002,7 +3002,7 @@ lectura cambia.</p>
             <span class="glossary-tooltip__badge">Wiki</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">Haga clic para leer más</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">Haga clic para leer más</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -3012,6 +3012,7 @@ lectura cambia.</p>
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -3088,6 +3089,7 @@ lectura cambia.</p>
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 

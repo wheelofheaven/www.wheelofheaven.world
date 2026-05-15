@@ -2326,10 +2326,6 @@
     
 
     
-        
-        
-        
-    
 
     
         
@@ -2373,6 +2369,10 @@
         
     
 
+    
+        
+        
+        
     
 
     
@@ -2411,6 +2411,8 @@
     
 
     
+
+    
         
         
             
@@ -2444,8 +2446,6 @@
         
             
         
-    
-
     
 
     
@@ -2475,6 +2475,21 @@
     </h2>
     <div class="related-content__grid">
         
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;de&#x2F;timeline&#x2F;age-of-capricorn&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Zeitalter des Steinbocks</h3>
+            
+            <p class="related-content__card-desc">Das Zeitalter des Steinbocks diskutiert den ersten präzessionellen Monat im Großen Jahr-Zyklus, eine Periode von 2.160 J…</p>
+            
+            <span class="related-content__card-link">
+                Mehr lesen
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
         <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;de&#x2F;timeline&#x2F;age-of-aquarius&#x2F;" class="related-content__card">
             
             <h3 class="related-content__card-title">Zeitalter des Wassermanns</h3>
@@ -2490,11 +2505,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;de&#x2F;timeline&#x2F;age-of-gemini&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;de&#x2F;timeline&#x2F;preamble&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Zeitalter der Zwillinge</h3>
+            <h3 class="related-content__card-title">Einleitung</h3>
             
-            <p class="related-content__card-desc">Das Zeitalter der Zwillinge, das von 6.690 bis 4.530 v. Chr. dauerte, folgt auf das Zeitalter des Krebses in der Erzählu…</p>
+            <p class="related-content__card-desc">Die Einleitung führt eine spekulative Erzählung über eine fortschrittliche außerirdische Zivilisation, die Elohim, ein, …</p>
             
             <span class="related-content__card-link">
                 Mehr lesen
@@ -2510,21 +2525,6 @@
             <h3 class="related-content__card-title">Zeitalter des Stiers</h3>
             
             <p class="related-content__card-desc">Das Zeitalter des Stiers, von 4.530 bis 2.370 v. Chr., ist eine bedeutende Periode in der „Wheel of Heaven“-Erzählung, n…</p>
-            
-            <span class="related-content__card-link">
-                Mehr lesen
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;de&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Zeitalter der Waage</h3>
-            
-            <p class="related-content__card-desc">Das Zeitalter der Waage, das von 15.330 bis 13.170 v. Chr. dauerte, repräsentiert in der Erzählung &quot;Wheel of Heaven&quot; den…</p>
             
             <span class="related-content__card-link">
                 Mehr lesen
@@ -3844,7 +3844,7 @@
             <span class="glossary-tooltip__badge">Wiki</span>
         </div>
         <p class="glossary-tooltip__definition" id="glossaryDefinition"></p>
-        <span class="glossary-tooltip__hint">Zum Weiterlesen klicken</span>
+        <a class="glossary-tooltip__hint" id="glossaryHint" href="#">Zum Weiterlesen klicken</a>
     </div>
     <div class="glossary-tooltip__arrow"></div>
 </div>
@@ -3854,6 +3854,7 @@
     const tooltip = document.getElementById('glossaryTooltip');
     const termEl = document.getElementById('glossaryTerm');
     const defEl = document.getElementById('glossaryDefinition');
+    const hintEl = document.getElementById('glossaryHint');
 
     if (!tooltip) return;
 
@@ -3930,6 +3931,7 @@
         // Show loading state with the best label we have locally.
         termEl.textContent = resolveTerm(link);
         defEl.textContent = tooltip.dataset.labelLoading || 'Loading...';
+        if (hintEl) hintEl.setAttribute('href', href);
         positionTooltip(link);
         showTooltip();
 
