@@ -16009,7 +16009,7 @@
 
                 <!-- Chapter Navigation -->
                 <nav class="library-book__nav" role="navigation" aria-label="Chapter navigation">
-                    <button class="library-book__nav-btn library-book__nav-btn--prev" onclick="previousChapter()" id="prev-chapter" aria-label="Go to previous chapter">
+                    <button class="library-book__nav-btn library-book__nav-btn--prev library-book__nav-btn--disabled" onclick="previousChapter()" id="prev-chapter" aria-label="Go to previous chapter" disabled>
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                             <path d="M15 18l-6-6 6-6"></path>
                         </svg>
@@ -16711,7 +16711,7 @@
                  sticky TOC pattern. -->
             <div class="library-book__toc">
                 <div class="library-book__toc-header">
-                    <h3 class="library-book__toc-title" id="book-toc-heading">Inhalt</h3>
+                    <h2 class="library-book__toc-title" id="book-toc-heading">Inhalt</h2>
                 </div>
                 <nav class="library-book__toc-nav" aria-labelledby="book-toc-heading">
                     <ul class="library-book__toc-list">
@@ -16973,8 +16973,16 @@ function updateChapterNavigation() {
     const nextButton = document.getElementById('next-chapter');
     const currentDisplay = document.getElementById('current-chapter-display');
 
-    if (prevButton) prevButton.classList.toggle('library-book__nav-btn--disabled', currentChapter <= 1);
-    if (nextButton) nextButton.classList.toggle('library-book__nav-btn--disabled', currentChapter >= totalChapters);
+    if (prevButton) {
+        const dis = currentChapter <= 1;
+        prevButton.classList.toggle('library-book__nav-btn--disabled', dis);
+        prevButton.disabled = dis;
+    }
+    if (nextButton) {
+        const dis = currentChapter >= totalChapters;
+        nextButton.classList.toggle('library-book__nav-btn--disabled', dis);
+        nextButton.disabled = dis;
+    }
     if (currentDisplay) currentDisplay.textContent = `${currentChapter} / ${totalChapters}`;
 }
 
@@ -17108,7 +17116,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
 
       <div class="footer__col">
-        <h6>Loslegen</h6>
+        <h4 class="footer__col-title">Loslegen</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/de/about">Über uns</a></li>
           <li><a href="https://www.wheelofheaven.io/de/contact">Kontakt</a></li>
@@ -17117,7 +17125,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <li><a href="https://www.wheelofheaven.io/de/faq">Häufig Gestellte Fragen</a></li>
         </ul>
 
-        <h6>Direkt loslesen</h6>
+        <h4 class="footer__col-title">Direkt loslesen</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/de/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/de/wiki/precession">Präzession</a></li>
@@ -17126,7 +17134,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
 
       <div class="footer__col">
-        <h6>Abschnitte</h6>
+        <h4 class="footer__col-title">Abschnitte</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/de/">Startseite</a></li>
           <li><a href="https://www.wheelofheaven.io/de/read">Lesen</a></li>
@@ -17140,7 +17148,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
 
       <div class="footer__col">
-        <h6>Community</h6>
+        <h4 class="footer__col-title">Community</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/de/forums">Diskussionen</a></li>
           <li><a href="https://www.wheelofheaven.io/de/contributing">Mitwirken</a></li>
@@ -17181,7 +17189,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
         </ul>
 
-        <h6>Soziale Medien</h6>
+        <h4 class="footer__col-title">Soziale Medien</h4>
         <ul>
           <li>
   
@@ -17255,7 +17263,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
 
       <div class="footer__col">
-        <h6>Entwicklung</h6>
+        <h4 class="footer__col-title">Entwicklung</h4>
         <ul>
           <li>
   
@@ -17294,7 +17302,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <li><a href="https://www.wheelofheaven.io/de/atom.xml">RSS-Feed</a></li>
         </ul>
 
-        <h6>Datenschutz &amp; Bedingungen</h6>
+        <h4 class="footer__col-title">Datenschutz &amp; Bedingungen</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/de/privacy-policy">Datenschutzbestimmungen</a></li>
           <li><a href="https://www.wheelofheaven.io/de/cookie-policy">Cookie-Richtlinie</a></li>

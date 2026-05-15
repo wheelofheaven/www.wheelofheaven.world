@@ -83,6 +83,10 @@
 
         installBanner = document.createElement('div');
         installBanner.className = 'pwa-install-banner';
+        // Wrap in a landmark so the banner's content is reachable by screen
+        // readers without falling outside the page's landmark structure.
+        installBanner.setAttribute('role', 'region');
+        installBanner.setAttribute('aria-label', 'Install Wheel of Heaven');
         installBanner.innerHTML = `
             <div class="pwa-install-banner__content">
                 <div class="pwa-install-banner__icon">

@@ -2254,8 +2254,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -2323,8 +2326,6 @@
     
 
     
-
-    
         
         
         
@@ -2364,6 +2365,8 @@
         
         
         
+    
+
     
 
     
@@ -2408,8 +2411,6 @@
     
 
     
-
-    
         
         
             
@@ -2443,6 +2444,8 @@
         
             
         
+    
+
     
 
     
@@ -2472,26 +2475,11 @@
     </h2>
     <div class="related-content__grid">
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-aquarius&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;preamble&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Ère du Verseau</h3>
+            <h3 class="related-content__card-title">Préambule</h3>
             
-            <p class="related-content__card-desc">L&#x27;Âge du Verseau, s&#x27;étendant de 1950 à 4110 ap. J.-C., marque l&#x27;ère actuelle dans la narration de « Wheel of Heaven », s…</p>
-            
-            <span class="related-content__card-link">
-                Lire la suite
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-capricorn&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Ère du Capricorne</h3>
-            
-            <p class="related-content__card-desc">L&#x27;Âge du Capricorne traite du premier mois précessionnel dans le cycle de la Grande Année, une période de 2 160 ans lors…</p>
+            <p class="related-content__card-desc">Le préambule introduit un récit spéculatif sur une civilisation extraterrestre avancée, les Elohim, qui se lancent dans …</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -2502,11 +2490,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-scorpio&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Âge du Scorpion</h3>
+            <h3 class="related-content__card-title">Âge de la Balance</h3>
             
-            <p class="related-content__card-desc">L&#x27;Âge du Scorpion, durant de 17 490 à 15 330 av. J.-C., représente le &quot;Troisième Jour de la Création&quot; dans le récit de &quot;…</p>
+            <p class="related-content__card-desc">L&#x27;Âge de la Balance, durant de 15 330 à 13 170 av. J.-C., dans le récit de &quot;Wheel of Heaven&quot;, représente le &quot;Quatrième J…</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -2517,11 +2505,26 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-cancer&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-pisces&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Âge du cancer</h3>
+            <h3 class="related-content__card-title">Âge des Poissons</h3>
             
-            <p class="related-content__card-desc">L&#x27;Âge du Cancer, s&#x27;étendant de 8 850 à 6 690 av. J.-C., suit l&#x27;Âge du Lion dans le récit de &quot;Wheel of Heaven&quot;. Cette ère…</p>
+            <p class="related-content__card-desc">L&#x27;Âge des Poissons, s&#x27;étendant de 210 av. J.-C. à 1950 ap. J.-C., a succédé à l&#x27;Âge du Bélier et est récemment passé à l…</p>
+            
+            <span class="related-content__card-link">
+                Lire la suite
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;fr&#x2F;timeline&#x2F;age-of-taurus&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Âge du Taureau</h3>
+            
+            <p class="related-content__card-desc">L&#x27;Âge du Taureau, de 4 530 à 2 370 av. J.-C., est une période significative dans la narration de « Wheel of Heaven », su…</p>
             
             <span class="related-content__card-link">
                 Lire la suite
@@ -2578,7 +2581,7 @@
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -2676,7 +2679,7 @@
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="Lecture"
      data-label-pause="Pause"
      data-label-this-page="Cette page">
@@ -2942,7 +2945,7 @@
             
             <div class="wiki__toc">
                 <div class="wiki__toc-header">
-                    <h3 class="wiki__toc-title" id="toc-heading">Sommaire</h3>
+                    <h2 class="wiki__toc-title" id="toc-heading">Sommaire</h2>
                 </div>
                 <nav class="wiki__toc-nav" aria-labelledby="toc-heading">
                     <ul class="wiki__toc-list">
@@ -3257,7 +3260,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Commencer</h6>
+        <h4 class="footer__col-title">Commencer</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/about">À propos</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/contact">Contact</a></li>
@@ -3266,7 +3269,7 @@
           <li><a href="https://www.wheelofheaven.io/fr/faq">Questions Fréquemment Posées</a></li>
         </ul>
 
-        <h6>Entrer dans la lecture</h6>
+        <h4 class="footer__col-title">Entrer dans la lecture</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/wiki/precession">Précession</a></li>
@@ -3275,7 +3278,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Sections</h6>
+        <h4 class="footer__col-title">Sections</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/">Accueil</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/read">Lire</a></li>
@@ -3289,7 +3292,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Communauté</h6>
+        <h4 class="footer__col-title">Communauté</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/forums">Discussions</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/contributing">Contribuer</a></li>
@@ -3330,7 +3333,7 @@
 </li>
         </ul>
 
-        <h6>Médias Sociaux</h6>
+        <h4 class="footer__col-title">Médias Sociaux</h4>
         <ul>
           <li>
   
@@ -3404,7 +3407,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Développement</h6>
+        <h4 class="footer__col-title">Développement</h4>
         <ul>
           <li>
   
@@ -3443,7 +3446,7 @@
           <li><a href="https://www.wheelofheaven.io/fr/atom.xml">Flux RSS</a></li>
         </ul>
 
-        <h6>Confidentialité &amp; Conditions</h6>
+        <h4 class="footer__col-title">Confidentialité &amp; Conditions</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/privacy-policy">Politique de Confidentialité</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/cookie-policy">Politique sur les Cookies</a></li>

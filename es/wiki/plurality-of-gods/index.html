@@ -2299,8 +2299,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -3529,7 +3532,7 @@
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -3705,7 +3708,7 @@
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="Reproducir"
      data-label-pause="Pausar"
      data-label-this-page="Esta página">
@@ -3980,7 +3983,7 @@
             
             <div class="wiki__toc">
                 <div class="wiki__toc-header">
-                    <h3 class="wiki__toc-title" id="toc-heading">Contenido</h3>
+                    <h2 class="wiki__toc-title" id="toc-heading">Contenido</h2>
                 </div>
                 <nav class="wiki__toc-nav" aria-labelledby="toc-heading">
                     <ul class="wiki__toc-list">
@@ -4627,7 +4630,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Empezar</h6>
+        <h4 class="footer__col-title">Empezar</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/es/about">Acerca de</a></li>
           <li><a href="https://www.wheelofheaven.io/es/contact">Contacto</a></li>
@@ -4636,7 +4639,7 @@
           <li><a href="https://www.wheelofheaven.io/es/faq">Preguntas Frecuentes</a></li>
         </ul>
 
-        <h6>Entrar a leer</h6>
+        <h4 class="footer__col-title">Entrar a leer</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/es/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/es/wiki/precession">Precesión</a></li>
@@ -4645,7 +4648,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Secciones</h6>
+        <h4 class="footer__col-title">Secciones</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/es/">Inicio</a></li>
           <li><a href="https://www.wheelofheaven.io/es/read">Leer</a></li>
@@ -4659,7 +4662,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Comunidad</h6>
+        <h4 class="footer__col-title">Comunidad</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/es/forums">Discusiones</a></li>
           <li><a href="https://www.wheelofheaven.io/es/contributing">Contribuir</a></li>
@@ -4700,7 +4703,7 @@
 </li>
         </ul>
 
-        <h6>Redes Sociales</h6>
+        <h4 class="footer__col-title">Redes Sociales</h4>
         <ul>
           <li>
   
@@ -4774,7 +4777,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Desarrollo</h6>
+        <h4 class="footer__col-title">Desarrollo</h4>
         <ul>
           <li>
   
@@ -4813,7 +4816,7 @@
           <li><a href="https://www.wheelofheaven.io/es/atom.xml">Fuente RSS</a></li>
         </ul>
 
-        <h6>Privacidad y Términos</h6>
+        <h4 class="footer__col-title">Privacidad y Términos</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/es/privacy-policy">Política de Privacidad</a></li>
           <li><a href="https://www.wheelofheaven.io/es/cookie-policy">Política de Cookies</a></li>

@@ -2307,8 +2307,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -3439,7 +3442,7 @@
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -3637,7 +3640,7 @@
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="재생"
      data-label-pause="일시 정지"
      data-label-this-page="이 페이지">
@@ -3912,7 +3915,7 @@
             
             <div class="wiki__toc">
                 <div class="wiki__toc-header">
-                    <h3 class="wiki__toc-title" id="toc-heading">목차</h3>
+                    <h2 class="wiki__toc-title" id="toc-heading">목차</h2>
                 </div>
                 <nav class="wiki__toc-nav" aria-labelledby="toc-heading">
                     <ul class="wiki__toc-list">
@@ -4574,7 +4577,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>시작하기</h6>
+        <h4 class="footer__col-title">시작하기</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ko/about">소개</a></li>
           <li><a href="https://www.wheelofheaven.io/ko/contact">연락처</a></li>
@@ -4583,7 +4586,7 @@
           <li><a href="https://www.wheelofheaven.io/ko/faq">자주 묻는 질문</a></li>
         </ul>
 
-        <h6>바로 읽기</h6>
+        <h4 class="footer__col-title">바로 읽기</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ko/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/ko/wiki/precession">세차</a></li>
@@ -4592,7 +4595,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>섹션</h6>
+        <h4 class="footer__col-title">섹션</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ko/">홈</a></li>
           <li><a href="https://www.wheelofheaven.io/ko/read">읽기</a></li>
@@ -4606,7 +4609,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>커뮤니티</h6>
+        <h4 class="footer__col-title">커뮤니티</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ko/forums">토론</a></li>
           <li><a href="https://www.wheelofheaven.io/ko/contributing">기여하기</a></li>
@@ -4647,7 +4650,7 @@
 </li>
         </ul>
 
-        <h6>소셜 미디어</h6>
+        <h4 class="footer__col-title">소셜 미디어</h4>
         <ul>
           <li>
   
@@ -4721,7 +4724,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>개발</h6>
+        <h4 class="footer__col-title">개발</h4>
         <ul>
           <li>
   
@@ -4760,7 +4763,7 @@
           <li><a href="https://www.wheelofheaven.io/ko/atom.xml">RSS 피드</a></li>
         </ul>
 
-        <h6>개인정보 및 약관</h6>
+        <h4 class="footer__col-title">개인정보 및 약관</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ko/privacy-policy">개인정보 처리방침</a></li>
           <li><a href="https://www.wheelofheaven.io/ko/cookie-policy">쿠키 정책</a></li>

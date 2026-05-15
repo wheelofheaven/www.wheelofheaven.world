@@ -136,12 +136,17 @@
     function showPlayer() {
         player.classList.add('audio-player--visible');
         player.setAttribute('aria-hidden', 'false');
+        // `inert` mirrors aria-hidden but also removes the panel from the
+        // tab order. Without it, the play/pause/close buttons remain
+        // focusable even while the player is visually offscreen.
+        player.removeAttribute('inert');
         document.body.classList.add('has-audio-player');
     }
 
     function hidePlayer() {
         player.classList.remove('audio-player--visible');
         player.setAttribute('aria-hidden', 'true');
+        player.setAttribute('inert', '');
         document.body.classList.remove('has-audio-player');
     }
 

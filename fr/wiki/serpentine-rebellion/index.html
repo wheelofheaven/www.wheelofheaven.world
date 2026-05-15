@@ -2285,8 +2285,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -3011,7 +3014,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -3109,7 +3112,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="Lecture"
      data-label-pause="Pause"
      data-label-this-page="Cette page">
@@ -3663,7 +3666,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
       </div>
 
       <div class="footer__col">
-        <h6>Commencer</h6>
+        <h4 class="footer__col-title">Commencer</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/about">À propos</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/contact">Contact</a></li>
@@ -3672,7 +3675,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
           <li><a href="https://www.wheelofheaven.io/fr/faq">Questions Fréquemment Posées</a></li>
         </ul>
 
-        <h6>Entrer dans la lecture</h6>
+        <h4 class="footer__col-title">Entrer dans la lecture</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/wiki/precession">Précession</a></li>
@@ -3681,7 +3684,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
       </div>
 
       <div class="footer__col">
-        <h6>Sections</h6>
+        <h4 class="footer__col-title">Sections</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/">Accueil</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/read">Lire</a></li>
@@ -3695,7 +3698,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
       </div>
 
       <div class="footer__col">
-        <h6>Communauté</h6>
+        <h4 class="footer__col-title">Communauté</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/forums">Discussions</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/contributing">Contribuer</a></li>
@@ -3736,7 +3739,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
 </li>
         </ul>
 
-        <h6>Médias Sociaux</h6>
+        <h4 class="footer__col-title">Médias Sociaux</h4>
         <ul>
           <li>
   
@@ -3810,7 +3813,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
       </div>
 
       <div class="footer__col">
-        <h6>Développement</h6>
+        <h4 class="footer__col-title">Développement</h4>
         <ul>
           <li>
   
@@ -3849,7 +3852,7 @@ Rebellion" emphasizes the <em>faction and its acts of defiance</em>, while
           <li><a href="https://www.wheelofheaven.io/fr/atom.xml">Flux RSS</a></li>
         </ul>
 
-        <h6>Confidentialité &amp; Conditions</h6>
+        <h4 class="footer__col-title">Confidentialité &amp; Conditions</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/fr/privacy-policy">Politique de Confidentialité</a></li>
           <li><a href="https://www.wheelofheaven.io/fr/cookie-policy">Politique sur les Cookies</a></li>

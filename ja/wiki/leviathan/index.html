@@ -2276,8 +2276,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -3186,7 +3189,7 @@
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -3273,7 +3276,7 @@
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="再生"
      data-label-pause="一時停止"
      data-label-this-page="このページ">
@@ -3827,7 +3830,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>はじめる</h6>
+        <h4 class="footer__col-title">はじめる</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ja/about">紹介</a></li>
           <li><a href="https://www.wheelofheaven.io/ja/contact">連絡先</a></li>
@@ -3836,7 +3839,7 @@
           <li><a href="https://www.wheelofheaven.io/ja/faq">よくある質問</a></li>
         </ul>
 
-        <h6>読みはじめる</h6>
+        <h4 class="footer__col-title">読みはじめる</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ja/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/ja/wiki/precession">歳差</a></li>
@@ -3845,7 +3848,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>セクション</h6>
+        <h4 class="footer__col-title">セクション</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ja/">ホーム</a></li>
           <li><a href="https://www.wheelofheaven.io/ja/read">読む</a></li>
@@ -3859,7 +3862,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>コミュニティ</h6>
+        <h4 class="footer__col-title">コミュニティ</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ja/forums">ディスカッション</a></li>
           <li><a href="https://www.wheelofheaven.io/ja/contributing">貢献</a></li>
@@ -3900,7 +3903,7 @@
 </li>
         </ul>
 
-        <h6>ソーシャルメディア</h6>
+        <h4 class="footer__col-title">ソーシャルメディア</h4>
         <ul>
           <li>
   
@@ -3974,7 +3977,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>開発</h6>
+        <h4 class="footer__col-title">開発</h4>
         <ul>
           <li>
   
@@ -4013,7 +4016,7 @@
           <li><a href="https://www.wheelofheaven.io/ja/atom.xml">RSSフィード</a></li>
         </ul>
 
-        <h6>プライバシーと利用規約</h6>
+        <h4 class="footer__col-title">プライバシーと利用規約</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ja/privacy-policy">プライバシーポリシー</a></li>
           <li><a href="https://www.wheelofheaven.io/ja/cookie-policy">クッキーポリシー</a></li>

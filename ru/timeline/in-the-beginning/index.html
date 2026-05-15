@@ -2259,8 +2259,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -2388,10 +2391,6 @@
     
 
     
-        
-        
-        
-    
 
     
         
@@ -2399,6 +2398,10 @@
         
     
 
+    
+        
+        
+        
     
 
 
@@ -2477,6 +2480,36 @@
     </h2>
     <div class="related-content__grid">
         
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-libra&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Эпоха Весов</h3>
+            
+            <p class="related-content__card-desc">Эпоха Весов, продолжающаяся с 15 330 по 13 170 год до н.э., в повествовании &quot;Колеса Небес&quot; представляет собой &quot;Четвертый…</p>
+            
+            <span class="related-content__card-link">
+                Подробнее
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;preamble&#x2F;" class="related-content__card">
+            
+            <h3 class="related-content__card-title">Предисловие</h3>
+            
+            <p class="related-content__card-desc">Преамбула вводит спекулятивный нарратив об продвинутой внеземной цивилизации, Элохимах, которые занимаются генетическими…</p>
+            
+            <span class="related-content__card-link">
+                Подробнее
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </span>
+        </a>
+        
         <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-sagittarius&#x2F;" class="related-content__card">
             
             <h3 class="related-content__card-title">Эпоха Стрельца</h3>
@@ -2492,41 +2525,11 @@
             </span>
         </a>
         
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-capricorn&#x2F;" class="related-content__card">
+        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-aries&#x2F;" class="related-content__card">
             
-            <h3 class="related-content__card-title">Эпоха Козерога</h3>
+            <h3 class="related-content__card-title">Эпоха Овна</h3>
             
-            <p class="related-content__card-desc">Эпоха Козерога обсуждает первый прецессионный месяц в цикле Великого Года, период в 2,160 лет, когда восходящее солнце н…</p>
-            
-            <span class="related-content__card-link">
-                Подробнее
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-aquarius&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Эпоха Водолея</h3>
-            
-            <p class="related-content__card-desc">Эпоха Водолея, охватывающая период с 1950 по 4110 год н.э., является текущей эрой в повествовании &quot;Wheel of Heaven&quot;, сле…</p>
-            
-            <span class="related-content__card-link">
-                Подробнее
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <line x1="5" y1="12" x2="19" y2="12"></line>
-                    <polyline points="12 5 19 12 12 19"></polyline>
-                </svg>
-            </span>
-        </a>
-        
-        <a href="https:&#x2F;&#x2F;www.wheelofheaven.io&#x2F;ru&#x2F;timeline&#x2F;age-of-leo&#x2F;" class="related-content__card">
-            
-            <h3 class="related-content__card-title">Эпоха Льва</h3>
-            
-            <p class="related-content__card-desc">Эпоха Льва, длившаяся с 11 010 по 8 850 год до н.э., следует за Эпохой Девы в повествовании &quot;Колеса Небес&quot;. Эта эпоха от…</p>
+            <p class="related-content__card-desc">Эпоха Овна, охватывающая период с 2370 по 210 год до н.э., следует за Эпохой Тельца в повествовании &quot;Wheel of Heaven&quot;. Э…</p>
             
             <span class="related-content__card-link">
                 Подробнее
@@ -2583,7 +2586,7 @@
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -2681,7 +2684,7 @@
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="Воспроизвести"
      data-label-pause="Пауза"
      data-label-this-page="Эта страница">
@@ -2947,7 +2950,7 @@
             
             <div class="wiki__toc">
                 <div class="wiki__toc-header">
-                    <h3 class="wiki__toc-title" id="toc-heading">Содержание</h3>
+                    <h2 class="wiki__toc-title" id="toc-heading">Содержание</h2>
                 </div>
                 <nav class="wiki__toc-nav" aria-labelledby="toc-heading">
                     <ul class="wiki__toc-list">
@@ -3262,7 +3265,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Начать</h6>
+        <h4 class="footer__col-title">Начать</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ru/about">О проекте</a></li>
           <li><a href="https://www.wheelofheaven.io/ru/contact">Контакт</a></li>
@@ -3271,7 +3274,7 @@
           <li><a href="https://www.wheelofheaven.io/ru/faq">Часто Задаваемые Вопросы</a></li>
         </ul>
 
-        <h6>Сразу к чтению</h6>
+        <h4 class="footer__col-title">Сразу к чтению</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ru/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/ru/wiki/precession">Прецессия</a></li>
@@ -3280,7 +3283,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Разделы</h6>
+        <h4 class="footer__col-title">Разделы</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ru/">Главная</a></li>
           <li><a href="https://www.wheelofheaven.io/ru/read">Читать</a></li>
@@ -3294,7 +3297,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Сообщество</h6>
+        <h4 class="footer__col-title">Сообщество</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ru/forums">Обсуждения</a></li>
           <li><a href="https://www.wheelofheaven.io/ru/contributing">Участие</a></li>
@@ -3335,7 +3338,7 @@
 </li>
         </ul>
 
-        <h6>Социальные Сети</h6>
+        <h4 class="footer__col-title">Социальные Сети</h4>
         <ul>
           <li>
   
@@ -3409,7 +3412,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>Разработка</h6>
+        <h4 class="footer__col-title">Разработка</h4>
         <ul>
           <li>
   
@@ -3448,7 +3451,7 @@
           <li><a href="https://www.wheelofheaven.io/ru/atom.xml">RSS-лента</a></li>
         </ul>
 
-        <h6>Конфиденциальность и Условия</h6>
+        <h4 class="footer__col-title">Конфиденциальность и Условия</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/ru/privacy-policy">Политика Конфиденциальности</a></li>
           <li><a href="https://www.wheelofheaven.io/ru/cookie-policy">Политика использования Cookie</a></li>

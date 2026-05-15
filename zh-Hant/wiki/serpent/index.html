@@ -2292,8 +2292,11 @@
 
     <div class="wiki__container">
         <!-- Main column comes first in DOM so mobile readers see title + body before
-             the sidebar's metadata. Grid areas keep the visual order on desktop. -->
-        <main class="wiki__main">
+             the sidebar's metadata. Grid areas keep the visual order on desktop.
+             This wrapper is a plain div — base.html already provides the single
+             <main id="main-content"> landmark; nesting another <main> here would
+             violate the one-main-per-page rule. -->
+        <div class="wiki__main">
             <article class="wiki__article" role="article" aria-labelledby="wiki-title">
                 <!-- Page Title (between breadcrumbs and the first chapter heading) -->
                 <header class="wiki__page-header">
@@ -3429,7 +3432,7 @@
                     </a>
                 </div>
             </article>
-        </main>
+        </div>
 
         <!-- Sidebar: claim badge + page meta + sticky TOC. On mobile,
              a small JS helper lifts the TOC out of the sidebar and inserts it
@@ -3628,7 +3631,7 @@
 </button>
 
 <!-- Audio Player Bar - Fixed at bottom (SoundCloud style) -->
-<div class="audio-player" id="audioPlayer" aria-hidden="true"
+<div class="audio-player" id="audioPlayer" aria-hidden="true" inert
      data-label-play="播放"
      data-label-pause="暫停"
      data-label-this-page="此頁面">
@@ -3903,7 +3906,7 @@
             
             <div class="wiki__toc">
                 <div class="wiki__toc-header">
-                    <h3 class="wiki__toc-title" id="toc-heading">目錄</h3>
+                    <h2 class="wiki__toc-title" id="toc-heading">目錄</h2>
                 </div>
                 <nav class="wiki__toc-nav" aria-labelledby="toc-heading">
                     <ul class="wiki__toc-list">
@@ -4402,7 +4405,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>開始</h6>
+        <h4 class="footer__col-title">開始</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/about">關於</a></li>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/contact">聯絡方式</a></li>
@@ -4411,7 +4414,7 @@
           <li><a href="https://www.wheelofheaven.io/zh-Hant/faq">常見問題</a></li>
         </ul>
 
-        <h6>直接開始閱讀</h6>
+        <h4 class="footer__col-title">直接開始閱讀</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/wiki/elohim">The Working Hypothesis</a></li>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/wiki/precession">歲差</a></li>
@@ -4420,7 +4423,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>版塊</h6>
+        <h4 class="footer__col-title">版塊</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/">首頁</a></li>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/read">閱讀</a></li>
@@ -4434,7 +4437,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>社群</h6>
+        <h4 class="footer__col-title">社群</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/forums">討論</a></li>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/contributing">參與貢獻</a></li>
@@ -4475,7 +4478,7 @@
 </li>
         </ul>
 
-        <h6>社群媒體</h6>
+        <h4 class="footer__col-title">社群媒體</h4>
         <ul>
           <li>
   
@@ -4549,7 +4552,7 @@
       </div>
 
       <div class="footer__col">
-        <h6>開發</h6>
+        <h4 class="footer__col-title">開發</h4>
         <ul>
           <li>
   
@@ -4588,7 +4591,7 @@
           <li><a href="https://www.wheelofheaven.io/zh-Hant/atom.xml">RSS 訂閱</a></li>
         </ul>
 
-        <h6>隱私與條款</h6>
+        <h4 class="footer__col-title">隱私與條款</h4>
         <ul>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/privacy-policy">隱私政策</a></li>
           <li><a href="https://www.wheelofheaven.io/zh-Hant/cookie-policy">Cookie 政策</a></li>
