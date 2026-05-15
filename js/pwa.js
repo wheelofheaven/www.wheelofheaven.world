@@ -226,15 +226,18 @@
             urls: [url]
         });
 
-        // Update button state
+        // Update button state. The only consumer right now is the
+        // icon-only `.social-share__btn--offline`, so swap the SVG to a
+        // checkmark and let the SCSS state styling handle the rest —
+        // injecting a "Saved Offline" text label here broke the 36×36
+        // icon cell.
         if (button) {
             button.classList.add('is-saved');
-            button.innerHTML = `
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="20 6 9 17 4 12"></polyline>
-                </svg>
-                Saved Offline
-            `;
+            button.setAttribute('aria-pressed', 'true');
+            const svg = button.querySelector('svg');
+            if (svg) {
+                svg.innerHTML = '<polyline points="20 6 9 17 4 12"></polyline>';
+            }
         }
     }
 
@@ -256,12 +259,11 @@
                 const saveButtons = document.querySelectorAll('[data-save-offline]');
                 saveButtons.forEach(btn => {
                     btn.classList.add('is-saved');
-                    btn.innerHTML = `
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <polyline points="20 6 9 17 4 12"></polyline>
-                        </svg>
-                        Saved Offline
-                    `;
+                    btn.setAttribute('aria-pressed', 'true');
+                    const svg = btn.querySelector('svg');
+                    if (svg) {
+                        svg.innerHTML = '<polyline points="20 6 9 17 4 12"></polyline>';
+                    }
                 });
             }
         } catch (error) {
