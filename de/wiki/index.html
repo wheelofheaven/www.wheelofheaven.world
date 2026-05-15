@@ -408,7 +408,7 @@
             
             
                 
-        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//de/wiki">
+        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//de/wiki">
             
         
     
@@ -428,7 +428,17 @@
             
             
                 
-        <link rel="alternate" hreflang="zh-Hant" href="https://www.wheelofheaven.io/zh-Hant//de/wiki">
+        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//de/wiki">
+            
+        
+    
+
+    
+        
+            
+            
+                
+        <link rel="alternate" hreflang="ja" href="https://www.wheelofheaven.io/ja//de/wiki">
             
         
     
@@ -458,7 +468,7 @@
             
             
                 
-        <link rel="alternate" hreflang="zh" href="https://www.wheelofheaven.io/zh//de/wiki">
+        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//de/wiki">
             
         
     
@@ -469,16 +479,6 @@
             
                 
         <link rel="alternate" hreflang="es" href="https://www.wheelofheaven.io/es//de/wiki">
-            
-        
-    
-
-    
-        
-            
-            
-                
-        <link rel="alternate" hreflang="ko" href="https://www.wheelofheaven.io/ko//de/wiki">
             
         
     
@@ -17019,6 +17019,17 @@ document.addEventListener('DOMContentLoaded', function() {
         return MONTH_NAMES[idx] + ' ' + y;
     }
 
+    // Lowercase, hyphenated slug. Mirrors Tera's `slugify` for the
+    // categories we actually use (ASCII labels like "Cosmic Chronology").
+    function slugify(s) {
+        return String(s || '')
+            .toLowerCase()
+            .trim()
+            .replace(/[^\w\s-]/g, '')
+            .replace(/[\s_]+/g, '-')
+            .replace(/^-+|-+$/g, '');
+    }
+
     function regroup(mode) {
         // Pull every card out of its current wrapper, regardless of mode.
         const cards = Array.from(articlesContainer.querySelectorAll('.wiki-card'));
@@ -17069,8 +17080,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 const section = document.createElement('section');
                 section.className = 'category-group';
                 section.dataset.groupKey = key;
-                // In alpha mode, anchor each group so the letter bar can jump.
+                // Anchor each group so external links (breadcrumb category
+                // pills, alphabet bar) can deep-link to a specific group.
                 if (mode === 'alpha') section.id = 'letter-' + key;
+                else if (mode === 'topics') section.id = 'category-' + slugify(key);
 
                 const header = document.createElement('header');
                 header.className = 'category-group__header';
@@ -17169,8 +17182,25 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Initial render already in topics mode from server; just wire filter state.
+    // If the URL arrives with a #category-… fragment (e.g. from a wiki
+    // breadcrumb), switch to topics mode so the anchor exists, then
+    // scroll to it. Browsers can't scroll to fragments that don't yet
+    // exist in the DOM, so we re-trigger after regroup builds them.
+    function consumeHash() {
+        const hash = window.location.hash || '';
+        if (!hash.startsWith('#category-')) return;
+        if (groupBy && groupBy.value !== 'topics') {
+            groupBy.value = 'topics';
+            regroup('topics');
+        }
+        const target = document.getElementById(hash.slice(1));
+        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // Initial render is in alpha mode from server; just wire filter state.
     filterArticles();
+    consumeHash();
+    window.addEventListener('hashchange', consumeHash);
 });
 </script>
 
