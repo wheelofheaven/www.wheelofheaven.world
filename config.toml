@@ -1,4 +1,4 @@
-base_url = "https://www.wheelofheaven.io"
+base_url = "https://www.wheelofheaven.world"
 default_language = "en"
 theme = "bifrost"
 title = "Wheel of Heaven"
@@ -32,12 +32,12 @@ author = "Wheel of Heaven"
 author_type = "Organization"
 twitter_username = "wheelofheaven"
 logo = "brand/logo.png"
-cdn_url = "https://assets.wheelofheaven.io"
+cdn_url = "https://assets.wheelofheaven.world"
 # analytics_domain = "analytics.domain.com"
 social_links = ["https://x.com/wheelofheaven", "https://github.com/wheelofheaven", "https://t.me/wheelofheaven"]
 
 # Organization metadata for enhanced SEO/AEO
-organization_id = "https://wheelofheaven.io/#organization"
+organization_id = "https://www.wheelofheaven.world/#organization"
 github_url = "https://github.com/wheelofheaven"
 telegram_url = "https://t.me/wheelofheaven"
 founding_date = "2023"

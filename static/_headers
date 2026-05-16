@@ -48,4 +48,4 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' https://assets.wheelofheaven.io data: blob:; font-src 'self'; connect-src 'self' https://assets.wheelofheaven.io; media-src 'self' https://assets.wheelofheaven.io; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' https://assets.wheelofheaven.world data: blob:; font-src 'self'; connect-src 'self' https://assets.wheelofheaven.world; media-src 'self' https://assets.wheelofheaven.world; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
