@@ -247,18 +247,12 @@
             urls: [url]
         });
 
-        // Update button state. The only consumer right now is the
-        // icon-only `.social-share__btn--offline`, so swap the SVG to a
-        // checkmark and let the SCSS state styling handle the rest —
-        // injecting a "Saved Offline" text label here broke the 36×36
-        // icon cell.
+        // Update button state. Keep the download icon — the SCSS
+        // rainbow stroke on `.is-saved` is what signals "available
+        // offline" now, paired with the title-attribute tooltip.
         if (button) {
             button.classList.add('is-saved');
             button.setAttribute('aria-pressed', 'true');
-            const svg = button.querySelector('svg');
-            if (svg) {
-                svg.innerHTML = '<polyline points="20 6 9 17 4 12"></polyline>';
-            }
         }
     }
 
@@ -281,10 +275,6 @@
                 saveButtons.forEach(btn => {
                     btn.classList.add('is-saved');
                     btn.setAttribute('aria-pressed', 'true');
-                    const svg = btn.querySelector('svg');
-                    if (svg) {
-                        svg.innerHTML = '<polyline points="20 6 9 17 4 12"></polyline>';
-                    }
                 });
             }
         } catch (error) {
