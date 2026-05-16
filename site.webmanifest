@@ -163,13 +163,13 @@
   "related_applications": [
     {
       "platform": "webapp",
-      "url": "https://www.wheelofheaven.io/site.webmanifest"
+      "url": "https://www.wheelofheaven.world/site.webmanifest"
     }
   ],
 
   "scope_extensions": [
     {
-      "origin": "https://www.wheelofheaven.io"
+      "origin": "https://www.wheelofheaven.world"
     }
   ],
 

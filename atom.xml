@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Wheel of Heaven</title>
     <subtitle>A long reading of the ancient world&#x27;s creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://www.wheelofheaven.io/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io"/>
+    <link rel="self" type="application/atom+xml" href="https://www.wheelofheaven.world/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2026-05-10T00:00:00+00:00</updated>
-    <id>https://www.wheelofheaven.io/atom.xml</id>
+    <id>https://www.wheelofheaven.world/atom.xml</id>
     <entry xml:lang="en">
         <title>Zara Zinsfuss</title>
         <published>2026-05-10T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/author/zara-zinsfuss/"/>
-        <id>https://www.wheelofheaven.io/author/zara-zinsfuss/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/author/zara-zinsfuss/"/>
+        <id>https://www.wheelofheaven.world/author/zara-zinsfuss/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/author/zara-zinsfuss/">&lt;p&gt;I write under the name Zara Zinsfuss. The name is a pen name. I will not say more about that.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/author/zara-zinsfuss/">&lt;p&gt;I write under the name Zara Zinsfuss. The name is a pen name. I will not say more about that.&lt;&#x2F;p&gt;
 &lt;p&gt;I am writing this from Switzerland, where I have lived for most of my adult life. I am in my mid-thirties. I work in the technology department of one of the country&#x27;s well-known financial institutions, in a role that sits somewhere between software engineering, cybersecurity, and systems architecture. The work is mentally demanding enough to keep my natural curiosity reasonably appeased, and it pays the bills. The corpus that this site presents is not a product of that professional life. It is a product of the life I have led alongside it, in the evenings and weekends and quiet hours that the professional life has left for the things I actually care about.&lt;&#x2F;p&gt;
 &lt;p&gt;This page exists because the reader who is about to spend many hours with the work I have produced has a reasonable interest in knowing how I came to take the source material seriously enough to spend many years producing this corpus. What follows is the account.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;how-i-came-to-this-material&quot;&gt;How I came to this material&lt;&#x2F;h2&gt;
@@ -69,10 +69,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/de/author/zara-zinsfuss/"/>
-        <id>https://www.wheelofheaven.io/de/author/zara-zinsfuss/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/de/author/zara-zinsfuss/"/>
+        <id>https://www.wheelofheaven.world/de/author/zara-zinsfuss/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/de/author/zara-zinsfuss/">&lt;p&gt;Ich schreibe unter dem Namen Zara Zinsfuss. Der Name ist ein Pseudonym. Mehr werde ich dazu nicht sagen.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/de/author/zara-zinsfuss/">&lt;p&gt;Ich schreibe unter dem Namen Zara Zinsfuss. Der Name ist ein Pseudonym. Mehr werde ich dazu nicht sagen.&lt;&#x2F;p&gt;
 &lt;p&gt;Ich schreibe dies aus der Schweiz, wo ich den größten Teil meines Erwachsenenlebens verbracht habe. Ich bin Mitte dreißig. Ich arbeite in der Technologie­abteilung einer der bekannten Finanzinstitutionen des Landes, in einer Rolle, die irgendwo zwischen Softwareentwicklung, Cybersicherheit und Systemarchitektur liegt. Die Arbeit ist geistig anspruchsvoll genug, um meine natürliche Neugier einigermaßen zu beruhigen, und sie zahlt die Rechnungen. Der Korpus, den diese Seite präsentiert, ist kein Produkt dieses Berufslebens. Er ist ein Produkt des Lebens, das ich daneben geführt habe, in den Abenden, Wochenenden und stillen Stunden, die das Berufsleben für die Dinge übrig gelassen hat, die mir wirklich wichtig sind.&lt;&#x2F;p&gt;
 &lt;p&gt;Diese Seite existiert, weil die Leserin oder der Leser, die sich anschickt, viele Stunden mit der Arbeit zu verbringen, die ich produziert habe, ein vernünftiges Interesse daran hat zu wissen, wie ich dazu gekommen bin, das Quellenmaterial ernsthaft genug zu nehmen, um viele Jahre an diesem Korpus zu arbeiten. Was folgt, ist dieser Bericht.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;wie-ich-zu-diesem-material-kam&quot;&gt;Wie ich zu diesem Material kam&lt;&#x2F;h2&gt;
@@ -118,10 +118,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/es/author/zara-zinsfuss/"/>
-        <id>https://www.wheelofheaven.io/es/author/zara-zinsfuss/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/es/author/zara-zinsfuss/"/>
+        <id>https://www.wheelofheaven.world/es/author/zara-zinsfuss/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/es/author/zara-zinsfuss/">&lt;p&gt;Escribo bajo el nombre de Zara Zinsfuss. El nombre es un seudónimo. No diré más al respecto.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/es/author/zara-zinsfuss/">&lt;p&gt;Escribo bajo el nombre de Zara Zinsfuss. El nombre es un seudónimo. No diré más al respecto.&lt;&#x2F;p&gt;
 &lt;p&gt;Escribo esto desde Suiza, donde he vivido la mayor parte de mi vida adulta. Tengo treinta y pocos años cumplidos. Trabajo en el departamento tecnológico de una de las instituciones financieras conocidas del país, en un rol situado entre la ingeniería de software, la ciberseguridad y la arquitectura de sistemas. El trabajo es lo bastante exigente intelectualmente para apaciguar razonablemente mi curiosidad natural, y paga las cuentas. El corpus que este sitio presenta no es producto de esa vida profesional. Es producto de la vida que he llevado en paralelo, en las tardes, los fines de semana y las horas tranquilas que la vida profesional ha dejado para las cosas que de verdad me importan.&lt;&#x2F;p&gt;
 &lt;p&gt;Esta página existe porque la lectora o el lector que está a punto de pasar muchas horas con el trabajo que he producido tiene un interés razonable en saber cómo llegué a tomar el material-fuente lo bastante en serio como para pasar tantos años produciendo este corpus. Lo que sigue es ese relato.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;como-llegue-a-este-material&quot;&gt;Cómo llegué a este material&lt;&#x2F;h2&gt;
@@ -167,10 +167,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/fr/author/zara-zinsfuss/"/>
-        <id>https://www.wheelofheaven.io/fr/author/zara-zinsfuss/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/fr/author/zara-zinsfuss/"/>
+        <id>https://www.wheelofheaven.world/fr/author/zara-zinsfuss/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/fr/author/zara-zinsfuss/">&lt;p&gt;J&#x27;écris sous le nom de Zara Zinsfuss. Ce nom est un pseudonyme. Je n&#x27;en dirai pas davantage.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/fr/author/zara-zinsfuss/">&lt;p&gt;J&#x27;écris sous le nom de Zara Zinsfuss. Ce nom est un pseudonyme. Je n&#x27;en dirai pas davantage.&lt;&#x2F;p&gt;
 &lt;p&gt;J&#x27;écris ceci depuis la Suisse, où j&#x27;ai vécu la majeure partie de ma vie adulte. J&#x27;ai la mi-trentaine. Je travaille au département technique d&#x27;une des institutions financières bien connues du pays, dans un rôle situé quelque part entre l&#x27;ingénierie logicielle, la cybersécurité et l&#x27;architecture système. Le travail est suffisamment exigeant intellectuellement pour apaiser raisonnablement ma curiosité naturelle, et il paie les factures. Le corpus que ce site présente n&#x27;est pas un produit de cette vie professionnelle. C&#x27;est le produit de la vie que j&#x27;ai menée à côté, dans les soirées, les week-ends et les heures calmes que la vie professionnelle a laissés aux choses qui me tiennent réellement à cœur.&lt;&#x2F;p&gt;
 &lt;p&gt;Cette page existe parce que la lectrice ou le lecteur qui s&#x27;apprête à passer de nombreuses heures avec le travail que j&#x27;ai produit a un intérêt raisonnable à savoir comment j&#x27;en suis venue à prendre le matériau-source suffisamment au sérieux pour passer tant d&#x27;années à produire ce corpus. Ce qui suit en est le récit.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;comment-j-en-suis-venue-a-ce-materiau&quot;&gt;Comment j&#x27;en suis venue à ce matériau&lt;&#x2F;h2&gt;
@@ -216,10 +216,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/ru/author/zara-zinsfuss/"/>
-        <id>https://www.wheelofheaven.io/ru/author/zara-zinsfuss/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/ru/author/zara-zinsfuss/"/>
+        <id>https://www.wheelofheaven.world/ru/author/zara-zinsfuss/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/ru/author/zara-zinsfuss/">&lt;p&gt;Я пишу под именем Зара Зинсфусс. Это имя — псевдоним. Больше я об этом ничего не скажу.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/ru/author/zara-zinsfuss/">&lt;p&gt;Я пишу под именем Зара Зинсфусс. Это имя — псевдоним. Больше я об этом ничего не скажу.&lt;&#x2F;p&gt;
 &lt;p&gt;Я пишу это из Швейцарии, где провела большую часть взрослой жизни. Мне немного за тридцать. Я работаю в технологическом подразделении одного из известных финансовых учреждений страны на должности, расположенной где-то между программной инженерией, кибербезопасностью и системной архитектурой. Работа достаточно требовательна интеллектуально, чтобы умеренно удовлетворять мою природную любознательность, и она оплачивает счета. Корпус, который представляет этот сайт, не является продуктом этой профессиональной жизни. Он — продукт жизни, которую я вела рядом с ней, в вечерах, выходных и тихих часах, которые профессиональная жизнь оставила для вещей, действительно меня волнующих.&lt;&#x2F;p&gt;
 &lt;p&gt;Эта страница существует потому, что у читательницы или читателя, собирающегося провести многие часы с произведённой мной работой, есть разумный интерес к тому, как я пришла к тому, чтобы принимать материал-источник достаточно всерьёз и потратить многие годы на создание этого корпуса. Дальше — этот рассказ.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;kak-ia-prishla-k-etomu-materialu&quot;&gt;Как я пришла к этому материалу&lt;&#x2F;h2&gt;
@@ -265,10 +265,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/news/pursue-release-01-uap-files/"/>
-        <id>https://www.wheelofheaven.io/news/pursue-release-01-uap-files/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/news/pursue-release-01-uap-files/"/>
+        <id>https://www.wheelofheaven.world/news/pursue-release-01-uap-files/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/news/pursue-release-01-uap-files/">&lt;p&gt;&lt;em&gt;Filed under: Signs of Acceleration. Cross-reference: &lt;a href=&quot;&#x2F;timeline&#x2F;age-of-aquarius&#x2F;&quot;&gt;Age of Aquarius&lt;&#x2F;a&gt;, §IX.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/news/pursue-release-01-uap-files/">&lt;p&gt;&lt;em&gt;Filed under: Signs of Acceleration. Cross-reference: &lt;a href=&quot;&#x2F;timeline&#x2F;age-of-aquarius&#x2F;&quot;&gt;Age of Aquarius&lt;&#x2F;a&gt;, §IX.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-was-released&quot;&gt;What was released&lt;&#x2F;h2&gt;
 &lt;p&gt;On the morning of May 8, 2026, the United States Department of War — the renamed cabinet department formerly known as the Department of Defense — opened a public portal at &lt;strong&gt;war.gov&#x2F;UFO&lt;&#x2F;strong&gt; and posted the first tranche of declassified records, photographs, and video from the federal government&#x27;s holdings on Unidentified Anomalous Phenomena (UAP). The portal is the public face of a multi-agency program designated the &lt;strong&gt;Presidential Unsealing and Reporting System for UAP Encounters&lt;&#x2F;strong&gt;, abbreviated PURSUE, operating under direction of the Office of the Director of National Intelligence (ODNI) and coordinating, by the Department&#x27;s own description, &quot;dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades.&quot;&lt;&#x2F;p&gt;
 &lt;p&gt;Release 01 contains imagery and reporting drawn from:&lt;&#x2F;p&gt;
@@ -344,10 +344,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-chronicles/"/>
-        <id>https://www.wheelofheaven.io/library/1-chronicles/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-chronicles/"/>
+        <id>https://www.wheelofheaven.world/library/1-chronicles/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-chronicles/">&lt;p&gt;&lt;strong&gt;1 Chronicles&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-chronicles/">&lt;p&gt;&lt;strong&gt;1 Chronicles&lt;&#x2F;strong&gt;
 (Original: &lt;em&gt;דִּבְרֵי הַיָּמִים א (Divrei HaYamim Alef)&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
 &lt;p&gt;is part of the Hebrew Bible (Tanakh) collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
@@ -376,10 +376,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-corinthians/"/>
-        <id>https://www.wheelofheaven.io/library/1-corinthians/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-corinthians/"/>
+        <id>https://www.wheelofheaven.world/library/1-corinthians/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-corinthians/">&lt;p&gt;&lt;strong&gt;1 Corinthians&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-corinthians/">&lt;p&gt;&lt;strong&gt;1 Corinthians&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -407,10 +407,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-john/"/>
-        <id>https://www.wheelofheaven.io/library/1-john/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-john/"/>
+        <id>https://www.wheelofheaven.world/library/1-john/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-john/">&lt;p&gt;&lt;strong&gt;1 John&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-john/">&lt;p&gt;&lt;strong&gt;1 John&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -438,10 +438,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-kings/"/>
-        <id>https://www.wheelofheaven.io/library/1-kings/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-kings/"/>
+        <id>https://www.wheelofheaven.world/library/1-kings/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-kings/">&lt;p&gt;&lt;strong&gt;1 Kings&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-kings/">&lt;p&gt;&lt;strong&gt;1 Kings&lt;&#x2F;strong&gt;
 (Original: &lt;em&gt;מְלָכִים א (Melakhim Alef)&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
 &lt;p&gt;is part of the Hebrew Bible (Tanakh) collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
@@ -470,10 +470,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-nephi/"/>
-        <id>https://www.wheelofheaven.io/library/1-nephi/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-nephi/"/>
+        <id>https://www.wheelofheaven.world/library/1-nephi/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-nephi/">&lt;p&gt;&lt;strong&gt;1 Nephi&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-nephi/">&lt;p&gt;&lt;strong&gt;1 Nephi&lt;&#x2F;strong&gt;
 is part of the The Book of Mormon collection in the Book of Mormon.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -497,10 +497,10 @@ is part of the The Book of Mormon collection in the Book of Mormon.&lt;&#x2F;p&g
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-peter/"/>
-        <id>https://www.wheelofheaven.io/library/1-peter/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-peter/"/>
+        <id>https://www.wheelofheaven.world/library/1-peter/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-peter/">&lt;p&gt;&lt;strong&gt;1 Peter&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-peter/">&lt;p&gt;&lt;strong&gt;1 Peter&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -528,10 +528,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-samuel/"/>
-        <id>https://www.wheelofheaven.io/library/1-samuel/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-samuel/"/>
+        <id>https://www.wheelofheaven.world/library/1-samuel/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-samuel/">&lt;p&gt;&lt;strong&gt;1 Samuel&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-samuel/">&lt;p&gt;&lt;strong&gt;1 Samuel&lt;&#x2F;strong&gt;
 (Original: &lt;em&gt;שְׁמוּאֵל א (Shmuel Alef)&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
 &lt;p&gt;is part of the Hebrew Bible (Tanakh) collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
@@ -560,10 +560,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-thessalonians/"/>
-        <id>https://www.wheelofheaven.io/library/1-thessalonians/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-thessalonians/"/>
+        <id>https://www.wheelofheaven.world/library/1-thessalonians/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-thessalonians/">&lt;p&gt;&lt;strong&gt;1 Thessalonians&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-thessalonians/">&lt;p&gt;&lt;strong&gt;1 Thessalonians&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -591,10 +591,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/1-timothy/"/>
-        <id>https://www.wheelofheaven.io/library/1-timothy/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/1-timothy/"/>
+        <id>https://www.wheelofheaven.world/library/1-timothy/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/1-timothy/">&lt;p&gt;&lt;strong&gt;1 Timothy&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/1-timothy/">&lt;p&gt;&lt;strong&gt;1 Timothy&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -622,10 +622,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/2-chronicles/"/>
-        <id>https://www.wheelofheaven.io/library/2-chronicles/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/2-chronicles/"/>
+        <id>https://www.wheelofheaven.world/library/2-chronicles/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/2-chronicles/">&lt;p&gt;&lt;strong&gt;2 Chronicles&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/2-chronicles/">&lt;p&gt;&lt;strong&gt;2 Chronicles&lt;&#x2F;strong&gt;
 (Original: &lt;em&gt;דִּבְרֵי הַיָּמִים ב (Divrei HaYamim Bet)&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
 &lt;p&gt;is part of the Hebrew Bible (Tanakh) collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
@@ -654,10 +654,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/2-corinthians/"/>
-        <id>https://www.wheelofheaven.io/library/2-corinthians/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/2-corinthians/"/>
+        <id>https://www.wheelofheaven.world/library/2-corinthians/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/2-corinthians/">&lt;p&gt;&lt;strong&gt;2 Corinthians&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/2-corinthians/">&lt;p&gt;&lt;strong&gt;2 Corinthians&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -685,10 +685,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/2-john/"/>
-        <id>https://www.wheelofheaven.io/library/2-john/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/2-john/"/>
+        <id>https://www.wheelofheaven.world/library/2-john/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/2-john/">&lt;p&gt;&lt;strong&gt;2 John&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/2-john/">&lt;p&gt;&lt;strong&gt;2 John&lt;&#x2F;strong&gt;
 is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -716,10 +716,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/2-kings/"/>
-        <id>https://www.wheelofheaven.io/library/2-kings/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/2-kings/"/>
+        <id>https://www.wheelofheaven.world/library/2-kings/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/2-kings/">&lt;p&gt;&lt;strong&gt;2 Kings&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/2-kings/">&lt;p&gt;&lt;strong&gt;2 Kings&lt;&#x2F;strong&gt;
 (Original: &lt;em&gt;מְלָכִים ב (Melakhim Bet)&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
 &lt;p&gt;is part of the Hebrew Bible (Tanakh) collection in the Bible.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
@@ -748,10 +748,10 @@ is part of the New Testament collection in the Bible.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.io/library/2-nephi/"/>
-        <id>https://www.wheelofheaven.io/library/2-nephi/</id>
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/2-nephi/"/>
+        <id>https://www.wheelofheaven.world/library/2-nephi/</id>
         
-        <content type="html" xml:base="https://www.wheelofheaven.io/library/2-nephi/">&lt;p&gt;&lt;strong&gt;2 Nephi&lt;&#x2F;strong&gt;
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/2-nephi/">&lt;p&gt;&lt;strong&gt;2 Nephi&lt;&#x2F;strong&gt;
 is part of the The Book of Mormon collection in the Book of Mormon.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-this-edition&quot;&gt;About this edition&lt;&#x2F;h2&gt;
 &lt;ul&gt;

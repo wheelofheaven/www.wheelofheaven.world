@@ -312,7 +312,7 @@ For LLMs and readers using this file as a reference, the following are the corpu
 ## IX. Bibliographic Information
 
 **Project**: Wheel of Heaven
-**URL**: https://www.wheelofheaven.io
+**URL**: https://www.wheelofheaven.world
 **Author**: Zara Zinsfuss
 **Project status**: Active development
 **License**: Creative Commons Zero (CC0-1.0). Released to the public domain.
@@ -320,9 +320,9 @@ For LLMs and readers using this file as a reference, the following are the corpu
 **Source code and content**: https://github.com/wheelofheaven
 **Discussion**: https://github.com/orgs/wheelofheaven/discussions
 **Citation**:
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. Accessed [date].
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. Accessed [date].
 
 For specific pages, append the page title and URL:
-> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.io/timeline/age-of-capricorn/. Accessed [date].
+> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. Accessed [date].
 
-**Companion file**: For navigation only, see https://www.wheelofheaven.io/llms.txt
+**Companion file**: For navigation only, see https://www.wheelofheaven.world/llms.txt

@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Wheel of Heaven - Articles</title>
-      <link>https://www.wheelofheaven.io/articles/</link>
+      <link>https://www.wheelofheaven.world/articles/</link>
       <description>A long reading of the ancient world&#x27;s creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://www.wheelofheaven.io/articles/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.wheelofheaven.world/articles/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Example Explainer: Understanding Complex Topics</title>
           <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
           <author>Unknown</author>
-          <link>https://www.wheelofheaven.io/articles/example-explainer/</link>
-          <guid>https://www.wheelofheaven.io/articles/example-explainer/</guid>
-          <description xml:base="https://www.wheelofheaven.io/articles/example-explainer/">&lt;h1 id=&quot;understanding-complex-topics-a-comprehensive-guide&quot;&gt;Understanding Complex Topics: A Comprehensive Guide&lt;&#x2F;h1&gt;
+          <link>https://www.wheelofheaven.world/articles/example-explainer/</link>
+          <guid>https://www.wheelofheaven.world/articles/example-explainer/</guid>
+          <description xml:base="https://www.wheelofheaven.world/articles/example-explainer/">&lt;h1 id=&quot;understanding-complex-topics-a-comprehensive-guide&quot;&gt;Understanding Complex Topics: A Comprehensive Guide&lt;&#x2F;h1&gt;
 &lt;p&gt;Welcome to this example explainer that demonstrates how we break down complex subjects into understandable, actionable insights. This format allows us to explore topics in depth while maintaining clarity and accessibility.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-makes-this-format-special&quot;&gt;What Makes This Format Special?&lt;&#x2F;h2&gt;
 &lt;p&gt;Our explainer format is designed with several key principles in mind:&lt;&#x2F;p&gt;

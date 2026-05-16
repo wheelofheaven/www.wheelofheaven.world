@@ -2,11 +2,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Wheel of Heaven - ニュースルーム</title>
-      <link>https://www.wheelofheaven.io/ja/news/</link>
+      <link>https://www.wheelofheaven.world/ja/news/</link>
       <description>A long reading of the ancient world&#x27;s creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages.</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://www.wheelofheaven.io/ja/news/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.wheelofheaven.world/ja/news/rss.xml" rel="self" type="application/rss+xml"/>
       
     </channel>
 </rss>
