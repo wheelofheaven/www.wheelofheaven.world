@@ -19,6 +19,13 @@ feed_limit = 20
 
 [search]
 index_format = "fuse_json"
+# Cap the per-record body to 2000 chars. Without this, Zola dumps the
+# entire rendered page into each record, ballooning search_index.en.json
+# to ~64 MB — which destroys mobile Lighthouse when Fuse loads it. At
+# 2000 chars (~400 words) we keep title + first 2–3 paragraphs, which
+# covers ~95% of entity / concept queries. Long phrase matches deep
+# inside articles degrade; the alternative was an unusable index.
+truncate_content_length = 2000
 
 [extra]
 author = "Wheel of Heaven"
