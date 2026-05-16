@@ -16,12 +16,18 @@ const LibraryReader = (function() {
     'use strict';
 
     // Configuration
+    //
+    // fontSizes is set as an *inline* --reader-font-size on the
+    // .library-book__content element, which overrides any CSS default.
+    // Keep these values in sync with the SCSS defaults in
+    // pages/_library.scss (the [data-font-size="..."] selectors) so the
+    // two paths agree.
     const CONFIG = {
         fontSizes: {
-            small: '0.875rem',
-            medium: '1rem',
-            large: '1.125rem',
-            'x-large': '1.25rem'
+            small: '0.9375rem',
+            medium: '1.125rem',
+            large: '1.25rem',
+            'x-large': '1.375rem'
         },
         themes: ['light', 'sepia', 'dark'],
         viewModes: ['translation', 'original', 'side-by-side'],
