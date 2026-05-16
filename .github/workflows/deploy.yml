@@ -41,6 +41,13 @@ jobs:
 
       - name: inline critical CSS + async main.css
         working-directory: themes/bifrost
+        env:
+          # Short git SHA appended to main.css URL as `?v=<sha>`. Every
+          # deploy ships a fresh URL so Cloudflare (which caches
+          # /main.css for 7 days by default) cannot serve a stale
+          # stylesheet against fresh HTML — the URL simply isn't in
+          # the CF edge cache yet on the first request after a deploy.
+          BUILD_VERSION: ${{ github.sha }}
         run: npm run inline-critical
 
       - name: deploy to gh-pages
