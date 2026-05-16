@@ -10,7 +10,7 @@
         if (scriptInjected) return;
         scriptInjected = true;
         const s = document.createElement("script");
-        s.src = "/js/dist/search.bundle.js?v=2";
+        s.src = "/js/dist/search.bundle.js?v=3";
         s.async = true;
         // When the bundle finishes loading, re-fire focus on the input
         // if the user is already there, so the modal opens without a

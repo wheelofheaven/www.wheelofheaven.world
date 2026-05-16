@@ -682,13 +682,15 @@ function initSearchUI() {
         });
     }
 
-    // Opportunistically prefetch the index when the browser is idle, so
-    // the first query feels instant without blocking initial paint.
-    if ("requestIdleCallback" in window) {
-        requestIdleCallback(() => initSearch(), { timeout: 4000 });
-    } else {
-        setTimeout(() => initSearch(), 3000);
-    }
+    // Index fetch deliberately NOT prefetched at idle. Even after
+    // truncating the per-record body via Zola's `truncate_content_length`,
+    // the EN search index is a few MB — meaningful network and
+    // main-thread cost. Lighthouse's headless browser fires
+    // requestIdleCallback within ~1s of paint, so prefetching here
+    // destroyed mobile LCP for the (large) majority of visitors who
+    // never use search. Index now loads only on real user intent
+    // (focus / click / typing / ⌘+/) via initSearch() above. First
+    // query waits on the fetch (~1–2s mobile); subsequent are instant.
 
     const closeButton = modal.querySelector(".search-modal__close");
     const backdrop = modal.querySelector(".search-modal__backdrop");
