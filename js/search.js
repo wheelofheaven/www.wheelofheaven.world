@@ -586,6 +586,15 @@ function performSearch(query) {
 // Debounced search
 const debouncedSearch = debounce(performSearch, 150);
 
+// Scroll position captured at modal-open time and restored on close.
+// The CSS-only `overflow: hidden` lock on body isn't enough — on the
+// landing page <html> is the scroll container (scroll-snap lives on
+// :root), and browsers also collapse scrollY when style changes
+// invalidate the snap target. Pinning <body> with `position: fixed;
+// top: -scrollY` parks the page visually where the user was and lets
+// us restore the exact pixel offset on close.
+let savedScrollY = 0;
+
 // Show search modal
 function showSearchModal() {
     const modal = document.getElementById("search-modal");
@@ -596,15 +605,36 @@ function showSearchModal() {
             window.navbarDropdown.closeAllDropdowns();
         }
 
+        savedScrollY = window.scrollY || window.pageYOffset || 0;
+        body.style.position = "fixed";
+        body.style.top = `-${savedScrollY}px`;
+        body.style.left = "0";
+        body.style.right = "0";
+        body.style.width = "100%";
+
         modal.classList.add("search-modal--active");
         body.classList.add("search-modal-open");
 
-        const elementsToBlur = document.querySelectorAll("main, footer, .totop");
-        elementsToBlur.forEach(el => {
-            el.style.filter = "blur(4px)";
-            el.style.transition = "filter 0.3s ease";
-        });
+        // Page blur via a dedicated overlay layered between content and
+        // the navbar. We can't apply `filter: blur()` directly to
+        // <main> / <footer> — `filter` turns the element into the
+        // containing block for its fixed descendants, which re-anchors
+        // the landing hero's `.landing-section__media` (position:fixed
+        // inset:0) to main's box and breaks its viewport-sized cover
+        // crop. `backdrop-filter` on a sibling overlay sidesteps that.
+        ensureBlurOverlay();
     }
+}
+
+// Lazily inject the blur overlay the first time the modal opens.
+// Visibility is driven by `body.search-modal-open` so we don't need to
+// toggle it from JS on every show/hide.
+function ensureBlurOverlay() {
+    if (document.querySelector(".search-modal-blur")) return;
+    const overlay = document.createElement("div");
+    overlay.className = "search-modal-blur";
+    overlay.setAttribute("aria-hidden", "true");
+    document.body.appendChild(overlay);
 }
 
 // Hide search modal
@@ -616,10 +646,15 @@ function hideSearchModal() {
         modal.classList.remove("search-modal--active");
         body.classList.remove("search-modal-open");
 
-        const elementsToBlur = document.querySelectorAll("main, footer, .totop");
-        elementsToBlur.forEach(el => {
-            el.style.filter = "none";
-        });
+        body.style.position = "";
+        body.style.top = "";
+        body.style.left = "";
+        body.style.right = "";
+        body.style.width = "";
+        // Restore the pre-modal scroll position. `scrollTo` instead of
+        // assigning `scrollTop` so it works on whichever element ends
+        // up being the document scroller across browsers.
+        window.scrollTo(0, savedScrollY);
 
         const navbarInput = document.querySelector(".navbar__search-input");
         if (navbarInput) {
@@ -709,7 +744,7 @@ function initSearchUI() {
         if ((e.ctrlKey || e.metaKey) && e.key === "/") {
             e.preventDefault();
             if (navbarSearchInput) {
-                navbarSearchInput.focus();
+                navbarSearchInput.focus({ preventScroll: true });
             }
         }
 
