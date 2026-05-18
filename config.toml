@@ -126,7 +126,7 @@ navbarLibrary = "Library"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "Wiki"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "Resources"
+navbarResourcesNav = "Sources"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -724,7 +724,7 @@ navbarLibrary = "Bibliothek"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "Wiki"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "Ressourcen"
+navbarResourcesNav = "Quellen"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -1307,7 +1307,7 @@ navbarLibrary = "Bibliothèque"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "Wiki"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "Ressources"
+navbarResourcesNav = "Sources"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -1891,7 +1891,7 @@ navbarLibrary = "Biblioteca"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "Wiki"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "Recursos"
+navbarResourcesNav = "Fuentes"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -2831,7 +2831,7 @@ navbarLibrary = "Библиотека"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "Вики"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "Ресурсы"
+navbarResourcesNav = "Источники"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -3414,7 +3414,7 @@ navbarLibrary = "図書館"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "ウィキ"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "リソース"
+navbarResourcesNav = "出典"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -3998,7 +3998,7 @@ navbarLibrary = "图书馆"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "百科"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "资源"
+navbarResourcesNav = "来源"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -4553,7 +4553,7 @@ navbarLibrary = "圖書館"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "百科"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "資源"
+navbarResourcesNav = "來源"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -5115,7 +5115,7 @@ navbarLibrary = "도서관"
 navbarLibraryDesc = "Primary texts with commentary and modern context."
 navbarWiki = "위키"
 navbarWikiDesc = "Reference entries for terms, figures, and concepts."
-navbarResourcesNav = "리소스"
+navbarResourcesNav = "출처"
 navbarResourcesNavDesc = "External books, films, and scholarship the project draws on."
 
 # Community dropdown items
@@ -5347,7 +5347,7 @@ navbarLibrary = "ספרייה"
 navbarLibraryDesc = "טקסטים ראשוניים עם פירוש והקשר מודרני."
 navbarWiki = "ויקי"
 navbarWikiDesc = "ערכי ייחוס למונחים, דמויות ומושגים."
-navbarResourcesNav = "משאבים"
+navbarResourcesNav = "מקורות"
 navbarResourcesNavDesc = "ספרים, סרטים ומחקרים חיצוניים שהפרויקט נסמך עליהם."
 
 # Community dropdown items
