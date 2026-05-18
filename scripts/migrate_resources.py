@@ -22,6 +22,9 @@ LANGUAGES = {
     "ru": "ru",
     "ja": "ja",
     "zh": "zh",
+    "zh-Hant": "zh-Hant",
+    "ko": "ko",
+    "he": "he",
 }
 
 

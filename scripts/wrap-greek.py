@@ -76,7 +76,7 @@ def process_file(filepath):
 def main():
     content_dir = '/Users/zara/Development/github.com/wheelofheaven/www.wheelofheaven.io/content'
 
-    languages = ['', 'de', 'fr', 'es', 'ru', 'ja', 'zh', 'zh-Hant', 'ko']
+    languages = ['', 'de', 'fr', 'es', 'he', 'ru', 'ja', 'zh', 'zh-Hant', 'ko']
     sections = ['wiki', 'timeline', 'essentials', 'explainers', 'articles']
 
     modified_files = []
