@@ -184,6 +184,12 @@
         <priority>0.5</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/de/press/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/de/privacy-policy/</loc>
         
         <changefreq>weekly</changefreq>
@@ -1079,6 +1085,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/es/offline/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/es/press/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.5</priority></url>
@@ -1990,6 +2002,12 @@
         <priority>0.5</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/fr/press/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/fr/privacy-policy/</loc>
         
         <changefreq>weekly</changefreq>
@@ -2884,6 +2902,12 @@
         <priority>0.5</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/ja/press/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/ja/privacy-policy/</loc>
         
         <changefreq>weekly</changefreq>
@@ -3761,6 +3785,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/ko/offline/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/ko/press/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.5</priority></url>
@@ -5026,6 +5056,12 @@
         <priority>0.5</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/press/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/privacy-policy/</loc>
         
         <changefreq>weekly</changefreq>
@@ -5141,6 +5177,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/ru/offline/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/ru/press/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.5</priority></url>
@@ -7240,6 +7282,12 @@
         <priority>0.5</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/zh-Hant/press/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/zh-Hant/privacy-policy/</loc>
         
         <changefreq>weekly</changefreq>
@@ -8033,6 +8081,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/zh/offline/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/zh/press/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.5</priority></url>
