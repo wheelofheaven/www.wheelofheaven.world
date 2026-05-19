@@ -9,54 +9,68 @@ let searchInitPromise = null;
 const RECENT_SEARCHES_KEY = 'woh-recent-searches';
 const MAX_RECENT_SEARCHES = 5;
 
-// Section definitions with icons
+// Localized labels injected by `partials/search-i18n.html`. The script
+// tag emitting it is included before this bundle, so the object exists
+// by the time we run. Fallbacks keep the modal usable if the partial
+// somehow doesn't run (e.g. during template-edit dev cycles).
+const I18N = (typeof window !== 'undefined' && window.__searchI18n) || {};
+const t = (key, fallback) => (I18N[key] || fallback);
+const sectionLabel = (key) => (I18N.sectionLabels && I18N.sectionLabels[key]) || key;
+
+// Section definitions with icons. Order matches the navbar IA:
+// Timeline, Newsroom, then the Knowledge group (Articles, Library,
+// Wiki, Sources).
 const SECTIONS = {
-    Wiki: {
-        icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
-            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
-            <path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h6"/>
-        </svg>`,
-        label: 'Wiki'
-    },
     Timeline: {
         icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <circle cx="12" cy="12" r="10"/>
             <polyline points="12,6 12,12 16,14"/>
-        </svg>`,
-        label: 'Timeline'
+        </svg>`
     },
-    Resources: {
+    Newsroom: {
         icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
-            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
-        </svg>`,
-        label: 'Resources'
+            <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2zm0 0a2 2 0 0 1-2-2v-9h4"/>
+            <path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8z"/>
+        </svg>`
     },
     Articles: {
         icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/>
             <polyline points="14,2 14,8 20,8"/>
-        </svg>`,
-        label: 'Articles'
+        </svg>`
     },
     Library: {
         icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/>
-        </svg>`,
-        label: 'Library'
+        </svg>`
+    },
+    Wiki: {
+        icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+            <path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h6"/>
+        </svg>`
+    },
+    Sources: {
+        icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
+            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+        </svg>`
     }
 };
 
-// Popular search suggestions
+// Popular search suggestions. Terms left in English/source spelling so
+// the underlying Fuse index (which contains the canonical title forms)
+// can match them in every locale. `Raëlism` keeps the diaeresis per
+// the terminology rule.
 const SUGGESTIONS = [
     { term: 'Elohim', section: 'Wiki' },
-    { term: 'Raelism', section: 'Wiki' },
+    { term: 'Raëlism', section: 'Wiki' },
     { term: 'Genesis', section: 'Wiki' },
     { term: 'Age of Aquarius', section: 'Timeline' },
-    { term: 'extraterrestrial', section: 'Wiki' },
+    { term: 'precession', section: 'Wiki' },
     { term: 'creation', section: 'Wiki' },
-    { term: 'ancient astronauts', section: 'Articles' },
+    { term: 'ancient astronaut theory', section: 'Articles' },
     { term: 'intelligent design', section: 'Wiki' }
 ];
 
@@ -120,18 +134,22 @@ function getSectionIcon(section) {
 // Extract section from URL
 function extractSection(url) {
     const uri = extractUri(url);
-    const pathWithoutLang = uri.replace(/^\/(?:de|fr|es|ru|ja|zh|zh-Hant|ko)\//, "/");
+    const pathWithoutLang = uri.replace(/^\/(?:de|fr|es|he|ru|ja|zh|zh-Hant|ko)\//, "/");
     const segments = pathWithoutLang.split("/").filter(Boolean);
     if (segments.length === 0) return "Home";
 
     const section = segments[0];
+    // URL-segment → SECTIONS key. The Knowledge group's "Sources"
+    // chip points at the `/sources/` content section — the URL was
+    // renamed in the 2026-05 IA pass but the public label stayed as
+    // "Sources" in the navbar, and we mirror that here.
     const sectionMap = {
         wiki: "Wiki",
-        revelations: "Library",
         library: "Library",
         timeline: "Timeline",
         articles: "Articles",
-        resources: "Resources"
+        news: "Newsroom",
+        sources: "Sources"
     };
 
     return sectionMap[section] || section.charAt(0).toUpperCase() + section.slice(1);
@@ -147,15 +165,18 @@ function extractUri(url) {
     }
 }
 
-// Get navigation links
+// Get navigation links. Order and URLs mirror the current navbar IA:
+// Timeline + Newsroom as top-level, then the Knowledge dropdown
+// (Articles, Library, Wiki, Sources).
 function getNavigationLinks() {
     const baseUrl = currentLanguage === "en" ? "" : `/${currentLanguage}`;
     return [
-        { title: "Home", url: baseUrl || "/", section: "Home", description: "Welcome page and site overview" },
-        { title: "Articles", url: `${baseUrl}/articles/`, section: "Articles", description: "Long-form analyses and arguments" },
-        { title: "Timeline", url: `${baseUrl}/timeline/`, section: "Timeline", description: "Chronological overview of events" },
-        { title: "Wiki", url: `${baseUrl}/wiki/`, section: "Wiki", description: "Comprehensive knowledge database" },
-        { title: "Resources", url: `${baseUrl}/resources/`, section: "Resources", description: "Books, films, and external references" }
+        { title: sectionLabel("Timeline"), url: `${baseUrl}/timeline/`, section: "Timeline" },
+        { title: sectionLabel("Newsroom"), url: `${baseUrl}/news/`, section: "Newsroom" },
+        { title: sectionLabel("Articles"), url: `${baseUrl}/articles/`, section: "Articles" },
+        { title: sectionLabel("Library"), url: `${baseUrl}/library/`, section: "Library" },
+        { title: sectionLabel("Wiki"), url: `${baseUrl}/wiki/`, section: "Wiki" },
+        { title: sectionLabel("Sources"), url: `${baseUrl}/sources/`, section: "Sources" }
     ];
 }
 
@@ -206,7 +227,7 @@ function createFilterChips() {
                     data-section="${key}"
                     aria-pressed="${isActive}">
                 <span class="search-filter-chip__icon">${data.icon}</span>
-                <span class="search-filter-chip__label">${data.label}</span>
+                <span class="search-filter-chip__label">${sectionLabel(key)}</span>
             </button>
         `;
     }).join('');
@@ -214,8 +235,8 @@ function createFilterChips() {
     return `
         <div class="search-filters">
             <div class="search-filters__header">
-                <span class="search-filters__label">Filter by section</span>
-                ${activeFilters.size > 0 ? '<button class="search-filters__clear">Clear all</button>' : ''}
+                <span class="search-filters__label">${t('filterLabel', 'Filter by section')}</span>
+                ${activeFilters.size > 0 ? `<button class="search-filters__clear">${t('filterClearAll', 'Clear all')}</button>` : ''}
             </div>
             <div class="search-filters__chips">${chips}</div>
         </div>
@@ -233,8 +254,8 @@ function createSuggestionsHTML() {
         html += `
             <div class="search-suggestions">
                 <div class="search-suggestions__header">
-                    <span class="search-suggestions__label">Recent searches</span>
-                    <button class="search-suggestions__clear" id="clear-recent">Clear</button>
+                    <span class="search-suggestions__label">${t('recentLabel', 'Recent searches')}</span>
+                    <button class="search-suggestions__clear" id="clear-recent">${t('recentClear', 'Clear')}</button>
                 </div>
                 <div class="search-suggestions__list">
                     ${recent.map(term => `
@@ -255,7 +276,7 @@ function createSuggestionsHTML() {
     html += `
         <div class="search-suggestions">
             <div class="search-suggestions__header">
-                <span class="search-suggestions__label">Popular searches</span>
+                <span class="search-suggestions__label">${t('popularLabel', 'Popular searches')}</span>
             </div>
             <div class="search-suggestions__list">
                 ${SUGGESTIONS.slice(0, 6).map(s => `
@@ -265,7 +286,7 @@ function createSuggestionsHTML() {
                             <path d="m21 21-4.3-4.3"/>
                         </svg>
                         <span class="search-suggestion__text">${s.term}</span>
-                        <span class="search-suggestion__section">${s.section}</span>
+                        <span class="search-suggestion__section">${sectionLabel(s.section)}</span>
                     </button>
                 `).join('')}
             </div>
@@ -280,7 +301,7 @@ function createNavigationLinks() {
     const links = getNavigationLinks();
     return `
         <div class="search-modal__navigation">
-            <h4 class="search-modal__navigation-title">Browse sections</h4>
+            <h4 class="search-modal__navigation-title">${t('browseTitle', 'Browse sections')}</h4>
             ${links.map(link => `
                 <a href="${link.url}" class="search-result search-result--nav">
                     <div class="search-result__left">
@@ -290,7 +311,7 @@ function createNavigationLinks() {
                     <div class="search-result__right">
                         <div class="search-result__section">
                             <span class="search-result__section-icon">${getSectionIcon(link.section)}</span>
-                            ${link.section}
+                            ${sectionLabel(link.section)}
                         </div>
                     </div>
                 </a>
@@ -317,9 +338,9 @@ function createSearchModal() {
         <div class="search-modal__backdrop"></div>
         <div class="search-modal__container">
             <div class="search-modal__header">
-                <h3 class="search-modal__title">Search</h3>
-                <div class="search-modal__shortcut">Press <kbd>Esc</kbd> to close</div>
-                <button class="search-modal__close" aria-label="Close search">
+                <h3 class="search-modal__title">${t('modalTitle', 'Search')}</h3>
+                <div class="search-modal__shortcut">${t('closeHint', 'Press <kbd>Esc</kbd> to close')}</div>
+                <button class="search-modal__close" aria-label="${t('closeLabel', 'Close search')}">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <line x1="18" y1="6" x2="6" y2="18"></line>
                         <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -452,7 +473,7 @@ function filterResults(results) {
         // Language filter
         let langMatch = false;
         if (currentLanguage === "en") {
-            langMatch = !urlPath.match(/^\/(?:de|fr|es|ru|ja|zh|zh-Hant|ko)\//);
+            langMatch = !urlPath.match(/^\/(?:de|fr|es|he|ru|ja|zh|zh-Hant|ko)\//);
         } else {
             langMatch = urlPath.startsWith(`/${currentLanguage}/`);
         }
@@ -467,8 +488,19 @@ function filterResults(results) {
     });
 }
 
+// Wrap the query in <strong> after substitution so locale-specific
+// punctuation around the placeholder (e.g. JP 「…」, FR « … ») stays
+// visually consistent with the emphasized term.
+function formatEmptyBody(template, query) {
+    const safeQuery = `<strong>${query}</strong>`;
+    return template.replace('{query}', safeQuery);
+}
+
 // Create empty state HTML
 function createEmptyState(query) {
+    const tmpl = activeFilters.size > 0
+        ? t('emptyBodyFiltered', 'No matches for "{query}" in selected sections. Try different keywords or clear filters.')
+        : t('emptyBody', 'No matches for "{query}". Try different keywords.');
     return `
         ${createFilterChips()}
         <div class="search-modal__empty-state">
@@ -479,11 +511,8 @@ function createEmptyState(query) {
                     <line x1="8" y1="11" x2="14" y2="11"></line>
                 </svg>
             </div>
-            <h4 class="search-modal__empty-title">No results found</h4>
-            <p class="search-modal__empty-text">
-                No matches for "<strong>${query}</strong>"${activeFilters.size > 0 ? ' in selected sections' : ''}.
-                Try different keywords${activeFilters.size > 0 ? ' or clear filters' : ''}.
-            </p>
+            <h4 class="search-modal__empty-title">${t('emptyTitle', 'No results found')}</h4>
+            <p class="search-modal__empty-text">${formatEmptyBody(tmpl, query)}</p>
         </div>
         ${createNavigationLinks()}
     `;
@@ -491,10 +520,15 @@ function createEmptyState(query) {
 
 // Create results count HTML
 function createResultsCount(count, query) {
+    const tmpl = count === 1
+        ? t('resultsForOne', '1 result for "{query}"')
+        : t('resultsForMany', '{count} results for "{query}"');
+    const text = tmpl
+        .replace('{count}', `<span class="search-results-count__number">${count}</span>`)
+        .replace('{query}', query);
     return `
         <div class="search-results-count">
-            <span class="search-results-count__number">${count}</span>
-            <span class="search-results-count__text">result${count !== 1 ? 's' : ''} for "${query}"</span>
+            <span class="search-results-count__text">${text}</span>
         </div>
     `;
 }
@@ -534,7 +568,7 @@ function renderSearchResults(results, query = "") {
                     <div class="search-result__url">${uri}</div>
                     <div class="search-result__section">
                         <span class="search-result__section-icon">${getSectionIcon(section)}</span>
-                        ${section}
+                        ${sectionLabel(section)}
                     </div>
                 </div>
                 <div class="search-result__right">

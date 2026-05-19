@@ -2818,6 +2818,60 @@
         <priority>0.7</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/he/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/articles/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/contributors/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/library/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/news/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/read/</loc>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/sources/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/timeline/</loc>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/he/wiki/</loc>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/ja/</loc>
         
         <changefreq>weekly</changefreq>
@@ -6022,402 +6076,6 @@
         <priority>0.5</priority></url>
 
     <url>
-        <loc>https://www.wheelofheaven.world/sources/a-gentlemans-joyous-esotericism/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/alternative-history-s-mainstream-history/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/ancient-apocalypse/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/avesta/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/bahaipedia/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/barton-cylinder/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/book-of-abraham/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/book-of-enoch/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/book-of-mormon/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/creators-the-past/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/cyberparadism-manifesto/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/debate-between-sheep-and-grain/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/debate-between-winter-and-summer/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/divine-signposts/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/echoes-of-eden/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/enlil-and-ninlil-the-begetting-of-nanna/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/epic-of-gilgamesh/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/escaping-from-eden/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/extraterrestrials-took-me-to-their-planet/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/fingerprints-of-the-gods/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/hamlets-mill/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/hard-to-be-a-god/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/hermetica/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/internet-sacred-text-archive/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/is-genesis-history/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/jurassic-world/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/kitab-i-aqdas/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/kosmographia/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/la-bible-of-la-pleiade/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/lets-welcome-the-extraterrestrials/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/mazzaroth-dot-com/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/mazzaroth-rolleston/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/parzival/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/pillar-of-enoch-dot-com/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/rael-dot-org/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/science-after-babel/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/sefaria/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/signature-in-the-cell/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/space-a-gogo-dot-com/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/tanakh/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/temporary-temples/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/terranigma/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-bible-is-not-a-sacred-book/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-book-which-tells-the-truth/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-chaldean-account-of-genesis/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-church-of-jesus-latter-day-saints-scriptures/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-collection-of-divine-messages-of-cai-dai/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-coming-of-the-gods/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-devils-delusion/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-electronic-text-corpus-of-sumerian-literature/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-engagement/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-eridu-genesis/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-gospels-in-the-stars/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-human-history-mistake/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-kabbalah-law-and-mysticism-in-the-jewish-tradition/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-moon-outpost-of-the-gods/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-naked-bible/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-possibility-of-an-island/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-revelation-of-the-pyramid/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-ricks-must-be-crazy/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-sacred-city/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-scars-of-eden/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-sky-people/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-techno-optimist-manifesto/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/the-zohar-pritzker/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/those-gods-who-made-heaven-and-earth/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
         <loc>https://www.wheelofheaven.world/sources/tradition/</loc>
         
         <changefreq>weekly</changefreq>
@@ -6443,12 +6101,6 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/sources/tradition/second-temple/</loc>
-        
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority></url>
-
-    <url>
-        <loc>https://www.wheelofheaven.world/sources/wonders-in-the-sky/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.5</priority></url>
