@@ -15,6 +15,10 @@ node = "22"
 description = "Bundle JS files with esbuild"
 run = "cd themes/bifrost && npm install --silent && npm run bundle"
 
+[tasks.sources]
+description = "Rebuild data/sources.json from seed records + inline page references"
+run = "python3 scripts/build_sources.py"
+
 [tasks.build]
 description = "Compile site statically with Zola"
 depends = ["bundle"]

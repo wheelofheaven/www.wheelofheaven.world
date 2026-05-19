@@ -146,7 +146,7 @@ navbarFollowX = "Follow us on X"
 
 # Resources section translations
 resourcesItems = "resources"
-resourcesSearchPlaceholder = "Search resources..."
+resourcesSearchPlaceholder = "Search sources..."
 resourcesAllMediums = "All Media Types"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "Recent"
@@ -744,7 +744,7 @@ navbarFollowX = "Folgen Sie uns auf X"
 
 # Resources section translations
 resourcesItems = "Ressourcen"
-resourcesSearchPlaceholder = "Ressourcen durchsuchen..."
+resourcesSearchPlaceholder = "Quellen durchsuchen..."
 resourcesAllMediums = "Alle Medientypen"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "Neueste"
@@ -1327,7 +1327,7 @@ navbarFollowX = "Suivez-nous sur X"
 
 # Resources section translations
 resourcesItems = "ressources"
-resourcesSearchPlaceholder = "Rechercher des ressources..."
+resourcesSearchPlaceholder = "Rechercher des sources..."
 resourcesAllMediums = "Tous les types de médias"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "Récent"
@@ -1911,7 +1911,7 @@ navbarFollowX = "Síguenos en X"
 
 # Resources section translations
 resourcesItems = "recursos"
-resourcesSearchPlaceholder = "Buscar recursos..."
+resourcesSearchPlaceholder = "Buscar fuentes..."
 resourcesAllMediums = "Todos los tipos de medios"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "Reciente"
@@ -2851,7 +2851,7 @@ navbarFollowX = "Следите за нами в X"
 
 # Resources section translations
 resourcesItems = "ресурсов"
-resourcesSearchPlaceholder = "Поиск ресурсов..."
+resourcesSearchPlaceholder = "Поиск источников..."
 resourcesAllMediums = "Все типы медиа"
 resourcesSortAZ = "А-Я"
 resourcesSortRecent = "Недавние"
@@ -3434,7 +3434,7 @@ navbarFollowX = "Xでフォロー"
 
 # Resources section translations
 resourcesItems = "リソース"
-resourcesSearchPlaceholder = "リソースを検索..."
+resourcesSearchPlaceholder = "出典を検索..."
 resourcesAllMediums = "すべてのメディアタイプ"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "最新"
@@ -4018,7 +4018,7 @@ navbarFollowX = "在X上关注我们"
 
 # Resources section translations
 resourcesItems = "资源"
-resourcesSearchPlaceholder = "搜索资源..."
+resourcesSearchPlaceholder = "搜索来源..."
 resourcesAllMediums = "所有媒体类型"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "最新"
@@ -4573,7 +4573,7 @@ navbarFollowX = "在X上關注我們"
 
 # Resources section translations
 resourcesItems = "資源"
-resourcesSearchPlaceholder = "搜尋資源..."
+resourcesSearchPlaceholder = "搜尋來源..."
 resourcesAllMediums = "所有媒體類型"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "最新"
@@ -5135,7 +5135,7 @@ navbarFollowX = "X에서 팔로우"
 
 # Resources section translations
 resourcesItems = "리소스"
-resourcesSearchPlaceholder = "리소스 검색..."
+resourcesSearchPlaceholder = "출처 검색..."
 resourcesAllMediums = "모든 미디어 유형"
 resourcesSortAZ = "A-Z"
 resourcesSortRecent = "최신"
@@ -5367,7 +5367,7 @@ navbarFollowX = "עקבו אחרינו ב‑X"
 
 # Resources section translations
 resourcesItems = "משאבים"
-resourcesSearchPlaceholder = "חיפוש משאבים..."
+resourcesSearchPlaceholder = "חיפוש מקורות..."
 resourcesAllMediums = "כל סוגי המדיה"
 resourcesSortAZ = "א‑ת"
 resourcesSortRecent = "החדשים ביותר"
