@@ -3,11 +3,17 @@
 Build data/sources.json — the aggregated bibliography that backs the
 /sources/ overview page.
 
-Inputs:
-  - data/sources/sources/*.json (seed: the legacy data-bibliography
-    submodule's per-source records). Lifted once into the new flat
-    artifact so the existing curation isn't lost.
-  - content/{wiki,articles,timeline,library}/**/*.md — scans the TOML
+Seed strategy (idempotent):
+  - If data/sources.json already exists, its `sources` array is the
+    seed. This makes the script safely re-runnable — curated fields
+    that aren't (yet) extractable from inline page references survive
+    across regenerations.
+  - First-run fallback only: if no sources.json yet, seed from the
+    legacy data-bibliography submodule (data/sources/sources/*.json).
+    Once sources.json is committed the submodule is no longer needed.
+
+Inline scan:
+  - content/{wiki,articles,timeline,library}/**/*.md — reads the TOML
     frontmatter for `[extra].references = [...]` arrays. Each entry
     becomes either a new source or a backlink against an existing one
     (matched by `follow_url`).
@@ -29,7 +35,7 @@ import tomllib
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SEED_DIR = PROJECT_ROOT / "data" / "sources" / "sources"
+LEGACY_SEED_DIR = PROJECT_ROOT / "data" / "sources" / "sources"
 OUTPUT_PATH = PROJECT_ROOT / "data" / "sources.json"
 CONTENT_ROOT = PROJECT_ROOT / "content"
 SCAN_SECTIONS = ("wiki", "articles", "timeline", "library")
@@ -70,43 +76,81 @@ def normalize_url(url: str | None) -> str | None:
     return url.strip().rstrip("/").lower()
 
 
-def load_seed() -> dict[str, dict]:
-    """Read every per-source record in the legacy submodule into the V1
-    shape. Records keyed by id so inline-ref scanning can merge into them.
-    """
-    seeds: dict[str, dict] = {}
-    if not SEED_DIR.is_dir():
-        print(f"warn: seed dir not found at {SEED_DIR}", file=sys.stderr)
-        return seeds
+def _empty_record(record_id: str) -> dict:
+    return {
+        "id": record_id,
+        "title": record_id,
+        "authored_by": [],
+        "publish_date": "",
+        "follow_url": "",
+        "description": "",
+        "medium": "",
+        "topics": [],
+        "cited_by": [],
+        "cite_count": 0,
+    }
 
-    for path in sorted(SEED_DIR.glob("*.json")):
-        with path.open(encoding="utf-8") as f:
-            raw = json.load(f)
-        record_id = raw.get("id") or path.stem
 
-        # description in legacy records is a per-locale map; the new
-        # shape is monolingual, so flatten to en (fall back to first
-        # available locale if en is missing).
-        description = ""
-        desc_obj = raw.get("description")
-        if isinstance(desc_obj, dict):
-            description = desc_obj.get("en") or next(iter(desc_obj.values()), "")
-        elif isinstance(desc_obj, str):
-            description = desc_obj
+def _normalize_legacy(raw: dict, fallback_id: str) -> dict:
+    """Map a data-bibliography record into the V1 shape."""
+    record_id = raw.get("id") or fallback_id
+    # Legacy description is a per-locale map; new shape is monolingual.
+    description = ""
+    desc_obj = raw.get("description")
+    if isinstance(desc_obj, dict):
+        description = desc_obj.get("en") or next(iter(desc_obj.values()), "")
+    elif isinstance(desc_obj, str):
+        description = desc_obj
+    return {
+        "id": record_id,
+        "title": raw.get("title", record_id),
+        "authored_by": list(raw.get("authored_by") or []),
+        "publish_date": raw.get("publish_date") or "",
+        "follow_url": raw.get("follow_url") or "",
+        "description": description,
+        "medium": MEDIUM_MAP.get(raw.get("source_type") or "", raw.get("source_type") or ""),
+        "topics": list(raw.get("topics") or []),
+        "cited_by": [],
+        "cite_count": 0,
+    }
 
-        seeds[record_id] = {
-            "id": record_id,
-            "title": raw.get("title", record_id),
-            "authored_by": list(raw.get("authored_by") or []),
-            "publish_date": raw.get("publish_date") or "",
-            "follow_url": raw.get("follow_url") or "",
-            "description": description,
-            "medium": MEDIUM_MAP.get(raw.get("source_type") or "", raw.get("source_type") or ""),
-            "topics": list(raw.get("topics") or []),
-            "cited_by": [],
-            "cite_count": 0,
-        }
-    return seeds
+
+def load_seed() -> tuple[dict[str, dict], str]:
+    """Seed the source dict. Prefers the previous build output for
+    idempotent regeneration; falls back to the legacy data-bibliography
+    submodule on first ever run."""
+    # Path 1: re-seed from the previously generated artifact.
+    if OUTPUT_PATH.is_file():
+        with OUTPUT_PATH.open(encoding="utf-8") as f:
+            prior = json.load(f)
+        seeds: dict[str, dict] = {}
+        for entry in prior.get("sources") or []:
+            record_id = entry.get("id")
+            if not record_id:
+                continue
+            # Reset cited_by + cite_count — they get recomputed below.
+            base = {**_empty_record(record_id), **entry}
+            base["cited_by"] = []
+            base["cite_count"] = 0
+            seeds[record_id] = base
+        return seeds, f"prior {OUTPUT_PATH.relative_to(PROJECT_ROOT)}"
+
+    # Path 2: legacy submodule (first-run only).
+    if LEGACY_SEED_DIR.is_dir():
+        seeds = {}
+        for path in sorted(LEGACY_SEED_DIR.glob("*.json")):
+            with path.open(encoding="utf-8") as f:
+                raw = json.load(f)
+            record = _normalize_legacy(raw, fallback_id=path.stem)
+            seeds[record["id"]] = record
+        return seeds, f"legacy {LEGACY_SEED_DIR.relative_to(PROJECT_ROOT)}"
+
+    print(
+        f"warn: no seed available (neither {OUTPUT_PATH.relative_to(PROJECT_ROOT)} "
+        f"nor {LEGACY_SEED_DIR.relative_to(PROJECT_ROOT)})",
+        file=sys.stderr,
+    )
+    return {}, "empty"
 
 
 def parse_frontmatter(path: Path) -> dict | None:
@@ -238,8 +282,8 @@ def write_output(seeds: dict[str, dict], cites_recorded: int) -> None:
 
 
 def main() -> None:
-    seeds = load_seed()
-    print(f"seeded {len(seeds)} record(s) from {SEED_DIR.relative_to(PROJECT_ROOT)}")
+    seeds, source = load_seed()
+    print(f"seeded {len(seeds)} record(s) from {source}")
     cites = scan_pages(seeds)
     write_output(seeds, cites)
 
