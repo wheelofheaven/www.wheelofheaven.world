@@ -103,6 +103,39 @@
         
     </entry>
     <entry xml:lang="en">
+        <title>Genesis</title>
+        <published>2026-05-18T00:00:00+00:00</published>
+        <updated>2026-05-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/library/genesis-woh/"/>
+        <id>https://www.wheelofheaven.world/library/genesis-woh/</id>
+        
+        <content type="html" xml:base="https://www.wheelofheaven.world/library/genesis-woh/">&lt;p&gt;&lt;strong&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;strong&gt; is the first published chapter of the
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;wheelofheaven&#x2F;www.wheelofheaven.io&#x2F;issues&#x2F;12&quot;&gt;Wheel of Heaven Translation Program&lt;&#x2F;a&gt;.
+Genesis 1 is rendered from the pointed Hebrew Masoretic text (Westminster Leningrad
+Codex, public domain) under a documented WoH lens, with the source and the English
+translation displayed in parallel.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Verses with commentary carry a bracketed marker &lt;code&gt;[ ]&lt;&#x2F;code&gt; at the end of the
+translated line. Click the marker to open the commentary panel.&lt;&#x2F;strong&gt;
+Commentaries surface the lexical decisions that distinguish this rendering
+from the inherited English translations — &lt;em&gt;Elohim&lt;&#x2F;em&gt; plural, the &lt;em&gt;bara&#x2F;asah&lt;&#x2F;em&gt;
+verb pattern, &lt;em&gt;raqia&lt;&#x2F;em&gt; as a hammered-out dome, the cohortative &lt;em&gt;na&#x27;aseh&lt;&#x2F;em&gt; in
+v26, &lt;em&gt;tselem&lt;&#x2F;em&gt; and &lt;em&gt;demut&lt;&#x2F;em&gt; as physical resemblance, the polemical refusal of
+&lt;em&gt;shemesh&lt;&#x2F;em&gt; and &lt;em&gt;yareach&lt;&#x2F;em&gt; in v14–16, and others.&lt;&#x2F;p&gt;
+&lt;p&gt;This is a &lt;strong&gt;draft&lt;&#x2F;strong&gt;. The translation is AI-drafted (Claude Opus 4.7) against
+translation-glossary v1.0.0, pending human review.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Let&#x27;s Welcome the Extraterrestrials</title>
         <published>2026-05-18T00:00:00+00:00</published>
         <updated>2026-05-18T00:00:00+00:00</updated>
@@ -379,36 +412,6 @@ biblischen Urgeschichte.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Der Volltext ist derzeit nur auf Englisch verfügbar.
 Siehe &lt;a href=&quot;&#x2F;library&#x2F;eridu-genesis&#x2F;&quot;&gt;die englische Ausgabe&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>Génesis de Eridu</title>
-        <published>2026-05-16T00:00:00+00:00</published>
-        <updated>2026-05-16T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Unknown
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://www.wheelofheaven.world/es/library/eridu-genesis/"/>
-        <id>https://www.wheelofheaven.world/es/library/eridu-genesis/</id>
-        
-        <content type="html" xml:base="https://www.wheelofheaven.world/es/library/eridu-genesis/">&lt;p&gt;&lt;strong&gt;Génesis de Eridu&lt;&#x2F;strong&gt; es el nombre moderno de la narración sumeria
-conservada en las tablillas de Nippur CBS 4561 y CBS 4611 — el
-relato más antiguo conocido del paraíso, la creación de la
-humanidad y el diluvio. Las tablillas son anteriores al &lt;em&gt;Enūma
-Eliš&lt;&#x2F;em&gt; babilónico y al &lt;em&gt;Atra-ḫasis&lt;&#x2F;em&gt; acadio, y proporcionan los
-paralelos más tempranos conservados de la historia primigenia del
-Génesis.&lt;&#x2F;p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;El texto completo está disponible actualmente solo en inglés.
-Véase &lt;a href=&quot;&#x2F;library&#x2F;eridu-genesis&#x2F;&quot;&gt;la edición en inglés&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 </content>
         

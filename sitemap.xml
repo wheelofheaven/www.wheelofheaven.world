@@ -4840,6 +4840,12 @@
         <priority>0.7</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/library/genesis-woh/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/library/genesis/</loc>
         
         <changefreq>weekly</changefreq>
