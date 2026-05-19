@@ -2,7 +2,7 @@
 
 # Wheel of Heaven | Website
 
-This repository contains the source code for the Wheel of Heaven website, a comprehensive knowledge base exploring the hypothesis of extraterrestrial influence on Earth. The site is built using Zola, a powerful and fast Rust-basedstatic site generator.
+This repository contains the source code for the Wheel of Heaven website, a multilingual reading of the ancient world's creation traditions through the working hypothesis that the beings called Elohim were a small advanced human civilization that came here, designed life on Earth, and left a record in the religious texts. The site is built using Zola, a fast Rust-based static site generator.
 
 ## Project Structure
 
@@ -115,7 +115,7 @@ If you encounter any issues or have suggestions for improvements, please file an
 Keep up with the latest developments in our project:
 
 - [Telegram | t.me/wheelofheaven](https://t.me/wheelofheaven)
-- [Twitter | @wheelofheaven](https://twitter.com/wheelofheaven)
+- [X | @wheelofheaven](https://x.com/wheelofheaven)
 - [GitHub | wheelofheaven](https://github.com/wheelofheaven)
 
 
@@ -125,4 +125,4 @@ This website is powered by [Zola](https://www.getzola.org/), a static site gener
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) (Public Domain), in line with the rest of the Wheel of Heaven org.
