@@ -4,13 +4,14 @@
 //
 // Responsibilities:
 //   • Toggle open/close + cross-fade icon
-//   • Detect `.library-book` / `.wiki__sidebar` to set the context
-//     (`data-context="book"` or `"wiki"`) — controls which slots show
+//   • Detect `.library-book` / `.wiki__sidebar` / `.article` to set
+//     the context (`data-context="book" | "wiki" | "article"`) —
+//     controls which slots show
 //   • Track scroll → reading-progress % (book pages only)
 //   • Build the secondary TOC sheet on first open by cloning the
 //     sidebar's chapter list (library) or heading list (wiki)
 //   • Delegate theme + font + bookmarks + metadata scroll to existing
-//     globals/buttons
+//     globals/buttons; mirror the sidebar Interlinear toggle for books
 (function () {
     "use strict";
 
@@ -26,11 +27,14 @@
 
         const bookEl = document.querySelector(".library-book");
         const wikiSidebar = document.querySelector(".wiki__sidebar");
+        const articleEl = document.querySelector(".article");
         const isBookPage = !!bookEl;
         const isWikiPage = !!wikiSidebar && !isBookPage;
+        const isArticlePage = !!articleEl && !isBookPage && !isWikiPage;
 
         if (isBookPage) fab.setAttribute("data-context", "book");
         else if (isWikiPage) fab.setAttribute("data-context", "wiki");
+        else if (isArticlePage) fab.setAttribute("data-context", "article");
 
         // ── Open / close ────────────────────────────────────────────
         function setExpanded(open) {
@@ -154,6 +158,28 @@
         const incBtn = panel.querySelector('[data-action="font-increase"]');
         if (decBtn) decBtn.addEventListener("click", function () { stepFontSize(-1); });
         if (incBtn) incBtn.addEventListener("click", function () { stepFontSize(+1); });
+
+        // ── Interlinear toggle (book pages only) ────────────────────
+        // The original `#interlinear-toggle` button lives in the
+        // book's sidebar. From the FAB we just defer to its global
+        // `toggleInterlinear()` and mirror the resulting state — same
+        // pattern as the font controls below.
+        const interlinearBtn = panel.querySelector('[data-action="interlinear"]');
+        function syncInterlinearState() {
+            if (!interlinearBtn || !bookEl) return;
+            const on = bookEl.classList.contains("library-book--interlinear");
+            interlinearBtn.setAttribute("aria-pressed", on ? "true" : "false");
+            interlinearBtn.classList.toggle("reader-fab__option--active", on);
+        }
+        if (interlinearBtn && isBookPage) {
+            syncInterlinearState();
+            interlinearBtn.addEventListener("click", function () {
+                if (typeof window.toggleInterlinear === "function") {
+                    window.toggleInterlinear();
+                }
+                syncInterlinearState();
+            });
+        }
 
         // ── Bookmarks shortcut ──────────────────────────────────────
         const bookmarksBtn = panel.querySelector('[data-action="bookmarks"]');
