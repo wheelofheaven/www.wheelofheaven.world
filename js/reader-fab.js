@@ -28,13 +28,16 @@
         const bookEl = document.querySelector(".library-book");
         const wikiSidebar = document.querySelector(".wiki__sidebar");
         const articleEl = document.querySelector(".article");
+        const timelineEl = document.querySelector(".timeline-page");
         const isBookPage = !!bookEl;
         const isWikiPage = !!wikiSidebar && !isBookPage;
         const isArticlePage = !!articleEl && !isBookPage && !isWikiPage;
+        const isTimelinePage = !!timelineEl && !isBookPage && !isWikiPage && !isArticlePage;
 
         if (isBookPage) fab.setAttribute("data-context", "book");
         else if (isWikiPage) fab.setAttribute("data-context", "wiki");
         else if (isArticlePage) fab.setAttribute("data-context", "article");
+        else if (isTimelinePage) fab.setAttribute("data-context", "timeline");
 
         // ── Open / close ────────────────────────────────────────────
         function setExpanded(open) {
