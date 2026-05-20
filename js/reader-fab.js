@@ -4,14 +4,13 @@
 //
 // Responsibilities:
 //   • Toggle open/close + cross-fade icon
-//   • Tie back-to-top into the same scroll-position visibility as
-//     the legacy .to-top — FAB stays visible (it's the menu surface)
-//     but the "Back to top" option grays out when already at the top
-//   • Detect `.library-book` to enable book-context slots
-//   • Track scroll → reading-progress percentage
-//   • Build the secondary TOC sheet on first open by cloning
-//     `.library-book__toc-list` from the sidebar
-//   • Delegate theme + font + bookmarks to existing globals/buttons
+//   • Detect `.library-book` / `.wiki__sidebar` to set the context
+//     (`data-context="book"` or `"wiki"`) — controls which slots show
+//   • Track scroll → reading-progress % (book pages only)
+//   • Build the secondary TOC sheet on first open by cloning the
+//     sidebar's chapter list (library) or heading list (wiki)
+//   • Delegate theme + font + bookmarks + metadata scroll to existing
+//     globals/buttons
 (function () {
     "use strict";
 
@@ -24,10 +23,14 @@
         const tocSheet = document.getElementById("readerFabToc");
         const tocList = document.getElementById("readerFabTocList");
         const progressEl = fab.querySelector("[data-reader-fab-progress]");
+
         const bookEl = document.querySelector(".library-book");
+        const wikiSidebar = document.querySelector(".wiki__sidebar");
         const isBookPage = !!bookEl;
+        const isWikiPage = !!wikiSidebar && !isBookPage;
 
         if (isBookPage) fab.setAttribute("data-context", "book");
+        else if (isWikiPage) fab.setAttribute("data-context", "wiki");
 
         // ── Open / close ────────────────────────────────────────────
         function setExpanded(open) {
@@ -48,7 +51,7 @@
             setExpanded(false);
         });
 
-        // Esc collapses.
+        // Esc collapses (and dismisses the TOC sheet first if open).
         document.addEventListener("keydown", function (e) {
             if (e.key !== "Escape") return;
             if (tocSheet && tocSheet.classList.contains("reader-fab-toc--open")) {
@@ -115,9 +118,10 @@
         }
 
         // ── Font size (book pages only) ─────────────────────────────
-        // Delegates to the existing in-sidebar buttons (data-font-size=
-        // small|medium|large|x-large) so persistence + actual font
-        // application stay in one place (library-reader.js).
+        // Call LibraryReader.setFontSize directly rather than dispatching
+        // a click on the sidebar button — a bubbled click on an element
+        // outside `.reader-fab` would trip the outside-click handler and
+        // close the panel mid-tap.
         const fontSizes = ["small", "medium", "large", "x-large"];
 
         function currentFontSize() {
@@ -131,8 +135,9 @@
             const cur = currentFontSize();
             const idx = Math.max(0, Math.min(fontSizes.length - 1, fontSizes.indexOf(cur) + delta));
             const next = fontSizes[idx];
-            const btn = document.querySelector('[data-font-size="' + next + '"]');
-            if (btn) btn.click();
+            if (window.LibraryReader && typeof window.LibraryReader.setFontSize === "function") {
+                window.LibraryReader.setFontSize(next);
+            }
         }
 
         const decBtn = panel.querySelector('[data-action="font-decrease"]');
@@ -153,61 +158,105 @@
             });
         }
 
+        // ── Metadata jump ───────────────────────────────────────────
+        // On mobile the sidebar (page meta, claim badge, infobox, TOC,
+        // study tools, etc.) stacks below the article. The Metadata
+        // option scrolls the reader straight to the top of that block
+        // without forcing them to skim past everything else.
+        const metadataBtn = panel.querySelector('[data-action="metadata"]');
+        if (metadataBtn) {
+            metadataBtn.addEventListener("click", function () {
+                setExpanded(false);
+                const target =
+                    document.querySelector(".library-book__sidebar") ||
+                    document.querySelector(".wiki__sidebar");
+                if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+            });
+        }
+
         // ── TOC sheet ───────────────────────────────────────────────
-        // Built on first open by cloning the sidebar's chapter list, so
-        // changes there (titles, ordering) flow through automatically.
+        // Built on first open by cloning the sidebar's heading/chapter
+        // list, so changes there flow through automatically. Works for
+        // both book pages (.library-book__toc-list) and wiki pages
+        // (.wiki__toc-list — flat list of section headings).
         let tocBuilt = false;
 
         function buildToc() {
             if (tocBuilt || !tocList) return;
-            const source = document.querySelector(".library-book__toc-list");
-            if (!source) return;
-            const items = source.querySelectorAll(".library-book__toc-item");
-            const frag = document.createDocumentFragment();
-            items.forEach(function (item) {
-                const link = item.querySelector(".library-book__toc-link");
-                if (!link) return;
-                const num = item.querySelector(".library-book__toc-chapter-number");
-                const title = item.querySelector(".library-book__toc-chapter-title");
 
-                const li = document.createElement("li");
-                li.className = "reader-fab-toc__item";
-
-                const a = document.createElement("a");
-                a.className = "reader-fab-toc__link";
-                a.href = link.getAttribute("href") || "#";
-                a.dataset.chapter = item.dataset.chapter || "";
-
-                if (num) {
-                    const span = document.createElement("span");
-                    span.className = "reader-fab-toc__chapter-number";
-                    span.textContent = num.textContent.trim();
-                    a.appendChild(span);
-                }
-                if (title) {
-                    const span = document.createElement("span");
-                    span.className = "reader-fab-toc__chapter-title";
-                    span.textContent = title.textContent.trim();
-                    a.appendChild(span);
-                }
-
-                a.addEventListener("click", function (e) {
-                    e.preventDefault();
-                    const ch = parseInt(a.dataset.chapter, 10);
-                    closeToc();
-                    if (!isNaN(ch) && typeof window.scrollToChapter === "function") {
-                        window.scrollToChapter(ch);
-                    } else if (a.hash) {
-                        const target = document.querySelector(a.hash);
-                        if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
-                    }
+            if (isBookPage) {
+                const source = document.querySelector(".library-book__toc-list");
+                if (!source) return;
+                source.querySelectorAll(".library-book__toc-item").forEach(function (item) {
+                    const link = item.querySelector(".library-book__toc-link");
+                    if (!link) return;
+                    const num = item.querySelector(".library-book__toc-chapter-number");
+                    const title = item.querySelector(".library-book__toc-chapter-title");
+                    tocList.appendChild(buildTocLi({
+                        href: link.getAttribute("href") || "#",
+                        chapter: item.dataset.chapter || "",
+                        num: num ? num.textContent.trim() : "",
+                        title: title ? title.textContent.trim() : "",
+                        onActivate: function (chRaw) {
+                            const ch = parseInt(chRaw, 10);
+                            if (!isNaN(ch) && typeof window.scrollToChapter === "function") {
+                                window.scrollToChapter(ch);
+                                return true;
+                            }
+                            return false;
+                        }
+                    }));
                 });
-
-                li.appendChild(a);
-                frag.appendChild(li);
-            });
-            tocList.appendChild(frag);
+            } else if (isWikiPage) {
+                const source = document.querySelector(".wiki__toc-list, .wiki__toc-nav");
+                if (!source) return;
+                source.querySelectorAll(".wiki__toc-link").forEach(function (link, idx) {
+                    tocList.appendChild(buildTocLi({
+                        href: link.getAttribute("href") || "#",
+                        chapter: String(idx + 1),
+                        num: "",
+                        title: link.textContent.trim(),
+                        onActivate: null
+                    }));
+                });
+            }
             tocBuilt = true;
+        }
+
+        function buildTocLi(opts) {
+            const li = document.createElement("li");
+            li.className = "reader-fab-toc__item";
+
+            const a = document.createElement("a");
+            a.className = "reader-fab-toc__link";
+            a.href = opts.href;
+            if (opts.chapter) a.dataset.chapter = opts.chapter;
+
+            if (opts.num) {
+                const span = document.createElement("span");
+                span.className = "reader-fab-toc__chapter-number";
+                span.textContent = opts.num;
+                a.appendChild(span);
+            }
+            if (opts.title) {
+                const span = document.createElement("span");
+                span.className = "reader-fab-toc__chapter-title";
+                span.textContent = opts.title;
+                a.appendChild(span);
+            }
+
+            a.addEventListener("click", function (e) {
+                e.preventDefault();
+                closeToc();
+                if (opts.onActivate && opts.onActivate(a.dataset.chapter)) return;
+                if (a.hash) {
+                    const target = document.querySelector(a.hash);
+                    if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+                }
+            });
+
+            li.appendChild(a);
+            return li;
         }
 
         function openToc() {
@@ -226,8 +275,10 @@
 
         function highlightActiveTocItem() {
             if (!tocList) return;
-            const activeItem = document.querySelector(".library-book__toc-item--active");
-            const activeCh = activeItem && activeItem.dataset.chapter;
+            const activeItem = document.querySelector(
+                ".library-book__toc-item--active, .wiki__toc-link--active"
+            );
+            const activeCh = activeItem && activeItem.dataset && activeItem.dataset.chapter;
             tocList.querySelectorAll(".reader-fab-toc__link").forEach(function (a) {
                 a.classList.toggle("reader-fab-toc__link--active", a.dataset.chapter === activeCh);
             });
