@@ -18,7 +18,9 @@ The Wheel of Heaven website is structured as follows:
 
 ## Contributing
 
-We welcome contributions to the Wheel of Heaven project! Whether it's adding content, improving the design, or fixing bugs, your input is valuable. Please refer to our [Contribution Guidelines](CONTRIBUTE.md) for more information on how to contribute.
+We welcome contributions to the Wheel of Heaven project! Whether it's adding content, improving the design, or fixing bugs, your input is valuable.
+
+Start with the **[developer documentation at docs.wheelofheaven.world](https://docs.wheelofheaven.world)** — it covers the [Quickstart](https://docs.wheelofheaven.world/getting-started/quickstart/), the [Project Map](https://docs.wheelofheaven.world/getting-started/project-map/) of how the ~19 repos in this organization fit together, per-content-type how-tos for [wiki entries](https://docs.wheelofheaven.world/contributing/content/wiki-entry/) / [Articles](https://docs.wheelofheaven.world/contributing/content/article/) / [Newsroom Dispatches](https://docs.wheelofheaven.world/contributing/content/newsroom-dispatch/), and the [Bifrost theme guide](https://docs.wheelofheaven.world/contributing/dev/bifrost-theme/) for theme/SCSS work.
 
 ## Usage
 
