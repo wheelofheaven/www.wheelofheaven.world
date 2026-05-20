@@ -44,6 +44,16 @@
             setExpanded(fab.getAttribute("data-state") !== "expanded");
         });
 
+        // Stop ALL clicks inside the panel from bubbling out to the
+        // document handler below. Without this, certain taps inside the
+        // panel (notably A− / A+ on iOS) bubble in a way that trips the
+        // outside-close check and dismisses the menu mid-tap. Buttons
+        // that intentionally close the panel call setExpanded(false)
+        // themselves.
+        panel.addEventListener("click", function (e) {
+            e.stopPropagation();
+        });
+
         // Click outside collapses the panel.
         document.addEventListener("click", function (e) {
             if (fab.getAttribute("data-state") !== "expanded") return;
@@ -163,6 +173,11 @@
         // study tools, etc.) stacks below the article. The Metadata
         // option scrolls the reader straight to the top of that block
         // without forcing them to skim past everything else.
+        //
+        // Uses window.scrollTo with a computed offset rather than
+        // scrollIntoView, both to land below the fixed navbar (so the
+        // sidebar header isn't hidden behind it) and because Safari's
+        // scrollIntoView smooth behavior has historically been flaky.
         const metadataBtn = panel.querySelector('[data-action="metadata"]');
         if (metadataBtn) {
             metadataBtn.addEventListener("click", function () {
@@ -170,7 +185,12 @@
                 const target =
                     document.querySelector(".library-book__sidebar") ||
                     document.querySelector(".wiki__sidebar");
-                if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+                if (!target) return;
+                // Navbar pill is ~64px + 8px top inset → offset by 80px
+                // so the sidebar header clears the floating navbar.
+                const NAVBAR_CLEARANCE = 80;
+                const top = target.getBoundingClientRect().top + window.scrollY - NAVBAR_CLEARANCE;
+                window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
             });
         }
 
