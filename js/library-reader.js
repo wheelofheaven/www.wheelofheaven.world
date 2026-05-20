@@ -30,7 +30,11 @@ const LibraryReader = (function() {
             'x-large': '1.375rem'
         },
         themes: ['light', 'sepia', 'dark'],
-        viewModes: ['translation', 'original', 'side-by-side'],
+        // Only two view modes now. The legacy 'original' / 'side-by-side'
+        // entries were collapsed into a single 'interlinear' affordance —
+        // any stored preference using those legacy values is normalised
+        // to 'interlinear' below.
+        viewModes: ['translation', 'interlinear'],
         progressSaveInterval: 3000, // ms
         scrollDebounceDelay: 150
     };
@@ -186,45 +190,24 @@ const LibraryReader = (function() {
     }
 
     /**
-     * Set view mode (translation, original, side-by-side)
+     * Set view mode (translation, interlinear).
+     *
+     * Legacy stored prefs ('original' / 'side-by-side') are coerced to
+     * 'interlinear' since both visually showed the original alongside.
      */
     function setViewMode(mode, save = true) {
-        const textContents = document.querySelectorAll('.library-book__text');
-        const originalTexts = document.querySelectorAll('.library-book__para-original');
+        if (mode === 'original' || mode === 'side-by-side') mode = 'interlinear';
 
-        textContents.forEach(tc => {
-            tc.classList.remove('library-book__text--split');
-            if (mode === 'side-by-side') {
-                tc.classList.add('library-book__text--split');
-            }
-        });
-
-        originalTexts.forEach(ot => {
-            if (mode === 'original' || mode === 'side-by-side') {
-                ot.style.display = 'block';
-            } else {
-                ot.style.display = 'none';
-            }
-        });
-
-        // Hide translation if original-only mode
-        const translationTexts = document.querySelectorAll('.library-book__para-translation');
-        translationTexts.forEach(tt => {
-            tt.style.display = mode === 'original' ? 'none' : 'block';
-        });
-
-        // Update UI
-        const originalToggle = document.getElementById('original-toggle');
-        const sideBySideToggle = document.getElementById('side-by-side-toggle');
-
-        if (originalToggle) {
-            originalToggle.classList.toggle('library-book__btn--active',
-                mode === 'original' || mode === 'side-by-side');
+        const root = document.querySelector('.library-book');
+        if (root) {
+            root.classList.toggle('library-book--interlinear', mode === 'interlinear');
         }
 
-        if (sideBySideToggle) {
-            sideBySideToggle.classList.toggle('hidden', mode === 'translation');
-            sideBySideToggle.classList.toggle('library-book__btn--active', mode === 'side-by-side');
+        const toggle = document.getElementById('interlinear-toggle');
+        if (toggle) {
+            const active = mode === 'interlinear';
+            toggle.classList.toggle('library-book__btn--active', active);
+            toggle.setAttribute('aria-pressed', String(active));
         }
 
         if (save && window.LibraryStorage) {
@@ -305,11 +288,9 @@ const LibraryReader = (function() {
             case 'b': // Toggle bookmark
                 toggleCurrentBookmark();
                 break;
-            case 'o': // Toggle original text
-                toggleOriginal();
-                break;
-            case 's': // Toggle side-by-side
-                toggleSideBySide();
+            case 'o': // Toggle interlinear (translation + original)
+            case 's': // Backward-compat alias from the old split shortcut
+                toggleInterlinear();
                 break;
             case '/': // Focus search
                 e.preventDefault();
@@ -599,33 +580,13 @@ const LibraryReader = (function() {
     }
 
     /**
-     * Toggle original text display
+     * Toggle between translation-only and interlinear (translation +
+     * original stacked). Replaces the old toggleOriginal /
+     * toggleSideBySide pair.
      */
-    function toggleOriginal() {
+    function toggleInterlinear() {
         const prefs = window.LibraryStorage ? window.LibraryStorage.getPreferences() : { viewMode: 'translation' };
-        const current = prefs.viewMode;
-
-        if (current === 'translation') {
-            setViewMode('original');
-        } else if (current === 'original') {
-            setViewMode('side-by-side');
-        } else {
-            setViewMode('translation');
-        }
-    }
-
-    /**
-     * Toggle side-by-side view
-     */
-    function toggleSideBySide() {
-        const prefs = window.LibraryStorage ? window.LibraryStorage.getPreferences() : { viewMode: 'translation' };
-        const current = prefs.viewMode;
-
-        if (current === 'side-by-side') {
-            setViewMode('original');
-        } else if (current !== 'translation') {
-            setViewMode('side-by-side');
-        }
+        setViewMode(prefs.viewMode === 'interlinear' ? 'translation' : 'interlinear');
     }
 
     /**
