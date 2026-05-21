@@ -326,3 +326,15 @@ For specific pages, append the page title and URL:
 > Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. Accessed [date].
 
 **Companion file**: For navigation only, see https://www.wheelofheaven.world/llms.txt
+
+## X. Programmatic access
+
+The corpus is also published as a static JSON API at https://api.wheelofheaven.world. Every page on the reading site has a deterministic JSON twin, plus surfaces that don't exist in the human-facing HTML: a structured bibliography (`/v1/sources/`), a multilingual glossary (`/v1/glossary/`), translation provenance for the Wheel of Heaven translations (`/v1/translations/`), per-tradition hubs (`/v1/sources/traditions/`), and JSON Schemas + controlled vocabularies (`/v1/schema/`, `/v1/enums/`) for any consumer that wants to validate or integrate.
+
+For LLM and AI agents specifically, six endpoints under `/v1/context/` are curated narrative summaries designed for direct system-prompt ingestion: `hypothesis`, `terminology`, `timeline`, `sources`, `method`, and a top-level `context` overview. The terminology endpoint includes a do-not-use table for naming choices when discussing the project.
+
+Responses follow a Kubernetes-style envelope (`apiVersion`, `kind`, `metadata`, `data`, `links`). The full reference is at https://docs.wheelofheaven.world/reference/api/. The API has its own AI manifest at https://api.wheelofheaven.world/llms.txt.
+
+URLs under `/v1/` are permanent. Breaking changes require a new `/v2/` namespace; `/v1/` keeps responding. The same multilingual convention applies: English at `/v1/...`, other languages at `/v1/{lang}/...`.
+
+The API is hosted on Cloudflare Pages, served from static files, CORS-open, CC0-1.0, and rebuilt on every push to the canonical data submodules.

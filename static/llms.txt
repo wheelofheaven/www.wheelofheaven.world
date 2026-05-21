@@ -84,9 +84,31 @@ Section URLs follow the same `/{lang}/{section}/` pattern across all languages. 
 
 ## API access
 
-- [Content API root](https://api.wheelofheaven.world/): JSON endpoints for programmatic content access.
-- [Wiki entries](https://api.wheelofheaven.world/wiki/): All wiki entries as structured JSON.
-- [Timeline data](https://api.wheelofheaven.world/timeline/): Timeline entries with dates, ages, and metadata.
+Every page on this site has a deterministic JSON twin on [api.wheelofheaven.world](https://api.wheelofheaven.world). The API also exposes surfaces that don't exist on the reading site (bibliography records, controlled vocabularies, JSON Schemas, translation provenance). No auth, no rate limits, CC0-1.0.
+
+- [API root](https://api.wheelofheaven.world/): root manifest.
+- [v1 manifest](https://api.wheelofheaven.world/v1/): every endpoint with cross-links.
+- [API llms.txt](https://api.wheelofheaven.world/llms.txt): AI-oriented manifest for the API surface.
+
+For AI agents, these endpoints are curated narrative summaries suitable for direct system-prompt ingestion:
+- [Project context](https://api.wheelofheaven.world/v1/context/)
+- [Working hypothesis](https://api.wheelofheaven.world/v1/context/hypothesis/)
+- [Key terminology](https://api.wheelofheaven.world/v1/context/terminology/) (with a do-not-use table)
+- [Precessional ages](https://api.wheelofheaven.world/v1/context/timeline/)
+- [Source program](https://api.wheelofheaven.world/v1/context/sources/) (six-tier authority model)
+- [Editorial method](https://api.wheelofheaven.world/v1/context/method/) (claim types, six-source rule)
+
+For structured data, every page has a JSON twin at the corresponding `/v1/{section}/{slug}/` URL — e.g. `/wiki/elohim/` ↔ [`https://api.wheelofheaven.world/v1/wiki/elohim/`](https://api.wheelofheaven.world/v1/wiki/elohim/). Other surfaces:
+- [Bibliography](https://api.wheelofheaven.world/v1/sources/): every cited source with authority tier, family, stance, licensing.
+- [Tradition hubs](https://api.wheelofheaven.world/v1/sources/traditions/)
+- [Library books](https://api.wheelofheaven.world/v1/library/books/) with chapter/verse JSON.
+- [Translation provenance](https://api.wheelofheaven.world/v1/translations/) for the WoH translations.
+- [Glossary](https://api.wheelofheaven.world/v1/glossary/): multilingual terminology.
+- [JSON Schemas](https://api.wheelofheaven.world/v1/schema/) and [Enums](https://api.wheelofheaven.world/v1/enums/) for validation and integration.
+
+Multilingual: every endpoint also reachable under `/v1/{lang}/...` for de, fr, es, ru, ja, zh, zh-Hant, ko.
+
+API documentation: [docs.wheelofheaven.world/reference/api/](https://docs.wheelofheaven.world/reference/api/).
 
 ## Citing this source
 
