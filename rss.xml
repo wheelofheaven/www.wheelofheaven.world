@@ -7,7 +7,417 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://www.wheelofheaven.world/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Book of Enoch (1 Enoch — Book of the Watchers)</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/book-of-enoch-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/book-of-enoch-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/book-of-enoch-woh/">&lt;p&gt;&lt;strong&gt;1 Enoch, the Book of the Watchers&lt;&#x2F;strong&gt; (chapters 1–36) is the most directly WoH-resonant material in the entire pseudepigrapha. The Watchers narrative (chapters 6–11) — the descent of the &lt;em&gt;bnei Elohim&lt;&#x2F;em&gt;, the teaching of forbidden arts, the engendering of the Nephilim — is named in the Raëlian canon&#x27;s commentary section as one of the texts closer to its truth. Source: Charles 1912 critical edition (Public Domain) as base reference; Knibb 1978 and Nickelsburg 2001 (Hermeneia) serve as scholarly references but are copyrighted and not the ship-text.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; Ge&#x27;ez (Charles 1912 critical edition, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;ENO-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 5.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: the Book of the Watchers (chapters 1–36). The other books of 1 Enoch (Parables, Astronomical Book, Dream Visions, Epistle) are deferred.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Exodus</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/exodus-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/exodus-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/exodus-woh/">&lt;p&gt;&lt;strong&gt;Exodus&lt;&#x2F;strong&gt; (Hebrew: &lt;em&gt;Shemot&lt;&#x2F;em&gt; — &quot;Names&quot;) picks up where Genesis leaves off: the descendants of Jacob in Egypt, the liberation under Moses, the wilderness journey, the Mount Sinai theophany, the Decalogue, the covenant code, and the construction of the Tabernacle.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; pointed Hebrew Masoretic text (Westminster Leningrad Codex, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;EXO-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 2.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: chapters 1–20 (the liberation arc through the Decalogue). The Tabernacle account (chs 25–31, 35–40) extends the &lt;em&gt;bara&lt;&#x2F;em&gt; &#x2F; &lt;em&gt;asah&lt;&#x2F;em&gt; &#x2F; &lt;em&gt;yatsar&lt;&#x2F;em&gt; verb-pattern attention into project-building vocabulary and is the natural extension after the initial scope is signed off.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Ezekiel</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/ezekiel-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/ezekiel-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/ezekiel-woh/">&lt;p&gt;&lt;strong&gt;Ezekiel&lt;&#x2F;strong&gt; opens with one of the most-cited passages in the entire Wheel of Heaven reference corpus — chapter 1&#x27;s throne-vision, the four &lt;em&gt;chayyot&lt;&#x2F;em&gt; (living creatures), the &lt;em&gt;chashmal&lt;&#x2F;em&gt; (electrum &#x2F; amber &#x2F; gleaming metal), the wheels-within-wheels, and the &lt;em&gt;kavod&lt;&#x2F;em&gt; (glory). Chapter 1 will be the project&#x27;s first non-Genesis WoH Translation, chosen for its strong philological backing (Greenberg&#x27;s Anchor Bible, Block&#x27;s NICOT, Zimmerli&#x27;s Hermeneia), its standing public interest, and its high lens-leverage.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; pointed Hebrew Masoretic text (Westminster Leningrad Codex, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;EZK-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 1 (cross-book pipeline pilot) + Phase 2.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: chapter 1 (the throne-vision; the pipeline pilot). Then chapter 10 (the throne-vision return; the &lt;em&gt;kavod&lt;&#x2F;em&gt; leaves the temple) and chapter 37 (the valley of dry bones — read in &lt;em&gt;Extra-Terrestrials Took Me To Their Planet&lt;&#x2F;em&gt; as the biological-creation machine). Extension to other chapters is a reassessment decision.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Epic of Gilgamesh</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/gilgamesh-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/gilgamesh-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/gilgamesh-woh/">&lt;p&gt;&lt;strong&gt;The Standard Babylonian Epic of Gilgamesh&lt;&#x2F;strong&gt; is the project&#x27;s first cross-tradition pairing. &lt;strong&gt;Tablet XI&lt;&#x2F;strong&gt; — the flood narrative — is the single best-attested cross-tradition parallel in all of religious literature, paired with the Genesis 6–9 flood account that the WoH Genesis translation has already engaged. Andrew George&#x27;s 2003 critical edition (Oxford) is the project&#x27;s scholarly reference but is copyrighted; the WoH translation works from openly-licensed Akkadian transliterations.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; openly-licensed Akkadian transliterations (ETCSL &#x2F; CDLI &#x2F; ORACC).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;GILG-WOH-{tablet-roman}:{line}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 3.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: Tablet XI (the flood narrative). Extension to other tablets is a reassessment decision.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Isaiah</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/isaiah-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/isaiah-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/isaiah-woh/">&lt;p&gt;&lt;strong&gt;Isaiah&lt;&#x2F;strong&gt; is the largest of the prophetic books and one of the most frequently cited in the New Testament. Three scope blocks in the WoH translation queue: the throne-room vision of chapter 6 (parallels Ezekiel 1 and the &lt;em&gt;kavod&lt;&#x2F;em&gt;-tradition vocabulary), the &quot;Little Apocalypse&quot; of chapters 24–27 (cosmic-judgment material), and the suffering-servant text of chapter 53.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; pointed Hebrew Masoretic text (Westminster Leningrad Codex, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;ISA-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 2.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: chapter 6, chapters 24–27, chapter 53. Extension to other chapters is a reassessment decision.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Job</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/job-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/job-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/job-woh/">&lt;p&gt;&lt;strong&gt;Job&lt;&#x2F;strong&gt; opens with the &lt;em&gt;bnei-elohim&lt;&#x2F;em&gt; (&quot;sons of the Elohim&quot;) council scene, a load-bearing passage for the WoH divine-council reading. The book closes with the divine speeches of chapters 38–42, containing the &lt;em&gt;behemoth&lt;&#x2F;em&gt; and &lt;em&gt;leviathan&lt;&#x2F;em&gt; material that is one of the most lens-charged sections of the Hebrew Bible. The Raëlian canon also notes the Dhorme&#x2F;RNKJV translation divergence at Job 37–38 explicitly — this translation will surface it.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; pointed Hebrew Masoretic text (Westminster Leningrad Codex, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;JOB-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 2.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: chapters 1–2 (the divine-council frame), chapters 38–42 (the divine speeches with behemoth and leviathan). The wisdom dialogue (chs 3–37) is deferred.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Matthew</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/matthew-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/matthew-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/matthew-woh/">&lt;p&gt;&lt;strong&gt;Matthew&lt;&#x2F;strong&gt; is the most heavily cited New Testament book in the Raëlian canon. The Parable of the Sower in chapter 13 is the canon&#x27;s most explicit cosmological reading from the Gospels — read as a description of life being seeded on multiple worlds. The translation will be from the polytonic Greek (Tregelles edition), the oldest Public Domain critical edition of the Greek NT.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; polytonic Greek New Testament (Tregelles 1857–1879, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;MAT-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 4.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: complete Gospel. Substantial commentary at the messianic passages (chs 1–2, 16–17, 24–26), the Sermon on the Mount (chs 5–7), and the parables of chapter 13.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Qur&#x27;an (selected suras)</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/quran-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/quran-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/quran-woh/">&lt;p&gt;&lt;strong&gt;Selected suras of the Qur&#x27;an.&lt;&#x2F;strong&gt; Scope strictly limited to &lt;strong&gt;Suras 21:1–5, 54:1, and 56:15–24&lt;&#x2F;strong&gt; — the three citations the Raëlian canon engages directly in &lt;em&gt;Extra-Terrestrials Took Me To Their Planet&lt;&#x2F;em&gt;. The project engages Islam respectfully and technically; this is not a full-Qur&#x27;an translation and does not claim to be.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; Arabic Qur&#x27;an (Tanzil.net, Uthmanic Hafs recension).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;QUR-WOH-{sura}:{ayah}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 3.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: Sura 21:1–5 (the Prophets sura — cosmological opening), Sura 54:1 (the Moon sura — the splitting of the moon), Sura 56:15–24 (the Inevitable Reality sura — the paradise verses). The Edition track (working from a Public Domain English translation with the WoH glossary applied) is available as a fallback if Translation-track Arabic competence is the project&#x27;s constraint.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Revelation</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/revelation-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/revelation-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/revelation-woh/">&lt;p&gt;&lt;strong&gt;The Apocalypse of John&lt;&#x2F;strong&gt; is the strongest WoH-interpretive-payoff text in the New Testament. The throne-vision of chapter 4 — the twenty-four elders, the four living creatures, the seven lamps — reads as a continuation of the Ezekiel-1 throne tradition. The Raëlian canon engages Revelation directly in &lt;em&gt;The New Revelations&lt;&#x2F;em&gt;, reading chapters 1, 4, 6 onward as a dictation given to John through what is described as a visual-display apparatus.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; polytonic Greek New Testament (Tregelles 1857–1879, Public Domain).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;REV-WOH-{chapter}:{verse}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 4.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: complete book. The throne-vision sequence (chs 4–6), the seven seals&#x2F;trumpets&#x2F;bowls structure, and the new-Jerusalem material of chapters 21–22 will carry the heaviest commentary.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Shi&#x27;ur Qomah (curated selection)</title>
+          <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.wheelofheaven.world/library/shiur-qomah-woh/</link>
+          <guid>https://www.wheelofheaven.world/library/shiur-qomah-woh/</guid>
+          <description xml:base="https://www.wheelofheaven.world/library/shiur-qomah-woh/">&lt;p&gt;&lt;strong&gt;Shi&#x27;ur Qomah&lt;&#x2F;strong&gt; (&quot;Measurement of the Body&quot;) is the Hebrew esoteric corpus from the Hekhalot literature that the Raëlian canon implicitly engages when it cites &quot;the Kabbalah&quot; for the &lt;em&gt;parasangs&lt;&#x2F;em&gt;-measurement and the &quot;height of the creator&quot; passages (&lt;em&gt;The End of the World&lt;&#x2F;em&gt;, chapter &lt;em&gt;At the Root of All Religions&lt;&#x2F;em&gt;). This translation closes one of the genuine source-tensions named in the &lt;em&gt;Reference corpus of the Raëlian canon&lt;&#x2F;em&gt; wiki entry: the canon generically names &quot;the Kabbalah&quot; where the actual textual source is the Shi&#x27;ur Qomah body of literature.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;about-this-planned-translation&quot;&gt;About this planned translation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;&#x2F;strong&gt; Planned. Not yet drafted.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Source text:&lt;&#x2F;strong&gt; Hebrew (specific source edition TBD at translation start).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reference format:&lt;&#x2F;strong&gt; &lt;code&gt;SHQM-WOH-{section}:{line}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Roadmap position:&lt;&#x2F;strong&gt; Phase 5.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;Initial scope: a curated selection of the &lt;em&gt;parasangs&lt;&#x2F;em&gt; passages and related cosmological material the Raëlian canon implicitly engages. Specific source edition and section selection to be determined at translation start. This is &lt;strong&gt;not&lt;&#x2F;strong&gt; a complete book translation — the Shi&#x27;ur Qomah&#x2F;Hekhalot corpus is large, fragmentary, and would require dedicated scholarly competence the project has not yet committed to building.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-this-translation-will-be-produced&quot;&gt;How this translation will be produced&lt;&#x2F;h2&gt;
+&lt;p&gt;This translation will go through the standard Wheel of Heaven Translation
+Program pipeline: source acquisition, Translator agent (literal English
+applying the production glossary), Editor agent (lexical-decision
+adjudication, per-verse commentary, glossary deltas), Reviewer agent
+(independent verification with mandatory scholarly citations), and human
+sign-off. The full methodology is documented at
+&lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;&quot;&gt;Source-Text Translation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The Wheel of Heaven lens lives in the apparatus — the glossary entries
+and per-verse commentary — not in the translated text itself. Accuracy
+above lens; where the source admits multiple defensible readings, the
+Raëlian canon is the tiebreaker, and every divergence from the standard
+translation tradition is recorded with a &lt;code&gt;claim_type&lt;&#x2F;code&gt; label and a
+philological rationale.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;when-this-translation-begins&quot;&gt;When this translation begins&lt;&#x2F;h2&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;docs.wheelofheaven.world&#x2F;contributing&#x2F;content&#x2F;source-text-translation&#x2F;roadmap&#x2F;&quot;&gt;translation roadmap&lt;&#x2F;a&gt;
+for the project&#x27;s current phase ordering and the conditions under which
+new texts move from &quot;planned&quot; to &quot;in-progress.&quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;see-also&quot;&gt;See also&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wiki&#x2F;reference-corpus-of-the-raelian-canon&#x2F;&quot;&gt;Reference corpus of the Raëlian canon&lt;&#x2F;a&gt; — the catalogue of texts the Raëlian canon engages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;library&#x2F;genesis-woh&#x2F;&quot;&gt;Genesis (Wheel of Heaven Translation)&lt;&#x2F;a&gt; — the first WoH Translation in the program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
       <item>
           <title>Let&#x27;s Welcome the Extraterrestrials</title>
           <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
@@ -103,99 +513,6 @@ translation-glossary v1.0.0, pending human review.&lt;&#x2F;p&gt;
           <link>https://www.wheelofheaven.world/zh/library/lets-welcome-the-extraterrestrials/</link>
           <guid>https://www.wheelofheaven.world/zh/library/lets-welcome-the-extraterrestrials/</guid>
           <description xml:base="https://www.wheelofheaven.world/zh/library/lets-welcome-the-extraterrestrials/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/de/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/de/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/de/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/es/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/es/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/es/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Les Extra-Terrestres M&#x27;ont Emmené sur Leur Planète</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/fr/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/fr/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/fr/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/ja/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/ja/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/ja/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/ko/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/ko/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/ko/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/library/extraterrestrials-took-me-to-their-planet/">&lt;p&gt;This page displays &quot;Extraterrestrials Took Me to Their Planet&quot; with interactive features for viewing the original French text alongside the published English translation.&lt;&#x2F;p&gt;
-&lt;p&gt;The book contains 3 chapters covering Raël&#x27;s second encounter with the Elohim (July 31, 1975) and his subsequent visit to their planet.&lt;&#x2F;p&gt;
-</description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/ru/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/ru/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/ru/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/zh-Hant/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/zh-Hant/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/zh-Hant/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Extraterrestrials Took Me to Their Planet</title>
-          <pubDate>Sun, 17 May 2026 07:12:28 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/zh/library/extraterrestrials-took-me-to-their-planet/</link>
-          <guid>https://www.wheelofheaven.world/zh/library/extraterrestrials-took-me-to-their-planet/</guid>
-          <description xml:base="https://www.wheelofheaven.world/zh/library/extraterrestrials-took-me-to-their-planet/"></description>
-      </item>
-      <item>
-          <title>Eridu-Genesis</title>
-          <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://www.wheelofheaven.world/de/library/eridu-genesis/</link>
-          <guid>https://www.wheelofheaven.world/de/library/eridu-genesis/</guid>
-          <description xml:base="https://www.wheelofheaven.world/de/library/eridu-genesis/">&lt;p&gt;&lt;strong&gt;Eridu-Genesis&lt;&#x2F;strong&gt; ist die moderne Bezeichnung für die sumerische
-Erzählung, die auf den Nippur-Tafeln CBS 4561 und CBS 4611
-überliefert ist — der älteste bekannte Bericht über das Paradies,
-die Erschaffung der Menschheit und die Sintflut. Die Tafeln sind
-älter als das babylonische &lt;em&gt;Enuma Elisch&lt;&#x2F;em&gt; und das akkadische
-&lt;em&gt;Atra-ḫasis&lt;&#x2F;em&gt; und liefern die frühesten erhaltenen Parallelen zur
-biblischen Urgeschichte.&lt;&#x2F;p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Der Volltext ist derzeit nur auf Englisch verfügbar.
-Siehe &lt;a href=&quot;&#x2F;library&#x2F;eridu-genesis&#x2F;&quot;&gt;die englische Ausgabe&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-</description>
       </item>
     </channel>
 </rss>

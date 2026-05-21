@@ -4726,6 +4726,12 @@
         <priority>0.7</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/library/book-of-enoch-woh/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/library/book-of-enoch/</loc>
         
         <changefreq>weekly</changefreq>
@@ -4810,6 +4816,12 @@
         <priority>0.7</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/library/exodus-woh/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/library/exodus/</loc>
         
         <changefreq>weekly</changefreq>
@@ -4817,6 +4829,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/library/extraterrestrials-took-me-to-their-planet/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/library/ezekiel-woh/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.7</priority></url>
@@ -4852,6 +4870,12 @@
         <priority>0.7</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/library/gilgamesh-woh/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/library/habakkuk/</loc>
         
         <changefreq>weekly</changefreq>
@@ -4871,6 +4895,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/library/hosea/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/library/isaiah-woh/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.7</priority></url>
@@ -4901,6 +4931,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/library/jeremiah/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/library/job-woh/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.7</priority></url>
@@ -4973,6 +5009,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/library/mark/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/library/matthew-woh/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.7</priority></url>
@@ -5068,7 +5110,19 @@
         <priority>0.7</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/library/quran-woh/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/library/quran/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/library/revelation-woh/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.7</priority></url>
@@ -5093,6 +5147,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/library/ruth/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/library/shiur-qomah-woh/</loc>
         
         <changefreq>weekly</changefreq>
         <priority>0.7</priority></url>
@@ -6719,6 +6779,12 @@
 
     <url>
         <loc>https://www.wheelofheaven.world/wiki/raelism/</loc>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority></url>
+
+    <url>
+        <loc>https://www.wheelofheaven.world/wiki/reference-corpus-of-the-raelian-canon/</loc>
         
         <changefreq>monthly</changefreq>
         <priority>0.7</priority></url>

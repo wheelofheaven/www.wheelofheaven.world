@@ -1,0 +1,575 @@
+{
+  "$schema": "https://wheelofheaven.io/schemas/raelian-canon-references.json",
+  "metadata": {
+    "title": "Reference corpus of the Raëlian canon",
+    "description": "Structured catalogue of every text, tradition, figure, language, and material site that the three canonical Raëlian books reference, either directly (named, quoted, or cited with chapter-and-verse) or indirectly (alluded to, named in passing, or engaged through etymological reading or motif).",
+    "scope": [
+      "The Book Which Tells The Truth (Le Livre Qui Dit La Vérité, 1974)",
+      "Extra-Terrestrials Took Me To Their Planet (Les Extra-Terrestres M'ont Emmené Sur Leur Planète, 1975)",
+      "Let's Welcome The Extra-Terrestrials (Accueillir les Extra-Terrestres, 1979)"
+    ],
+    "base_text": "Intelligent Design — Message From the Designers, English omnibus edition, 2005 (combining all three canonical books)",
+    "tier_definitions": {
+      "direct": "Text, figure, or tradition the canon names explicitly, quotes from, or attributes a numbered chapter-and-verse to.",
+      "indirect": "Text, tradition, language, figure, or motif the canon engages without formal citation — through paraphrase, etymological reading, name-checking in lists, or allusion to characteristic content."
+    },
+    "compiled_for": "wheelofheaven.io",
+    "license": "CC0-1.0"
+  },
+
+  "direct_references": {
+    "hebrew_bible": [
+      {
+        "id": "tanakh-genesis",
+        "name": "Genesis",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": [
+          "Genesis 1",
+          "Genesis 2",
+          "Genesis 3",
+          "Genesis 4",
+          "Genesis 5",
+          "Genesis 6",
+          "Genesis 7",
+          "Genesis 8",
+          "Genesis 9",
+          "Genesis 10",
+          "Genesis 11",
+          "Genesis 19",
+          "Genesis 22",
+          "Genesis 28",
+          "Genesis 35"
+        ],
+        "canonical_locus": "TBWTT — chapters 'Genesis', 'The Flood', 'The Tower of Babel', 'Sodom and Gomorrah', 'The Sacrifice of Abraham', 'Moses'",
+        "reading": "Re-read as a compressed historical record of the Elohim creation project, the Flood, the dispersion at Babel, the nuclear destruction of Sodom and Gomorrah, and early covenantal contact.",
+        "notes": "The densest single locus of citation in the entire canon."
+      },
+      {
+        "id": "tanakh-exodus",
+        "name": "Exodus",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": [
+          "Exodus 3",
+          "Exodus 13",
+          "Exodus 14",
+          "Exodus 16",
+          "Exodus 17",
+          "Exodus 19",
+          "Exodus 20"
+        ],
+        "canonical_locus": "TBWTT — chapter 'Moses'",
+        "reading": "The burning bush, pillar of cloud and fire, parting of the sea, manna, and Sinai theophany are read as technological encounters with the Elohim."
+      },
+      {
+        "id": "tanakh-joshua",
+        "name": "Joshua",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Joshua 6"],
+        "canonical_locus": "TBWTT — chapter 'The Trumpets of Jericho'",
+        "reading": "The fall of Jericho is read as a sonic-weapon episode."
+      },
+      {
+        "id": "tanakh-judges",
+        "name": "Judges",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Judges 13–16 (Samson)"],
+        "canonical_locus": "TBWTT — chapter 'Samson the Telepathist'",
+        "reading": "Samson's strength is reinterpreted as a telepathic capability."
+      },
+      {
+        "id": "tanakh-2kings",
+        "name": "1–2 Kings",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["2 Kings 2 (Elijah's ascension)"],
+        "canonical_locus": "TBWTT — chapter 'Elijah the Messenger'",
+        "reading": "The chariot of fire is read as a spacecraft."
+      },
+      {
+        "id": "tanakh-job",
+        "name": "Job",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Job 37", "Job 38"],
+        "canonical_locus": "Quoted in passing; flagged in editorial notes for Dhorme/RNKJV divergence",
+        "reading": "Specific verses noted as preserving information about Elohim technology in the Dhorme translation that English versions obscure."
+      },
+      {
+        "id": "tanakh-psalms",
+        "name": "Psalms",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Various, quoted in passing"],
+        "canonical_locus": "TBWTT — 'Humans Could Not Understand'",
+        "reading": "Engaged as poetic record of the Elohim relationship to the people of Israel."
+      },
+      {
+        "id": "tanakh-isaiah",
+        "name": "Isaiah",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Various"],
+        "canonical_locus": "TBWTT — 'The End of the World'",
+        "reading": "Read in eschatological / apocalyptic register."
+      },
+      {
+        "id": "tanakh-ezekiel",
+        "name": "Ezekiel",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Ezekiel 1", "Ezekiel 37"],
+        "canonical_locus": "TBWTT — chapter 'The Flying Saucers of Ezekiel'; ETTMTTP — chapter 'A Foretaste of Paradise'",
+        "reading": "Ezekiel 1 is read as a detailed eyewitness description of an Elohim landing; Ezekiel 37 (the valley of dry bones) is read as a description of the biological-replication machine."
+      },
+      {
+        "id": "tanakh-daniel",
+        "name": "Daniel",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": ["Various"],
+        "canonical_locus": "Eschatological context",
+        "reading": "Apocalyptic material engaged alongside Revelation."
+      },
+      {
+        "id": "tanakh-song-of-songs",
+        "name": "Song of Songs (Canticle of Canticles)",
+        "tradition": "Hebrew Bible",
+        "books_or_loci": [
+          "Canticle 5 — within the Kabbalistic / Shi'ur Qomah reading"
+        ],
+        "canonical_locus": "TBWTT — chapter 'At the Root of All Religions'",
+        "reading": "The canon attributes to a Kabbalistic reading of the Canticle a cosmological passage measuring the 'height of the creator' in parasangs.",
+        "notes": "The reference is mediated through the Kabbalah; the canon names both."
+      }
+    ],
+
+    "new_testament": [
+      {
+        "id": "nt-matthew",
+        "name": "Gospel of Matthew",
+        "tradition": "Christian New Testament",
+        "books_or_loci": [
+          "Matthew 1",
+          "Matthew 2",
+          "Matthew 3",
+          "Matthew 4",
+          "Matthew 5",
+          "Matthew 6",
+          "Matthew 7",
+          "Matthew 8",
+          "Matthew 9",
+          "Matthew 10",
+          "Matthew 13",
+          "Matthew 14",
+          "Matthew 17",
+          "Matthew 19",
+          "Matthew 25",
+          "Matthew 26",
+          "Matthew 28"
+        ],
+        "canonical_locus": "TBWTT — chapter 'The Role of Christ'",
+        "reading": "The most extensively quoted single book of the New Testament. The Parable of the Sower (Matthew 13) is given a specific reading as a description of life seeded on multiple worlds."
+      },
+      {
+        "id": "nt-mark",
+        "name": "Gospel of Mark",
+        "tradition": "Christian New Testament",
+        "books_or_loci": ["Mark 16"],
+        "canonical_locus": "TBWTT — chapter 'The Role of Christ'",
+        "reading": "Mark 16:19 (Ascension) and Mark 16:18 ('they shall take up serpents') quoted."
+      },
+      {
+        "id": "nt-luke",
+        "name": "Gospel of Luke",
+        "tradition": "Christian New Testament",
+        "books_or_loci": ["Luke 21"],
+        "canonical_locus": "TBWTT — chapter 'The Role of Christ'",
+        "reading": "Luke 21:29-30 (parable of the fig tree) quoted as a sign of apocalyptic timing."
+      },
+      {
+        "id": "nt-acts",
+        "name": "Acts of the Apostles",
+        "tradition": "Christian New Testament",
+        "books_or_loci": ["Acts 2", "Acts 12", "Acts 15", "Acts 17"],
+        "canonical_locus": "TBWTT — chapter 'The Role of Christ'",
+        "reading": "Pentecost (Acts 2) and Peter's prison release (Acts 12) are read as further Elohim interventions; Acts 17:28 ('we are also his offspring') given particular weight."
+      },
+      {
+        "id": "nt-revelation",
+        "name": "Revelation / Apocalypse of John",
+        "tradition": "Christian New Testament",
+        "books_or_loci": [
+          "Revelation 1",
+          "Revelation 4",
+          "Revelation 6",
+          "Revelation 9"
+        ],
+        "canonical_locus": "LWTE — 'The New Revelations: The Devil Does Not Exist, I Met Him' and 'The Apocalypse of the Final Nuclear Cataclysm'",
+        "reading": "Treated as a dictation given to John through a visual-display apparatus. The seven 'golden lampstands' are read as seven craft; the four horsemen are read in nuclear-eschatological register."
+      }
+    ],
+
+    "bible_translations_named": [
+      {
+        "id": "trans-dhorme",
+        "name": "Édouard Dhorme — La Bible (Bibliothèque de la Pléiade)",
+        "tradition": "French Bible translation",
+        "canonical_locus": "Named in the omnibus's editorial Notes & References as Rael's working text",
+        "reading": "The Dhorme rendering of Hebrew vocabulary (notably 'science' for what other translations render 'good and evil') is treated as preserving meaning."
+      },
+      {
+        "id": "trans-rnkjv",
+        "name": "Restored Name King James Version",
+        "tradition": "English Bible translation",
+        "canonical_locus": "Named in the omnibus's Notes & References as the default English version used throughout",
+        "reading": "Chosen for its restoration of Elohim and Yahweh in place of God and the Lord."
+      },
+      {
+        "id": "trans-nkjv",
+        "name": "New King James Version",
+        "tradition": "English Bible translation",
+        "canonical_locus": "Named in the omnibus's Notes & References",
+        "reading": "Used selectively where the RNKJV diverges from the canon's preferred reading."
+      },
+      {
+        "id": "trans-asv",
+        "name": "American Standard Version (1901)",
+        "tradition": "English Bible translation",
+        "canonical_locus": "Named in the omnibus's Notes & References"
+      },
+      {
+        "id": "trans-webster",
+        "name": "Webster Bible (1833)",
+        "tradition": "English Bible translation",
+        "canonical_locus": "Named in the omnibus's Notes & References",
+        "reading": "Selected for the rendering 'on the earth' rather than 'in the earth' in specific passages."
+      },
+      {
+        "id": "trans-hnv",
+        "name": "Hebrew Names Version (of the World English Bible)",
+        "tradition": "English Bible translation",
+        "canonical_locus": "Named in the omnibus's Notes & References"
+      },
+      {
+        "id": "trans-darby",
+        "name": "Darby Translation",
+        "tradition": "English Bible translation",
+        "canonical_locus": "Named in the omnibus's Notes & References",
+        "reading": "Selected for its rendering 'nations' (rather than 'Gentiles') in specific passages."
+      },
+      {
+        "id": "trans-vulgate",
+        "name": "Latin Vulgate (Jerome, ca. 405 CE)",
+        "tradition": "Latin Bible translation",
+        "canonical_locus": "Cited in the omnibus's Notes & References",
+        "reading": "Invoked twice to settle questions of meaning (caelis, desertum)."
+      }
+    ],
+
+    "other_named_texts": [
+      {
+        "id": "kabbalah",
+        "name": "The Kabbalah",
+        "tradition": "Jewish esoteric / mystical",
+        "canonical_locus": "TBWTT — chapter 'At the Root of All Religions'",
+        "reading": "Named as 'the closest book to the truth.' A specific passage measuring the 'height of the creator' in parasangs is attributed to it. The passage description matches motifs from the Shi'ur Qomah tradition.",
+        "notes": "The canon names 'the Kabbalah' generically rather than identifying a specific text (Zohar, Bahir, Shi'ur Qomah)."
+      },
+      {
+        "id": "quran",
+        "name": "Qur'an",
+        "tradition": "Islamic scripture",
+        "books_or_loci": ["Sura 21:1–5", "Sura 54:1", "Sura 56:15–24"],
+        "canonical_locus": "ETTMTTP — 'To the People of Israel' and ETTMTTP — Yahweh's address to the prophets",
+        "reading": "Quoted to establish that Muhammad himself acknowledged the prior Hebrew and Christian prophetic line."
+      },
+      {
+        "id": "book-of-enoch",
+        "name": "The Book of Enoch (1 Enoch)",
+        "tradition": "Second Temple / pseudepigraphic",
+        "canonical_locus": "LWTE — commentary 'Yes... I am Raelian'",
+        "reading": "Named in the list of texts containing traces of the Elohim story.",
+        "notes": "The reference is from a follower's commentary preserved in the canonical omnibus, not from Rael directly."
+      }
+    ],
+
+    "named_messengers": [
+      {
+        "id": "fig-moses",
+        "name": "Moses",
+        "tradition": "Hebrew Bible / Pentateuch",
+        "canonical_locus": "TBWTT — 'Moses'; ETTMTTP — 'Meeting the Ancient Prophets'",
+        "reading": "First-listed Elohim messenger; recipient of Sinai contact; presented as resident on the planet of the Eternals."
+      },
+      {
+        "id": "fig-elijah",
+        "name": "Elijah",
+        "tradition": "Hebrew Bible",
+        "canonical_locus": "TBWTT — 'Elijah the Messenger'; ETTMTTP — 'Meeting the Ancient Prophets'",
+        "reading": "Taken up bodily in 2 Kings 2; resident on the planet of the Eternals."
+      },
+      {
+        "id": "fig-jesus",
+        "name": "Jesus",
+        "tradition": "Christian New Testament",
+        "canonical_locus": "TBWTT — 'The Role of Christ'; ETTMTTP — 'Meeting the Ancient Prophets'",
+        "reading": "Sent specifically to spread the Hebrew-prophetic message worldwide; recreated from a preserved cell."
+      },
+      {
+        "id": "fig-buddha",
+        "name": "Buddha (Siddhārtha Gautama)",
+        "tradition": "Buddhist",
+        "canonical_locus": "ETTMTTP — 'Buddhism'; ETTMTTP — 'Meeting the Ancient Prophets'",
+        "reading": "Treated as a major Elohim messenger to East and South Asia."
+      },
+      {
+        "id": "fig-muhammad",
+        "name": "Muhammad",
+        "tradition": "Islamic",
+        "canonical_locus": "ETTMTTP — 'Meeting the Ancient Prophets'; LWTE — addendum",
+        "reading": "Within whose writings, the canon states, the Elohim leader was named Allah 'out of respect.'"
+      },
+      {
+        "id": "fig-joseph-smith",
+        "name": "Joseph Smith",
+        "tradition": "Latter-day Saints (Mormon)",
+        "canonical_locus": "LWTE — chapter 'An Atheist Religion'",
+        "reading": "Named directly as a prophet of the same line as Moses, Jesus, Buddha, and Muhammad."
+      }
+    ],
+
+    "named_traditions_engaged_doctrinally": [
+      {
+        "id": "trad-judaism",
+        "name": "Judaism",
+        "canonical_locus": "ETTMTTP — 'To the People of Israel'; TBWTT — 'The Creation of the State of Israel'",
+        "reading": "Engaged directly as the originating recipient tradition; the State of Israel is given a specific eschatological role."
+      },
+      {
+        "id": "trad-christianity",
+        "name": "Christianity (Roman Catholic and Protestant)",
+        "canonical_locus": "TBWTT — 'The End of the Church'; LWTE — 'An Atheist Religion'",
+        "reading": "Critiqued at length, especially the Roman Catholic institution."
+      },
+      {
+        "id": "trad-islam",
+        "name": "Islam",
+        "canonical_locus": "ETTMTTP — Qur'anic citations; 1997 addendum",
+        "reading": "Engaged through Qur'anic citation."
+      },
+      {
+        "id": "trad-buddhism",
+        "name": "Buddhism",
+        "canonical_locus": "ETTMTTP — 'Buddhism'; 1997 addendum",
+        "reading": "Engaged at length; called 'the religion closest to the Truth' in the 1997 addendum."
+      },
+      {
+        "id": "trad-mormonism",
+        "name": "Latter-day Saints / Mormonism",
+        "canonical_locus": "TBWTT — 'At the Root of All Religions'; LWTE — 'An Atheist Religion'",
+        "reading": "Named directly; Joseph Smith placed in the prophetic line."
+      }
+    ]
+  },
+
+  "indirect_references": {
+    "traditions_named_as_carrying_traces": [
+      {
+        "id": "ind-greek-mythology",
+        "name": "Greek mythology",
+        "canonical_locus": "TBWTT — 'At the Root of All Religions'; LWTE — 'Yes... I am Raelian'",
+        "reading": "Named as containing 'important testimonies,' tied geographically to alleged Elohim bases in Greece. No specific Greek myth is quoted."
+      },
+      {
+        "id": "ind-mahabharata",
+        "name": "Mahābhārata (with the Vedas and Rāmāyaṇa)",
+        "tradition": "Hindu / Indic",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Listed as a 'mythical epic poem of India' carrying traces. No specific verses cited.",
+        "notes": "The list pairs the Vedas and the Rāmāyaṇa as components of the Mahābhārata, which is philologically inaccurate but reflects the canon's own framing."
+      },
+      {
+        "id": "ind-kojiki",
+        "name": "Kojiki",
+        "tradition": "Shintō / Japanese mytho-history",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Listed as reporting 'that which happened at the beginning.' No specific passage cited."
+      },
+      {
+        "id": "ind-popol-vuh",
+        "name": "Popol Vuh",
+        "tradition": "K'iche' Maya",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Listed as a Latin American testimony. No specific passage cited."
+      },
+      {
+        "id": "ind-chronicle-of-akakor",
+        "name": "Chronicle of Akakor",
+        "tradition": "Purportedly indigenous Amazonian; widely treated as a 20th-century literary construction by Karl Brugger (1976)",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Listed as a Latin American testimony. No specific passage cited.",
+        "notes": "Source tension: the Chronicle of Akakor's authenticity is contested; its appearance in the list is treated by Wheel of Heaven as an open question."
+      },
+      {
+        "id": "ind-epic-of-gilgamesh",
+        "name": "Epic of Gilgamesh",
+        "tradition": "Sumerian-Babylonian",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Listed as a Mesopotamian testimony. No specific tablet or passage cited."
+      }
+    ],
+
+    "languages_engaged_etymologically": [
+      {
+        "id": "lang-hebrew",
+        "name": "Biblical Hebrew",
+        "canonical_locus": "Throughout, especially LWTE — 'Angels Without Wings'",
+        "key_terms": [
+          "Elohim ('those who came from the sky')",
+          "Yahweh",
+          "Eden"
+        ]
+      },
+      {
+        "id": "lang-aramaic",
+        "name": "Aramaic",
+        "canonical_locus": "LWTE — 'Angels Without Wings'",
+        "key_terms": ["meschika ('anointed by the Lord' / messiah)"]
+      },
+      {
+        "id": "lang-greek",
+        "name": "Koine and Classical Greek",
+        "canonical_locus": "LWTE — 'Angels Without Wings'",
+        "key_terms": [
+          "angelos (messenger)",
+          "apokalypsis (revelation)",
+          "euagelion (good news / gospel)",
+          "ekklesia (assembly / church)",
+          "pappas (father / pope)",
+          "prophētēs (revealer)",
+          "katholikos (universal)",
+          "atheos (denying divinity)",
+          "diabolos (slanderer)",
+          "eutymos + logos (etymology, 'true science')"
+        ]
+      },
+      {
+        "id": "lang-latin",
+        "name": "Ecclesiastical Latin",
+        "canonical_locus": "LWTE — 'Angels Without Wings'",
+        "key_terms": [
+          "senior (the elder, 'lord')",
+          "pontifex (bridge-maker)",
+          "cultus (tribute)",
+          "religio (that which links)"
+        ]
+      },
+      {
+        "id": "lang-sanskrit",
+        "name": "Sanskrit",
+        "canonical_locus": "Addendum — symbol modification of 1991",
+        "key_terms": ["svastika (well-being, 'infinity in time')"]
+      }
+    ],
+
+    "material_and_geographic_traces": [
+      {
+        "id": "site-andes",
+        "name": "The Andes / Peru",
+        "canonical_locus": "TBWTT — 'At the Root of All Religions'; LWTE — 'Yes... I am Raelian'",
+        "reading": "Region of alleged Elohim base activity."
+      },
+      {
+        "id": "site-himalayas",
+        "name": "The Himalayas / Tibet",
+        "canonical_locus": "TBWTT — 'At the Root of All Religions'; LWTE — 'Yes... I am Raelian'",
+        "reading": "Region of alleged Elohim base activity."
+      },
+      {
+        "id": "site-greece",
+        "name": "Greece",
+        "canonical_locus": "TBWTT — 'At the Root of All Religions'",
+        "reading": "Region of alleged Elohim base activity, correlated with the Greek mythological tradition."
+      },
+      {
+        "id": "site-nazca",
+        "name": "Nazca Lines",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Cited as 'engravings on the plain of Nazca' — a material trace."
+      },
+      {
+        "id": "site-baalbek",
+        "name": "Baalbek",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Cited as a material trace."
+      },
+      {
+        "id": "site-tiahuanaco",
+        "name": "Tiahuanaco / Tiwanaku",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Cited as a material trace."
+      },
+      {
+        "id": "site-easter-island",
+        "name": "Easter Island (Rapa Nui / Île de Pâques)",
+        "canonical_locus": "LWTE — 'Yes... I am Raelian'",
+        "reading": "Cited as a material trace."
+      },
+      {
+        "id": "site-atlantis-mu",
+        "name": "Atlantis and Mu (lost-continent legends)",
+        "canonical_locus": "Author's Postscript",
+        "reading": "Engaged not as a source but as legends the canon explains: distorted memories of the antediluvian single continent broken up by the Elohim."
+      }
+    ],
+
+    "motifs_engaged_without_citation": [
+      {
+        "id": "motif-flood",
+        "name": "Universal flood narratives",
+        "canonical_locus": "TBWTT — 'The Flood'",
+        "reading": "The reading of Noah's ark as a spacecraft / genetic-preservation vessel underlies the wider family of flood traditions."
+      },
+      {
+        "id": "motif-babel",
+        "name": "Confusion of tongues / language-origin narratives",
+        "canonical_locus": "TBWTT — 'The Tower of Babel'",
+        "reading": "Read as a specific historical episode of forced dispersion."
+      },
+      {
+        "id": "motif-sky-ascent",
+        "name": "Chariot-of-fire / sky-ascent narratives",
+        "canonical_locus": "TBWTT — 'Elijah the Messenger', 'The Flying Saucers of Ezekiel'",
+        "reading": "Elijah and Ezekiel as paradigmatic instances of a broader family of sky-vehicle traditions."
+      },
+      {
+        "id": "motif-divine-council",
+        "name": "Council-of-gods / bnei-elohim narratives",
+        "canonical_locus": "TBWTT — 'Genesis' (re Genesis 6:1–4)",
+        "reading": "The 'sons of Elohim and daughters of men' passage engaged through the plural reading of Elohim."
+      }
+    ]
+  },
+
+  "source_tensions": [
+    {
+      "id": "tension-dhorme-rnkjv",
+      "name": "Dhorme / RNKJV translation divergence",
+      "description": "The French canon and the English omnibus do not always quote the same biblical wording. The editorial notes acknowledge this. Some Wheel of Heaven readings are sensitive to which translation a reader has in hand."
+    },
+    {
+      "id": "tension-yes-i-am-raelian",
+      "name": "Status of the 'Yes... I am Raelian' enumeration",
+      "description": "The list of Kojiki, Popol Vuh, Akakor, Gilgamesh, and the Mahābhārata appears in a commentator's contribution to Let's Welcome The Extra-Terrestrials, not in Rael's own voice. Its weight relative to the primary tier is an open editorial question."
+    },
+    {
+      "id": "tension-kabbalah-vs-shiur-qomah",
+      "name": "Generic 'Kabbalah' vs. specific Shi'ur Qomah",
+      "description": "The parasangs / 'height of the creator' passage attributed to the Kabbalah matches motifs from the Shi'ur Qomah tradition rather than the Zohar proper. Whether to gloss the canon's 'Kabbalah' as Shi'ur Qomah is unresolved."
+    },
+    {
+      "id": "tension-akakor",
+      "name": "The Chronicle of Akakor problem",
+      "description": "The Chronicle of Akakor, published in 1976 by Karl Brugger, is widely treated as a literary hoax. Its appearance in the canon's traces list — published only a few years after Brugger's book — sits awkwardly with the rest of the catalogue, which is composed of texts with deep traditional pedigrees."
+    },
+    {
+      "id": "tension-borderline-cases",
+      "name": "Direct vs. indirect borderline cases",
+      "description": "Some entries are borderline. Joseph Smith is named directly but no Mormon scripture is quoted, so the Mormon tradition sits in the secondary tier even though the founder is primary. Conversely, the Kabbalah is named generically (secondary-tier language) but a specific cosmological passage is engaged (primary-tier behaviour)."
+    }
+  ]
+}
