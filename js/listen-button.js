@@ -84,6 +84,7 @@
             '.article__content',
             '.essentials__content',
             '.resources__content',
+            '.library-book__content',
             '.library__content',
             'article .content',
             'article',
