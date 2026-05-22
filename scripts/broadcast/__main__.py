@@ -12,6 +12,8 @@ import argparse
 import json
 import os
 import sys
+import urllib.error
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -32,10 +34,24 @@ CHANNELS = {
 }
 
 
-def _og_image_url(page: Page, base_url: str = "https://assets.wheelofheaven.world") -> str:
-    """Mirror seo.html's OG composition for the EN root page."""
+def _og_image_url(page: Page, base_url: str = "https://assets.wheelofheaven.world") -> str | None:
+    """
+    Compose the per-page OG URL (mirrors seo.html for the EN root page)
+    and HEAD-probe it. Returns the URL on 200, or None if the asset
+    doesn't exist yet (so adapters can text-only-fallback rather than
+    handing a 404 URL to Telegram and triggering "failed to get HTTP
+    URL content").
+    """
     slug_stem = page.slug.split("/", 1)[1] if "/" in page.slug else page.slug
-    return f"{base_url}/images/og/en/{page.section}/{slug_stem}.jpg"
+    url = f"{base_url}/images/og/en/{page.section}/{slug_stem}.jpg"
+    try:
+        req = urllib.request.Request(url, method="HEAD")
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            if 200 <= resp.status < 300:
+                return url
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError):
+        pass
+    return None
 
 
 def _log(log_path: Path, record: dict) -> None:
