@@ -61,6 +61,44 @@ def render_telegram(page: Page) -> str:
     return "\n\n".join(pieces)
 
 
+def render_twitter(page: Page) -> str:
+    """
+    Build a Twitter / X post body. Plain text — no HTML.
+
+    Twitter counts URLs as 23 chars regardless of actual length. The
+    full URL still goes in the body; we just budget against 23 when
+    deciding how much summary to keep.
+
+    Target a 275-char ceiling under the 280 hard limit (5-char buffer
+    for the truncation ellipsis the _truncate helper may add).
+    """
+    override = page.social.get("twitter")
+    if override:
+        return override.strip()
+
+    permalink = page.permalink
+    title = page.title.strip()
+    URL_WEIGHT = 23
+    CEILING = 275  # under 280, leaves room for truncation suffix
+
+    if not page.summary:
+        # title + "\n\n" + url
+        title_budget = CEILING - URL_WEIGHT - 2
+        return f"{_truncate(title, title_budget)}\n\n{permalink}"
+
+    # title + "\n\n" + summary + "\n\n" + url
+    summary_budget = CEILING - len(title) - URL_WEIGHT - 4
+
+    # If the title alone is so long the summary can't fit meaningfully,
+    # truncate the title too and drop the summary.
+    if summary_budget < 60:
+        title_budget = CEILING - URL_WEIGHT - 2
+        return f"{_truncate(title, title_budget)}\n\n{permalink}"
+
+    summary = _truncate(page.summary, summary_budget)
+    return f"{title}\n\n{summary}\n\n{permalink}"
+
+
 def _html_escape(text: str) -> str:
     return (
         text.replace("&", "&amp;")
@@ -72,6 +110,7 @@ def _html_escape(text: str) -> str:
 # Registry of per-platform renderers. Phase 2+ adapters register here.
 RENDERERS = {
     "telegram": render_telegram,
+    "twitter": render_twitter,
 }
 
 

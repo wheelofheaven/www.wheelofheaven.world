@@ -18,6 +18,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from . import telegram as telegram_adapter
+from . import twitter as twitter_adapter
 from .discover import Page, discover, filter_eligible
 from .render import render
 from .state import PostRecord, State
@@ -31,6 +32,7 @@ DEFAULT_BASE_URL = "https://www.wheelofheaven.world"
 # `[extra].broadcast` allowlist values.
 CHANNELS = {
     "telegram": telegram_adapter,
+    "twitter":  twitter_adapter,
 }
 
 
