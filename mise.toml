@@ -19,6 +19,14 @@ run = "cd themes/bifrost && npm install --silent && npm run bundle"
 description = "Rebuild data/sources.json from seed records + inline page references"
 run = "python3 scripts/build_sources.py"
 
+[tasks.broadcast]
+description = "Post newly published content to enabled social channels"
+run = "python3 -m scripts.broadcast"
+
+[tasks.broadcast-dry]
+description = "Dry-run the social broadcaster (no API calls, no state writes)"
+run = "python3 -m scripts.broadcast --dry-run"
+
 [tasks.build]
 description = "Compile site statically with Zola"
 depends = ["bundle"]

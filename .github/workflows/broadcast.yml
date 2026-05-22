@@ -1,0 +1,91 @@
+# Auto-post newly published content (Newsroom Dispatches, Articles) to
+# the project's social channels. Fires only after a successful Pages
+# deploy so post URLs are live before they unfurl.
+#
+# Full architecture:
+# https://docs.wheelofheaven.world/contributing/dev/social-broadcast/
+#
+# State lives in data/socials/posted.json. The job commits any changes
+# back to main with [skip ci] so this doesn't feedback-loop with the
+# deploy workflow.
+
+name: Broadcast new content
+
+on:
+  workflow_run:
+    workflows: ["Build and deploy GH Pages"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry-run (print planned posts, no API calls)"
+        required: false
+        type: boolean
+        default: false
+      platforms:
+        description: "Comma-separated channel allowlist (blank = all enabled)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    # On workflow_run, only fire when the upstream deploy succeeded.
+    # On workflow_dispatch, always run.
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - name: checkout
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          # Need full ref to push back to main; default is shallow.
+          fetch-depth: 0
+
+      - name: setup python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: run broadcaster
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.platforms }}" ]; then
+            ARGS="$ARGS --platforms ${{ github.event.inputs.platforms }}"
+          fi
+          python -m scripts.broadcast $ARGS
+
+      - name: commit state if changed
+        # Skip on dry-run dispatch; nothing should have changed.
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "wheelofheaven-bot"
+          git config user.email "wheelofheaven-bot@users.noreply.github.com"
+          if git diff --quiet data/socials/; then
+            echo "no state changes to commit"
+            exit 0
+          fi
+          git add data/socials/
+          git commit -m "Broadcast: update posted.json [skip ci]"
+          # Retry once on non-fast-forward (another deploy may have landed).
+          for i in 1 2; do
+            if git push origin HEAD:main; then
+              echo "pushed state on attempt $i"
+              exit 0
+            fi
+            echo "push failed, rebasing and retrying ($i/2)"
+            git pull --rebase origin main
+          done
+          echo "state push failed after 2 retries" >&2
+          exit 1
