@@ -5206,6 +5206,12 @@
         <priority>0.5</priority></url>
 
     <url>
+        <loc>https://www.wheelofheaven.world/news/pursue-release-02-spheres-and-transmedium/</loc>
+        
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority></url>
+
+    <url>
         <loc>https://www.wheelofheaven.world/offline/</loc>
         
         <changefreq>weekly</changefreq>
