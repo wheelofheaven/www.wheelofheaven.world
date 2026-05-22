@@ -30,7 +30,11 @@
       "permalink": "https://www.wheelofheaven.world/news/pursue-release-02-spheres-and-transmedium/",
       "first_eligible_at": "2026-05-22T16:01:34Z",
       "channels": {
-        "telegram": null
+        "telegram": {
+          "post_id": "@wheelofheaven/12",
+          "url": "https://t.me/wheelofheaven/12",
+          "posted_at": "2026-05-22T18:39:21Z"
+        }
       }
     }
   }
