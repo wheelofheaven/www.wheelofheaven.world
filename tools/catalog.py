@@ -160,9 +160,22 @@ def validate(fix: bool):
         slug = book_entry.get("slug", "unknown")
         status = book_entry.get("status", "")
 
-        # Skip planned books
+        # For planned books, peek at the data dir: if chapters have actually
+        # shipped, promote planned -> partial and fall through to normal
+        # validation. If no data file exists, the book is still legitimately
+        # planned and we skip it.
         if status == "planned":
-            continue
+            book_data = load_book(slug)
+            if not book_data or not book_data.get("chapters"):
+                continue
+            issues.append(
+                f"[yellow]![/yellow] {slug}: status is 'planned' but "
+                f"{len(book_data['chapters'])} chapter(s) have shipped"
+            )
+            if fix:
+                book_entry["status"] = "partial"
+                status = "partial"
+                console.print(f"  [green]Promoted {slug}: planned -> partial[/green]")
 
         # Check if data exists
         book_data = load_book(slug)
