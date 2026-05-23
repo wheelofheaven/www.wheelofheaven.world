@@ -1,5 +1,30 @@
 # Wheel of Heaven Redirects
 # Handles legacy URL structure migration
+#
+# Rule ordering note: Cloudflare Pages appears to process this file
+# with a practical cap somewhere around 270 rules. Rules near the end
+# of the file (e.g. the /medium/, /categories/ catch-alls) silently
+# 404 in production despite being well under the documented 2,100
+# static / 100 dynamic limits. Keep recently-added high-priority
+# fixes near the TOP of the file so they're processed before the
+# cutoff. Long term, the legacy /intro/* block (~100 rules) should
+# probably be condensed.
+
+# =============================================================================
+# 2026-05 — Search Console stale-path 404s (kept near top so they
+# don't get clipped by Cloudflare Pages's de-facto rule-count cap)
+# =============================================================================
+
+# /wiki/age-of-<zodiac>/ → /timeline/age-of-<zodiac>/  (zodiacs moved
+# from /wiki/ to /timeline/; Google still has the old paths cached)
+/wiki/age-of-aquarius/               /timeline/age-of-aquarius/           301
+/de/wiki/age-of-pisces/              /de/timeline/age-of-pisces/          301
+/es/wiki/age-of-gemini/              /es/timeline/age-of-gemini/          301
+
+# /wiki/timeline/<...>/ → /timeline/<...>/  (wiki/timeline nested
+# section never existed in the current layout)
+/wiki/timeline/age-of-scorpio/       /timeline/age-of-scorpio/            301
+/zh-Hant/wiki/timeline/age-of-cancer/  /zh-Hant/timeline/age-of-cancer/   301
 
 # =============================================================================
 # ENGLISH - Main intro section
@@ -366,31 +391,6 @@
 /zh/resources/*                      /zh/sources/:splat                   301
 /zh-Hant/resources/                  /zh-Hant/sources/                    301
 /zh-Hant/resources/*                 /zh-Hant/sources/:splat              301
-
-# =============================================================================
-# STALE PATHS — Search Console-reported 404s from old URL structure
-# Use LITERAL redirects only: Cloudflare Pages caps dynamic redirects
-# (rules with :placeholder or *) at 100 per project. The legacy-section
-# blocks above already use ~73 dynamic slots, so we keep this section
-# static. Add more literal rules here if Search Console surfaces
-# additional stale URLs.
-#
-# (We don't need explicit trailing-slash rules — Cloudflare Pages
-# auto-308's bare paths to <path>/ when the target file exists. Bare
-# paths whose target doesn't exist would 404 either way; the right
-# fix there is to publish the page, not to redirect to another 404.)
-# =============================================================================
-
-# /wiki/age-of-<zodiac>/ → /timeline/age-of-<zodiac>/  (zodiacs moved
-# from /wiki/ to /timeline/; Google still has the old paths cached)
-/wiki/age-of-aquarius/               /timeline/age-of-aquarius/           301
-/de/wiki/age-of-pisces/              /de/timeline/age-of-pisces/          301
-/es/wiki/age-of-gemini/              /es/timeline/age-of-gemini/          301
-
-# /wiki/timeline/<...>/ → /timeline/<...>/  (wiki/timeline nested
-# section never existed in the current layout)
-/wiki/timeline/age-of-scorpio/       /timeline/age-of-scorpio/            301
-/zh-Hant/wiki/timeline/age-of-cancer/  /zh-Hant/timeline/age-of-cancer/   301
 
 # =============================================================================
 # ENGLISH - Catch-all patterns (must be LAST)
