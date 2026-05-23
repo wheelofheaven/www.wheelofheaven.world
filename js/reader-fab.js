@@ -125,6 +125,17 @@
             });
         }
 
+        // ── Listen (defers to #listenTrigger from listen-button.js) ─
+        const listenBtn = panel.querySelector('[data-action="listen"]');
+        const listenTrigger = document.getElementById("listenTrigger");
+        if (listenBtn && listenTrigger) {
+            listenBtn.hidden = false;
+            listenBtn.addEventListener("click", function () {
+                setExpanded(false);
+                listenTrigger.click();
+            });
+        }
+
         // ── Back to top ─────────────────────────────────────────────
         const topBtn = panel.querySelector('[data-action="to-top"]');
         if (topBtn) {
