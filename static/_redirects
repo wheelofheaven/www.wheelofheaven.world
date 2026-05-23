@@ -368,68 +368,29 @@
 /zh-Hant/resources/*                 /zh-Hant/sources/:splat              301
 
 # =============================================================================
-# TRAILING-SLASH NORMALIZATION
-# Zola emits `index.html` at `<path>/`; bare paths without the trailing
-# slash 404 by default. Google has been crawling many such URLs for
-# library books and source entries (per Search Console). The `:slug`
-# placeholder matches a single path segment without slashes, so the
-# already-slash-terminated form falls through and doesn't loop.
+# STALE PATHS — Search Console-reported 404s from old URL structure
+# Use LITERAL redirects only: Cloudflare Pages caps dynamic redirects
+# (rules with :placeholder or *) at 100 per project. The legacy-section
+# blocks above already use ~73 dynamic slots, so we keep this section
+# static. Add more literal rules here if Search Console surfaces
+# additional stale URLs.
+#
+# (We don't need explicit trailing-slash rules — Cloudflare Pages
+# auto-308's bare paths to <path>/ when the target file exists. Bare
+# paths whose target doesn't exist would 404 either way; the right
+# fix there is to publish the page, not to redirect to another 404.)
 # =============================================================================
 
-# Library books
-/library/:slug                       /library/:slug/                      301
-/de/library/:slug                    /de/library/:slug/                   301
-/es/library/:slug                    /es/library/:slug/                   301
-/fr/library/:slug                    /fr/library/:slug/                   301
-/ja/library/:slug                    /ja/library/:slug/                   301
-/ko/library/:slug                    /ko/library/:slug/                   301
-/ru/library/:slug                    /ru/library/:slug/                   301
-/zh/library/:slug                    /zh/library/:slug/                   301
-/zh-Hant/library/:slug               /zh-Hant/library/:slug/              301
-/he/library/:slug                    /he/library/:slug/                   301
+# /wiki/age-of-<zodiac>/ → /timeline/age-of-<zodiac>/  (zodiacs moved
+# from /wiki/ to /timeline/; Google still has the old paths cached)
+/wiki/age-of-aquarius/               /timeline/age-of-aquarius/           301
+/de/wiki/age-of-pisces/              /de/timeline/age-of-pisces/          301
+/es/wiki/age-of-gemini/              /es/timeline/age-of-gemini/          301
 
-# Sources catalog entries
-/sources/:slug                       /sources/:slug/                      301
-/de/sources/:slug                    /de/sources/:slug/                   301
-/es/sources/:slug                    /es/sources/:slug/                   301
-/fr/sources/:slug                    /fr/sources/:slug/                   301
-/ja/sources/:slug                    /ja/sources/:slug/                   301
-/ko/sources/:slug                    /ko/sources/:slug/                   301
-/ru/sources/:slug                    /ru/sources/:slug/                   301
-/zh/sources/:slug                    /zh/sources/:slug/                   301
-/zh-Hant/sources/:slug               /zh-Hant/sources/:slug/              301
-/he/sources/:slug                    /he/sources/:slug/                   301
-
-# =============================================================================
-# STALE PATHS — age-of-* lives under /timeline/, not /wiki/
-# Search Console reports Google still has these old paths cached
-# (e.g. /wiki/age-of-aquarius/, /wiki/timeline/age-of-scorpio/). The
-# splat captures the zodiac slug plus its trailing slash.
-# =============================================================================
-
-# /wiki/age-of-<zodiac>/ → /timeline/age-of-<zodiac>/
-/wiki/age-of-*                       /timeline/age-of-:splat              301
-/de/wiki/age-of-*                    /de/timeline/age-of-:splat           301
-/es/wiki/age-of-*                    /es/timeline/age-of-:splat           301
-/fr/wiki/age-of-*                    /fr/timeline/age-of-:splat           301
-/ja/wiki/age-of-*                    /ja/timeline/age-of-:splat           301
-/ko/wiki/age-of-*                    /ko/timeline/age-of-:splat           301
-/ru/wiki/age-of-*                    /ru/timeline/age-of-:splat           301
-/zh/wiki/age-of-*                    /zh/timeline/age-of-:splat           301
-/zh-Hant/wiki/age-of-*               /zh-Hant/timeline/age-of-:splat      301
-/he/wiki/age-of-*                    /he/timeline/age-of-:splat           301
-
-# /wiki/timeline/<...>/ → /timeline/<...>/
-/wiki/timeline/*                     /timeline/:splat                     301
-/de/wiki/timeline/*                  /de/timeline/:splat                  301
-/es/wiki/timeline/*                  /es/timeline/:splat                  301
-/fr/wiki/timeline/*                  /fr/timeline/:splat                  301
-/ja/wiki/timeline/*                  /ja/timeline/:splat                  301
-/ko/wiki/timeline/*                  /ko/timeline/:splat                  301
-/ru/wiki/timeline/*                  /ru/timeline/:splat                  301
-/zh/wiki/timeline/*                  /zh/timeline/:splat                  301
-/zh-Hant/wiki/timeline/*             /zh-Hant/timeline/:splat             301
-/he/wiki/timeline/*                  /he/timeline/:splat                  301
+# /wiki/timeline/<...>/ → /timeline/<...>/  (wiki/timeline nested
+# section never existed in the current layout)
+/wiki/timeline/age-of-scorpio/       /timeline/age-of-scorpio/            301
+/zh-Hant/wiki/timeline/age-of-cancer/  /zh-Hant/timeline/age-of-cancer/   301
 
 # =============================================================================
 # ENGLISH - Catch-all patterns (must be LAST)
