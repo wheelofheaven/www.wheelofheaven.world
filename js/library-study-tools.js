@@ -28,6 +28,7 @@ const LibraryStudyTools = (function() {
     let state = {
         bookSlug: null,
         bookCode: null,
+        bookTitle: '',
         isInitialized: false,
         isPanelOpen: false
     };
@@ -49,6 +50,10 @@ const LibraryStudyTools = (function() {
 
         state.bookSlug = options.bookSlug || bookContainer.dataset.bookSlug || getBookSlugFromUrl();
         state.bookCode = options.bookCode || bookContainer.dataset.bookCode || '';
+        state.bookTitle = options.bookTitle
+            || bookContainer.dataset.bookTitle
+            || document.getElementById('book-title')?.textContent?.trim()
+            || '';
 
         // Create study tools UI
         createStudyToolsUI();
@@ -64,6 +69,46 @@ const LibraryStudyTools = (function() {
 
         state.isInitialized = true;
         console.log('[LibraryStudyTools] Initialized for:', state.bookSlug);
+    }
+
+    /**
+     * Collect the displayable passage text and structural numbers for a
+     * given refId from the live DOM. Returns null if the paragraph is
+     * not on this page (i.e. the user is in a different book). Trims
+     * whitespace and collapses internal runs so the quote round-trips
+     * cleanly into Markdown and JSON.
+     */
+    function captureParagraphMeta(refId) {
+        let para = document.querySelector(`[data-ref-id="${cssEscape(refId)}"]`);
+        if (!para) {
+            const parsed = window.LibraryStorage.parseRefId(refId);
+            if (parsed.chapter != null && parsed.paragraph != null) {
+                para = document.getElementById(`c${parsed.chapter}p${parsed.paragraph}`);
+            }
+        }
+        if (!para) return null;
+
+        const translationEl = para.querySelector('.library-book__para-translation');
+        const quote = (translationEl?.textContent || para.textContent || '')
+            .replace(/\s+/g, ' ')
+            .trim();
+
+        const parsed = window.LibraryStorage.parseRefId(refId);
+        return {
+            quote,
+            chapter: parsed.chapter,
+            paragraph: parsed.paragraph,
+            bookTitle: state.bookTitle
+        };
+    }
+
+    /**
+     * Minimal CSS.escape shim — newer browsers ship it natively, but
+     * refIds contain ":" which would otherwise break attribute selectors.
+     */
+    function cssEscape(s) {
+        if (typeof CSS !== 'undefined' && CSS.escape) return CSS.escape(s);
+        return String(s).replace(/[^a-zA-Z0-9_-]/g, ch => '\\' + ch);
     }
 
     /**
@@ -178,13 +223,13 @@ const LibraryStudyTools = (function() {
                 <div class="study-panel__list hidden" id="study-panel-notes"></div>
             </div>
             <div class="study-panel__footer">
-                <button class="study-panel__export" data-action="export">
+                <button class="study-panel__export" data-action="export-notes">
                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                         <polyline points="7 10 12 15 17 10"></polyline>
                         <line x1="12" y1="15" x2="12" y2="3"></line>
                     </svg>
-                    Export
+                    Export notes
                 </button>
                 <button class="study-panel__import" data-action="import">
                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -193,6 +238,11 @@ const LibraryStudyTools = (function() {
                         <line x1="12" y1="3" x2="12" y2="15"></line>
                     </svg>
                     Import
+                </button>
+            </div>
+            <div class="study-panel__footer-secondary">
+                <button type="button" class="study-panel__secondary-link" data-action="export-all">
+                    Export full backup (all study data)
                 </button>
             </div>
         `;
@@ -290,7 +340,8 @@ const LibraryStudyTools = (function() {
         elements.highlightPicker?.addEventListener('click', handleHighlightPick);
 
         // Export/Import
-        elements.panel?.querySelector('[data-action="export"]')?.addEventListener('click', exportStudyData);
+        elements.panel?.querySelector('[data-action="export-notes"]')?.addEventListener('click', exportNotesOnly);
+        elements.panel?.querySelector('[data-action="export-all"]')?.addEventListener('click', exportStudyData);
         elements.panel?.querySelector('[data-action="import"]')?.addEventListener('click', importStudyData);
 
         // Close picker on click outside
@@ -330,7 +381,8 @@ const LibraryStudyTools = (function() {
             btn.classList.remove('active');
             showToast('Bookmark removed');
         } else {
-            window.LibraryStorage.addBookmark(state.bookSlug, refId);
+            const meta = captureParagraphMeta(refId);
+            window.LibraryStorage.addBookmark(state.bookSlug, refId, '', meta);
             btn.classList.add('active');
             showToast('Bookmark added');
         }
@@ -369,7 +421,8 @@ const LibraryStudyTools = (function() {
         editor.querySelector('[data-action="save-note"]').addEventListener('click', () => {
             const content = textarea.value.trim();
             if (content) {
-                window.LibraryStorage.addNote(state.bookSlug, refId, content);
+                const meta = captureParagraphMeta(refId);
+                window.LibraryStorage.addNote(state.bookSlug, refId, content, meta);
                 btn.classList.add('has-note');
                 showToast('Note saved');
             }
@@ -603,12 +656,19 @@ const LibraryStudyTools = (function() {
 
         elements.notesList.innerHTML = notes.map(note => `
             <div class="study-panel__item" data-ref="${note.refId}">
-                <div class="study-panel__item-ref">${note.refId}</div>
-                <div class="study-panel__item-note">${note.content}</div>
+                <div class="study-panel__item-ref">${escapeHtml(note.refId)}</div>
+                <div class="study-panel__item-note">${escapeHtml(note.content)}</div>
                 <div class="study-panel__item-date">${new Date(note.updatedAt).toLocaleDateString()}</div>
                 <div class="study-panel__item-actions">
                     <button class="study-panel__item-goto" data-action="goto" data-ref="${note.refId}">Go to</button>
                     <button class="study-panel__item-edit" data-action="edit-note" data-ref="${note.refId}">Edit</button>
+                    <details class="study-panel__item-export">
+                        <summary class="study-panel__item-export-toggle" aria-label="Export this note">Export</summary>
+                        <div class="study-panel__item-export-menu" role="menu">
+                            <button type="button" role="menuitem" data-action="export-note-json" data-ref="${note.refId}">Download .json</button>
+                            <button type="button" role="menuitem" data-action="export-note-md" data-ref="${note.refId}">Download .md</button>
+                        </div>
+                    </details>
                     <button class="study-panel__item-remove" data-action="remove-note" data-ref="${note.refId}">Remove</button>
                 </div>
             </div>
@@ -630,6 +690,135 @@ const LibraryStudyTools = (function() {
                 showToast('Note removed');
             });
         });
+
+        elements.notesList.querySelectorAll('[data-action="export-note-json"]').forEach(btn => {
+            btn.addEventListener('click', () => {
+                exportSingleNote(btn.dataset.ref, 'json');
+                btn.closest('details')?.removeAttribute('open');
+            });
+        });
+
+        elements.notesList.querySelectorAll('[data-action="export-note-md"]').forEach(btn => {
+            btn.addEventListener('click', () => {
+                exportSingleNote(btn.dataset.ref, 'md');
+                btn.closest('details')?.removeAttribute('open');
+            });
+        });
+
+        elements.notesList.querySelectorAll('[data-action="edit-note"]').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const ref = btn.dataset.ref;
+                goToRef(ref);
+                setTimeout(() => {
+                    const paraBtn = document.querySelector(`[data-ref="${ref}"][data-action="note"]`);
+                    if (paraBtn) openNoteEditor(ref, paraBtn);
+                }, 350);
+            });
+        });
+    }
+
+    /**
+     * Escape a string for safe insertion as text inside HTML built via
+     * template literals. The previous render injected note.content
+     * verbatim, which is fine for trusted local input but breaks if a
+     * user pastes "<" into a note.
+     */
+    function escapeHtml(s) {
+        const div = document.createElement('div');
+        div.textContent = s == null ? '' : String(s);
+        return div.innerHTML;
+    }
+
+    /**
+     * Build a Markdown rendering of a single note in the
+     * "quote-above, note-below" layout. The attribution line is an
+     * em-dash followed by a Markdown link to the deep paragraph URL so
+     * the export round-trips into any Markdown reader.
+     */
+    function noteToMarkdown(record) {
+        const bookTitle = record.bookTitle || record.bookSlug || '';
+        const refLabel = bookTitle ? `${bookTitle}, ${record.refId}` : record.refId;
+        const lines = [];
+        lines.push(`# Note — ${record.refId}`);
+        lines.push('');
+        if (record.quote) {
+            const quoteLines = record.quote.split(/\n+/).map(l => `> ${l}`);
+            lines.push(...quoteLines);
+            lines.push('>');
+            const linkPart = record.link ? `[${refLabel}](${record.link})` : refLabel;
+            lines.push(`> — ${linkPart}`);
+            lines.push('');
+        } else if (record.link) {
+            lines.push(`Source: [${refLabel}](${record.link})`);
+            lines.push('');
+        }
+        lines.push(record.content || '');
+        lines.push('');
+        lines.push('---');
+        const created = record.createdAt ? new Date(record.createdAt).toLocaleDateString() : '';
+        const updated = record.updatedAt ? new Date(record.updatedAt).toLocaleDateString() : '';
+        if (created || updated) {
+            lines.push(`*Created ${created}${updated && updated !== created ? ` · Updated ${updated}` : ''}*`);
+        }
+        return lines.join('\n');
+    }
+
+    /**
+     * Build a single-note export record (same shape as one entry in
+     * the bulk woh-notes-export). Pulls live DOM context if the note's
+     * paragraph happens to be on the current page so the export
+     * benefits from any newly-rendered text.
+     */
+    function buildNoteRecord(refId) {
+        const note = window.LibraryStorage.getNote(state.bookSlug, refId);
+        if (!note) return null;
+        const live = captureParagraphMeta(refId);
+        const parsed = window.LibraryStorage.parseRefId(refId);
+        const chapter = note.chapter != null ? note.chapter : (live?.chapter ?? parsed.chapter);
+        const paragraph = note.paragraph != null ? note.paragraph : (live?.paragraph ?? parsed.paragraph);
+        return {
+            bookSlug: state.bookSlug,
+            bookTitle: note.bookTitle || live?.bookTitle || state.bookTitle || '',
+            refId: note.refId,
+            chapter,
+            paragraph,
+            quote: note.quote || live?.quote || '',
+            link: window.LibraryStorage.buildParagraphLink(state.bookSlug, chapter, paragraph),
+            content: note.content || '',
+            createdAt: note.createdAt,
+            updatedAt: note.updatedAt
+        };
+    }
+
+    function exportSingleNote(refId, format) {
+        const record = buildNoteRecord(refId);
+        if (!record) {
+            showToast('Note not found');
+            return;
+        }
+        const safeRef = String(refId).replace(/[^A-Za-z0-9-]+/g, '_');
+        if (format === 'md') {
+            downloadBlob(noteToMarkdown(record), 'text/markdown', `woh-note-${safeRef}.md`);
+        } else {
+            const payload = {
+                kind: 'woh-notes-export',
+                version: 1,
+                exportedAt: new Date().toISOString(),
+                notes: [record]
+            };
+            downloadBlob(JSON.stringify(payload, null, 2), 'application/json', `woh-note-${safeRef}.json`);
+        }
+        showToast('Note exported');
+    }
+
+    function downloadBlob(contents, mime, filename) {
+        const blob = new Blob([contents], { type: mime });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        a.click();
+        URL.revokeObjectURL(url);
     }
 
     /**
@@ -676,18 +865,32 @@ const LibraryStudyTools = (function() {
      * Render existing annotations on page load
      */
     function renderExistingAnnotations() {
-        // Mark bookmarked paragraphs
+        // Mark bookmarked paragraphs and lazy-backfill any meta we can
+        // observe from the current DOM (older annotations created
+        // before the metadata-capture upgrade).
         const bookmarks = window.LibraryStorage.getBookmarks(state.bookSlug);
         bookmarks.forEach(bookmark => {
             const btn = document.querySelector(`[data-ref="${bookmark.refId}"][data-action="bookmark"]`);
             if (btn) btn.classList.add('active');
+            if (!bookmark.quote || !bookmark.bookTitle) {
+                const meta = captureParagraphMeta(bookmark.refId);
+                if (meta) {
+                    window.LibraryStorage.backfillBookmarkMeta(state.bookSlug, bookmark.refId, meta);
+                }
+            }
         });
 
-        // Mark paragraphs with notes
+        // Mark paragraphs with notes (same lazy backfill)
         const notes = window.LibraryStorage.getNotes(state.bookSlug);
         notes.forEach(note => {
             const btn = document.querySelector(`[data-ref="${note.refId}"][data-action="note"]`);
             if (btn) btn.classList.add('has-note');
+            if (!note.quote || !note.bookTitle) {
+                const meta = captureParagraphMeta(note.refId);
+                if (meta) {
+                    window.LibraryStorage.backfillNoteMeta(state.bookSlug, note.refId, meta);
+                }
+            }
         });
 
         // Apply highlights
@@ -701,24 +904,39 @@ const LibraryStudyTools = (function() {
     }
 
     /**
-     * Export study data
+     * Primary export: notes only (all books), in the portable
+     * woh-notes-export schema. Use the "Export full backup" link for
+     * the legacy whole-library blob (preferences, progress, history).
      */
-    function exportStudyData() {
-        const data = window.LibraryStorage.exportData();
-        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `woh-study-notes-${new Date().toISOString().split('T')[0]}.json`;
-        a.click();
-
-        URL.revokeObjectURL(url);
-        showToast('Study data exported');
+    function exportNotesOnly() {
+        const data = window.LibraryStorage.exportNotes();
+        downloadBlob(
+            JSON.stringify(data, null, 2),
+            'application/json',
+            `woh-notes-${new Date().toISOString().split('T')[0]}.json`
+        );
+        showToast(`Exported ${data.notes.length} note${data.notes.length === 1 ? '' : 's'}`);
     }
 
     /**
-     * Import study data
+     * Full-backup export — kept for users who relied on the prior
+     * behavior. Includes preferences, progress, bookmarks, highlights,
+     * notes, and history.
+     */
+    function exportStudyData() {
+        const data = window.LibraryStorage.exportData();
+        downloadBlob(
+            JSON.stringify(data, null, 2),
+            'application/json',
+            `woh-study-backup-${new Date().toISOString().split('T')[0]}.json`
+        );
+        showToast('Full backup exported');
+    }
+
+    /**
+     * Import accepts both the notes-only schema and the legacy
+     * whole-library blob. We sniff by the `kind` field: presence ⇒
+     * notes-only; absence ⇒ legacy whole-library import.
      */
     function importStudyData() {
         const input = document.createElement('input');
@@ -731,19 +949,34 @@ const LibraryStudyTools = (function() {
 
             const reader = new FileReader();
             reader.onload = (event) => {
+                let data;
                 try {
-                    const data = JSON.parse(event.target.result);
-                    if (window.LibraryStorage.importData(data)) {
-                        showToast('Study data imported');
-                        renderExistingAnnotations();
-                        renderBookmarksList();
-                        renderNotesList();
-                    } else {
-                        showToast('Import failed - invalid data');
-                    }
+                    data = JSON.parse(event.target.result);
                 } catch (err) {
-                    showToast('Import failed - invalid file');
+                    showToast('Import failed — not valid JSON');
+                    return;
                 }
+
+                if (data && data.kind === 'woh-notes-export') {
+                    const touched = window.LibraryStorage.importNotes(data);
+                    if (touched < 0) {
+                        showToast('Import failed — unsupported notes export');
+                        return;
+                    }
+                    showToast(`Imported ${touched} note${touched === 1 ? '' : 's'}`);
+                } else if (data && data.kind === 'woh-bookmarks-export') {
+                    showToast('That looks like a Reading List file — use the Reading List panel to import it.');
+                    return;
+                } else if (window.LibraryStorage.importData(data)) {
+                    showToast('Full backup imported');
+                } else {
+                    showToast('Import failed — invalid data');
+                    return;
+                }
+
+                renderExistingAnnotations();
+                renderBookmarksList();
+                renderNotesList();
             };
             reader.readAsText(file);
         });
@@ -770,6 +1003,7 @@ const LibraryStudyTools = (function() {
         closePanel,
         toggleBookmark,
         goToRef,
+        exportNotesOnly,
         exportStudyData,
         importStudyData
     };

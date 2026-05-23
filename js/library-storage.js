@@ -160,26 +160,57 @@ const LibraryStorage = (function() {
         return allBookmarks;
     }
 
-    function addBookmark(bookSlug, refId, note = '') {
+    function addBookmark(bookSlug, refId, note = '', meta = null) {
         const allBookmarks = getItem(KEYS.BOOKMARKS) || {};
         if (!allBookmarks[bookSlug]) {
             allBookmarks[bookSlug] = [];
         }
 
-        // Check if already bookmarked
+        const now = new Date().toISOString();
         const existing = allBookmarks[bookSlug].find(b => b.refId === refId);
         if (existing) {
             existing.note = note;
-            existing.updatedAt = new Date().toISOString();
+            existing.updatedAt = now;
+            applyMeta(existing, meta);
         } else {
-            allBookmarks[bookSlug].push({
+            const entry = {
                 refId,
                 note,
-                createdAt: new Date().toISOString(),
-                updatedAt: new Date().toISOString()
-            });
+                createdAt: now,
+                updatedAt: now
+            };
+            applyMeta(entry, meta);
+            allBookmarks[bookSlug].push(entry);
         }
 
+        return setItem(KEYS.BOOKMARKS, allBookmarks);
+    }
+
+    /**
+     * Backfill optional metadata onto an existing entry without
+     * overwriting fields the caller didn't supply. Used by both notes
+     * and bookmarks so quote/chapter/paragraph/bookTitle can be filled
+     * lazily as DOM context becomes available.
+     */
+    function applyMeta(entry, meta) {
+        if (!meta) return;
+        ['quote', 'chapter', 'paragraph', 'bookTitle'].forEach(key => {
+            if (meta[key] !== undefined && meta[key] !== null && meta[key] !== '') {
+                entry[key] = meta[key];
+            }
+        });
+    }
+
+    function backfillBookmarkMeta(bookSlug, refId, meta) {
+        if (!meta) return false;
+        const allBookmarks = getItem(KEYS.BOOKMARKS) || {};
+        const list = allBookmarks[bookSlug];
+        if (!list) return false;
+        const entry = list.find(b => b.refId === refId);
+        if (!entry) return false;
+        const before = JSON.stringify(entry);
+        applyMeta(entry, meta);
+        if (JSON.stringify(entry) === before) return false;
         return setItem(KEYS.BOOKMARKS, allBookmarks);
     }
 
@@ -246,31 +277,47 @@ const LibraryStorage = (function() {
         return allNotes;
     }
 
-    function addNote(bookSlug, refId, content) {
+    function addNote(bookSlug, refId, content, meta = null) {
         const allNotes = getItem(KEYS.NOTES) || {};
         if (!allNotes[bookSlug]) {
             allNotes[bookSlug] = [];
         }
 
-        // Check if note exists for this ref
+        const now = new Date().toISOString();
         const existing = allNotes[bookSlug].find(n => n.refId === refId);
         if (existing) {
             existing.content = content;
-            existing.updatedAt = new Date().toISOString();
+            existing.updatedAt = now;
+            applyMeta(existing, meta);
         } else {
-            allNotes[bookSlug].push({
+            const entry = {
                 refId,
                 content,
-                createdAt: new Date().toISOString(),
-                updatedAt: new Date().toISOString()
-            });
+                createdAt: now,
+                updatedAt: now
+            };
+            applyMeta(entry, meta);
+            allNotes[bookSlug].push(entry);
         }
 
         return setItem(KEYS.NOTES, allNotes);
     }
 
-    function updateNote(bookSlug, refId, content) {
-        return addNote(bookSlug, refId, content);
+    function updateNote(bookSlug, refId, content, meta = null) {
+        return addNote(bookSlug, refId, content, meta);
+    }
+
+    function backfillNoteMeta(bookSlug, refId, meta) {
+        if (!meta) return false;
+        const allNotes = getItem(KEYS.NOTES) || {};
+        const list = allNotes[bookSlug];
+        if (!list) return false;
+        const entry = list.find(n => n.refId === refId);
+        if (!entry) return false;
+        const before = JSON.stringify(entry);
+        applyMeta(entry, meta);
+        if (JSON.stringify(entry) === before) return false;
+        return setItem(KEYS.NOTES, allNotes);
     }
 
     function removeNote(bookSlug, refId) {
@@ -322,6 +369,116 @@ const LibraryStorage = (function() {
     // =====================================================
     // Export/Import API
     // =====================================================
+
+    /**
+     * Parse "BOOKCODE-CHAPTER:PARAGRAPH" into {chapter, paragraph}.
+     * Returns nulls if the refId doesn't fit the expected pattern.
+     */
+    function parseRefId(refId) {
+        if (typeof refId !== 'string') return { chapter: null, paragraph: null };
+        const m = refId.match(/^[A-Za-z0-9]+-(\d+):(\d+)$/);
+        if (!m) return { chapter: null, paragraph: null };
+        return { chapter: Number(m[1]), paragraph: Number(m[2]) };
+    }
+
+    /**
+     * Build a deep link to a paragraph. Uses the current document's
+     * origin so the export is portable across the project's site
+     * variants without hard-coding a domain.
+     */
+    function buildParagraphLink(bookSlug, chapter, paragraph) {
+        if (typeof window === 'undefined' || !bookSlug || chapter == null || paragraph == null) {
+            return '';
+        }
+        return `${window.location.origin}/library/${bookSlug}/#c${chapter}p${paragraph}`;
+    }
+
+    /**
+     * Flat per-note records suitable for portable JSON export. Each
+     * record carries enough context (bookTitle, chapter, paragraph,
+     * quote, link) to be intelligible on its own.
+     */
+    function exportNotes() {
+        const allNotes = getItem(KEYS.NOTES) || {};
+        const out = [];
+        Object.keys(allNotes).forEach(bookSlug => {
+            (allNotes[bookSlug] || []).forEach(note => {
+                const parsed = parseRefId(note.refId);
+                const chapter = note.chapter != null ? note.chapter : parsed.chapter;
+                const paragraph = note.paragraph != null ? note.paragraph : parsed.paragraph;
+                out.push({
+                    bookSlug,
+                    bookTitle: note.bookTitle || '',
+                    refId: note.refId,
+                    chapter,
+                    paragraph,
+                    quote: note.quote || '',
+                    link: buildParagraphLink(bookSlug, chapter, paragraph),
+                    content: note.content || '',
+                    createdAt: note.createdAt,
+                    updatedAt: note.updatedAt
+                });
+            });
+        });
+        return {
+            kind: 'woh-notes-export',
+            version: 1,
+            exportedAt: new Date().toISOString(),
+            notes: out
+        };
+    }
+
+    /**
+     * Merge an imported notes-only export into local storage. Existing
+     * notes for the same (bookSlug, refId) are kept if their updatedAt
+     * is newer than the incoming record (last-write-wins). Returns the
+     * number of notes added or updated.
+     */
+    function importNotes(data) {
+        if (!data || data.kind !== 'woh-notes-export') return -1;
+        if (typeof data.version === 'number' && data.version > 1) return -1;
+        if (!Array.isArray(data.notes)) return -1;
+
+        const allNotes = getItem(KEYS.NOTES) || {};
+        let touched = 0;
+        data.notes.forEach(record => {
+            if (!record || !record.bookSlug || !record.refId) return;
+            const bookSlug = record.bookSlug;
+            if (!allNotes[bookSlug]) allNotes[bookSlug] = [];
+            const existing = allNotes[bookSlug].find(n => n.refId === record.refId);
+            const incomingUpdated = record.updatedAt || record.createdAt || new Date().toISOString();
+            if (existing) {
+                const existingUpdated = existing.updatedAt || existing.createdAt || '';
+                if (incomingUpdated <= existingUpdated) return;
+                existing.content = record.content || '';
+                existing.updatedAt = incomingUpdated;
+                if (record.createdAt && !existing.createdAt) existing.createdAt = record.createdAt;
+                applyMeta(existing, {
+                    quote: record.quote,
+                    chapter: record.chapter,
+                    paragraph: record.paragraph,
+                    bookTitle: record.bookTitle
+                });
+            } else {
+                const entry = {
+                    refId: record.refId,
+                    content: record.content || '',
+                    createdAt: record.createdAt || incomingUpdated,
+                    updatedAt: incomingUpdated
+                };
+                applyMeta(entry, {
+                    quote: record.quote,
+                    chapter: record.chapter,
+                    paragraph: record.paragraph,
+                    bookTitle: record.bookTitle
+                });
+                allNotes[bookSlug].push(entry);
+            }
+            touched += 1;
+        });
+        setItem(KEYS.NOTES, allNotes);
+        return touched;
+    }
 
     function exportData() {
         return {
@@ -418,6 +575,8 @@ const LibraryStorage = (function() {
         updateNote,
         removeNote,
         getNote,
+        backfillNoteMeta,
+        backfillBookmarkMeta,
 
         // History
         addToHistory,
@@ -427,6 +586,10 @@ const LibraryStorage = (function() {
         // Export/Import
         exportData,
         importData,
+        exportNotes,
+        importNotes,
+        parseRefId,
+        buildParagraphLink,
         clearAllData,
 
         // Statistics

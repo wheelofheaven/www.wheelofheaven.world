@@ -191,8 +191,24 @@
                     <ul class="reading-list-panel__list"></ul>
                 </div>
                 <footer class="reading-list-panel__footer">
+                    <button class="reading-list-panel__export" data-export-reading-list>
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                        ${getTranslation('exportReadingList', 'Export')}
+                    </button>
+                    <button class="reading-list-panel__import" data-import-reading-list>
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                        ${getTranslation('importReadingList', 'Import')}
+                    </button>
                     <button class="reading-list-panel__clear" data-clear-reading-list>
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                             <polyline points="3 6 5 6 21 6"></polyline>
                             <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
                         </svg>
@@ -208,10 +224,14 @@
         const backdrop = panel.querySelector('.reading-list-panel__backdrop');
         const closeBtn = panel.querySelector('[data-close-reading-list]');
         const clearBtn = panel.querySelector('[data-clear-reading-list]');
+        const exportBtn = panel.querySelector('[data-export-reading-list]');
+        const importBtn = panel.querySelector('[data-import-reading-list]');
 
         backdrop?.addEventListener('click', closePanel);
         closeBtn?.addEventListener('click', closePanel);
         clearBtn?.addEventListener('click', clearAll);
+        exportBtn?.addEventListener('click', exportList);
+        importBtn?.addEventListener('click', importList);
 
         // Setup toggle button
         document.addEventListener('click', (e) => {
@@ -232,17 +252,28 @@
         const listEl = panel.querySelector('.reading-list-panel__list');
         const emptyEl = panel.querySelector('.reading-list-panel__empty');
         const footerEl = panel.querySelector('.reading-list-panel__footer');
+        const clearBtn = panel.querySelector('[data-clear-reading-list]');
+        const exportBtn = panel.querySelector('[data-export-reading-list]');
 
+        // Keep the footer mounted so Import is available even when the
+        // list is empty (that's exactly when a user is most likely to
+        // want to restore a backup). Only the destructive/whole-list
+        // actions are gated on having items.
         if (readingList.length === 0) {
             emptyEl.style.display = 'flex';
             listEl.style.display = 'none';
-            footerEl.style.display = 'none';
+            footerEl.style.display = 'flex';
+            if (clearBtn) clearBtn.style.display = 'none';
+            if (exportBtn) exportBtn.style.display = 'none';
+            updateCounterBadge();
             return;
         }
 
         emptyEl.style.display = 'none';
         listEl.style.display = 'block';
         footerEl.style.display = 'flex';
+        if (clearBtn) clearBtn.style.display = '';
+        if (exportBtn) exportBtn.style.display = '';
 
         listEl.innerHTML = readingList.map(item => `
             <li class="reading-list-panel__item">
@@ -301,6 +332,97 @@
         } else {
             openPanel();
         }
+    }
+
+    // Export the reading list as a portable JSON file. The schema is
+    // intentionally tiny and stable so users can re-import or pipe it
+    // into other tools without surprises.
+    function exportList() {
+        if (readingList.length === 0) {
+            showSnackbar(getTranslation('emptyReadingList', 'Your reading list is empty'));
+            return;
+        }
+        const payload = {
+            kind: 'woh-bookmarks-export',
+            version: 1,
+            exportedAt: new Date().toISOString(),
+            bookmarks: readingList.map(item => ({
+                url: item.url,
+                title: item.title,
+                description: item.description || '',
+                section: item.section || '',
+                addedAt: item.addedAt || Date.now()
+            }))
+        };
+        const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `woh-bookmarks-${new Date().toISOString().split('T')[0]}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+        showSnackbar(getTranslation('readingListExported', 'Reading list exported'));
+    }
+
+    // Import a previously exported reading list. Merges by url:
+    // existing entries are kept (preserving their original addedAt),
+    // new ones are inserted at the top in incoming order.
+    function importList() {
+        const input = document.createElement('input');
+        input.type = 'file';
+        input.accept = '.json';
+        input.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = (ev) => {
+                let data;
+                try {
+                    data = JSON.parse(ev.target.result);
+                } catch (err) {
+                    showSnackbar(getTranslation('importInvalidJson', 'Import failed — not valid JSON'));
+                    return;
+                }
+                if (!data || data.kind !== 'woh-bookmarks-export' || !Array.isArray(data.bookmarks)) {
+                    showSnackbar(getTranslation('importWrongKind', 'Import failed — not a reading-list export'));
+                    return;
+                }
+                if (typeof data.version === 'number' && data.version > 1) {
+                    showSnackbar(getTranslation('importTooNew', 'Import failed — file is newer than this app supports'));
+                    return;
+                }
+
+                let added = 0;
+                // Iterate in reverse so the first entry of the incoming
+                // list ends up on top after the unshift().
+                for (let i = data.bookmarks.length - 1; i >= 0; i--) {
+                    const b = data.bookmarks[i];
+                    if (!b || !b.url || !b.title) continue;
+                    if (readingList.some(x => x.url === b.url)) continue;
+                    readingList.unshift({
+                        url: b.url,
+                        title: b.title,
+                        description: b.description || '',
+                        section: b.section || '',
+                        addedAt: typeof b.addedAt === 'number' ? b.addedAt : Date.now()
+                    });
+                    added += 1;
+                }
+                if (readingList.length > MAX_ITEMS) {
+                    readingList = readingList.slice(0, MAX_ITEMS);
+                }
+                saveReadingList();
+                updatePanel();
+                updateAllBookmarkButtons();
+                if (added === 0) {
+                    showSnackbar(getTranslation('importNothingNew', 'Nothing new to import'));
+                } else {
+                    showSnackbar(`${getTranslation('imported', 'Imported')} ${added}`);
+                }
+            };
+            reader.readAsText(file);
+        });
+        input.click();
     }
 
     // Clear all items
@@ -396,7 +518,9 @@
         getAll: () => [...readingList],
         open: openPanel,
         close: closePanel,
-        toggle: togglePanel
+        toggle: togglePanel,
+        exportList: exportList,
+        importList: importList
     };
 
     // Initialize when DOM is ready
