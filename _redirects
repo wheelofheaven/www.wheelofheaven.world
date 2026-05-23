@@ -24,7 +24,9 @@
 # /wiki/timeline/<...>/ → /timeline/<...>/  (wiki/timeline nested
 # section never existed in the current layout)
 /wiki/timeline/age-of-scorpio/       /timeline/age-of-scorpio/            301
-/zh-Hant/wiki/timeline/age-of-cancer/  /zh-Hant/timeline/age-of-cancer/   301
+# zh-Hant has no age-of-cancer translation; send to the locale's
+# timeline index rather than 404'ing the redirect destination.
+/zh-Hant/wiki/timeline/age-of-cancer/  /zh-Hant/timeline/                 301
 
 # =============================================================================
 # ENGLISH - Main intro section
