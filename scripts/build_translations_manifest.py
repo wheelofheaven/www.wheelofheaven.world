@@ -38,6 +38,7 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -84,11 +85,27 @@ def canonical_path(md_file: Path) -> tuple[str, str]:
     return "/".join(parts), locale
 
 
+def tracked_md_files() -> list[Path]:
+    """Return absolute paths of all *.md files tracked in the content
+    submodule. Using `git ls-files` (instead of rglob) is critical:
+    the content/ working tree often holds hundreds of WIP translation
+    stubs that aren't committed, and including them in the manifest
+    would emit hreflang pointing to URLs that 404 in production.
+    """
+    result = subprocess.run(
+        ["git", "-C", str(CONTENT_ROOT), "ls-files", "*.md"],
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    return [CONTENT_ROOT / line for line in result.stdout.splitlines() if line]
+
+
 def build_manifest() -> dict:
     paths: dict[str, set[str]] = {}
 
-    for md_file in sorted(CONTENT_ROOT.rglob("*.md")):
-        # Skip drafts, snippets, anything starting with "."
+    for md_file in sorted(tracked_md_files()):
+        # Skip anything starting with "." just in case ls-files surfaces one.
         if any(part.startswith(".") for part in md_file.parts):
             continue
         key, locale = canonical_path(md_file)

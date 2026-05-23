@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-05-23T06:35:07+00:00",
-    "count": 263
+    "generated_at": "2026-05-23T09:55:55+00:00",
+    "count": 261
   },
   "paths": {
     "README": [
@@ -158,414 +158,112 @@
       "zh-Hant"
     ],
     "library/1-chronicles": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-corinthians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-john": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-kings": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-nephi": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-peter": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-samuel": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-thessalonians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/1-timothy": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-chronicles": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-corinthians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-john": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-kings": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-nephi": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-peter": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-samuel": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-thessalonians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/2-timothy": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/3-john": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/3-nephi": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/4-nephi": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/acts": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/alma": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/amos": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
-    "library/atrahasis": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/book-of-enoch": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/book-of-enoch-woh": [
       "en"
     ],
     "library/book-of-jubilees": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/chaldean-account-of-genesis": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/colossians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/corpus-hermeticum": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/daniel": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/deuteronomy": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/ecclesiastes": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/enos": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/enuma-elish": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/ephesians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
-    "library/epic-of-gilgamesh": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/eridu-genesis": [
       "de",
@@ -579,37 +277,13 @@
       "zh-Hant"
     ],
     "library/esther": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/ether": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/exodus": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/exodus-woh": [
       "en"
@@ -626,51 +300,19 @@
       "zh-Hant"
     ],
     "library/ezekiel": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/ezekiel-woh": [
       "en"
     ],
     "library/ezra": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/galatians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/genesis": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/genesis-woh": [
       "en"
@@ -679,197 +321,61 @@
       "en"
     ],
     "library/habakkuk": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/hebrews": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/helaman": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/hosea": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/isaiah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/isaiah-woh": [
       "en"
     ],
     "library/jacob": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/james": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/jarom": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/jeremiah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/job": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/job-woh": [
       "en"
     ],
     "library/joel": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/john": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/jonah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/joshua": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/jude": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/judges": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/lamentations": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/lets-welcome-the-extraterrestrials": [
       "de",
@@ -883,280 +389,88 @@
       "zh-Hant"
     ],
     "library/leviticus": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/luke": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/mark": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/matthew": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/matthew-woh": [
       "en"
     ],
     "library/micah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/mormon-book": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/moroni": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/mosiah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/nahum": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/nehemiah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/numbers": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/obadiah": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/omni": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/papyrus-of-ani": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/philemon": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/philippians": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/proverbs": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/psalms": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/quran": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/quran-woh": [
       "en"
     ],
     "library/revelation": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/revelation-woh": [
       "en"
     ],
     "library/rig-veda-book-10": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/romans": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/ruth": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/shiur-qomah-woh": [
       "en"
     ],
     "library/song-of-solomon": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/the-book-which-tells-the-truth": [
       "de",
@@ -1164,32 +478,14 @@
       "es",
       "fr",
       "ja",
-      "ko",
       "ru",
-      "zh",
-      "zh-Hant"
+      "zh"
     ],
     "library/titus": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "library/words-of-mormon": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
+      "en"
     ],
     "map": [
       "de",
