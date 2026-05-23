@@ -19,6 +19,10 @@ run = "cd themes/bifrost && npm install --silent && npm run bundle"
 description = "Rebuild data/sources.json from seed records + inline page references"
 run = "python3 scripts/build_sources.py"
 
+[tasks.translations]
+description = "Rebuild data/translations.json (canonical-path -> [languages] manifest for hreflang)"
+run = "python3 scripts/build_translations_manifest.py"
+
 [tasks.broadcast]
 description = "Post newly published content to enabled social channels"
 run = "python3 -m scripts.broadcast"
@@ -29,7 +33,7 @@ run = "python3 -m scripts.broadcast --dry-run"
 
 [tasks.build]
 description = "Compile site statically with Zola"
-depends = ["bundle"]
+depends = ["bundle", "translations"]
 run = "zola build"
 
 [tasks.purgecss]
