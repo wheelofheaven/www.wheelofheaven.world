@@ -17,6 +17,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+from . import bluesky as bluesky_adapter
 from . import telegram as telegram_adapter
 from . import twitter as twitter_adapter
 from .discover import Page, discover, filter_eligible
@@ -33,6 +34,7 @@ DEFAULT_BASE_URL = "https://www.wheelofheaven.world"
 CHANNELS = {
     "telegram": telegram_adapter,
     "twitter":  twitter_adapter,
+    "bluesky":  bluesky_adapter,
 }
 
 

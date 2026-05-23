@@ -61,6 +61,37 @@ def render_telegram(page: Page) -> str:
     return "\n\n".join(pieces)
 
 
+def render_bluesky(page: Page) -> str:
+    """
+    Build a Bluesky post body. Plain text, no URL in the body —
+    the URL lives in the attached `app.bsky.embed.external` card so
+    we don't burn graphemes on it.
+
+    Bluesky's hard limit is 300 graphemes. We use len() as a safe
+    approximation for our scholarly-English content (no emoji-heavy
+    posts). Target a 290-char ceiling with a 10-char buffer for the
+    truncation ellipsis.
+    """
+    override = page.social.get("bluesky")
+    if override:
+        return override.strip()
+
+    title = page.title.strip()
+    CEILING = 290
+
+    if not page.summary:
+        return _truncate(title, CEILING)
+
+    # title + "\n\n" + summary
+    summary_budget = CEILING - len(title) - 2
+
+    if summary_budget < 60:
+        return _truncate(title, CEILING)
+
+    summary = _truncate(page.summary, summary_budget)
+    return f"{title}\n\n{summary}"
+
+
 def render_twitter(page: Page) -> str:
     """
     Build a Twitter / X post body. Plain text — no HTML.
@@ -107,10 +138,11 @@ def _html_escape(text: str) -> str:
     )
 
 
-# Registry of per-platform renderers. Phase 2+ adapters register here.
+# Registry of per-platform renderers. Future-phase adapters register here.
 RENDERERS = {
     "telegram": render_telegram,
-    "twitter": render_twitter,
+    "twitter":  render_twitter,
+    "bluesky":  render_bluesky,
 }
 
 
