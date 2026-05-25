@@ -170,7 +170,7 @@ date = 2026-05-08
 
 [extra]
 event_date = 2026-05-07              # When the event happened
-event_type = "announcement"          # announcement | discovery | anniversary | cultural-moment | obituary
+event_type = "announcement"          # only valid value (taxonomy slimmed 2026-05; discovery, anniversary, cultural-moment, obituary retired)
 claim_type = "inferred"              # direct | inferred | speculative
 summary = "One-paragraph TLDR — the lede plus the canon angle in 2–4 sentences."
 canon_links = [                      # Required: at least one canon entry touched
@@ -264,12 +264,50 @@ content/
 
 ## Shortcode Usage
 
+### Wiki cross-link
+
+In-corpus link to a wiki entry. The shortcode resolves the path
+centrally — use it instead of writing markdown links manually so a
+future rename of `/wiki/` doesn't break references.
+
+```markdown
+The {% wiki(slug="elohim") %}Elohim{% end %} created humanity in
+laboratories described in {% wiki(slug="genesis") %}Genesis{% end %}.
+```
+
+Renders an `<a class="wikilink">` with a subtle dotted underline so
+canon-internal links are visually distinct from outbound ones.
+
+### Library quote
+
+Paired-tag form. When `book/chapter/verse` are passed, the shortcode
+auto-resolves the deep-link path (`/library/<book>/#c<chapter>p<verse>`)
+and looks up the book's English title from `data/library/<book>/_meta.json`
+for the "Read in" button.
+
+```markdown
+{% library(book="genesis-woh", chapter=1, verse=1) %}
+When the Elohim began to shape the skies and the land—
+{% end %}
+```
+
+Manual mode still works (legacy callers): pass `path=` and `title=`
+directly. Manual `path` always wins over the resolved one.
+
+```markdown
+{% library(path="library/some-book", title="Some Book") %}
+Quoted text here.
+{% end %}
+```
+
 ### Citations
+
 ```markdown
 {% cite(id="1", text="[1]", title="Reference Title") %}
 ```
 
 ### Definition Box
+
 ```markdown
 {% definition(term="Term", type="standard") %}
 Definition content here.
@@ -277,6 +315,7 @@ Definition content here.
 ```
 
 ### Info Box
+
 ```markdown
 {% info(title="Note") %}
 Important information here.
