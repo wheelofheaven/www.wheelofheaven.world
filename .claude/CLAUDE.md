@@ -123,3 +123,32 @@ See `.claude/rules/` for detailed conventions:
 - `styling.md` - SCSS/CSS conventions
 - `content.md` - Content and frontmatter patterns
 - `seo-schema.md` - SEO and JSON-LD schema patterns
+
+## Documentation site — check it first
+
+The authoritative project documentation lives at
+[docs.wheelofheaven.world](https://docs.wheelofheaven.world) (sibling
+repo `docs.wheelofheaven.world/`). When you need to know whether a
+piece of UI is already a reusable Bifrost component, or how to use a
+shortcode / macro / mixin, **check the docs site before re-deriving
+anything**:
+
+| Looking for…                                | Go to                                                              |
+|---------------------------------------------|--------------------------------------------------------------------|
+| Bifrost components (SCSS, macros, shortcodes, tokens) | <https://docs.wheelofheaven.world/components/>             |
+| Glass-cloud visual language                 | <https://docs.wheelofheaven.world/components/visual-language/>     |
+| Content shortcodes (`wiki`, `library`, `cite`, …) | <https://docs.wheelofheaven.world/components/shortcodes/>     |
+| Tera macros (breadcrumbs, claim-badge, …)   | <https://docs.wheelofheaven.world/components/macros/>              |
+| Design tokens (palette, spacing, type)      | <https://docs.wheelofheaven.world/components/tokens/>              |
+| Editorial standards & content types         | <https://docs.wheelofheaven.world/contributing/content/>           |
+| Pipelines, CI/deploy, theme architecture    | <https://docs.wheelofheaven.world/contributing/dev/>               |
+| Multi-site architecture, hosting, SEO       | <https://docs.wheelofheaven.world/architecture/>                   |
+| Icon registry (live render)                 | <https://docs.wheelofheaven.world/reference/icons/>                |
+
+Source for those pages: `docs.wheelofheaven.world/content/`. Reading
+the markdown there is the fastest path to context — better than
+spelunking through `themes/bifrost/sass/components/` blindly.
+
+When you add or change a Bifrost component (anything in
+`themes/bifrost/`), document the change in the sibling docs repo as
+part of the same logical PR — keeping them in sync is the point.
