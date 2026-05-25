@@ -22,7 +22,7 @@ jobs:
           submodules: recursive
 
       - name: install build tools
-        uses: jdx/mise-action@v2
+        uses: jdx/mise-action@v4
 
       - name: install bifrost npm deps
         working-directory: themes/bifrost
