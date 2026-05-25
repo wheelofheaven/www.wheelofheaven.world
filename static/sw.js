@@ -1,7 +1,7 @@
 // Service Worker for Wheel of Heaven
 // Provides offline support and caching
 
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const STATIC_CACHE = `woh-static-${CACHE_VERSION}`;
 const PAGES_CACHE = `woh-pages-${CACHE_VERSION}`;
 const IMAGES_CACHE = `woh-images-${CACHE_VERSION}`;
