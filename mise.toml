@@ -46,12 +46,70 @@ description = "Production build with CSS purging"
 run = "mise run build && mise run purgecss"
 
 [tasks.serve]
-description = "Run dev server (live reload, auto-selects free port)"
+description = "Run dev server against the full site — all 10 locales, ~3 min per rebuild"
 run = """
 port=${ZOLA_PORT:-1111}
 while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
 echo "Serving on http://127.0.0.1:$port"
 zola serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
+"""
+raw = true
+
+# --- fast theme loop -------------------------------------------------------
+# Zola has no incremental path for theme edits: touching anything under
+# themes/ logs "Themes changed" and re-renders the whole site, so a one-line
+# SCSS tweak costs a full build. The nine translated locales are ~90% of the
+# pages and ~92% of the output bytes, so building without them is the lever.
+# Measured on this corpus: 189s full, 19s dev, 10s lean.
+
+[tasks.dev-config]
+description = "Regenerate config.dev.toml and config.lean.toml from config.toml"
+run = "python3 scripts/build_dev_config.py"
+
+[tasks.dev]
+description = "Dev server, English only (~19s per rebuild instead of ~189s)"
+depends = ["dev-config"]
+run = """
+port=${ZOLA_PORT:-1111}
+while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+echo "Serving English-only site on http://127.0.0.1:$port"
+zola -c config.dev.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
+"""
+raw = true
+
+[tasks.dev-lean]
+description = "Dev server, English minus the generated /sources/ records (~10s per rebuild)"
+depends = ["dev-config"]
+run = """
+port=${ZOLA_PORT:-1111}
+while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+echo "Serving lean site on http://127.0.0.1:$port"
+zola -c config.lean.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
+"""
+raw = true
+
+[tasks.build-dev]
+description = "One-off English-only build into public-dev/ — a sanity check without the 3-minute wait"
+depends = ["dev-config"]
+run = "zola -c config.dev.toml build -o public-dev --force"
+
+[tasks.css]
+description = "SCSS-only loop (~1s): static-serves the last dev build and recompiles main.css on save"
+depends = ["dev-config"]
+run = """
+out=${WOH_PREVIEW_DIR:-public-dev}
+if [ ! -f "$out/index.html" ]; then
+    echo "No preview in $out yet — building it once (~10s)…"
+    zola -c config.lean.toml build -o "$out" --force
+fi
+port=${ZOLA_PORT:-1111}
+while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+echo "Preview on http://127.0.0.1:$port — CSS reloads on save, HTML is frozen at the last build"
+python3 -m http.server "$port" -d "$out" >/dev/null 2>&1 &
+trap 'kill %1 2>/dev/null' EXIT INT TERM
+cd themes/bifrost
+npx --yes sass@1 --watch --no-source-map --quiet --quiet-deps --load-path=sass \
+    sass/main.scss "$OLDPWD/$out/main.css"
 """
 raw = true
 

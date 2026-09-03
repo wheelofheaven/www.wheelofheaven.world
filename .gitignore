@@ -1,6 +1,11 @@
 .agents/
 .ropeproject/
 public/
+public-dev/
+
+# Generated dev configs (see scripts/build_dev_config.py)
+config.dev.toml
+config.lean.toml
 
 # Python
 __pycache__/
