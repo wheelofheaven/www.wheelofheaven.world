@@ -30,13 +30,26 @@ config.toml. It is gitignored; regenerate with ``mise run dev-config``.
 
 from __future__ import annotations
 
+import collections
+import json
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "config.toml"
+CONTENT = ROOT / "content"
 DST = ROOT / "config.dev.toml"
 DST_LEAN = ROOT / "config.lean.toml"
+DST_MIN = ROOT / "config.min.toml"
+
+# config.min.toml keeps these sections whole and samples the rest. Both are
+# load-bearing: timeline-page.html walks a prev/next chain and read.html
+# resolves each age by slug, so a partial timeline fails the build outright;
+# wiki is kept whole so the relatedness mini-graph finds the same neighbours
+# it would in production. Sampling wiki instead is ~2x faster but makes that
+# figure silently under-draw its chords, which is worse than a slower build.
+MIN_WHOLE_SECTIONS = ("wiki", "timeline")
+MIN_SAMPLES = 5
 
 def locales(src: str) -> list[str]:
     """The non-default languages config.toml declares, in declaration order.
@@ -68,6 +81,11 @@ LEAN_NOTE = (
 # roughly halves the rebuild again. Skip this in lean mode only — you need them
 # back when you are working on source-page.html itself.
 LEAN_EXTRA = "**/content/sources/_generated/[!_]*.md"
+
+MIN_NOTE = (
+    "English-only development config trimmed to a representative slice of the\n"
+    "# corpus, used by `mise run dev-min`."
+)
 
 
 def render(src: str, note: str, extra_patterns: list[str]) -> str:
@@ -103,11 +121,48 @@ def render(src: str, note: str, extra_patterns: list[str]) -> str:
     return BANNER.format(what=note) + out
 
 
+def min_ignores(locales: list[str]) -> list[str]:
+    """Explicit ignores for every page outside the minimal keep-set.
+
+    Zola has no keep-list, so the set is inverted here: work out what has to
+    stay, then name everything else. The result is long but generated, and it
+    is the only way to express "a sample of each section" in a config that only
+    understands exclusion.
+    """
+    keep = {p.relative_to(CONTENT).as_posix() for p in CONTENT.glob("*.md")}
+    for section in MIN_WHOLE_SECTIONS:
+        keep |= {p.relative_to(CONTENT).as_posix() for p in (CONTENT / section).glob("*.md")}
+
+    # map.html resolves every node without a label_key through get_page(),
+    # which aborts the build if the page is missing.
+    nodes = json.loads((ROOT / "data" / "map" / "nodes.json").read_text(encoding="utf-8"))
+    keep |= {n["href"].strip("/") + ".md" for n in nodes if not n.get("label_key")}
+
+    by_section: dict[str, list[str]] = collections.defaultdict(list)
+    for p in sorted(CONTENT.rglob("*.md")):
+        rel = p.relative_to(CONTENT).as_posix()
+        if rel.split("/")[0] in locales or p.name == "_index.md" or rel in keep:
+            continue
+        by_section["/".join(rel.split("/")[:-1])].append(rel)
+    for pages in by_section.values():
+        keep.update(pages[:MIN_SAMPLES])
+
+    return [
+        f"**/content/{p.relative_to(CONTENT).as_posix()}"
+        for p in sorted(CONTENT.rglob("*.md"))
+        if p.relative_to(CONTENT).as_posix().split("/")[0] not in locales
+        and p.name != "_index.md"
+        and p.relative_to(CONTENT).as_posix() not in keep
+    ]
+
+
 def main() -> None:
     src = SRC.read_text(encoding="utf-8")
+    locs = locales(src)
     DST.write_text(render(src, DEV_NOTE, []), encoding="utf-8")
     DST_LEAN.write_text(render(src, LEAN_NOTE, [LEAN_EXTRA]), encoding="utf-8")
-    print(f"config.dev.toml and config.lean.toml written — skipping {', '.join(locales(src))}")
+    DST_MIN.write_text(render(src, MIN_NOTE, min_ignores(locs)), encoding="utf-8")
+    print(f"config.dev/lean/min.toml written — skipping {', '.join(locs)}")
 
 
 if __name__ == "__main__":

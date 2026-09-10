@@ -19,6 +19,10 @@ run = "cd themes/bifrost && npm install --silent && npm run bundle"
 description = "Rebuild source manifests and generated source detail pages"
 run = "python3 scripts/build_sources.py"
 
+[tasks.relatedness]
+description = "Rebuild data/relatedness.json (precomputed geometry for the wiki mini-graph)"
+run = "python3 scripts/build_relatedness_layout.py"
+
 [tasks.translations]
 description = "Rebuild data/translations.json (canonical-path -> [languages] manifest for hreflang)"
 run = "python3 scripts/build_translations_manifest.py"
@@ -33,7 +37,7 @@ run = "python3 -m scripts.broadcast --dry-run"
 
 [tasks.build]
 description = "Compile site statically with Zola"
-depends = ["bundle", "sources", "translations"]
+depends = ["bundle", "sources", "translations", "relatedness"]
 run = "zola build"
 
 [tasks.purgecss]
@@ -85,6 +89,18 @@ port=${ZOLA_PORT:-1111}
 while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
 echo "Serving lean site on http://127.0.0.1:$port"
 zola -c config.lean.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
+"""
+raw = true
+
+[tasks.dev-min]
+description = "Dev server, representative slice of the corpus (~8s per rebuild)"
+depends = ["dev-config"]
+run = """
+port=${ZOLA_PORT:-1111}
+while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+echo "Serving minimal slice on http://127.0.0.1:$port"
+echo "  wiki + timeline are complete; other sections keep 5 pages each."
+zola -c config.min.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
 """
 raw = true
 
