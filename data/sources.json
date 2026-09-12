@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T08:32:56+00:00",
+  "generated_at": "2026-09-01T20:03:08+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "total": 800,
-  "total_cites": 1420,
+  "total_cites": 1450,
   "media_counts": {
     "religious-text": 95,
     "academic-paper": 76,
@@ -1307,8 +1307,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -2867,8 +2873,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -3189,8 +3201,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -3204,8 +3222,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -3219,8 +3243,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -3440,12 +3470,17 @@
       "topics": [],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -3629,8 +3664,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -3750,12 +3791,17 @@
       ],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
           "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "licensed"
     },
     {
@@ -4906,6 +4952,11 @@
         },
         {
           "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
+          "section": "articles",
           "title": "The Translator's Wager",
           "path": "/articles/the-translators-wager/"
         },
@@ -5010,7 +5061,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 30,
+      "cite_count": 31,
       "licensing_status": "licensed"
     },
     {
@@ -5198,8 +5249,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -7398,6 +7455,11 @@
         },
         {
           "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
+          "section": "articles",
           "title": "The Translator's Wager",
           "path": "/articles/the-translators-wager/"
         },
@@ -7512,7 +7574,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 32,
+      "cite_count": 33,
       "licensing_status": "unverified"
     },
     {
@@ -7708,8 +7770,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -8294,8 +8362,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -9377,6 +9451,11 @@
           "path": "/articles/the-shape-of-humanity/"
         },
         {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
           "section": "wiki",
           "title": "Ancient Astronaut Hypothesis",
           "path": "/wiki/ancient-astronaut-hypothesis/"
@@ -9447,7 +9526,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 16,
+      "cite_count": 17,
       "licensing_status": "licensed"
     },
     {
@@ -9548,8 +9627,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -10745,8 +10830,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -12758,8 +12849,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13183,8 +13280,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13198,8 +13301,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13470,8 +13579,14 @@
         "Creationism",
         "Intelligent Design"
       ],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unknown"
     },
     {
@@ -14643,8 +14758,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -14854,6 +14975,11 @@
           "section": "articles",
           "title": "The Shape of Humanity",
           "path": "/articles/the-shape-of-humanity/"
+        },
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
         },
         {
           "section": "articles",
@@ -15136,7 +15262,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 71,
+      "cite_count": 72,
       "licensing_status": "licensed"
     },
     {
@@ -15515,8 +15641,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -15839,8 +15971,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -15854,8 +15992,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -15923,9 +16067,14 @@
           "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
+        },
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unknown"
     },
     {
@@ -16770,8 +16919,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -17615,8 +17770,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -17997,8 +18158,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -18862,8 +19029,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {

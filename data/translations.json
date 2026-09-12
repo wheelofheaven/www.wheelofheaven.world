@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-08-30T10:03:54+00:00",
-    "count": 1168
+    "generated_at": "2026-09-01T20:03:08+00:00",
+    "count": 1167
   },
   "paths": {
     "AGENTS": [
@@ -178,6 +178,18 @@
       "zh",
       "zh-Hant"
     ],
+    "articles/the-rain-over-helicon": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "articles/the-religion-of-religions": [
       "de",
       "en",
@@ -218,7 +230,16 @@
       "zh-Hant"
     ],
     "articles/the-signature-and-the-designers": [
-      "en"
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "articles/the-translators-wager": [
       "de",
@@ -2181,30 +2202,6 @@
       "zh-Hant"
     ],
     "sources/aliens-adored": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "he",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
-    "sources/aliens-adored-ra-l-s-ufo-religion": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "he",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
-    "sources/aliens-adored-ra-l-s-ufo-religion-the-standard-academic-study-of-ra-lism-notes-s": [
       "de",
       "en",
       "es",

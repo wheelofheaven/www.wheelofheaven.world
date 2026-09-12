@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T08:32:56+00:00",
+  "generated_at": "2026-09-01T20:03:08+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -648,8 +648,14 @@
     },
     {
       "id": "animadversions-of-a-synthetic-chemist-inference-international-review-of-science-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "annales-veteris-testamenti",
@@ -1478,8 +1484,14 @@
     },
     {
       "id": "creationism-s-trojan-horse-the-wedge-of-intelligent-design-the-political-religio",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "creators-the-past",
@@ -1638,18 +1650,36 @@
     },
     {
       "id": "darwin-on-trial-the-legal-philosophical-launch-of-the-modern-movement-darwinism-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "darwin-s-black-box-the-biochemical-challenge-to-evolution-irreducible-complexity",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "darwin-s-doubt-the-explosive-origin-of-animal-life-and-the-case-for-intelligent-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "otto-hangende-dach",
@@ -1751,12 +1781,17 @@
       "id": "design-and-synthesis-of-a-minimal-bacterial-genome",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "deterministic-nonperiodic-flow",
@@ -1875,8 +1910,14 @@
     },
     {
       "id": "dialogues-concerning-natural-religion-the-foundational-critique-the-inferred-des",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "dictionary-of-deities-and-demons-in-the-bible-2nd-ed-the-standard-reference-entr",
@@ -1934,12 +1975,17 @@
       "id": "crick-orgel-directed-panspermia",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
           "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "meyers-discovering-eve",
@@ -2627,6 +2673,11 @@
         },
         {
           "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
+          "section": "articles",
           "title": "The Translator's Wager",
           "path": "/articles/the-translators-wager/"
         },
@@ -2731,7 +2782,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 30
+      "cite_count": 31
     },
     {
       "id": "ezekiel",
@@ -2855,8 +2906,14 @@
     },
     {
       "id": "finding-darwin-s-god-a-scientist-s-search-for-common-ground-between-god-and-evol",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "fingerprints-of-the-gods",
@@ -4168,6 +4225,11 @@
         },
         {
           "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
+          "section": "articles",
           "title": "The Translator's Wager",
           "path": "/articles/the-translators-wager/"
         },
@@ -4282,7 +4344,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 32
+      "cite_count": 33
     },
     {
       "id": "intelligent-life-in-the-universe-the-sagan-shklovsky-survey-that-gave-sendy-his-",
@@ -4367,8 +4429,14 @@
     },
     {
       "id": "is-genesis-history-the-young-earth-documentary-defending-genesis-as-literal-natu",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "is-god-a-space-alien-the-cosmology-of-the-ra-lian-church",
@@ -4699,8 +4767,14 @@
     },
     {
       "id": "kitzmiller-v-dover-area-school-district-400-f-supp-2d-707-m-d-pa-2005-judge-john",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "kitab-i-aqdas",
@@ -5309,6 +5383,11 @@
           "path": "/articles/the-shape-of-humanity/"
         },
         {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        },
+        {
           "section": "wiki",
           "title": "Ancient Astronaut Hypothesis",
           "path": "/wiki/ancient-astronaut-hypothesis/"
@@ -5379,7 +5458,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 16
+      "cite_count": 17
     },
     {
       "id": "nickell-levengood-skeptical-inquirer-1996",
@@ -5415,8 +5494,14 @@
     },
     {
       "id": "life-itself-its-origin-and-nature-the-book-length-development-of-directed-panspe",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "hoyle-wickramasinghe-lifecloud",
@@ -6033,8 +6118,14 @@
     },
     {
       "id": "natural-theology-or-evidences-of-the-existence-and-attributes-of-the-deity-the-w",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "naturales-quaestiones-3-29-1-berossus-s-doctrine-the-world-burns-when-the-planet",
@@ -7044,8 +7135,14 @@
     },
     {
       "id": "return-of-the-god-hypothesis-three-scientific-discoveries-that-reveal-the-mind-b",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "revelation",
@@ -7256,13 +7353,25 @@
     },
     {
       "id": "scientific-creationism-the-classic-attempt-to-present-young-earth-creationism-as",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "scientific-creationism-a-study-of-the-ra-lian-church-in-christopher-partridge-ed",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "sefaria",
@@ -7405,8 +7514,14 @@
     },
     {
       "id": "signature-in-the-cell",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "silvio-gesell-an-introduction-to-gesellian-economics-great-money-reformers-no-i-",
@@ -8000,8 +8115,14 @@
     },
     {
       "id": "the-blind-watchmaker-why-the-evidence-of-evolution-reveals-a-universe-without-de",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-bodies-of-god-and-the-world-of-ancient-israel",
@@ -8135,6 +8256,11 @@
           "section": "articles",
           "title": "The Shape of Humanity",
           "path": "/articles/the-shape-of-humanity/"
+        },
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
         },
         {
           "section": "articles",
@@ -8417,7 +8543,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 71
+      "cite_count": 72
     },
     {
       "id": "the-books-of-enoch-aramaic-fragments-of-qumr-n-cave-4-the-edition-that-proved-1-",
@@ -8616,8 +8742,14 @@
     },
     {
       "id": "the-creator-and-the-cosmos-how-the-latest-scientific-discoveries-reveal-god-the-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "banks-culture-series",
@@ -8781,13 +8913,25 @@
     },
     {
       "id": "the-deniable-darwin-other-essays-the-useful-islands-argument-the-dixie-cup-illus",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-design-inference-eliminating-chance-through-small-probabilities-2nd-ed-speci",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "russell-devil-antiquity",
@@ -8812,9 +8956,14 @@
           "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
+        },
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "stephenson-diamond-age",
@@ -9269,8 +9418,14 @@
     },
     {
       "id": "the-genesis-flood-the-biblical-record-and-its-scientific-implications-the-founda",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "heidel-gilgamesh-ot",
@@ -9667,8 +9822,14 @@
     },
     {
       "id": "the-language-of-god-a-scientist-presents-evidence-for-belief-theistic-evolution-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-life-of-muhammad-a-translation-of-ibn-is-q-s-s-rat-ras-l-all-h",
@@ -9851,8 +10012,14 @@
     },
     {
       "id": "the-mystery-of-life-s-origin-the-continuing-controversy-expanded-ed-the-classic-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-myth-of-a-sumerian-12th-planet-nibiru-according-to-the-cuneiform-sources",
@@ -10340,8 +10507,14 @@
     },
     {
       "id": "the-privileged-planet-how-our-place-in-the-cosmos-is-designed-for-discovery-the-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Signature and the Designers",
+          "path": "/articles/the-signature-and-the-designers/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "prose-edda",
