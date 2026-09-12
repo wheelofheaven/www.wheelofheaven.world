@@ -1,0 +1,21 @@
+{
+  "id": "broca-s-brain-reflections-on-the-romance-of-science",
+  "title": "Broca’s Brain: Reflections on the Romance of Science",
+  "authored_by": [
+    "Carl Sagan"
+  ],
+  "publish_date": "1979",
+  "follow_url": "",
+  "description": "Contains the chapter on the Dogon-Sirius controversy that questioned the diffusionist origin of the Nommo astronomical claims.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

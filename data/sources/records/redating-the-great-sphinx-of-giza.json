@@ -1,0 +1,31 @@
+{
+  "id": "redating-the-great-sphinx-of-giza",
+  "title": "Redating the Great Sphinx of Giza",
+  "authored_by": [
+    "Robert M. Schoch"
+  ],
+  "publish_date": "1992",
+  "follow_url": "",
+  "description": "",
+  "medium": "academic-paper",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Taurus",
+      "path": "/timeline/age-of-taurus/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Sphinx",
+      "path": "/wiki/great-sphinx/"
+    },
+    {
+      "section": "wiki",
+      "title": "John Anthony West",
+      "path": "/wiki/john-anthony-west/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

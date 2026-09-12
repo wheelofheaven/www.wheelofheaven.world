@@ -1,0 +1,31 @@
+{
+  "id": "the-fractal-geometry-of-nature",
+  "title": "The Fractal Geometry of Nature",
+  "authored_by": [
+    "Benoît Mandelbrot"
+  ],
+  "publish_date": "1982",
+  "follow_url": "",
+  "description": "Mathematical foundation referenced in §I for the fractal-cosmology claim.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Infinite in Both Directions",
+      "path": "/articles/the-infinite-in-both-directions/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    },
+    {
+      "section": "timeline",
+      "title": "The Wheel Keeps Turning",
+      "path": "/timeline/the-wheel-keeps-turning/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

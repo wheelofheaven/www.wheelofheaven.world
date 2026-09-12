@@ -1,0 +1,25 @@
+{
+  "id": "benyus-biomimicry",
+  "title": "Biomimicry: Innovation Inspired by Nature",
+  "authored_by": [
+    "Janine M. Benyus"
+  ],
+  "publish_date": "1997",
+  "follow_url": "https://biomimicry.org/janine-benyus/",
+  "description": "Benyus's principal articulation of biomimicry as design methodology drawing on natural systems. The substantial subsequent design-tradition operates as one of the principal architectural-design lineages feeding Cyberparadist visual vocabulary.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Science",
+    "Architecture"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

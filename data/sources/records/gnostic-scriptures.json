@@ -1,0 +1,26 @@
+{
+  "id": "gnostic-scriptures",
+  "title": "The Gnostic Scriptures",
+  "authored_by": [
+    "Bentley Layton"
+  ],
+  "publish_date": "1987",
+  "follow_url": "https://www.penguinrandomhouse.com/books/289264/the-gnostic-scriptures-by-bentley-layton/",
+  "description": "Bentley Layton's 1987 annotated translation of the principal Gnostic texts, a standard scholarly edition of the Sethian, Valentinian, and related materials including the Serpent-reversal traditions. A principal reference for the Ophite reading the corpus partially aligns with on the Serpent.",
+  "medium": "religious-text",
+  "topics": [
+    "Gnosticism",
+    "Serpent",
+    "Sethians",
+    "Ophites"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

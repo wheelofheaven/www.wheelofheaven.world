@@ -1,0 +1,66 @@
+{
+  "id": "deuteronomy",
+  "title": "Deuteronomy",
+  "authored_by": [
+    "Anonymous (Deuteronomistic source)"
+  ],
+  "publish_date": "c. 7th c. BCE",
+  "follow_url": "",
+  "description": "Fifth book of the Pentateuch — Moses's farewell discourses on the eve of the Israelite entry into Canaan. Cited in the corpus principally for the Shema (Deut 6:4), the divine-council/Most-High distribution-of-nations passage (Deut 32:8–9), and the death-of-Moses account (Deut 34).",
+  "medium": "religious-text",
+  "topics": [
+    "Hebrew Bible",
+    "Pentateuch",
+    "Divine Council",
+    "Moses"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "wiki",
+      "title": "Dead Sea Scrolls",
+      "path": "/wiki/dead-sea-scrolls/"
+    },
+    {
+      "section": "wiki",
+      "title": "Idolatry",
+      "path": "/wiki/idolatry/"
+    },
+    {
+      "section": "wiki",
+      "title": "Monotheism",
+      "path": "/wiki/monotheism/"
+    },
+    {
+      "section": "wiki",
+      "title": "Moses",
+      "path": "/wiki/moses/"
+    }
+  ],
+  "cite_count": 9,
+  "licensing_status": "unverified"
+}

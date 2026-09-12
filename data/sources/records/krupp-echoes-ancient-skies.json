@@ -1,0 +1,29 @@
+{
+  "id": "krupp-echoes-ancient-skies",
+  "title": "Echoes of the Ancient Skies: The Astronomy of Lost Civilizations",
+  "authored_by": [
+    "E. C. Krupp"
+  ],
+  "publish_date": "1983",
+  "follow_url": "https://www.harpercollins.com/",
+  "description": "Krupp's principal accessible survey of ancient archaeoastronomy across cultures.",
+  "medium": "academic-paper",
+  "topics": [
+    "Precession",
+    "Archaeoastronomy"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Jane Sellers",
+      "path": "/wiki/jane-sellers/"
+    },
+    {
+      "section": "wiki",
+      "title": "Orion Correlation",
+      "path": "/wiki/orion-correlation/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

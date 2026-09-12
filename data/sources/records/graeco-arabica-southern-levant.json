@@ -1,0 +1,26 @@
+{
+  "id": "graeco-arabica-southern-levant",
+  "title": "Graeco-Arabica I: The Southern Levant",
+  "authored_by": [
+    "Ahmad al-Jallad"
+  ],
+  "publish_date": "2017",
+  "follow_url": "https://doi.org/10.1163/9789004343047_006",
+  "description": "Epigraphic study of pre-Islamic Arabic in the southern Levant; the foundation for the argument that the Nabataeans' Aramaic script 'casts a clear Arabic shadow' behind Qur'anic Arabic.",
+  "medium": "academic-paper",
+  "topics": [
+    "Nabataeans",
+    "Arabic",
+    "Epigraphy",
+    "Linguistics"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

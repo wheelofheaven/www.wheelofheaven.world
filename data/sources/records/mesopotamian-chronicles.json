@@ -1,0 +1,31 @@
+{
+  "id": "mesopotamian-chronicles",
+  "title": "Mesopotamian Chronicles",
+  "authored_by": [
+    "Jean-Jacques Glassner"
+  ],
+  "publish_date": "2004",
+  "follow_url": "https://www.sbl-site.org/publications/Books_WAW.aspx",
+  "description": "Jean-Jacques Glassner's 2004 critical edition and translation (Society of Biblical Literature) of the Mesopotamian chronicle tradition, including the Sumerian King List in its various recensions. The Sumerian King List records a sequence of pre-Flood kings with reigns of extraordinary length — Alulim at 28,800 years, Alalngar at 36,000 years, and others — interrupted by the Flood, after which reign-lengths drop sharply. The structural parallel to Genesis 5 (ten antediluvian patriarchs with vast lifespans ending in the Flood) is among the most discussed parallels in comparative ancient Near Eastern literature.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Antediluvian",
+    "Sumerian King List",
+    "Mesopotamian History",
+    "Chronicle Tradition"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Antediluvian",
+      "path": "/wiki/antediluvian/"
+    },
+    {
+      "section": "wiki",
+      "title": "Sumerian King List",
+      "path": "/wiki/sumerian-king-list/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "licensed"
+}

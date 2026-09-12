@@ -1,0 +1,44 @@
+{
+  "id": "vermes-dead-sea-scrolls",
+  "title": "The Complete Dead Sea Scrolls in English",
+  "authored_by": [
+    "Geza Vermes"
+  ],
+  "publish_date": "2004",
+  "follow_url": "https://www.penguinrandomhouse.com/",
+  "description": "Vermes's principal accessible English translation of the Dead Sea Scrolls corpus.",
+  "medium": "religious-text",
+  "topics": [
+    "Dead Sea Scrolls",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "wiki",
+      "title": "Dead Sea Scrolls",
+      "path": "/wiki/dead-sea-scrolls/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "unverified"
+}

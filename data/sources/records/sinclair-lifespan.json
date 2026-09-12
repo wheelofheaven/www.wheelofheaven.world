@@ -1,0 +1,27 @@
+{
+  "id": "sinclair-lifespan",
+  "title": "Lifespan: Why We Age — and Why We Don’t Have To",
+  "authored_by": [
+    "David A. Sinclair",
+    "Matthew D. LaPlante"
+  ],
+  "publish_date": "2019",
+  "follow_url": "https://lifespanbook.com/",
+  "description": "David A. Sinclair and Matthew D. LaPlante's 2019 Atria Books work — the principal accessible synthesis of the contemporary cellular-reprogramming and longevity-research trajectory, by the Harvard Medical School geneticist whose lab demonstrated partial reprogramming reversing markers of aging in mouse models. The corpus reads the contemporary research as developing in directions consistent with the framework's Tree of Life biotechnology claims.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Longevity",
+    "Cellular Reprogramming",
+    "Aging",
+    "Tree of Life"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

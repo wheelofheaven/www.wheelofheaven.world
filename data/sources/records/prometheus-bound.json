@@ -1,0 +1,31 @@
+{
+  "id": "prometheus-bound",
+  "title": "Prometheus Bound",
+  "authored_by": [
+    "Aeschylus"
+  ],
+  "publish_date": "-460",
+  "follow_url": "https://www.gutenberg.org/ebooks/27673",
+  "description": "Aeschylus's tragedy (c. 5th century BCE) presenting Prometheus as benefactor of humanity wrongly punished by a tyrannical Zeus for transmitting fire and the civilizational arts. The classical primary source for the Prometheus parallel the corpus reads as preserving fragmentary memory of the Lucifer-faction's knowledge-transmission role.",
+  "medium": "religious-text",
+  "topics": [
+    "Prometheus",
+    "Greek Tragedy",
+    "Culture Hero",
+    "Lucifer"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "public_domain"
+}

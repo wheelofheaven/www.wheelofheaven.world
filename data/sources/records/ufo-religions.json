@@ -1,0 +1,24 @@
+{
+  "id": "ufo-religions",
+  "title": "UFO Religions",
+  "authored_by": [
+    "Christopher Partridge (editor)"
+  ],
+  "publish_date": "2003",
+  "follow_url": "https://www.routledge.com/UFO-Religions/Partridge/p/book/9780415263238",
+  "description": "Edited collection covering the broad landscape of UFO-themed religious movements, including chapters on Raëlism, the Aetherius Society, the Unarius Academy, the Ashtar Command, the Order of the Solar Temple, and related groups. Routledge volume in the NRM-studies literature.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "UFO religions",
+    "New Religious Movements"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Religion of Religions",
+      "path": "/articles/the-religion-of-religions/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

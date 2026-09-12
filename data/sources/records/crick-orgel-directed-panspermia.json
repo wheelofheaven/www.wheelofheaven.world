@@ -1,0 +1,32 @@
+{
+  "id": "crick-orgel-directed-panspermia",
+  "title": "Directed Panspermia",
+  "authored_by": [
+    "Francis Crick",
+    "Leslie Orgel"
+  ],
+  "publish_date": "1973",
+  "follow_url": "https://www.sciencedirect.com/journal/icarus",
+  "description": "Francis Crick and Leslie Orgel's 1973 *Icarus* (19:3) paper proposing that life on Earth was deliberately seeded by an extraterrestrial intelligent civilization. Crick (Nobel-laureate co-discoverer of DNA structure) and Orgel advanced it as a serious scientific hypothesis addressing the universality of the genetic code and other features. The principal contemporary scientific framework overlapping with the Cosmic Chain's directed-creation premise.",
+  "medium": "academic-paper",
+  "topics": [
+    "Panspermia",
+    "Directed Panspermia",
+    "Origin of Life",
+    "Crick"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Signature and the Designers",
+      "path": "/articles/the-signature-and-the-designers/"
+    },
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "licensed"
+}

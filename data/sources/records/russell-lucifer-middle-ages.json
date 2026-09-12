@@ -1,0 +1,36 @@
+{
+  "id": "russell-lucifer-middle-ages",
+  "title": "Lucifer: The Devil in the Middle Ages",
+  "authored_by": [
+    "Jeffrey Burton Russell"
+  ],
+  "publish_date": "1984",
+  "follow_url": "https://www.cornellpress.cornell.edu/book/9780801494291/lucifer/",
+  "description": "Jeffrey Burton Russell's 1984 Cornell University Press volume — part of his four-volume history of the Devil concept, covering the medieval consolidation of the Lucifer figure. The standard scholarly account of how the patristic-medieval tradition fixed the cosmic-Lucifer synthesis the corpus's reading distinguishes from the underlying figures.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Lucifer",
+    "Devil",
+    "Medieval Theology",
+    "Satan"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "licensed"
+}

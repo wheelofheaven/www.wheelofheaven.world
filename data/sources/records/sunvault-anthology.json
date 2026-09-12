@@ -1,0 +1,26 @@
+{
+  "id": "sunvault-anthology",
+  "title": "Sunvault: Stories of Solarpunk and Eco-Speculation",
+  "authored_by": [
+    "Phoebe Wagner (ed.)",
+    "Brontë Christopher Wieland (ed.)"
+  ],
+  "publish_date": "2017",
+  "follow_url": "https://upperrubberboot.com/sunvault/",
+  "description": "Principal English-language Solarpunk anthology gathering substantial short-fiction articulations of the Solarpunk aesthetic. Closely-adjacent literary corpus to Cyberparadism.",
+  "medium": "fiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Fiction",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

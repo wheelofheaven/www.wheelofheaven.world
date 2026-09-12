@@ -1,0 +1,21 @@
+{
+  "id": "a-programmable-dual-rna-guided-dna-endonuclease-in-adaptive-bacterial-immunity",
+  "title": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+  "authored_by": [
+    "Martin Jinek, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Doudna, Emmanuelle Charpentier"
+  ],
+  "publish_date": "2012",
+  "follow_url": "https://www.science.org/doi/10.1126/science.1225829",
+  "description": "The foundational CRISPR-Cas9 paper that enabled the modern human-genetic-engineering era.",
+  "medium": "academic-paper",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Leo",
+      "path": "/timeline/age-of-leo/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

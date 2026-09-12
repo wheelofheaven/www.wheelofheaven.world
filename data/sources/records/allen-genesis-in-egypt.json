@@ -1,0 +1,26 @@
+{
+  "id": "allen-genesis-in-egypt",
+  "title": "Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts",
+  "authored_by": [
+    "James P. Allen"
+  ],
+  "publish_date": "1988",
+  "follow_url": "https://egyptology.yale.edu/",
+  "description": "James P. Allen's 1988 Yale Egyptological Studies treatment of Egyptian creation theology (Atum, Khnum-as-potter, the Memphite Theology). The standard scholarly source for the Egyptian first-human and creation-through-speech traditions the corpus reads comparatively against Genesis.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Egyptian Mythology",
+    "Creation",
+    "Khnum",
+    "Comparative Mythology"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fuller-spaceship-earth",
+  "title": "Operating Manual for Spaceship Earth",
+  "authored_by": [
+    "R. Buckminster Fuller"
+  ],
+  "publish_date": "1969",
+  "follow_url": "https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth",
+  "description": "Fuller's foundational articulation of Earth as a single-system spaceship, with the substantial geodesic-architectural tradition and the substantial efficiency-maximisation ethic that the Cyberparadism Manifesto references explicitly.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Science",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

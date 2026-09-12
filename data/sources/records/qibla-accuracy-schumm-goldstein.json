@@ -1,0 +1,27 @@
+{
+  "id": "qibla-accuracy-schumm-goldstein",
+  "title": "How Accurately Could Early (622–900 CE) Muslims Determine the Direction of Prayers (Qibla)?",
+  "authored_by": [
+    "Walter R. Schumm",
+    "Zvi Goldstein"
+  ],
+  "publish_date": "2021",
+  "follow_url": "",
+  "description": "Peer-reviewed statistical analysis of Gibson's early-mosque qibla data, concluding that under Gibson's assumptions the orientations are consistent with intentional aiming at Petra, with error growing with distance from the target.",
+  "medium": "academic-paper",
+  "topics": [
+    "Qibla",
+    "Petra",
+    "Islamic Origins",
+    "Statistics"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

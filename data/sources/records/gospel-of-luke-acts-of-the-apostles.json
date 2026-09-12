@@ -1,0 +1,26 @@
+{
+  "id": "gospel-of-luke-acts-of-the-apostles",
+  "title": "Gospel of Luke / Acts of the Apostles",
+  "authored_by": [
+    "Anonymous (attributed to Luke)"
+  ],
+  "publish_date": "c. 80–90 CE",
+  "follow_url": "",
+  "description": "",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

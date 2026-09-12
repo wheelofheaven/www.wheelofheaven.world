@@ -1,0 +1,30 @@
+{
+  "id": "cassuto-genesis",
+  "title": "A Commentary on the Book of Genesis",
+  "authored_by": [
+    "Umberto Cassuto"
+  ],
+  "publish_date": "1961",
+  "follow_url": "https://www.magnespress.co.il/",
+  "description": "Cassuto's foundational Jewish-scholarly commentary on Genesis, principal counter-articulation against documentary-hypothesis fragmentation.",
+  "medium": "academic-paper",
+  "topics": [
+    "Eden",
+    "Genesis",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

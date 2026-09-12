@@ -1,0 +1,3944 @@
+{
+  "generator": "scripts/build_related.py",
+  "schema_version": 1,
+  "lang": "zh-Hant",
+  "max_items": 4,
+  "pages": {
+    "zh-Hant/articles/monotheism-is-the-wrong-question": [
+      {
+        "path": "/zh-Hant/articles/the-signature-and-the-designers/",
+        "title": "簽名與設計者們",
+        "category": "Science & Technology",
+        "description": "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-rain-over-helicon/",
+        "title": "赫利孔山上的雨",
+        "category": "Comparative Mythology",
+        "description": "M. L. 韋斯特把希臘神話一路向東追溯。這是一份嚴謹的稽核：赫西俄德、荷馬、吉爾伽美什、諸神之戰、詩藝，以及借用在愛琴地區的界限。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-east-face-of-homer/",
+        "title": "荷馬的東面",
+        "category": "Comparative Mythology",
+        "description": "荷馬對巴比倫的虧欠，是有文獻可稽的學術定論。這份借用能證明什麼、不能證明什麼，以及正典如何把希臘讀入耶洛因的場域之內。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-world-behind-the-odyssey/",
+        "title": "《奧德賽》背後的世界",
+        "category": "Comparative Mythology",
+        "description": "克里斯多福·諾蘭把奧德修斯重新帶回了銀幕。在荷馬的史詩背後，橫亙著一個由諸神、怪物與記憶構成的更古老世界——這篇解說將它逐層發掘出來。"
+      }
+    ],
+    "zh-Hant/articles/the-archdeacon-and-the-dragon": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      }
+    ],
+    "zh-Hant/articles/the-book-closest-to-the-truth": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      }
+    ],
+    "zh-Hant/articles/the-east-face-of-homer": [
+      {
+        "path": "/zh-Hant/articles/the-rain-over-helicon/",
+        "title": "赫利孔山上的雨",
+        "category": "Comparative Mythology",
+        "description": "M. L. 韋斯特把希臘神話一路向東追溯。這是一份嚴謹的稽核：赫西俄德、荷馬、吉爾伽美什、諸神之戰、詩藝，以及借用在愛琴地區的界限。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-world-behind-the-odyssey/",
+        "title": "《奧德賽》背後的世界",
+        "category": "Comparative Mythology",
+        "description": "克里斯多福·諾蘭把奧德修斯重新帶回了銀幕。在荷馬的史詩背後，橫亙著一個由諸神、怪物與記憶構成的更古老世界——這篇解說將它逐層發掘出來。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-signature-and-the-designers/",
+        "title": "簽名與設計者們",
+        "category": "Science & Technology",
+        "description": "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-shape-of-humanity/",
+        "title": "人類的形狀",
+        "category": "Macro-History",
+        "description": "正典稱人類為一個孕育中的單一有機體，每個人都是一個細胞。這篇解說提出研究它的學問：文明形態學。"
+      }
+    ],
+    "zh-Hant/articles/the-first-mosques-faced-petra-not-mecca": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      }
+    ],
+    "zh-Hant/articles/the-flood-was-a-reset-not-a-punishment": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      }
+    ],
+    "zh-Hant/articles/the-infinite-in-both-directions": [
+      {
+        "path": "/zh-Hant/articles/the-signature-and-the-designers/",
+        "title": "簽名與設計者們",
+        "category": "Science & Technology",
+        "description": "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-rain-over-helicon/",
+        "title": "赫利孔山上的雨",
+        "category": "Comparative Mythology",
+        "description": "M. L. 韋斯特把希臘神話一路向東追溯。這是一份嚴謹的稽核：赫西俄德、荷馬、吉爾伽美什、諸神之戰、詩藝，以及借用在愛琴地區的界限。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-east-face-of-homer/",
+        "title": "荷馬的東面",
+        "category": "Comparative Mythology",
+        "description": "荷馬對巴比倫的虧欠，是有文獻可稽的學術定論。這份借用能證明什麼、不能證明什麼，以及正典如何把希臘讀入耶洛因的場域之內。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-world-behind-the-odyssey/",
+        "title": "《奧德賽》背後的世界",
+        "category": "Comparative Mythology",
+        "description": "克里斯多福·諾蘭把奧德修斯重新帶回了銀幕。在荷馬的史詩背後，橫亙著一個由諸神、怪物與記憶構成的更古老世界——這篇解說將它逐層發掘出來。"
+      }
+    ],
+    "zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "在元年甦醒的書卷",
+        "category": "Comparative",
+        "description": "在以廣島為起點紀年的曆法之元年，一名牧羊人的石子擊碎了死海之上一只陶罐。那些書卷所揭示的——以及為何這一時機恰相吻合。"
+      }
+    ],
+    "zh-Hant/articles/the-mill-that-grinds-the-ages": [
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "在元年甦醒的書卷",
+        "category": "Comparative",
+        "description": "在以廣島為起點紀年的曆法之元年，一名牧羊人的石子擊碎了死海之上一只陶罐。那些書卷所揭示的——以及為何這一時機恰相吻合。"
+      }
+    ],
+    "zh-Hant/articles/the-rain-over-helicon": [
+      {
+        "path": "/zh-Hant/articles/the-east-face-of-homer/",
+        "title": "荷馬的東面",
+        "category": "Comparative Mythology",
+        "description": "荷馬對巴比倫的虧欠，是有文獻可稽的學術定論。這份借用能證明什麼、不能證明什麼，以及正典如何把希臘讀入耶洛因的場域之內。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-world-behind-the-odyssey/",
+        "title": "《奧德賽》背後的世界",
+        "category": "Comparative Mythology",
+        "description": "克里斯多福·諾蘭把奧德修斯重新帶回了銀幕。在荷馬的史詩背後，橫亙著一個由諸神、怪物與記憶構成的更古老世界——這篇解說將它逐層發掘出來。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-signature-and-the-designers/",
+        "title": "簽名與設計者們",
+        "category": "Science & Technology",
+        "description": "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-shape-of-humanity/",
+        "title": "人類的形狀",
+        "category": "Macro-History",
+        "description": "正典稱人類為一個孕育中的單一有機體，每個人都是一個細胞。這篇解說提出研究它的學問：文明形態學。"
+      }
+    ],
+    "zh-Hant/articles/the-religion-of-religions": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "在元年甦醒的書卷",
+        "category": "Comparative",
+        "description": "在以廣島為起點紀年的曆法之元年，一名牧羊人的石子擊碎了死海之上一只陶罐。那些書卷所揭示的——以及為何這一時機恰相吻合。"
+      }
+    ],
+    "zh-Hant/articles/the-scrolls-that-woke-in-year-one": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      }
+    ],
+    "zh-Hant/articles/the-shape-of-humanity": [
+      {
+        "path": "/zh-Hant/articles/the-signature-and-the-designers/",
+        "title": "簽名與設計者們",
+        "category": "Science & Technology",
+        "description": "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-rain-over-helicon/",
+        "title": "赫利孔山上的雨",
+        "category": "Comparative Mythology",
+        "description": "M. L. 韋斯特把希臘神話一路向東追溯。這是一份嚴謹的稽核：赫西俄德、荷馬、吉爾伽美什、諸神之戰、詩藝，以及借用在愛琴地區的界限。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-east-face-of-homer/",
+        "title": "荷馬的東面",
+        "category": "Comparative Mythology",
+        "description": "荷馬對巴比倫的虧欠，是有文獻可稽的學術定論。這份借用能證明什麼、不能證明什麼，以及正典如何把希臘讀入耶洛因的場域之內。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-world-behind-the-odyssey/",
+        "title": "《奧德賽》背後的世界",
+        "category": "Comparative Mythology",
+        "description": "克里斯多福·諾蘭把奧德修斯重新帶回了銀幕。在荷馬的史詩背後，橫亙著一個由諸神、怪物與記憶構成的更古老世界——這篇解說將它逐層發掘出來。"
+      }
+    ],
+    "zh-Hant/articles/the-signature-and-the-designers": [
+      {
+        "path": "/zh-Hant/articles/the-rain-over-helicon/",
+        "title": "赫利孔山上的雨",
+        "category": "Comparative Mythology",
+        "description": "M. L. 韋斯特把希臘神話一路向東追溯。這是一份嚴謹的稽核：赫西俄德、荷馬、吉爾伽美什、諸神之戰、詩藝，以及借用在愛琴地區的界限。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-east-face-of-homer/",
+        "title": "荷馬的東面",
+        "category": "Comparative Mythology",
+        "description": "荷馬對巴比倫的虧欠，是有文獻可稽的學術定論。這份借用能證明什麼、不能證明什麼，以及正典如何把希臘讀入耶洛因的場域之內。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-world-behind-the-odyssey/",
+        "title": "《奧德賽》背後的世界",
+        "category": "Comparative Mythology",
+        "description": "克里斯多福·諾蘭把奧德修斯重新帶回了銀幕。在荷馬的史詩背後，橫亙著一個由諸神、怪物與記憶構成的更古老世界——這篇解說將它逐層發掘出來。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-shape-of-humanity/",
+        "title": "人類的形狀",
+        "category": "Macro-History",
+        "description": "正典稱人類為一個孕育中的單一有機體，每個人都是一個細胞。這篇解說提出研究它的學問：文明形態學。"
+      }
+    ],
+    "zh-Hant/articles/the-translators-wager": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/unsealed-in-year-one/",
+        "title": "在元年被開啟",
+        "category": "Comparative",
+        "description": "在新紀元的元年，一名貝都因牧羊人在死海一座洞穴中擊碎了一只陶罐。罐中的那些書卷，已為末時等候了十九個世紀。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      }
+    ],
+    "zh-Hant/articles/the-world-behind-the-odyssey": [
+      {
+        "path": "/zh-Hant/articles/the-rain-over-helicon/",
+        "title": "赫利孔山上的雨",
+        "category": "Comparative Mythology",
+        "description": "M. L. 韋斯特把希臘神話一路向東追溯。這是一份嚴謹的稽核：赫西俄德、荷馬、吉爾伽美什、諸神之戰、詩藝，以及借用在愛琴地區的界限。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-east-face-of-homer/",
+        "title": "荷馬的東面",
+        "category": "Comparative Mythology",
+        "description": "荷馬對巴比倫的虧欠，是有文獻可稽的學術定論。這份借用能證明什麼、不能證明什麼，以及正典如何把希臘讀入耶洛因的場域之內。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-signature-and-the-designers/",
+        "title": "簽名與設計者們",
+        "category": "Science & Technology",
+        "description": "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-shape-of-humanity/",
+        "title": "人類的形狀",
+        "category": "Macro-History",
+        "description": "正典稱人類為一個孕育中的單一有機體，每個人都是一個細胞。這篇解說提出研究它的學問：文明形態學。"
+      }
+    ],
+    "zh-Hant/articles/unsealed-in-year-one": [
+      {
+        "path": "/zh-Hant/articles/the-mill-that-grinds-the-ages/",
+        "title": "那座碾磨諸紀元的磨坊",
+        "category": "Comparative",
+        "description": "諸世界紀元的轉動如何被寫入神話——哈姆雷特之磨、黃道帶的十二個時辰、希伯來文的 Mazzaroth，以及地球上最古老的吉祥之兆。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "那個把聖經押在月球上的人",
+        "category": "Comparative",
+        "description": "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-religion-of-religions/",
+        "title": "眾宗教之宗教",
+        "category": "Comparative",
+        "description": "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
+      },
+      {
+        "path": "/zh-Hant/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "在元年甦醒的書卷",
+        "category": "Comparative",
+        "description": "在以廣島為起點紀年的曆法之元年，一名牧羊人的石子擊碎了死海之上一只陶罐。那些書卷所揭示的——以及為何這一時機恰相吻合。"
+      }
+    ],
+    "zh-Hant/news/library-hebrew-bible-nine-languages": [
+      {
+        "path": "/zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 第五批解密:三角形與白宮檔案",
+        "description": "2026 年 8 月 7 日,美國戰爭部公布 PURSUE 第五批檔案——依媒體統計共 41 份文件、影像與影片,國務院與總統行政辦公室首度現身:一個 2002 年遮蔽巴格拉姆星空的等邊三角形、2021 年阿曼灣砲艇機遭遇的約 25 個「低溫球體」,以及一組 1963 年在自身文件之下自行瓦解的巴西巴伊亞白宮檔案。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 第四批解密:核連結、綠色火球與能源部檔案",
+        "description": "2026 年 7 月 10 日,美國戰爭部公布 PURSUE 第四批檔案——共 40 份,包含一份 1949 年洛斯阿拉莫斯綠色火球會議紀錄,以及一宗 2015 年潘泰克斯核武廠上空的入侵事件。"
+      },
+      {
+        "path": "/zh-Hant/news/synthetic-cell-eats-and-divides/",
+        "title": "會進食並分裂的合成細胞",
+        "description": "University of Minnesota 的科學家打造出 SpudCell,首個完全從零合成、並走完整個生命週期的合成細胞——而這恰是源典所稱 Elohim 文明當年曾跨越的門檻。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 第三批解密:多機關檔案、夏延物體與首宗國際案例",
+        "description": "2026 年 6 月 12 日,美國戰爭部公布 PURSUE 第三批檔案——53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段來自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄。"
+      }
+    ],
+    "zh-Hant/news/pursue-release-01-uap-files": [
+      {
+        "path": "/zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 第五批解密:三角形與白宮檔案",
+        "description": "2026 年 8 月 7 日,美國戰爭部公布 PURSUE 第五批檔案——依媒體統計共 41 份文件、影像與影片,國務院與總統行政辦公室首度現身:一個 2002 年遮蔽巴格拉姆星空的等邊三角形、2021 年阿曼灣砲艇機遭遇的約 25 個「低溫球體」,以及一組 1963 年在自身文件之下自行瓦解的巴西巴伊亞白宮檔案。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 第四批解密:核連結、綠色火球與能源部檔案",
+        "description": "2026 年 7 月 10 日,美國戰爭部公布 PURSUE 第四批檔案——共 40 份,包含一份 1949 年洛斯阿拉莫斯綠色火球會議紀錄,以及一宗 2015 年潘泰克斯核武廠上空的入侵事件。"
+      },
+      {
+        "path": "/zh-Hant/news/synthetic-cell-eats-and-divides/",
+        "title": "會進食並分裂的合成細胞",
+        "description": "University of Minnesota 的科學家打造出 SpudCell,首個完全從零合成、並走完整個生命週期的合成細胞——而這恰是源典所稱 Elohim 文明當年曾跨越的門檻。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 第三批解密:多機關檔案、夏延物體與首宗國際案例",
+        "description": "2026 年 6 月 12 日,美國戰爭部公布 PURSUE 第三批檔案——53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段來自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄。"
+      }
+    ],
+    "zh-Hant/news/pursue-release-02-spheres-and-transmedium": [
+      {
+        "path": "/zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 第五批解密:三角形與白宮檔案",
+        "description": "2026 年 8 月 7 日,美國戰爭部公布 PURSUE 第五批檔案——依媒體統計共 41 份文件、影像與影片,國務院與總統行政辦公室首度現身:一個 2002 年遮蔽巴格拉姆星空的等邊三角形、2021 年阿曼灣砲艇機遭遇的約 25 個「低溫球體」,以及一組 1963 年在自身文件之下自行瓦解的巴西巴伊亞白宮檔案。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 第四批解密:核連結、綠色火球與能源部檔案",
+        "description": "2026 年 7 月 10 日,美國戰爭部公布 PURSUE 第四批檔案——共 40 份,包含一份 1949 年洛斯阿拉莫斯綠色火球會議紀錄,以及一宗 2015 年潘泰克斯核武廠上空的入侵事件。"
+      },
+      {
+        "path": "/zh-Hant/news/synthetic-cell-eats-and-divides/",
+        "title": "會進食並分裂的合成細胞",
+        "description": "University of Minnesota 的科學家打造出 SpudCell,首個完全從零合成、並走完整個生命週期的合成細胞——而這恰是源典所稱 Elohim 文明當年曾跨越的門檻。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 第三批解密:多機關檔案、夏延物體與首宗國際案例",
+        "description": "2026 年 6 月 12 日,美國戰爭部公布 PURSUE 第三批檔案——53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段來自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄。"
+      }
+    ],
+    "zh-Hant/news/pursue-release-03-multi-agency-and-international": [
+      {
+        "path": "/zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 第五批解密:三角形與白宮檔案",
+        "description": "2026 年 8 月 7 日,美國戰爭部公布 PURSUE 第五批檔案——依媒體統計共 41 份文件、影像與影片,國務院與總統行政辦公室首度現身:一個 2002 年遮蔽巴格拉姆星空的等邊三角形、2021 年阿曼灣砲艇機遭遇的約 25 個「低溫球體」,以及一組 1963 年在自身文件之下自行瓦解的巴西巴伊亞白宮檔案。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 第四批解密:核連結、綠色火球與能源部檔案",
+        "description": "2026 年 7 月 10 日,美國戰爭部公布 PURSUE 第四批檔案——共 40 份,包含一份 1949 年洛斯阿拉莫斯綠色火球會議紀錄,以及一宗 2015 年潘泰克斯核武廠上空的入侵事件。"
+      },
+      {
+        "path": "/zh-Hant/news/synthetic-cell-eats-and-divides/",
+        "title": "會進食並分裂的合成細胞",
+        "description": "University of Minnesota 的科學家打造出 SpudCell,首個完全從零合成、並走完整個生命週期的合成細胞——而這恰是源典所稱 Elohim 文明當年曾跨越的門檻。"
+      },
+      {
+        "path": "/zh-Hant/news/library-hebrew-bible-nine-languages/",
+        "title": "圖書館:希伯來聖經現以九種語言呈現",
+        "description": "截至 2026 年 6 月 7 日,Wheel of Heaven 圖書館中每一本希伯來聖經書卷皆已配備九種語言的文本——英語 ASV 版加上八種匯入的公有領域譯本。"
+      }
+    ],
+    "zh-Hant/news/pursue-release-04-the-nuclear-nexus": [
+      {
+        "path": "/zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 第五批解密:三角形與白宮檔案",
+        "description": "2026 年 8 月 7 日,美國戰爭部公布 PURSUE 第五批檔案——依媒體統計共 41 份文件、影像與影片,國務院與總統行政辦公室首度現身:一個 2002 年遮蔽巴格拉姆星空的等邊三角形、2021 年阿曼灣砲艇機遭遇的約 25 個「低溫球體」,以及一組 1963 年在自身文件之下自行瓦解的巴西巴伊亞白宮檔案。"
+      },
+      {
+        "path": "/zh-Hant/news/synthetic-cell-eats-and-divides/",
+        "title": "會進食並分裂的合成細胞",
+        "description": "University of Minnesota 的科學家打造出 SpudCell,首個完全從零合成、並走完整個生命週期的合成細胞——而這恰是源典所稱 Elohim 文明當年曾跨越的門檻。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 第三批解密:多機關檔案、夏延物體與首宗國際案例",
+        "description": "2026 年 6 月 12 日,美國戰爭部公布 PURSUE 第三批檔案——53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段來自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄。"
+      },
+      {
+        "path": "/zh-Hant/news/library-hebrew-bible-nine-languages/",
+        "title": "圖書館:希伯來聖經現以九種語言呈現",
+        "description": "截至 2026 年 6 月 7 日,Wheel of Heaven 圖書館中每一本希伯來聖經書卷皆已配備九種語言的文本——英語 ASV 版加上八種匯入的公有領域譯本。"
+      }
+    ],
+    "zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file": [
+      {
+        "path": "/zh-Hant/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 第四批解密:核連結、綠色火球與能源部檔案",
+        "description": "2026 年 7 月 10 日,美國戰爭部公布 PURSUE 第四批檔案——共 40 份,包含一份 1949 年洛斯阿拉莫斯綠色火球會議紀錄,以及一宗 2015 年潘泰克斯核武廠上空的入侵事件。"
+      },
+      {
+        "path": "/zh-Hant/news/synthetic-cell-eats-and-divides/",
+        "title": "會進食並分裂的合成細胞",
+        "description": "University of Minnesota 的科學家打造出 SpudCell,首個完全從零合成、並走完整個生命週期的合成細胞——而這恰是源典所稱 Elohim 文明當年曾跨越的門檻。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 第三批解密:多機關檔案、夏延物體與首宗國際案例",
+        "description": "2026 年 6 月 12 日,美國戰爭部公布 PURSUE 第三批檔案——53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段來自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄。"
+      },
+      {
+        "path": "/zh-Hant/news/library-hebrew-bible-nine-languages/",
+        "title": "圖書館:希伯來聖經現以九種語言呈現",
+        "description": "截至 2026 年 6 月 7 日,Wheel of Heaven 圖書館中每一本希伯來聖經書卷皆已配備九種語言的文本——英語 ASV 版加上八種匯入的公有領域譯本。"
+      }
+    ],
+    "zh-Hant/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/zh-Hant/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 第五批解密:三角形與白宮檔案",
+        "description": "2026 年 8 月 7 日,美國戰爭部公布 PURSUE 第五批檔案——依媒體統計共 41 份文件、影像與影片,國務院與總統行政辦公室首度現身:一個 2002 年遮蔽巴格拉姆星空的等邊三角形、2021 年阿曼灣砲艇機遭遇的約 25 個「低溫球體」,以及一組 1963 年在自身文件之下自行瓦解的巴西巴伊亞白宮檔案。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 第四批解密:核連結、綠色火球與能源部檔案",
+        "description": "2026 年 7 月 10 日,美國戰爭部公布 PURSUE 第四批檔案——共 40 份,包含一份 1949 年洛斯阿拉莫斯綠色火球會議紀錄,以及一宗 2015 年潘泰克斯核武廠上空的入侵事件。"
+      },
+      {
+        "path": "/zh-Hant/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 第三批解密:多機關檔案、夏延物體與首宗國際案例",
+        "description": "2026 年 6 月 12 日,美國戰爭部公布 PURSUE 第三批檔案——53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段來自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄。"
+      },
+      {
+        "path": "/zh-Hant/news/library-hebrew-bible-nine-languages/",
+        "title": "圖書館:希伯來聖經現以九種語言呈現",
+        "description": "截至 2026 年 6 月 7 日,Wheel of Heaven 圖書館中每一本希伯來聖經書卷皆已配備九種語言的文本——英語 ASV 版加上八種匯入的公有領域譯本。"
+      }
+    ],
+    "zh-Hant/timeline/age-of-aquarius": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-aries": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-cancer": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-capricorn": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-gemini": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-leo": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-libra": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-pisces": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-sagittarius": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-scorpio": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-taurus": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/age-of-virgo": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/in-the-beginning": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/preamble": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/timeline/the-wheel-keeps-turning": [
+      {
+        "path": "/zh-Hant/timeline/age-of-aquarius/",
+        "title": "水瓶座時代",
+        "description": "大年的第十二個也是當前的時代——啟示的時代,前面所有時代累積的內容向終於有能力理解它的人類變得清晰可讀。1946年的門檻、1973年的接觸、大使館計畫、黃金時代,以及人類最終參與創造循環。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-aries/",
+        "title": "白羊座時代",
+        "description": "大年第十個時代——摩西、出埃及、西奈山的律法、白羊時代先知的雙角、征服迦南、先知傳統、希伯來人未能傳播訊息、議會對波斯與希臘的培育,以及為雙魚座時代所做的全世界軸心時代準備。"
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/zh-Hant/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "zh-Hant/wiki/abraham": [
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      },
+      {
+        "path": "/zh-Hant/wiki/moses/",
+        "title": "摩西",
+        "category": "Biblical Figures",
+        "description": "摩西(希伯來語:מֹשֶׁה,“摩謝”)是猶太教的奠基先知,在西奈山為《妥拉》的中介者。在 Wheel of Heaven 文集中,他與耶和華的直接接觸被讀作厄羅欣向人類受信者進行技術傳遞的最有據可查的案例之一。"
+      }
+    ],
+    "zh-Hant/wiki/adam-and-eve": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      },
+      {
+        "path": "/zh-Hant/wiki/moses/",
+        "title": "摩西",
+        "category": "Biblical Figures",
+        "description": "摩西(希伯來語:מֹשֶׁה,“摩謝”)是猶太教的奠基先知,在西奈山為《妥拉》的中介者。在 Wheel of Heaven 文集中,他與耶和華的直接接觸被讀作厄羅欣向人類受信者進行技術傳遞的最有據可查的案例之一。"
+      }
+    ],
+    "zh-Hant/wiki/adamite-struggle": [
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      },
+      {
+        "path": "/zh-Hant/wiki/babel/",
+        "title": "巴別",
+        "category": "Events & Narratives",
+        "description": "巴別 — 關於正典敘事請參閱「巴別塔」與「語言混亂」;Wheel of Heaven 預設的正典閱讀在「語言混亂」條目中。"
+      }
+    ],
+    "zh-Hant/wiki/adamites": [
+      {
+        "path": "/zh-Hant/wiki/ancient-builders/",
+        "title": "古代建造者",
+        "category": "Peoples & Groups",
+        "description": "古代建造者於通俗及另類考古學用法中,指一個或多個失落或不明之文明,曾建造全球所發現多項實質性之古代石造紀念建築 —— 包括埃及金字塔、巨石陣、薩克塞瓦曼及馬丘比丘之安地斯巨石遺址、復活節島摩艾石像、馬爾他巨石神廟及其他遺址 —— 其依據為:所需之建造技術已超出傳統上歸功於這些紀念建築之文明所被認定之技術能力。Wheel"
+      },
+      {
+        "path": "/zh-Hant/wiki/nabataeans/",
+        "title": "納巴泰人",
+        "category": "Peoples & Groups",
+        "description": "納巴泰人(納巴泰亞蘭語 נבטו Nabaṭu;希臘語 Ναβαταῖοι Nabataîoi;阿拉伯語 ٱلْأَنْبَاط al-Anbāṭ)是一支古代北阿拉伯民族,約自公元前四世紀起,在黎凡特南部與阿拉伯西北部建立起一個富庶的商旅貿易王國,其鑿岩而成的都城即佩特拉。他們的母語是一種早期形式的阿拉伯語,但書寫上主"
+      },
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      }
+    ],
+    "zh-Hant/wiki/ancient-astronaut-hypothesis": [
+      {
+        "path": "/zh-Hant/wiki/dhorme-bible-translation/",
+        "title": "多爾姆聖經翻譯",
+        "category": "Methodology",
+        "description": "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
+      },
+      {
+        "path": "/zh-Hant/wiki/neo-euhemerism/",
+        "title": "新埃烏赫梅羅斯主義",
+        "category": "Methodology",
+        "description": "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+      },
+      {
+        "path": "/zh-Hant/wiki/sendys-conditions-of-coherence/",
+        "title": "桑迪的一致性條件",
+        "category": "Methodology",
+        "description": "桑迪的一致性條件由作者讓·桑迪提出,指能夠在古代敘事中辨識出跨越長時段的連貫技術資訊層次的一組文獻學標準。Wheel of Heaven 文集將其作為方法論座標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/biglino-method/",
+        "title": "比利諾方法",
+        "category": "Methodology",
+        "description": "比利諾方法以義大利譯者毛羅·比利諾命名,其要旨在於剝離積累起來的神學預設,以恢復希伯來聖經文本的字面與技術意涵。Wheel of Heaven 文集廣泛參考它作為重新閱讀資料的工具,但不與其全部主張自我同一化。"
+      }
+    ],
+    "zh-Hant/wiki/ancient-builders": [
+      {
+        "path": "/zh-Hant/wiki/adamites/",
+        "title": "亞當血統",
+        "category": "Peoples & Groups",
+        "description": "亞當血統(Adamites)在 Wheel of Heaven 文集中指厄羅欣最早完全合成的人類血統 — 亞當與夏娃走出園林=實驗室之後的直系後裔。該術語將這一血統與地球上其他前人類支系區分開,並標誌著真正意義上人類歷史的起點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/nabataeans/",
+        "title": "納巴泰人",
+        "category": "Peoples & Groups",
+        "description": "納巴泰人(納巴泰亞蘭語 נבטו Nabaṭu;希臘語 Ναβαταῖοι Nabataîoi;阿拉伯語 ٱلْأَنْبَاط al-Anbāṭ)是一支古代北阿拉伯民族,約自公元前四世紀起,在黎凡特南部與阿拉伯西北部建立起一個富庶的商旅貿易王國,其鑿岩而成的都城即佩特拉。他們的母語是一種早期形式的阿拉伯語,但書寫上主"
+      },
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      }
+    ],
+    "zh-Hant/wiki/antediluvian": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/chronology/",
+        "title": "年代學",
+        "category": "Cosmic Chronology",
+        "description": "年代學 — 由十二個歲差時代構成大年的本文集宇宙時間軸。實質條目位於「世界時代」。"
+      }
+    ],
+    "zh-Hant/wiki/apocalypse": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      },
+      {
+        "path": "/zh-Hant/wiki/babel/",
+        "title": "巴別",
+        "category": "Events & Narratives",
+        "description": "巴別 — 關於正典敘事請參閱「巴別塔」與「語言混亂」;Wheel of Heaven 預設的正典閱讀在「語言混亂」條目中。"
+      }
+    ],
+    "zh-Hant/wiki/archaeoastronomy": [
+      {
+        "path": "/zh-Hant/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇航員假說",
+        "category": "Methodology",
+        "description": "古代宇航員假說主張,非地球的智慧曾在史前和古代造訪地球,對人類文明的發展留下了決定性印記。Wheel of Heaven 文集是其一個有紀律的變體,通過雷爾派文獻的厄羅欣式格柵來閱讀這一假說。"
+      },
+      {
+        "path": "/zh-Hant/wiki/dhorme-bible-translation/",
+        "title": "多爾姆聖經翻譯",
+        "category": "Methodology",
+        "description": "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
+      },
+      {
+        "path": "/zh-Hant/wiki/neo-euhemerism/",
+        "title": "新埃烏赫梅羅斯主義",
+        "category": "Methodology",
+        "description": "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+      },
+      {
+        "path": "/zh-Hant/wiki/sendys-conditions-of-coherence/",
+        "title": "桑迪的一致性條件",
+        "category": "Methodology",
+        "description": "桑迪的一致性條件由作者讓·桑迪提出,指能夠在古代敘事中辨識出跨越長時段的連貫技術資訊層次的一組文獻學標準。Wheel of Heaven 文集將其作為方法論座標加以保留。"
+      }
+    ],
+    "zh-Hant/wiki/astrobiology": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/babel": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/bible": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-tradition/",
+        "title": "傳統",
+        "category": "Theology & Traditions",
+        "description": "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+      },
+      {
+        "path": "/zh-Hant/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew/",
+        "title": "希伯來語",
+        "category": "Theology & Traditions",
+        "description": "希伯來語(<span class=\"hebrew\">עִבְרִית</span>,“伊夫裡特”)是猶太教根本文本所使用的閃米特語,其三子音字根體系與壓縮的多義性在 Wheel of Heaven 文集所提供的閱讀中發揮著決定性作用。"
+      }
+    ],
+    "zh-Hant/wiki/biglino-method": [
+      {
+        "path": "/zh-Hant/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇航員假說",
+        "category": "Methodology",
+        "description": "古代宇航員假說主張,非地球的智慧曾在史前和古代造訪地球,對人類文明的發展留下了決定性印記。Wheel of Heaven 文集是其一個有紀律的變體,通過雷爾派文獻的厄羅欣式格柵來閱讀這一假說。"
+      },
+      {
+        "path": "/zh-Hant/wiki/dhorme-bible-translation/",
+        "title": "多爾姆聖經翻譯",
+        "category": "Methodology",
+        "description": "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
+      },
+      {
+        "path": "/zh-Hant/wiki/neo-euhemerism/",
+        "title": "新埃烏赫梅羅斯主義",
+        "category": "Methodology",
+        "description": "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+      },
+      {
+        "path": "/zh-Hant/wiki/sendys-conditions-of-coherence/",
+        "title": "桑迪的一致性條件",
+        "category": "Methodology",
+        "description": "桑迪的一致性條件由作者讓·桑迪提出,指能夠在古代敘事中辨識出跨越長時段的連貫技術資訊層次的一組文獻學標準。Wheel of Heaven 文集將其作為方法論座標加以保留。"
+      }
+    ],
+    "zh-Hant/wiki/chronology": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      }
+    ],
+    "zh-Hant/wiki/comparative-mythology": [
+      {
+        "path": "/zh-Hant/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇航員假說",
+        "category": "Methodology",
+        "description": "古代宇航員假說主張,非地球的智慧曾在史前和古代造訪地球,對人類文明的發展留下了決定性印記。Wheel of Heaven 文集是其一個有紀律的變體,通過雷爾派文獻的厄羅欣式格柵來閱讀這一假說。"
+      },
+      {
+        "path": "/zh-Hant/wiki/dhorme-bible-translation/",
+        "title": "多爾姆聖經翻譯",
+        "category": "Methodology",
+        "description": "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
+      },
+      {
+        "path": "/zh-Hant/wiki/neo-euhemerism/",
+        "title": "新埃烏赫梅羅斯主義",
+        "category": "Methodology",
+        "description": "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+      },
+      {
+        "path": "/zh-Hant/wiki/sendys-conditions-of-coherence/",
+        "title": "桑迪的一致性條件",
+        "category": "Methodology",
+        "description": "桑迪的一致性條件由作者讓·桑迪提出,指能夠在古代敘事中辨識出跨越長時段的連貫技術資訊層次的一組文獻學標準。Wheel of Heaven 文集將其作為方法論座標加以保留。"
+      }
+    ],
+    "zh-Hant/wiki/confusion-of-tongues": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/cosmic-chain": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/cosmic-competition": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-chain/",
+        "title": "宇宙鏈",
+        "category": "Cosmology & Framework",
+        "description": "宇宙鏈是 Wheel of Heaven 文集所發展的框架概念,用以闡述耶洛因文明所處的更廣闊宇宙處境:跨越宇宙時間、無限延伸的「被造而又創造」之文明序列——每個達到科學成熟的文明,終將在合適的世界上創造出新的人類,而這些新人類又依次成為創造者文明,使這條鏈在深邃的時間中延續下去。耶洛因在白羊座時代發現,他們自身亦是被"
+      }
+    ],
+    "zh-Hant/wiki/cosmic-evolution": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/cosmic-pluralism": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/council-of-the-eternals": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/crop-circles": [
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/military-cover-up-of-exobiology/",
+        "title": "外星生物學的軍事隱瞞",
+        "category": "Ufology",
+        "description": "外星生物學的軍事隱瞞指國家(主要為美國)將與地球上非人類存在相關的資料進行機密化處理的一整套機制。Wheel of Heaven 文集將其記錄為阻礙大歸來的制度性障礙之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/us-space-force/",
+        "title": "美國太空軍",
+        "category": "Ufology",
+        "description": "美國太空軍自2019年起為美國武裝力量的太空軍種。Wheel of Heaven 文集將其作為當代太空軍事化的制度性指標加以提及,並與對外星生物學的軍事隱瞞相關聯。"
+      }
+    ],
+    "zh-Hant/wiki/cyberparadism": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven 是一項受編纂的比較性知識專案 —— 既是一套詮釋性框架的名稱,也是闡明該框架的文集 —— 聚焦於啟示、宇宙年代學、遠古記憶、神聖歷史與現代再詮釋。本專案的工作假設為:地球上的生命乃出自一支特定的進步文明 —— 在希伯來聖經中稱為「耶洛因」(*Elohim*)—— 之審慎科學工作的成果。他"
+      }
+    ],
+    "zh-Hant/wiki/dhorme-bible-translation": [
+      {
+        "path": "/zh-Hant/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇航員假說",
+        "category": "Methodology",
+        "description": "古代宇航員假說主張,非地球的智慧曾在史前和古代造訪地球,對人類文明的發展留下了決定性印記。Wheel of Heaven 文集是其一個有紀律的變體,通過雷爾派文獻的厄羅欣式格柵來閱讀這一假說。"
+      },
+      {
+        "path": "/zh-Hant/wiki/neo-euhemerism/",
+        "title": "新埃烏赫梅羅斯主義",
+        "category": "Methodology",
+        "description": "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+      },
+      {
+        "path": "/zh-Hant/wiki/sendys-conditions-of-coherence/",
+        "title": "桑迪的一致性條件",
+        "category": "Methodology",
+        "description": "桑迪的一致性條件由作者讓·桑迪提出,指能夠在古代敘事中辨識出跨越長時段的連貫技術資訊層次的一組文獻學標準。Wheel of Heaven 文集將其作為方法論座標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/biglino-method/",
+        "title": "比利諾方法",
+        "category": "Methodology",
+        "description": "比利諾方法以義大利譯者毛羅·比利諾命名,其要旨在於剝離積累起來的神學預設,以恢復希伯來聖經文本的字面與技術意涵。Wheel of Heaven 文集廣泛參考它作為重新閱讀資料的工具,但不與其全部主張自我同一化。"
+      }
+    ],
+    "zh-Hant/wiki/doubled-signature": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/dragons": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/drake-equation": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/eden": [
+      {
+        "path": "/zh-Hant/wiki/petra/",
+        "title": "佩特拉",
+        "category": "Places & Locations",
+        "description": "佩特拉(希臘語 Πέτρα「岩石」;納巴泰亞蘭語 רקמו Raqmū;希伯來語 רֶקֶם Reqem;阿拉伯語 ٱلْبَتْرَاء al-Batrāʾ)是位於今日約旦南部的納巴泰王國岩鑿都城,也是一項修正主義假說的地理核心 —— 此假說主要與加拿大研究者丹·吉布森相關聯,主張佩特拉(而非如今稱為麥加的漢志城市)"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-jerusalem/",
+        "title": "新耶路撒冷",
+        "category": "Places & Locations",
+        "description": "新耶路撒冷在聖經末世論中是末日時分自天而降的更新之城。在 Wheel of Heaven 文集中,它被讀作大使館與大歸來的象徵性投影 — 與其說是嚴格的神學比喻,不如說是厄羅欣式的接待基礎設施。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pangaea/",
+        "title": "盤古大陸",
+        "category": "Places & Locations",
+        "description": "盤古大陸是板塊構造學為古生代末期所復原的唯一超級大陸。Wheel of Heaven 文集將其視為厄羅欣合成地球生命最初階段的參照地質配置。"
+      },
+      {
+        "path": "/zh-Hant/wiki/third-temple/",
+        "title": "第三聖殿",
+        "category": "Places & Locations",
+        "description": "第三聖殿在猶太末世論中是末日時分應當在耶路撒冷重建的聖所。在 Wheel of Heaven 文集中,它被讀作大使館 — 大歸來的厄羅欣式接待基礎設施 — 的象徵性投影。"
+      }
+    ],
+    "zh-Hant/wiki/elijah": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      },
+      {
+        "path": "/zh-Hant/wiki/moses/",
+        "title": "摩西",
+        "category": "Biblical Figures",
+        "description": "摩西(希伯來語:מֹשֶׁה,“摩謝”)是猶太教的奠基先知,在西奈山為《妥拉》的中介者。在 Wheel of Heaven 文集中,他與耶和華的直接接觸被讀作厄羅欣向人類受信者進行技術傳遞的最有據可查的案例之一。"
+      }
+    ],
+    "zh-Hant/wiki/elohim": [
+      {
+        "path": "/zh-Hant/wiki/elohimian-space-wars/",
+        "title": "厄羅欣式太空戰爭",
+        "category": "Elohim",
+        "description": "厄羅欣式太空戰爭 — Wheel of Heaven 的正典條目請參閱「神戰」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim-home-planet/",
+        "title": "厄羅欣母行星",
+        "category": "Elohim",
+        "description": "厄羅欣母行星 — Wheel of Heaven 的正典條目請參閱「厄羅欣式母行星」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/satan/",
+        "title": "撒但",
+        "category": "Elohim",
+        "description": "撒但(שָׂטָן,希伯來語:「敵手」、「控告者」、「對手」)是位於母星上的一位耶洛因(Eloha)形象,即耶洛因文明內部一個政治派系的領袖。該派系始終反對創造在能力上能與其締造者匹敵或超越其締造者的合成存有。撒但的立場自地球計畫開始之前即實質一貫:按耶洛因自身形像創造存有根本上具有危險,任何協定、任何監督、任何地理距"
+      },
+      {
+        "path": "/zh-Hant/wiki/yahweh/",
+        "title": "耶和華",
+        "category": "Elohim",
+        "description": "耶和華(希伯來語:יהוה,YHWH)是希伯來聖經中首要神聖形象的專有名字,主流傳統慣以單數的以色列之神讀之。在雷爾派源典所發展、文集所採行的閱讀中,耶和華是一位特定的 Eloha —— 永恆者議會主席,自摩羯時代起親自指揮地球生命創造工作的高階聯盟權威,亦是其後一萬五千年中與地球各先知人物對話的主要聯盟代表。文集的主"
+      }
+    ],
+    "zh-Hant/wiki/elohim-home-planet": [
+      {
+        "path": "/zh-Hant/wiki/elohimian-space-wars/",
+        "title": "厄羅欣式太空戰爭",
+        "category": "Elohim",
+        "description": "厄羅欣式太空戰爭 — Wheel of Heaven 的正典條目請參閱「神戰」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/satan/",
+        "title": "撒但",
+        "category": "Elohim",
+        "description": "撒但(שָׂטָן,希伯來語:「敵手」、「控告者」、「對手」)是位於母星上的一位耶洛因(Eloha)形象,即耶洛因文明內部一個政治派系的領袖。該派系始終反對創造在能力上能與其締造者匹敵或超越其締造者的合成存有。撒但的立場自地球計畫開始之前即實質一貫:按耶洛因自身形像創造存有根本上具有危險,任何協定、任何監督、任何地理距"
+      },
+      {
+        "path": "/zh-Hant/wiki/yahweh/",
+        "title": "耶和華",
+        "category": "Elohim",
+        "description": "耶和華(希伯來語:יהוה,YHWH)是希伯來聖經中首要神聖形象的專有名字,主流傳統慣以單數的以色列之神讀之。在雷爾派源典所發展、文集所採行的閱讀中,耶和華是一位特定的 Eloha —— 永恆者議會主席,自摩羯時代起親自指揮地球生命創造工作的高階聯盟權威,亦是其後一萬五千年中與地球各先知人物對話的主要聯盟代表。文集的主"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim/",
+        "title": "耶洛因",
+        "category": "Elohim",
+        "description": "耶洛因(希伯來語:אֱלֹהִים)是《妥拉》通篇用於通常譯為「神」之諸位形象的希伯來語複數名詞。在雷爾派源典所發展、並為 Wheel of Heaven 文集所採納的閱讀中,此詞指涉一支由生物性個體所組成的特定外星文明 —— 在科技上遠遠超越當今人類的文明 —— 他們設計並合成了地球上的生命(包括人類自身),其後對人"
+      }
+    ],
+    "zh-Hant/wiki/elohimian-space-wars": [
+      {
+        "path": "/zh-Hant/wiki/elohim-home-planet/",
+        "title": "厄羅欣母行星",
+        "category": "Elohim",
+        "description": "厄羅欣母行星 — Wheel of Heaven 的正典條目請參閱「厄羅欣式母行星」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/satan/",
+        "title": "撒但",
+        "category": "Elohim",
+        "description": "撒但(שָׂטָן,希伯來語:「敵手」、「控告者」、「對手」)是位於母星上的一位耶洛因(Eloha)形象,即耶洛因文明內部一個政治派系的領袖。該派系始終反對創造在能力上能與其締造者匹敵或超越其締造者的合成存有。撒但的立場自地球計畫開始之前即實質一貫:按耶洛因自身形像創造存有根本上具有危險,任何協定、任何監督、任何地理距"
+      },
+      {
+        "path": "/zh-Hant/wiki/yahweh/",
+        "title": "耶和華",
+        "category": "Elohim",
+        "description": "耶和華(希伯來語:יהוה,YHWH)是希伯來聖經中首要神聖形象的專有名字,主流傳統慣以單數的以色列之神讀之。在雷爾派源典所發展、文集所採行的閱讀中,耶和華是一位特定的 Eloha —— 永恆者議會主席,自摩羯時代起親自指揮地球生命創造工作的高階聯盟權威,亦是其後一萬五千年中與地球各先知人物對話的主要聯盟代表。文集的主"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim/",
+        "title": "耶洛因",
+        "category": "Elohim",
+        "description": "耶洛因(希伯來語:אֱלֹהִים)是《妥拉》通篇用於通常譯為「神」之諸位形象的希伯來語複數名詞。在雷爾派源典所發展、並為 Wheel of Heaven 文集所採納的閱讀中,此詞指涉一支由生物性個體所組成的特定外星文明 —— 在科技上遠遠超越當今人類的文明 —— 他們設計並合成了地球上的生命(包括人類自身),其後對人"
+      }
+    ],
+    "zh-Hant/wiki/embassy": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-chain/",
+        "title": "宇宙鏈",
+        "category": "Cosmology & Framework",
+        "description": "宇宙鏈是 Wheel of Heaven 文集所發展的框架概念,用以闡述耶洛因文明所處的更廣闊宇宙處境:跨越宇宙時間、無限延伸的「被造而又創造」之文明序列——每個達到科學成熟的文明,終將在合適的世界上創造出新的人類,而這些新人類又依次成為創造者文明,使這條鏈在深邃的時間中延續下去。耶洛因在白羊座時代發現,他們自身亦是被"
+      }
+    ],
+    "zh-Hant/wiki/forerunners": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/swastika/",
+        "title": "卐字",
+        "category": "Symbolism & Motifs",
+        "description": "卐字(梵文:<span class=\"sanskrit\">स्वस्तिक</span>)是世界文化中得到最普遍證言的符號之一,納粹主義對其的工具化遮蔽了其漫長的精神史。Wheel of Heaven 文集討論其原本的語義,以及它在雷爾派無限符號中所扮演的功能。"
+      }
+    ],
+    "zh-Hant/wiki/four-levels": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-chain/",
+        "title": "宇宙鏈",
+        "category": "Cosmology & Framework",
+        "description": "宇宙鏈是 Wheel of Heaven 文集所發展的框架概念,用以闡述耶洛因文明所處的更廣闊宇宙處境:跨越宇宙時間、無限延伸的「被造而又創造」之文明序列——每個達到科學成熟的文明,終將在合適的世界上創造出新的人類,而這些新人類又依次成為創造者文明,使這條鏈在深邃的時間中延續下去。耶洛因在白羊座時代發現,他們自身亦是被"
+      }
+    ],
+    "zh-Hant/wiki/fractal-cosmology": [
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-chain/",
+        "title": "宇宙鏈",
+        "category": "Cosmology & Framework",
+        "description": "宇宙鏈是 Wheel of Heaven 文集所發展的框架概念,用以闡述耶洛因文明所處的更廣闊宇宙處境:跨越宇宙時間、無限延伸的「被造而又創造」之文明序列——每個達到科學成熟的文明,終將在合適的世界上創造出新的人類,而這些新人類又依次成為創造者文明,使這條鏈在深邃的時間中延續下去。耶洛因在白羊座時代發現,他們自身亦是被"
+      }
+    ],
+    "zh-Hant/wiki/genesis": [
+      {
+        "path": "/zh-Hant/wiki/kabbalah/",
+        "title": "卡巴拉",
+        "category": "Texts & Sources",
+        "description": "卡巴拉(<span class=\"hebrew\">קַבָּלָה</span>)是自中世紀以來發展起來的猶太神秘主義傳統,以對《妥拉》的秘傳式閱讀為核心。Wheel of Heaven 文集將其作為歷史上對希伯來文本進行非字面閱讀的儲存通道之一,討論其貢獻與侷限。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew-bible/",
+        "title": "希伯來聖經",
+        "category": "Texts & Sources",
+        "description": "希伯來聖經（希伯來語：תָּנָ״ךְ，*Tanakh*）是 Wheel of Heaven 框架的主要根基性源文本實體——這部大量正典希伯來語文本文集包含二十四卷書，傳統上組織為三個主要部分（妥拉、先知書、聖卷），主要由伊甸譜系世系線在從晚期青銅時代到波斯—希臘化時期約十二個世紀中產生，並透過馬所拉文本傳統大量保存。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hekhalot-literature/",
+        "title": "希卡洛特文獻",
+        "category": "Texts & Sources",
+        "description": "希卡洛特文獻（希伯來文 הֵיכָלוֹת，意為 '宮殿'）是古典時代晚期的猶太神祕主義著作總集，描述靈魂穿越七重天上宮殿、上升至神聖寶座戰車（merkavah）的歷程。它是猶太神祕主義中前卡巴拉時期的一層，也是傳承希烏爾·科瑪的文獻集。"
+      },
+      {
+        "path": "/zh-Hant/wiki/shiur-qomah/",
+        "title": "希烏爾·科瑪",
+        "category": "Texts & Sources",
+        "description": "希烏爾·科瑪（希伯來文 שִׁעוּר קוֹמָה，意為 '身量的度量'）是前卡巴拉時期希卡洛特／梅爾卡瓦文獻中的一部文本，其中天使梅塔特隆逐一口述神聖身體各肢體的宇宙尺寸，每個部位皆以帕拉桑（parasang）為單位量度，並冠以一個祕密之名。這正是雷爾派典籍歸於 '卡巴拉' 的帕拉桑數字背後那部具體的文本。"
+      }
+    ],
+    "zh-Hant/wiki/genetic-engineering": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/geniocracy": [
+      {
+        "path": "/zh-Hant/wiki/humanitarianism/",
+        "title": "人道主義",
+        "category": "Raëlism",
+        "description": "人道主義在雷爾派文獻框架中指普遍倫理原則的總體 — 人權、消除貧困、對生命的尊重 — 是人類邁向與厄羅欣公開接觸的準備。Wheel of Heaven 文集將其列為大歸來的政治條件之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-commandments/",
+        "title": "新誡命",
+        "category": "Raëlism",
+        "description": "新誡命在雷爾派文獻框架中指由耶和華通過雷爾向當代人類傳遞的、經更新的倫理與政治戒律總體。Wheel of Heaven 文集將其置於此前厄羅欣立法性傳遞的延續之中。"
+      },
+      {
+        "path": "/zh-Hant/wiki/paradism/",
+        "title": "樂園主義",
+        "category": "Raëlism",
+        "description": "樂園主義在雷爾派文獻框架中是關於一種無貨幣、無強迫勞動的自動化豐裕社會的社會經濟計劃。Wheel of Heaven 文集將其讀作大歸來準備階段的政治地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/rael/",
+        "title": "雷爾",
+        "category": "Raëlism",
+        "description": "雷爾(原名克洛德·沃裡隆,1946年生)是雷爾運動的創立者,他自稱於1973年與1975年從厄羅欣處直接接收到了傳遞。在 Wheel of Heaven 文集中,他被讀作處於摩西、耶穌、穆罕默德延續中的厄羅欣系譜中最後一位有據可查的先知。"
+      }
+    ],
+    "zh-Hant/wiki/golden-age": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      }
+    ],
+    "zh-Hant/wiki/great-flood": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/babel/",
+        "title": "巴別",
+        "category": "Events & Narratives",
+        "description": "巴別 — 關於正典敘事請參閱「巴別塔」與「語言混亂」;Wheel of Heaven 預設的正典閱讀在「語言混亂」條目中。"
+      }
+    ],
+    "zh-Hant/wiki/great-month": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      },
+      {
+        "path": "/zh-Hant/wiki/chronology/",
+        "title": "年代學",
+        "category": "Cosmic Chronology",
+        "description": "年代學 — 由十二個歲差時代構成大年的本文集宇宙時間軸。實質條目位於「世界時代」。"
+      }
+    ],
+    "zh-Hant/wiki/great-return": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      },
+      {
+        "path": "/zh-Hant/wiki/babel/",
+        "title": "巴別",
+        "category": "Events & Narratives",
+        "description": "巴別 — 關於正典敘事請參閱「巴別塔」與「語言混亂」;Wheel of Heaven 預設的正典閱讀在「語言混亂」條目中。"
+      }
+    ],
+    "zh-Hant/wiki/great-year": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      },
+      {
+        "path": "/zh-Hant/wiki/chronology/",
+        "title": "年代學",
+        "category": "Cosmic Chronology",
+        "description": "年代學 — 由十二個歲差時代構成大年的本文集宇宙時間軸。實質條目位於「世界時代」。"
+      }
+    ],
+    "zh-Hant/wiki/hanafiyya": [
+      {
+        "path": "/zh-Hant/wiki/the-tradition/",
+        "title": "傳統",
+        "category": "Theology & Traditions",
+        "description": "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+      },
+      {
+        "path": "/zh-Hant/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew/",
+        "title": "希伯來語",
+        "category": "Theology & Traditions",
+        "description": "希伯來語(<span class=\"hebrew\">עִבְרִית</span>,“伊夫裡特”)是猶太教根本文本所使用的閃米特語,其三子音字根體系與壓縮的多義性在 Wheel of Heaven 文集所提供的閱讀中發揮著決定性作用。"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-truth/",
+        "title": "真理",
+        "category": "Theology & Traditions",
+        "description": "真理在雷爾派文獻與 Wheel of Heaven 文集中指通過先知系譜由厄羅欣傳遞的連貫資訊內容 — 與宗教制度所累積起來的扭曲層次相對立。"
+      }
+    ],
+    "zh-Hant/wiki/hebrew": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-tradition/",
+        "title": "傳統",
+        "category": "Theology & Traditions",
+        "description": "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+      },
+      {
+        "path": "/zh-Hant/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-truth/",
+        "title": "真理",
+        "category": "Theology & Traditions",
+        "description": "真理在雷爾派文獻與 Wheel of Heaven 文集中指通過先知系譜由厄羅欣傳遞的連貫資訊內容 — 與宗教制度所累積起來的扭曲層次相對立。"
+      }
+    ],
+    "zh-Hant/wiki/hebrew-bible": [
+      {
+        "path": "/zh-Hant/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "《創世記》(希伯來語:בְּרֵאשִׁית,《貝瑞希特》)是《妥拉》與希伯來聖經的首卷,敘述創造、伊甸園、大洪水與族長們的故事。對 Wheel of Heaven 文集而言,它是必須通過厄羅欣式格柵重新閱讀的最重要源典。"
+      },
+      {
+        "path": "/zh-Hant/wiki/kabbalah/",
+        "title": "卡巴拉",
+        "category": "Texts & Sources",
+        "description": "卡巴拉(<span class=\"hebrew\">קַבָּלָה</span>)是自中世紀以來發展起來的猶太神秘主義傳統,以對《妥拉》的秘傳式閱讀為核心。Wheel of Heaven 文集將其作為歷史上對希伯來文本進行非字面閱讀的儲存通道之一,討論其貢獻與侷限。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hekhalot-literature/",
+        "title": "希卡洛特文獻",
+        "category": "Texts & Sources",
+        "description": "希卡洛特文獻（希伯來文 הֵיכָלוֹת，意為 '宮殿'）是古典時代晚期的猶太神祕主義著作總集，描述靈魂穿越七重天上宮殿、上升至神聖寶座戰車（merkavah）的歷程。它是猶太神祕主義中前卡巴拉時期的一層，也是傳承希烏爾·科瑪的文獻集。"
+      },
+      {
+        "path": "/zh-Hant/wiki/shiur-qomah/",
+        "title": "希烏爾·科瑪",
+        "category": "Texts & Sources",
+        "description": "希烏爾·科瑪（希伯來文 שִׁעוּר קוֹמָה，意為 '身量的度量'）是前卡巴拉時期希卡洛特／梅爾卡瓦文獻中的一部文本，其中天使梅塔特隆逐一口述神聖身體各肢體的宇宙尺寸，每個部位皆以帕拉桑（parasang）為單位量度，並冠以一個祕密之名。這正是雷爾派典籍歸於 '卡巴拉' 的帕拉桑數字背後那部具體的文本。"
+      }
+    ],
+    "zh-Hant/wiki/hekhalot-literature": [
+      {
+        "path": "/zh-Hant/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "《創世記》(希伯來語:בְּרֵאשִׁית,《貝瑞希特》)是《妥拉》與希伯來聖經的首卷,敘述創造、伊甸園、大洪水與族長們的故事。對 Wheel of Heaven 文集而言,它是必須通過厄羅欣式格柵重新閱讀的最重要源典。"
+      },
+      {
+        "path": "/zh-Hant/wiki/kabbalah/",
+        "title": "卡巴拉",
+        "category": "Texts & Sources",
+        "description": "卡巴拉(<span class=\"hebrew\">קַבָּלָה</span>)是自中世紀以來發展起來的猶太神秘主義傳統,以對《妥拉》的秘傳式閱讀為核心。Wheel of Heaven 文集將其作為歷史上對希伯來文本進行非字面閱讀的儲存通道之一,討論其貢獻與侷限。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew-bible/",
+        "title": "希伯來聖經",
+        "category": "Texts & Sources",
+        "description": "希伯來聖經（希伯來語：תָּנָ״ךְ，*Tanakh*）是 Wheel of Heaven 框架的主要根基性源文本實體——這部大量正典希伯來語文本文集包含二十四卷書，傳統上組織為三個主要部分（妥拉、先知書、聖卷），主要由伊甸譜系世系線在從晚期青銅時代到波斯—希臘化時期約十二個世紀中產生，並透過馬所拉文本傳統大量保存。"
+      },
+      {
+        "path": "/zh-Hant/wiki/shiur-qomah/",
+        "title": "希烏爾·科瑪",
+        "category": "Texts & Sources",
+        "description": "希烏爾·科瑪（希伯來文 שִׁעוּר קוֹמָה，意為 '身量的度量'）是前卡巴拉時期希卡洛特／梅爾卡瓦文獻中的一部文本，其中天使梅塔特隆逐一口述神聖身體各肢體的宇宙尺寸，每個部位皆以帕拉桑（parasang）為單位量度，並冠以一個祕密之名。這正是雷爾派典籍歸於 '卡巴拉' 的帕拉桑數字背後那部具體的文本。"
+      }
+    ],
+    "zh-Hant/wiki/humanitarianism": [
+      {
+        "path": "/zh-Hant/wiki/geniocracy/",
+        "title": "天才政治",
+        "category": "Raëlism",
+        "description": "天才政治在雷爾派文獻中是基於受測度的認知能力對領導者進行選拔的政治制度。Wheel of Heaven 文集將其提及為雷爾運動所提出的制度構想之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-commandments/",
+        "title": "新誡命",
+        "category": "Raëlism",
+        "description": "新誡命在雷爾派文獻框架中指由耶和華通過雷爾向當代人類傳遞的、經更新的倫理與政治戒律總體。Wheel of Heaven 文集將其置於此前厄羅欣立法性傳遞的延續之中。"
+      },
+      {
+        "path": "/zh-Hant/wiki/paradism/",
+        "title": "樂園主義",
+        "category": "Raëlism",
+        "description": "樂園主義在雷爾派文獻框架中是關於一種無貨幣、無強迫勞動的自動化豐裕社會的社會經濟計劃。Wheel of Heaven 文集將其讀作大歸來準備階段的政治地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/rael/",
+        "title": "雷爾",
+        "category": "Raëlism",
+        "description": "雷爾(原名克洛德·沃裡隆,1946年生)是雷爾運動的創立者,他自稱於1973年與1975年從厄羅欣處直接接收到了傳遞。在 Wheel of Heaven 文集中,他被讀作處於摩西、耶穌、穆罕默德延續中的厄羅欣系譜中最後一位有據可查的先知。"
+      }
+    ],
+    "zh-Hant/wiki/infinity": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/intelligent-design": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/jesus": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      }
+    ],
+    "zh-Hant/wiki/kabbalah": [
+      {
+        "path": "/zh-Hant/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "《創世記》(希伯來語:בְּרֵאשִׁית,《貝瑞希特》)是《妥拉》與希伯來聖經的首卷,敘述創造、伊甸園、大洪水與族長們的故事。對 Wheel of Heaven 文集而言,它是必須通過厄羅欣式格柵重新閱讀的最重要源典。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew-bible/",
+        "title": "希伯來聖經",
+        "category": "Texts & Sources",
+        "description": "希伯來聖經（希伯來語：תָּנָ״ךְ，*Tanakh*）是 Wheel of Heaven 框架的主要根基性源文本實體——這部大量正典希伯來語文本文集包含二十四卷書，傳統上組織為三個主要部分（妥拉、先知書、聖卷），主要由伊甸譜系世系線在從晚期青銅時代到波斯—希臘化時期約十二個世紀中產生，並透過馬所拉文本傳統大量保存。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hekhalot-literature/",
+        "title": "希卡洛特文獻",
+        "category": "Texts & Sources",
+        "description": "希卡洛特文獻（希伯來文 הֵיכָלוֹת，意為 '宮殿'）是古典時代晚期的猶太神祕主義著作總集，描述靈魂穿越七重天上宮殿、上升至神聖寶座戰車（merkavah）的歷程。它是猶太神祕主義中前卡巴拉時期的一層，也是傳承希烏爾·科瑪的文獻集。"
+      },
+      {
+        "path": "/zh-Hant/wiki/shiur-qomah/",
+        "title": "希烏爾·科瑪",
+        "category": "Texts & Sources",
+        "description": "希烏爾·科瑪（希伯來文 שִׁעוּר קוֹמָה，意為 '身量的度量'）是前卡巴拉時期希卡洛特／梅爾卡瓦文獻中的一部文本，其中天使梅塔特隆逐一口述神聖身體各肢體的宇宙尺寸，每個部位皆以帕拉桑（parasang）為單位量度，並冠以一個祕密之名。這正是雷爾派典籍歸於 '卡巴拉' 的帕拉桑數字背後那部具體的文本。"
+      }
+    ],
+    "zh-Hant/wiki/leviathan": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/swastika/",
+        "title": "卐字",
+        "category": "Symbolism & Motifs",
+        "description": "卐字(梵文:<span class=\"sanskrit\">स्वस्तिक</span>)是世界文化中得到最普遍證言的符號之一,納粹主義對其的工具化遮蔽了其漫長的精神史。Wheel of Heaven 文集討論其原本的語義,以及它在雷爾派無限符號中所扮演的功能。"
+      }
+    ],
+    "zh-Hant/wiki/life-engineering": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      }
+    ],
+    "zh-Hant/wiki/list-of-close-encounters": [
+      {
+        "path": "/zh-Hant/wiki/list-of-prophets-and-religions/",
+        "title": "先知與宗教清單",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺址清單",
+        "category": "Reference Lists",
+        "description": "因其天文學精度、年代久遠或在災難後傳遞傳統中的反覆出現而被 Wheel of Heaven 文集關注的巨石遺址清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素與神話母題清單",
+        "category": "Reference Lists",
+        "description": "在世界諸傳統中反覆出現的神話素與神話母題清單。Wheel of Heaven 文集將其作為共同事件母型的指標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-etymological-readings/",
+        "title": "詞源學閱讀清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、本文集關鍵術語(主要為希伯來語與希臘語)的詞源學再閱讀清單,銜接慣用翻譯、文獻學詞根與厄羅欣式闡釋。"
+      }
+    ],
+    "zh-Hant/wiki/list-of-etymological-readings": [
+      {
+        "path": "/zh-Hant/wiki/list-of-prophets-and-religions/",
+        "title": "先知與宗教清單",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺址清單",
+        "category": "Reference Lists",
+        "description": "因其天文學精度、年代久遠或在災難後傳遞傳統中的反覆出現而被 Wheel of Heaven 文集關注的巨石遺址清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素與神話母題清單",
+        "category": "Reference Lists",
+        "description": "在世界諸傳統中反覆出現的神話素與神話母題清單。Wheel of Heaven 文集將其作為共同事件母型的指標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-close-encounters/",
+        "title": "近距離接觸清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、有據可查的人類與疑似厄羅欣實體之間的近距離接觸清單,按型別與歷史時期分類。"
+      }
+    ],
+    "zh-Hant/wiki/list-of-exegetic-readings": [
+      {
+        "path": "/zh-Hant/wiki/list-of-prophets-and-religions/",
+        "title": "先知與宗教清單",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺址清單",
+        "category": "Reference Lists",
+        "description": "因其天文學精度、年代久遠或在災難後傳遞傳統中的反覆出現而被 Wheel of Heaven 文集關注的巨石遺址清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素與神話母題清單",
+        "category": "Reference Lists",
+        "description": "在世界諸傳統中反覆出現的神話素與神話母題清單。Wheel of Heaven 文集將其作為共同事件母型的指標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-etymological-readings/",
+        "title": "詞源學閱讀清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、本文集關鍵術語(主要為希伯來語與希臘語)的詞源學再閱讀清單,銜接慣用翻譯、文獻學詞根與厄羅欣式闡釋。"
+      }
+    ],
+    "zh-Hant/wiki/list-of-megalithic-sites": [
+      {
+        "path": "/zh-Hant/wiki/list-of-prophets-and-religions/",
+        "title": "先知與宗教清單",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素與神話母題清單",
+        "category": "Reference Lists",
+        "description": "在世界諸傳統中反覆出現的神話素與神話母題清單。Wheel of Heaven 文集將其作為共同事件母型的指標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-etymological-readings/",
+        "title": "詞源學閱讀清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、本文集關鍵術語(主要為希伯來語與希臘語)的詞源學再閱讀清單,銜接慣用翻譯、文獻學詞根與厄羅欣式闡釋。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-close-encounters/",
+        "title": "近距離接觸清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、有據可查的人類與疑似厄羅欣實體之間的近距離接觸清單,按型別與歷史時期分類。"
+      }
+    ],
+    "zh-Hant/wiki/list-of-mythemes-and-mythological-motifs": [
+      {
+        "path": "/zh-Hant/wiki/list-of-prophets-and-religions/",
+        "title": "先知與宗教清單",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺址清單",
+        "category": "Reference Lists",
+        "description": "因其天文學精度、年代久遠或在災難後傳遞傳統中的反覆出現而被 Wheel of Heaven 文集關注的巨石遺址清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-etymological-readings/",
+        "title": "詞源學閱讀清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、本文集關鍵術語(主要為希伯來語與希臘語)的詞源學再閱讀清單,銜接慣用翻譯、文獻學詞根與厄羅欣式闡釋。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-close-encounters/",
+        "title": "近距離接觸清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、有據可查的人類與疑似厄羅欣實體之間的近距離接觸清單,按型別與歷史時期分類。"
+      }
+    ],
+    "zh-Hant/wiki/list-of-prophets-and-religions": [
+      {
+        "path": "/zh-Hant/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺址清單",
+        "category": "Reference Lists",
+        "description": "因其天文學精度、年代久遠或在災難後傳遞傳統中的反覆出現而被 Wheel of Heaven 文集關注的巨石遺址清單。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素與神話母題清單",
+        "category": "Reference Lists",
+        "description": "在世界諸傳統中反覆出現的神話素與神話母題清單。Wheel of Heaven 文集將其作為共同事件母型的指標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-etymological-readings/",
+        "title": "詞源學閱讀清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、本文集關鍵術語(主要為希伯來語與希臘語)的詞源學再閱讀清單,銜接慣用翻譯、文獻學詞根與厄羅欣式闡釋。"
+      },
+      {
+        "path": "/zh-Hant/wiki/list-of-close-encounters/",
+        "title": "近距離接觸清單",
+        "category": "Reference Lists",
+        "description": "為 Wheel of Heaven 文集整理的、有據可查的人類與疑似厄羅欣實體之間的近距離接觸清單,按型別與歷史時期分類。"
+      }
+    ],
+    "zh-Hant/wiki/living-earth": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/lucifer": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      }
+    ],
+    "zh-Hant/wiki/mass-effect": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/menorah": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/military-cover-up-of-exobiology": [
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/us-space-force/",
+        "title": "美國太空軍",
+        "category": "Ufology",
+        "description": "美國太空軍自2019年起為美國武裝力量的太空軍種。Wheel of Heaven 文集將其作為當代太空軍事化的制度性指標加以提及,並與對外星生物學的軍事隱瞞相關聯。"
+      },
+      {
+        "path": "/zh-Hant/wiki/crop-circles/",
+        "title": "麥田圈",
+        "category": "Ufology",
+        "description": "麥田圈,或稱麥田形構,是農作物(主要為小麥、大麥、油菜籽、黑麥、玉米、亞麻籽與大豆)經系統性壓伏所形成之大型幾何、數學或符號性圖案。當代現象主要於 1970 年代後期出現於英格蘭南部,其後在威爾特郡地區(可觀之艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域)有實質地理集中,並有實質後續國際性發生。該現象於 1991 年"
+      }
+    ],
+    "zh-Hant/wiki/moses": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      }
+    ],
+    "zh-Hant/wiki/muhammad": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/noah/",
+        "title": "挪亞",
+        "category": "Biblical Figures",
+        "description": "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+      }
+    ],
+    "zh-Hant/wiki/mytheme": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/nabataeans": [
+      {
+        "path": "/zh-Hant/wiki/adamites/",
+        "title": "亞當血統",
+        "category": "Peoples & Groups",
+        "description": "亞當血統(Adamites)在 Wheel of Heaven 文集中指厄羅欣最早完全合成的人類血統 — 亞當與夏娃走出園林=實驗室之後的直系後裔。該術語將這一血統與地球上其他前人類支系區分開,並標誌著真正意義上人類歷史的起點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/ancient-builders/",
+        "title": "古代建造者",
+        "category": "Peoples & Groups",
+        "description": "古代建造者於通俗及另類考古學用法中,指一個或多個失落或不明之文明,曾建造全球所發現多項實質性之古代石造紀念建築 —— 包括埃及金字塔、巨石陣、薩克塞瓦曼及馬丘比丘之安地斯巨石遺址、復活節島摩艾石像、馬爾他巨石神廟及其他遺址 —— 其依據為:所需之建造技術已超出傳統上歸功於這些紀念建築之文明所被認定之技術能力。Wheel"
+      },
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      }
+    ],
+    "zh-Hant/wiki/neo-euhemerism": [
+      {
+        "path": "/zh-Hant/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇航員假說",
+        "category": "Methodology",
+        "description": "古代宇航員假說主張,非地球的智慧曾在史前和古代造訪地球,對人類文明的發展留下了決定性印記。Wheel of Heaven 文集是其一個有紀律的變體,通過雷爾派文獻的厄羅欣式格柵來閱讀這一假說。"
+      },
+      {
+        "path": "/zh-Hant/wiki/dhorme-bible-translation/",
+        "title": "多爾姆聖經翻譯",
+        "category": "Methodology",
+        "description": "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
+      },
+      {
+        "path": "/zh-Hant/wiki/sendys-conditions-of-coherence/",
+        "title": "桑迪的一致性條件",
+        "category": "Methodology",
+        "description": "桑迪的一致性條件由作者讓·桑迪提出,指能夠在古代敘事中辨識出跨越長時段的連貫技術資訊層次的一組文獻學標準。Wheel of Heaven 文集將其作為方法論座標加以保留。"
+      },
+      {
+        "path": "/zh-Hant/wiki/biglino-method/",
+        "title": "比利諾方法",
+        "category": "Methodology",
+        "description": "比利諾方法以義大利譯者毛羅·比利諾命名,其要旨在於剝離積累起來的神學預設,以恢復希伯來聖經文本的字面與技術意涵。Wheel of Heaven 文集廣泛參考它作為重新閱讀資料的工具,但不與其全部主張自我同一化。"
+      }
+    ],
+    "zh-Hant/wiki/new-commandments": [
+      {
+        "path": "/zh-Hant/wiki/humanitarianism/",
+        "title": "人道主義",
+        "category": "Raëlism",
+        "description": "人道主義在雷爾派文獻框架中指普遍倫理原則的總體 — 人權、消除貧困、對生命的尊重 — 是人類邁向與厄羅欣公開接觸的準備。Wheel of Heaven 文集將其列為大歸來的政治條件之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/geniocracy/",
+        "title": "天才政治",
+        "category": "Raëlism",
+        "description": "天才政治在雷爾派文獻中是基於受測度的認知能力對領導者進行選拔的政治制度。Wheel of Heaven 文集將其提及為雷爾運動所提出的制度構想之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/paradism/",
+        "title": "樂園主義",
+        "category": "Raëlism",
+        "description": "樂園主義在雷爾派文獻框架中是關於一種無貨幣、無強迫勞動的自動化豐裕社會的社會經濟計劃。Wheel of Heaven 文集將其讀作大歸來準備階段的政治地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/rael/",
+        "title": "雷爾",
+        "category": "Raëlism",
+        "description": "雷爾(原名克洛德·沃裡隆,1946年生)是雷爾運動的創立者,他自稱於1973年與1975年從厄羅欣處直接接收到了傳遞。在 Wheel of Heaven 文集中,他被讀作處於摩西、耶穌、穆罕默德延續中的厄羅欣系譜中最後一位有據可查的先知。"
+      }
+    ],
+    "zh-Hant/wiki/new-jerusalem": [
+      {
+        "path": "/zh-Hant/wiki/eden/",
+        "title": "伊甸",
+        "category": "Places & Locations",
+        "description": "伊甸(希伯來語:עֵדֶן,ʿĒden)是希伯來聖經所指認的地區,最初的人類在被驅逐之前於該地的園中受造並生活。依雷爾派源典所發展、並為 Wheel of Heaven 文集所採行的閱讀,伊甸是耶洛因以色列創造隊伍在前洪水時期超級大陸上的作業領地 —— 該隊伍的生物合成工作產出了七支區域性造物者隊伍中最具成就的人類譜系"
+      },
+      {
+        "path": "/zh-Hant/wiki/petra/",
+        "title": "佩特拉",
+        "category": "Places & Locations",
+        "description": "佩特拉(希臘語 Πέτρα「岩石」;納巴泰亞蘭語 רקמו Raqmū;希伯來語 רֶקֶם Reqem;阿拉伯語 ٱلْبَتْرَاء al-Batrāʾ)是位於今日約旦南部的納巴泰王國岩鑿都城,也是一項修正主義假說的地理核心 —— 此假說主要與加拿大研究者丹·吉布森相關聯,主張佩特拉(而非如今稱為麥加的漢志城市)"
+      },
+      {
+        "path": "/zh-Hant/wiki/pangaea/",
+        "title": "盤古大陸",
+        "category": "Places & Locations",
+        "description": "盤古大陸是板塊構造學為古生代末期所復原的唯一超級大陸。Wheel of Heaven 文集將其視為厄羅欣合成地球生命最初階段的參照地質配置。"
+      },
+      {
+        "path": "/zh-Hant/wiki/third-temple/",
+        "title": "第三聖殿",
+        "category": "Places & Locations",
+        "description": "第三聖殿在猶太末世論中是末日時分應當在耶路撒冷重建的聖所。在 Wheel of Heaven 文集中,它被讀作大使館 — 大歸來的厄羅欣式接待基礎設施 — 的象徵性投影。"
+      }
+    ],
+    "zh-Hant/wiki/noah": [
+      {
+        "path": "/zh-Hant/wiki/abraham/",
+        "title": "亞伯拉罕",
+        "category": "Biblical Figures",
+        "description": "亞伯拉罕(希伯來語:אַבְרָהָם)是亞伯拉罕諸宗教 — 猶太教、基督教和伊斯蘭教 — 的奠基族長,其形象將氏族敘事、立約與先知傳承結合於一身。在 Wheel of Heaven 框架內,亞伯拉罕被讀作一次較晚期的厄羅欣傳遞的接受者,是契約血統跨越世代延向摩西及之後的關鍵節點。"
+      },
+      {
+        "path": "/zh-Hant/wiki/adam-and-eve/",
+        "title": "亞當與夏娃",
+        "category": "Biblical Figures",
+        "description": "亞當(希伯來語:אָדָם, ʾāḏām)與夏娃(希伯來語:חַוָּה, ḥawwāh)是希伯來聖經《創世記》敘事中的首批人類,由耶洛因在伊甸園中所造,被授予關於分別善惡之樹的禁令,並在食用該樹之果後被逐出園子。在雷爾派源典所發展、Wheel of Heaven 文集所採行的閱讀中,亞當與夏娃被讀為具體的歷史形象:即"
+      },
+      {
+        "path": "/zh-Hant/wiki/elijah/",
+        "title": "以利亞",
+        "category": "Biblical Figures",
+        "description": "以利亞(希伯來語:אֵלִיָּהוּ)是乘火戰車被提升上天的聖經先知,其形象貫通猶太教、基督教與伊斯蘭教。在 Wheel of Heaven 文集中,他的昇天被讀作藉助厄羅欣飛行器進行的物理性提升的典型案例。"
+      },
+      {
+        "path": "/zh-Hant/wiki/moses/",
+        "title": "摩西",
+        "category": "Biblical Figures",
+        "description": "摩西(希伯來語:מֹשֶׁה,“摩謝”)是猶太教的奠基先知,在西奈山為《妥拉》的中介者。在 Wheel of Heaven 文集中,他與耶和華的直接接觸被讀作厄羅欣向人類受信者進行技術傳遞的最有據可查的案例之一。"
+      }
+    ],
+    "zh-Hant/wiki/noahic-covenant": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/noahs-ark": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/number-of-man": [
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/swastika/",
+        "title": "卐字",
+        "category": "Symbolism & Motifs",
+        "description": "卐字(梵文:<span class=\"sanskrit\">स्वस्तिक</span>)是世界文化中得到最普遍證言的符號之一,納粹主義對其的工具化遮蔽了其漫長的精神史。Wheel of Heaven 文集討論其原本的語義,以及它在雷爾派無限符號中所扮演的功能。"
+      }
+    ],
+    "zh-Hant/wiki/pangaea": [
+      {
+        "path": "/zh-Hant/wiki/eden/",
+        "title": "伊甸",
+        "category": "Places & Locations",
+        "description": "伊甸(希伯來語:עֵדֶן,ʿĒden)是希伯來聖經所指認的地區,最初的人類在被驅逐之前於該地的園中受造並生活。依雷爾派源典所發展、並為 Wheel of Heaven 文集所採行的閱讀,伊甸是耶洛因以色列創造隊伍在前洪水時期超級大陸上的作業領地 —— 該隊伍的生物合成工作產出了七支區域性造物者隊伍中最具成就的人類譜系"
+      },
+      {
+        "path": "/zh-Hant/wiki/petra/",
+        "title": "佩特拉",
+        "category": "Places & Locations",
+        "description": "佩特拉(希臘語 Πέτρα「岩石」;納巴泰亞蘭語 רקמו Raqmū;希伯來語 רֶקֶם Reqem;阿拉伯語 ٱلْبَتْرَاء al-Batrāʾ)是位於今日約旦南部的納巴泰王國岩鑿都城,也是一項修正主義假說的地理核心 —— 此假說主要與加拿大研究者丹·吉布森相關聯,主張佩特拉(而非如今稱為麥加的漢志城市)"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-jerusalem/",
+        "title": "新耶路撒冷",
+        "category": "Places & Locations",
+        "description": "新耶路撒冷在聖經末世論中是末日時分自天而降的更新之城。在 Wheel of Heaven 文集中,它被讀作大使館與大歸來的象徵性投影 — 與其說是嚴格的神學比喻,不如說是厄羅欣式的接待基礎設施。"
+      },
+      {
+        "path": "/zh-Hant/wiki/third-temple/",
+        "title": "第三聖殿",
+        "category": "Places & Locations",
+        "description": "第三聖殿在猶太末世論中是末日時分應當在耶路撒冷重建的聖所。在 Wheel of Heaven 文集中,它被讀作大使館 — 大歸來的厄羅欣式接待基礎設施 — 的象徵性投影。"
+      }
+    ],
+    "zh-Hant/wiki/pantropy": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/astrobiology/",
+        "title": "天體生物學",
+        "category": "Science & Technology",
+        "description": "天體生物學是對宇宙中生命 — 其起源、演化、分佈及在地球之外可能未來 — 的科學研究。對 Wheel of Heaven 文集而言,它構成了厄羅欣假說在當代的科學對應物,探究其他世界中生命出現的條件。"
+      }
+    ],
+    "zh-Hant/wiki/paradism": [
+      {
+        "path": "/zh-Hant/wiki/humanitarianism/",
+        "title": "人道主義",
+        "category": "Raëlism",
+        "description": "人道主義在雷爾派文獻框架中指普遍倫理原則的總體 — 人權、消除貧困、對生命的尊重 — 是人類邁向與厄羅欣公開接觸的準備。Wheel of Heaven 文集將其列為大歸來的政治條件之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/geniocracy/",
+        "title": "天才政治",
+        "category": "Raëlism",
+        "description": "天才政治在雷爾派文獻中是基於受測度的認知能力對領導者進行選拔的政治制度。Wheel of Heaven 文集將其提及為雷爾運動所提出的制度構想之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-commandments/",
+        "title": "新誡命",
+        "category": "Raëlism",
+        "description": "新誡命在雷爾派文獻框架中指由耶和華通過雷爾向當代人類傳遞的、經更新的倫理與政治戒律總體。Wheel of Heaven 文集將其置於此前厄羅欣立法性傳遞的延續之中。"
+      },
+      {
+        "path": "/zh-Hant/wiki/rael/",
+        "title": "雷爾",
+        "category": "Raëlism",
+        "description": "雷爾(原名克洛德·沃裡隆,1946年生)是雷爾運動的創立者,他自稱於1973年與1975年從厄羅欣處直接接收到了傳遞。在 Wheel of Heaven 文集中,他被讀作處於摩西、耶穌、穆罕默德延續中的厄羅欣系譜中最後一位有據可查的先知。"
+      }
+    ],
+    "zh-Hant/wiki/petra": [
+      {
+        "path": "/zh-Hant/wiki/eden/",
+        "title": "伊甸",
+        "category": "Places & Locations",
+        "description": "伊甸(希伯來語:עֵדֶן,ʿĒden)是希伯來聖經所指認的地區,最初的人類在被驅逐之前於該地的園中受造並生活。依雷爾派源典所發展、並為 Wheel of Heaven 文集所採行的閱讀,伊甸是耶洛因以色列創造隊伍在前洪水時期超級大陸上的作業領地 —— 該隊伍的生物合成工作產出了七支區域性造物者隊伍中最具成就的人類譜系"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-jerusalem/",
+        "title": "新耶路撒冷",
+        "category": "Places & Locations",
+        "description": "新耶路撒冷在聖經末世論中是末日時分自天而降的更新之城。在 Wheel of Heaven 文集中,它被讀作大使館與大歸來的象徵性投影 — 與其說是嚴格的神學比喻,不如說是厄羅欣式的接待基礎設施。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pangaea/",
+        "title": "盤古大陸",
+        "category": "Places & Locations",
+        "description": "盤古大陸是板塊構造學為古生代末期所復原的唯一超級大陸。Wheel of Heaven 文集將其視為厄羅欣合成地球生命最初階段的參照地質配置。"
+      },
+      {
+        "path": "/zh-Hant/wiki/third-temple/",
+        "title": "第三聖殿",
+        "category": "Places & Locations",
+        "description": "第三聖殿在猶太末世論中是末日時分應當在耶路撒冷重建的聖所。在 Wheel of Heaven 文集中,它被讀作大使館 — 大歸來的厄羅欣式接待基礎設施 — 的象徵性投影。"
+      }
+    ],
+    "zh-Hant/wiki/plurality-of-gods": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/precession": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      }
+    ],
+    "zh-Hant/wiki/prophet": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven 是一項受編纂的比較性知識專案 —— 既是一套詮釋性框架的名稱,也是闡明該框架的文集 —— 聚焦於啟示、宇宙年代學、遠古記憶、神聖歷史與現代再詮釋。本專案的工作假設為:地球上的生命乃出自一支特定的進步文明 —— 在希伯來聖經中稱為「耶洛因」(*Elohim*)—— 之審慎科學工作的成果。他"
+      }
+    ],
+    "zh-Hant/wiki/pursue": [
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/military-cover-up-of-exobiology/",
+        "title": "外星生物學的軍事隱瞞",
+        "category": "Ufology",
+        "description": "外星生物學的軍事隱瞞指國家(主要為美國)將與地球上非人類存在相關的資料進行機密化處理的一整套機制。Wheel of Heaven 文集將其記錄為阻礙大歸來的制度性障礙之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/us-space-force/",
+        "title": "美國太空軍",
+        "category": "Ufology",
+        "description": "美國太空軍自2019年起為美國武裝力量的太空軍種。Wheel of Heaven 文集將其作為當代太空軍事化的制度性指標加以提及,並與對外星生物學的軍事隱瞞相關聯。"
+      },
+      {
+        "path": "/zh-Hant/wiki/crop-circles/",
+        "title": "麥田圈",
+        "category": "Ufology",
+        "description": "麥田圈,或稱麥田形構,是農作物(主要為小麥、大麥、油菜籽、黑麥、玉米、亞麻籽與大豆)經系統性壓伏所形成之大型幾何、數學或符號性圖案。當代現象主要於 1970 年代後期出現於英格蘭南部,其後在威爾特郡地區(可觀之艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域)有實質地理集中,並有實質後續國際性發生。該現象於 1991 年"
+      }
+    ],
+    "zh-Hant/wiki/rael": [
+      {
+        "path": "/zh-Hant/wiki/humanitarianism/",
+        "title": "人道主義",
+        "category": "Raëlism",
+        "description": "人道主義在雷爾派文獻框架中指普遍倫理原則的總體 — 人權、消除貧困、對生命的尊重 — 是人類邁向與厄羅欣公開接觸的準備。Wheel of Heaven 文集將其列為大歸來的政治條件之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/geniocracy/",
+        "title": "天才政治",
+        "category": "Raëlism",
+        "description": "天才政治在雷爾派文獻中是基於受測度的認知能力對領導者進行選拔的政治制度。Wheel of Heaven 文集將其提及為雷爾運動所提出的制度構想之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-commandments/",
+        "title": "新誡命",
+        "category": "Raëlism",
+        "description": "新誡命在雷爾派文獻框架中指由耶和華通過雷爾向當代人類傳遞的、經更新的倫理與政治戒律總體。Wheel of Heaven 文集將其置於此前厄羅欣立法性傳遞的延續之中。"
+      },
+      {
+        "path": "/zh-Hant/wiki/paradism/",
+        "title": "樂園主義",
+        "category": "Raëlism",
+        "description": "樂園主義在雷爾派文獻框架中是關於一種無貨幣、無強迫勞動的自動化豐裕社會的社會經濟計劃。Wheel of Heaven 文集將其讀作大歸來準備階段的政治地平。"
+      }
+    ],
+    "zh-Hant/wiki/raelian-symbol-of-infinity": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/raelism": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/reference-corpus-of-the-raelian-canon": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-tradition/",
+        "title": "傳統",
+        "category": "Theology & Traditions",
+        "description": "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+      },
+      {
+        "path": "/zh-Hant/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew/",
+        "title": "希伯來語",
+        "category": "Theology & Traditions",
+        "description": "希伯來語(<span class=\"hebrew\">עִבְרִית</span>,“伊夫裡特”)是猶太教根本文本所使用的閃米特語,其三子音字根體系與壓縮的多義性在 Wheel of Heaven 文集所提供的閱讀中發揮著決定性作用。"
+      }
+    ],
+    "zh-Hant/wiki/religion": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-tradition/",
+        "title": "傳統",
+        "category": "Theology & Traditions",
+        "description": "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew/",
+        "title": "希伯來語",
+        "category": "Theology & Traditions",
+        "description": "希伯來語(<span class=\"hebrew\">עִבְרִית</span>,“伊夫裡特”)是猶太教根本文本所使用的閃米特語,其三子音字根體系與壓縮的多義性在 Wheel of Heaven 文集所提供的閱讀中發揮著決定性作用。"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-truth/",
+        "title": "真理",
+        "category": "Theology & Traditions",
+        "description": "真理在雷爾派文獻與 Wheel of Heaven 文集中指通過先知系譜由厄羅欣傳遞的連貫資訊內容 — 與宗教制度所累積起來的扭曲層次相對立。"
+      }
+    ],
+    "zh-Hant/wiki/sacred-geometry": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/samsara": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      }
+    ],
+    "zh-Hant/wiki/satan": [
+      {
+        "path": "/zh-Hant/wiki/elohimian-space-wars/",
+        "title": "厄羅欣式太空戰爭",
+        "category": "Elohim",
+        "description": "厄羅欣式太空戰爭 — Wheel of Heaven 的正典條目請參閱「神戰」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim-home-planet/",
+        "title": "厄羅欣母行星",
+        "category": "Elohim",
+        "description": "厄羅欣母行星 — Wheel of Heaven 的正典條目請參閱「厄羅欣式母行星」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/yahweh/",
+        "title": "耶和華",
+        "category": "Elohim",
+        "description": "耶和華(希伯來語:יהוה,YHWH)是希伯來聖經中首要神聖形象的專有名字,主流傳統慣以單數的以色列之神讀之。在雷爾派源典所發展、文集所採行的閱讀中,耶和華是一位特定的 Eloha —— 永恆者議會主席,自摩羯時代起親自指揮地球生命創造工作的高階聯盟權威,亦是其後一萬五千年中與地球各先知人物對話的主要聯盟代表。文集的主"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim/",
+        "title": "耶洛因",
+        "category": "Elohim",
+        "description": "耶洛因(希伯來語:אֱלֹהִים)是《妥拉》通篇用於通常譯為「神」之諸位形象的希伯來語複數名詞。在雷爾派源典所發展、並為 Wheel of Heaven 文集所採納的閱讀中,此詞指涉一支由生物性個體所組成的特定外星文明 —— 在科技上遠遠超越當今人類的文明 —— 他們設計並合成了地球上的生命(包括人類自身),其後對人"
+      }
+    ],
+    "zh-Hant/wiki/sendys-conditions-of-coherence": [
+      {
+        "path": "/zh-Hant/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇航員假說",
+        "category": "Methodology",
+        "description": "古代宇航員假說主張,非地球的智慧曾在史前和古代造訪地球,對人類文明的發展留下了決定性印記。Wheel of Heaven 文集是其一個有紀律的變體,通過雷爾派文獻的厄羅欣式格柵來閱讀這一假說。"
+      },
+      {
+        "path": "/zh-Hant/wiki/dhorme-bible-translation/",
+        "title": "多爾姆聖經翻譯",
+        "category": "Methodology",
+        "description": "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
+      },
+      {
+        "path": "/zh-Hant/wiki/neo-euhemerism/",
+        "title": "新埃烏赫梅羅斯主義",
+        "category": "Methodology",
+        "description": "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+      },
+      {
+        "path": "/zh-Hant/wiki/biglino-method/",
+        "title": "比利諾方法",
+        "category": "Methodology",
+        "description": "比利諾方法以義大利譯者毛羅·比利諾命名,其要旨在於剝離積累起來的神學預設,以恢復希伯來聖經文本的字面與技術意涵。Wheel of Heaven 文集廣泛參考它作為重新閱讀資料的工具,但不與其全部主張自我同一化。"
+      }
+    ],
+    "zh-Hant/wiki/serpent": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/serpentine-rebellion": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/shiur-qomah": [
+      {
+        "path": "/zh-Hant/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "《創世記》(希伯來語:בְּרֵאשִׁית,《貝瑞希特》)是《妥拉》與希伯來聖經的首卷,敘述創造、伊甸園、大洪水與族長們的故事。對 Wheel of Heaven 文集而言,它是必須通過厄羅欣式格柵重新閱讀的最重要源典。"
+      },
+      {
+        "path": "/zh-Hant/wiki/kabbalah/",
+        "title": "卡巴拉",
+        "category": "Texts & Sources",
+        "description": "卡巴拉(<span class=\"hebrew\">קַבָּלָה</span>)是自中世紀以來發展起來的猶太神秘主義傳統,以對《妥拉》的秘傳式閱讀為核心。Wheel of Heaven 文集將其作為歷史上對希伯來文本進行非字面閱讀的儲存通道之一,討論其貢獻與侷限。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew-bible/",
+        "title": "希伯來聖經",
+        "category": "Texts & Sources",
+        "description": "希伯來聖經（希伯來語：תָּנָ״ךְ，*Tanakh*）是 Wheel of Heaven 框架的主要根基性源文本實體——這部大量正典希伯來語文本文集包含二十四卷書，傳統上組織為三個主要部分（妥拉、先知書、聖卷），主要由伊甸譜系世系線在從晚期青銅時代到波斯—希臘化時期約十二個世紀中產生，並透過馬所拉文本傳統大量保存。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hekhalot-literature/",
+        "title": "希卡洛特文獻",
+        "category": "Texts & Sources",
+        "description": "希卡洛特文獻（希伯來文 הֵיכָלוֹת，意為 '宮殿'）是古典時代晚期的猶太神祕主義著作總集，描述靈魂穿越七重天上宮殿、上升至神聖寶座戰車（merkavah）的歷程。它是猶太神祕主義中前卡巴拉時期的一層，也是傳承希烏爾·科瑪的文獻集。"
+      }
+    ],
+    "zh-Hant/wiki/sodom-and-gomorrah": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/star-of-david": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/swastika": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "分別善惡之樹",
+        "category": "Symbolism & Motifs",
+        "description": "分別善惡之樹在《創世記》中是其僭越標誌著亞當血統自主化的知識門檻。Wheel of Heaven 文集將其讀作通往受到保留的厄羅欣式技術知識的接入之轉喻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      }
+    ],
+    "zh-Hant/wiki/synthetic-biology": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/astrobiology/",
+        "title": "天體生物學",
+        "category": "Science & Technology",
+        "description": "天體生物學是對宇宙中生命 — 其起源、演化、分佈及在地球之外可能未來 — 的科學研究。對 Wheel of Heaven 文集而言,它構成了厄羅欣假說在當代的科學對應物,探究其他世界中生命出現的條件。"
+      }
+    ],
+    "zh-Hant/wiki/synthetic-genomics": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/terraforming/",
+        "title": "地球化(terraforming)",
+        "category": "Science & Technology",
+        "description": "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/astrobiology/",
+        "title": "天體生物學",
+        "category": "Science & Technology",
+        "description": "天體生物學是對宇宙中生命 — 其起源、演化、分佈及在地球之外可能未來 — 的科學研究。對 Wheel of Heaven 文集而言,它構成了厄羅欣假說在當代的科學對應物,探究其他世界中生命出現的條件。"
+      }
+    ],
+    "zh-Hant/wiki/terraforming": [
+      {
+        "path": "/zh-Hant/wiki/synthetic-genomics/",
+        "title": "合成基因組學",
+        "category": "Science & Technology",
+        "description": "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/synthetic-biology/",
+        "title": "合成生物學",
+        "category": "Science & Technology",
+        "description": "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pantropy/",
+        "title": "向異演化(pantropy)",
+        "category": "Science & Technology",
+        "description": "向異演化(pantropy)指對生物 — 包括人類 — 進行遺傳改造以適應另一世界的條件,與將世界一側改造以適應生物的地球化相對立。Wheel of Heaven 文集將其作為厄羅欣播種的替代或補充策略加以提及。"
+      },
+      {
+        "path": "/zh-Hant/wiki/astrobiology/",
+        "title": "天體生物學",
+        "category": "Science & Technology",
+        "description": "天體生物學是對宇宙中生命 — 其起源、演化、分佈及在地球之外可能未來 — 的科學研究。對 Wheel of Heaven 文集而言,它構成了厄羅欣假說在當代的科學對應物,探究其他世界中生命出現的條件。"
+      }
+    ],
+    "zh-Hant/wiki/the-alliance": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/the-tradition": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew/",
+        "title": "希伯來語",
+        "category": "Theology & Traditions",
+        "description": "希伯來語(<span class=\"hebrew\">עִבְרִית</span>,“伊夫裡特”)是猶太教根本文本所使用的閃米特語,其三子音字根體系與壓縮的多義性在 Wheel of Heaven 文集所提供的閱讀中發揮著決定性作用。"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-truth/",
+        "title": "真理",
+        "category": "Theology & Traditions",
+        "description": "真理在雷爾派文獻與 Wheel of Heaven 文集中指通過先知系譜由厄羅欣傳遞的連貫資訊內容 — 與宗教制度所累積起來的扭曲層次相對立。"
+      }
+    ],
+    "zh-Hant/wiki/the-truth": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/the-tradition/",
+        "title": "傳統",
+        "category": "Theology & Traditions",
+        "description": "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+      },
+      {
+        "path": "/zh-Hant/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+      },
+      {
+        "path": "/zh-Hant/wiki/hebrew/",
+        "title": "希伯來語",
+        "category": "Theology & Traditions",
+        "description": "希伯來語(<span class=\"hebrew\">עִבְרִית</span>,“伊夫裡特”)是猶太教根本文本所使用的閃米特語,其三子音字根體系與壓縮的多義性在 Wheel of Heaven 文集所提供的閱讀中發揮著決定性作用。"
+      }
+    ],
+    "zh-Hant/wiki/theomachy": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/third-temple": [
+      {
+        "path": "/zh-Hant/wiki/eden/",
+        "title": "伊甸",
+        "category": "Places & Locations",
+        "description": "伊甸(希伯來語:עֵדֶן,ʿĒden)是希伯來聖經所指認的地區,最初的人類在被驅逐之前於該地的園中受造並生活。依雷爾派源典所發展、並為 Wheel of Heaven 文集所採行的閱讀,伊甸是耶洛因以色列創造隊伍在前洪水時期超級大陸上的作業領地 —— 該隊伍的生物合成工作產出了七支區域性造物者隊伍中最具成就的人類譜系"
+      },
+      {
+        "path": "/zh-Hant/wiki/petra/",
+        "title": "佩特拉",
+        "category": "Places & Locations",
+        "description": "佩特拉(希臘語 Πέτρα「岩石」;納巴泰亞蘭語 רקמו Raqmū;希伯來語 רֶקֶם Reqem;阿拉伯語 ٱلْبَتْرَاء al-Batrāʾ)是位於今日約旦南部的納巴泰王國岩鑿都城,也是一項修正主義假說的地理核心 —— 此假說主要與加拿大研究者丹·吉布森相關聯,主張佩特拉(而非如今稱為麥加的漢志城市)"
+      },
+      {
+        "path": "/zh-Hant/wiki/new-jerusalem/",
+        "title": "新耶路撒冷",
+        "category": "Places & Locations",
+        "description": "新耶路撒冷在聖經末世論中是末日時分自天而降的更新之城。在 Wheel of Heaven 文集中,它被讀作大使館與大歸來的象徵性投影 — 與其說是嚴格的神學比喻,不如說是厄羅欣式的接待基礎設施。"
+      },
+      {
+        "path": "/zh-Hant/wiki/pangaea/",
+        "title": "盤古大陸",
+        "category": "Places & Locations",
+        "description": "盤古大陸是板塊構造學為古生代末期所復原的唯一超級大陸。Wheel of Heaven 文集將其視為厄羅欣合成地球生命最初階段的參照地質配置。"
+      }
+    ],
+    "zh-Hant/wiki/tower-of-babel": [
+      {
+        "path": "/zh-Hant/wiki/adamite-struggle/",
+        "title": "亞當血統鬥爭",
+        "category": "Events & Narratives",
+        "description": "亞當血統鬥爭指最初被合成的人類與其厄羅欣創造者之間的衝突;正典敘述參見「蛇式叛亂」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/apocalypse/",
+        "title": "啟示",
+        "category": "Events & Narratives",
+        "description": "啟示(希臘語:ἀποκάλυψις,“揭開”)指對隱秘事物的開示,尤指那些宣告世界秩序決定性變革的末世文獻。在 Wheel of Heaven 框架內,啟示被讀作歲差時代之間的過渡 — 一個大月的終結與下一個大月的門檻。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-return/",
+        "title": "大歸來",
+        "category": "Events & Narratives",
+        "description": "大歸來在 Wheel of Heaven 文集中指在所要求的政治、技術與文化條件具備之後,厄羅欣以公開方式返回地球的情景 — 即雷爾運動的末世地平。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-flood/",
+        "title": "大洪水",
+        "category": "Events & Narratives",
+        "description": "大洪水（希伯來語：הַמַּבּוּל，ha-mabbul）是記載於《創世記》6–9章及超過兩百個並行文化傳統中的災難性全球事件，在此事件中更廣泛的洪水前人類文明被毀滅，僅有少數遺民透過挪亞方舟得以保全。根據雷爾運動原始材料所發展、並為 Wheel of Heaven 語料庫所採納的解讀，大洪水被讀作雙子座時代（依據語"
+      }
+    ],
+    "zh-Hant/wiki/tree-of-life": [
+      {
+        "path": "/zh-Hant/wiki/fractal-cosmology/",
+        "title": "分形宇宙學",
+        "category": "Cosmology & Framework",
+        "description": "分形宇宙學認為宇宙在不同尺度上 — 從原子到星系再到生命 — 呈現自相似性。在 Wheel of Heaven 文集中,它將巢狀式文明組成的宇宙鏈與一種自洽的宇宙學框架相銜接。"
+      },
+      {
+        "path": "/zh-Hant/wiki/four-levels/",
+        "title": "四層級",
+        "category": "Cosmology & Framework",
+        "description": "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+      },
+      {
+        "path": "/zh-Hant/wiki/embassy/",
+        "title": "大使館",
+        "category": "Cosmology & Framework",
+        "description": "大使館是指定的實體建築，座落於由東道國授予治外法權地位的特定土地上，準備用以接待耶洛因聯盟的正式抵達，並作為該抵達所將開啟的聯盟與人類代表之間會晤的運作地點。大使館的規格在一九七三年的接觸中給出，並在後續的通訊中加以闡述。原始來源強烈傾向以色列、鄰近耶路撒冷之地，並將大使館認定為猶太啟示傳統中的第三聖殿；一九九七年十二"
+      },
+      {
+        "path": "/zh-Hant/wiki/cosmic-competition/",
+        "title": "宇宙競爭",
+        "category": "Cosmology & Framework",
+        "description": "宇宙競爭是雷爾派文獻中的框架,在其中不同起源的厄羅欣文明進入技術、世系與意識形態層面的競逐。對 Wheel of Heaven 文集而言,它構成聖典所記錄的人類歷史重大轉折的政治背景。"
+      }
+    ],
+    "zh-Hant/wiki/tree-of-the-knowledge-of-good-and-evil": [
+      {
+        "path": "/zh-Hant/wiki/number-of-man/",
+        "title": "人之數",
+        "category": "Symbolism & Motifs",
+        "description": "人之數 — 即《啟示錄》中的666 — 在 Wheel of Heaven 文集中被讀作一種技術性數值標記,而非超自然的詛咒。它屬於啟示錄文本的數字命理學(gematria)格柵。"
+      },
+      {
+        "path": "/zh-Hant/wiki/forerunners/",
+        "title": "先驅者",
+        "category": "Symbolism & Motifs",
+        "description": "先驅者在 Wheel of Heaven 文集中指為地球上厄羅欣歷史重大轉折做準備的人類或先知血脈 — 在古代傳遞與未來再啟用之間起到中繼作用的人物。"
+      },
+      {
+        "path": "/zh-Hant/wiki/leviathan/",
+        "title": "利維坦",
+        "category": "Symbolism & Motifs",
+        "description": "利維坦 — Wheel of Heaven 文集對原初複合生物的正典處理請參閱「龍」條目。"
+      },
+      {
+        "path": "/zh-Hant/wiki/swastika/",
+        "title": "卐字",
+        "category": "Symbolism & Motifs",
+        "description": "卐字(梵文:<span class=\"sanskrit\">स्वस्तिक</span>)是世界文化中得到最普遍證言的符號之一,納粹主義對其的工具化遮蔽了其漫長的精神史。Wheel of Heaven 文集討論其原本的語義,以及它在雷爾派無限符號中所扮演的功能。"
+      }
+    ],
+    "zh-Hant/wiki/ufology": [
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/military-cover-up-of-exobiology/",
+        "title": "外星生物學的軍事隱瞞",
+        "category": "Ufology",
+        "description": "外星生物學的軍事隱瞞指國家(主要為美國)將與地球上非人類存在相關的資料進行機密化處理的一整套機制。Wheel of Heaven 文集將其記錄為阻礙大歸來的制度性障礙之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/us-space-force/",
+        "title": "美國太空軍",
+        "category": "Ufology",
+        "description": "美國太空軍自2019年起為美國武裝力量的太空軍種。Wheel of Heaven 文集將其作為當代太空軍事化的制度性指標加以提及,並與對外星生物學的軍事隱瞞相關聯。"
+      },
+      {
+        "path": "/zh-Hant/wiki/crop-circles/",
+        "title": "麥田圈",
+        "category": "Ufology",
+        "description": "麥田圈,或稱麥田形構,是農作物(主要為小麥、大麥、油菜籽、黑麥、玉米、亞麻籽與大豆)經系統性壓伏所形成之大型幾何、數學或符號性圖案。當代現象主要於 1970 年代後期出現於英格蘭南部,其後在威爾特郡地區(可觀之艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域)有實質地理集中,並有實質後續國際性發生。該現象於 1991 年"
+      }
+    ],
+    "zh-Hant/wiki/us-space-force": [
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/military-cover-up-of-exobiology/",
+        "title": "外星生物學的軍事隱瞞",
+        "category": "Ufology",
+        "description": "外星生物學的軍事隱瞞指國家(主要為美國)將與地球上非人類存在相關的資料進行機密化處理的一整套機制。Wheel of Heaven 文集將其記錄為阻礙大歸來的制度性障礙之一。"
+      },
+      {
+        "path": "/zh-Hant/wiki/crop-circles/",
+        "title": "麥田圈",
+        "category": "Ufology",
+        "description": "麥田圈,或稱麥田形構,是農作物(主要為小麥、大麥、油菜籽、黑麥、玉米、亞麻籽與大豆)經系統性壓伏所形成之大型幾何、數學或符號性圖案。當代現象主要於 1970 年代後期出現於英格蘭南部,其後在威爾特郡地區(可觀之艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域)有實質地理集中,並有實質後續國際性發生。該現象於 1991 年"
+      }
+    ],
+    "zh-Hant/wiki/wheel-of-heaven": [
+      {
+        "path": "/zh-Hant/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya(阿拉伯語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah,源自 حَنِيف ḥanīf,意為「由偶像崇拜轉離、傾向那正直之原初崇拜者」)是古蘭經與早期伊斯蘭用以指稱亞伯拉罕純粹一神論的術語 —— 即「亞伯拉罕的宗教」(millat Ibrāhīm),早在猶太教或基督教存在之前,亞伯拉罕便"
+      },
+      {
+        "path": "/zh-Hant/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters)——是美國政府於 2026 年啟動的計畫,在戰爭部的 war.gov/UFO 入口網站上,對不明異常現象(UAP)的未結案紀錄進行解密與公開"
+      },
+      {
+        "path": "/zh-Hant/wiki/ufology/",
+        "title": "UFO學",
+        "category": "Ufology",
+        "description": "UFO學是對不明飛行物及相關接觸現象的研究。Wheel of Heaven 文集討論其檔案價值,在可用案例與無定論案例之間作出區分,而不與該領域整體保持一致立場。"
+      },
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      }
+    ],
+    "zh-Hant/wiki/world-age": [
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      },
+      {
+        "path": "/zh-Hant/wiki/chronology/",
+        "title": "年代學",
+        "category": "Cosmic Chronology",
+        "description": "年代學 — 由十二個歲差時代構成大年的本文集宇宙時間軸。實質條目位於「世界時代」。"
+      }
+    ],
+    "zh-Hant/wiki/yahweh": [
+      {
+        "path": "/zh-Hant/wiki/elohimian-space-wars/",
+        "title": "厄羅欣式太空戰爭",
+        "category": "Elohim",
+        "description": "厄羅欣式太空戰爭 — Wheel of Heaven 的正典條目請參閱「神戰」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim-home-planet/",
+        "title": "厄羅欣母行星",
+        "category": "Elohim",
+        "description": "厄羅欣母行星 — Wheel of Heaven 的正典條目請參閱「厄羅欣式母行星」。"
+      },
+      {
+        "path": "/zh-Hant/wiki/satan/",
+        "title": "撒但",
+        "category": "Elohim",
+        "description": "撒但(שָׂטָן,希伯來語:「敵手」、「控告者」、「對手」)是位於母星上的一位耶洛因(Eloha)形象,即耶洛因文明內部一個政治派系的領袖。該派系始終反對創造在能力上能與其締造者匹敵或超越其締造者的合成存有。撒但的立場自地球計畫開始之前即實質一貫:按耶洛因自身形像創造存有根本上具有危險,任何協定、任何監督、任何地理距"
+      },
+      {
+        "path": "/zh-Hant/wiki/elohim/",
+        "title": "耶洛因",
+        "category": "Elohim",
+        "description": "耶洛因(希伯來語:אֱלֹהִים)是《妥拉》通篇用於通常譯為「神」之諸位形象的希伯來語複數名詞。在雷爾派源典所發展、並為 Wheel of Heaven 文集所採納的閱讀中,此詞指涉一支由生物性個體所組成的特定外星文明 —— 在科技上遠遠超越當今人類的文明 —— 他們設計並合成了地球上的生命(包括人類自身),其後對人"
+      }
+    ],
+    "zh-Hant/wiki/zodiac": [
+      {
+        "path": "/zh-Hant/wiki/world-age/",
+        "title": "世界時代",
+        "category": "Cosmic Chronology",
+        "description": "世界時代在 Wheel of Heaven 文集中指春分點穿越黃道十二宮之一的時段 — 約2,160年。十二個世界時代構成一個大年,是本專案宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年是地軸歲差完整一個週期的時長 —— 即地球自轉軸針對背景恆星描出一個完整圓錐所需的時間,等同於春分點繞黃道完整循行一周。依現代天文測量,大年約為 25,772 年;依占星傳統的計算,則為 25,920 年(這個便利的數字為 2⁶ × 3⁴ × 5,源自 360° × 每度歲差位移 72 年)。此概念在西方思想中具有"
+      },
+      {
+        "path": "/zh-Hant/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月在歲差框架中指春分點穿越黃道十二宮之一所歷經的時段 — 約2,160年。Wheel of Heaven 文集將其等同於「世界時代」,作為其宇宙年代論的基本單位。"
+      },
+      {
+        "path": "/zh-Hant/wiki/antediluvian/",
+        "title": "大洪水之前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、Wheel of Heaven 文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代至巨蟹座時代(約公元前 11,375 – 6,6"
+      }
+    ]
+  }
+}

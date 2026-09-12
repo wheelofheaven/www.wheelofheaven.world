@@ -1,0 +1,29 @@
+{
+  "id": "baigent-leigh-dead-sea-scrolls-deception",
+  "title": "The Dead Sea Scrolls Deception",
+  "authored_by": [
+    "Michael Baigent & Richard Leigh"
+  ],
+  "publish_date": "1991",
+  "follow_url": "",
+  "description": "The 1991 bestseller advancing the Vatican-suppression conspiracy thesis about the scrolls' delayed publication — cited across the corpus as the cautionary control on sensational readings.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "dead-sea-scrolls",
+    "conspiracy-literature"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

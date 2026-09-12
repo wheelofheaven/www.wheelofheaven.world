@@ -1,0 +1,26 @@
+{
+  "id": "mathematics-and-the-unexpected",
+  "title": "Mathematics and the Unexpected",
+  "authored_by": [
+    "Ivar Ekeland"
+  ],
+  "publish_date": "1988",
+  "follow_url": "",
+  "description": "",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Infinite in Both Directions",
+      "path": "/articles/the-infinite-in-both-directions/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

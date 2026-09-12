@@ -1,0 +1,26 @@
+{
+  "id": "de-principiis",
+  "title": "On First Principles (De Principiis)",
+  "authored_by": [
+    "Origen"
+  ],
+  "publish_date": "230",
+  "follow_url": "https://www.newadvent.org/fathers/04121.htm",
+  "description": "Origen's early-third-century systematic theology, an early source applying the Isaiah 14 Helel passage to a cosmic fallen figure — a foundational stage in the patristic construction of the cosmic-Lucifer reading the corpus distinguishes from the underlying figures.",
+  "medium": "article",
+  "topics": [
+    "Origen",
+    "Lucifer",
+    "Patristics",
+    "Isaiah 14"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

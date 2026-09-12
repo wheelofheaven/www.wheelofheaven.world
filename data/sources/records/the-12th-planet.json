@@ -1,0 +1,41 @@
+{
+  "id": "the-12th-planet",
+  "title": "The 12th Planet",
+  "authored_by": [
+    "Zecharia Sitchin"
+  ],
+  "publish_date": "1976",
+  "follow_url": "https://www.sitchin.com/",
+  "description": "Zecharia Sitchin's 1976 Stein and Day work — the foundational volume of the *Earth Chronicles* series and the principal source of the contemporary Anunnaki interpretation. Sitchin (1920–2010) proposed that the Sumerian *Anunnaki* designate a specific extraterrestrial civilization originating on a hypothetical planet \"Nibiru\" on a 3,600-year orbit, who created humanity through genetic engineering, directed substantial Mesopotamian monumental construction, and substantially shaped Bronze Age civilization. Sitchin's specific Sumerian readings and his Nibiru hypothesis remain rejected by mainstream Assyriology and astronomy; the broader ancient-astronaut tradition substantially elaborates from Sitchin's framework.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Anunnaki",
+    "Sumerian",
+    "Ancient Astronauts",
+    "Nibiru"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    },
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    },
+    {
+      "section": "wiki",
+      "title": "Wheel of Heaven",
+      "path": "/wiki/wheel-of-heaven/"
+    },
+    {
+      "section": "wiki",
+      "title": "Zecharia Sitchin",
+      "path": "/wiki/zecharia-sitchin/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "licensed"
+}

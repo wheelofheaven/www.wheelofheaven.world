@@ -1,0 +1,26 @@
+{
+  "id": "tegmark-mathematical-universe",
+  "title": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+  "authored_by": [
+    "Max Tegmark"
+  ],
+  "publish_date": "2014",
+  "follow_url": "https://www.penguinrandomhouse.com/",
+  "description": "Max Tegmark's 2014 Knopf work articulating the four-level multiverse hierarchy and the mathematical-universe hypothesis — a principal contemporary multiverse framework the corpus engages comparatively with the Cosmic Chain.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Cosmology",
+    "Multiverse",
+    "Tegmark",
+    "Reality"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

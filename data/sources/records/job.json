@@ -1,0 +1,42 @@
+{
+  "id": "job",
+  "title": "Job",
+  "authored_by": [
+    "Anonymous (Hebrew Bible)"
+  ],
+  "publish_date": "c. 6th–4th c. BCE",
+  "follow_url": "",
+  "description": "The Hebrew Bible's wisdom-literature dialogue on theodicy and divine justice. Cited in the corpus principally for the prologue (Job 1–2) — the heavenly-court scenes in which the satan figure appears as Yahweh's adversarial-prosecutor — and for the whirlwind speeches' cosmological imagery.",
+  "medium": "religious-text",
+  "topics": [
+    "Hebrew Bible",
+    "Divine Council",
+    "Satan",
+    "Wisdom literature",
+    "Theodicy"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "articles",
+      "title": "The Man Who Bet the Bible on the Moon",
+      "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Mill That Grinds the Ages",
+      "path": "/articles/the-mill-that-grinds-the-ages/"
+    },
+    {
+      "section": "wiki",
+      "title": "Mazzaroth",
+      "path": "/wiki/mazzaroth/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

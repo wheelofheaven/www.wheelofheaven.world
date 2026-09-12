@@ -1,0 +1,24 @@
+{
+  "id": "clines-job-wbc",
+  "title": "Job 1-20 / 21-37 / 38-42 (Word Biblical Commentary)",
+  "authored_by": [
+    "David J. A. Clines"
+  ],
+  "publish_date": "1989-2011",
+  "follow_url": "https://www.zondervanacademic.com/",
+  "description": "Clines's three-volume Word Biblical Commentary on Job, principal contemporary critical commentary.",
+  "medium": "academic-paper",
+  "topics": [
+    "Satan",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "psalms",
+  "title": "Psalms",
+  "authored_by": [
+    "Anonymous (Hebrew Bible)"
+  ],
+  "publish_date": "c. 10th–4th c. BCE",
+  "follow_url": "",
+  "description": "The Hebrew Bible's anthology of liturgical poetry (150 psalms). Cited in the corpus principally for Psalm 82 (the divine council scene) and for the Yahweh-as-warrior and royal-enthronement psalms.",
+  "medium": "religious-text",
+  "topics": [
+    "Hebrew Bible",
+    "Divine Council",
+    "Liturgy"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Book Closest to the Truth",
+      "path": "/articles/the-book-closest-to-the-truth/"
+    },
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "articles",
+      "title": "The World Behind the Odyssey",
+      "path": "/articles/the-world-behind-the-odyssey/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "wiki",
+      "title": "Dead Sea Scrolls",
+      "path": "/wiki/dead-sea-scrolls/"
+    },
+    {
+      "section": "wiki",
+      "title": "Monotheism",
+      "path": "/wiki/monotheism/"
+    }
+  ],
+  "cite_count": 9,
+  "licensing_status": "unverified"
+}

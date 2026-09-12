@@ -1,0 +1,26 @@
+{
+  "id": "histories-book-ii",
+  "title": "Histories, Book II",
+  "authored_by": [
+    "Herodotus of Halicarnassus"
+  ],
+  "publish_date": "c. 440 BCE",
+  "follow_url": "",
+  "description": "Source of the report that Herodotus's Egyptian informants told him the pyramids were 'unimaginably old' — cited in §VII on the Giza complex.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The East Face of Homer",
+      "path": "/articles/the-east-face-of-homer/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Taurus",
+      "path": "/timeline/age-of-taurus/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

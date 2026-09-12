@@ -1,0 +1,30 @@
+{
+  "id": "hallmarks-of-aging",
+  "title": "The Hallmarks of Aging",
+  "authored_by": [
+    "Carlos López-Otín",
+    "Maria A. Blasco",
+    "Linda Partridge",
+    "Manuel Serrano",
+    "Guido Kroemer"
+  ],
+  "publish_date": "2013",
+  "follow_url": "https://www.cell.com/cell/fulltext/S0092-8674(13)00645-4",
+  "description": "Carlos López-Otín and colleagues' 2013 *Cell* review (153:6) — the foundational synthesis identifying the principal molecular and cellular contributors to aging (telomere attrition, cellular senescence, mitochondrial dysfunction, stem-cell exhaustion, and others). The standard scientific reference frame for the aging-intervention research the corpus engages around the Tree of Life.",
+  "medium": "academic-paper",
+  "topics": [
+    "Aging",
+    "Longevity",
+    "Cell Biology",
+    "Senescence"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "prolegomena-zur-geschichte-israels",
+  "title": "Prolegomena zur Geschichte Israels",
+  "authored_by": [
+    "Julius Wellhausen"
+  ],
+  "publish_date": "1878",
+  "follow_url": "https://archive.org/details/prolegomenahisto00well",
+  "description": "Julius Wellhausen's foundational text for the Documentary Hypothesis, establishing the JEDP-source reconstruction of the Pentateuch that has structured Hebrew Bible scholarship since the late nineteenth century. Originally published as *Geschichte Israels, Bd. 1* (1878), subsequently retitled. English translation: *Prolegomena to the History of Ancient Israel* (1885).",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Documentary Hypothesis",
+    "JEDP",
+    "Pentateuch",
+    "Source criticism",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Wheel of Heaven",
+      "path": "/wiki/wheel-of-heaven/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

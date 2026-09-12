@@ -1,0 +1,26 @@
+{
+  "id": "the-history-of-al-tabari",
+  "title": "The History of al-Ṭabarī (Tārīkh al-Rusul wa-l-Mulūk), vols. XXI–XXIII",
+  "authored_by": [
+    "al-Ṭabarī",
+    "trans. SUNY Press"
+  ],
+  "publish_date": "c. 915 CE (trans. 1989–1990)",
+  "follow_url": "",
+  "description": "The major early Islamic chronicle. The Marwanid civil-war volumes supply the account of Ibn al-Zubayr's siege, the governor al-Ḥajjāj, and the rebuilding of the Ka'ba that the name-migration reconstruction draws on.",
+  "medium": "religious-text",
+  "topics": [
+    "Islamic History",
+    "Umayyads",
+    "Ka'ba"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

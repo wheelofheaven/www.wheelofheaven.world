@@ -1,0 +1,35 @@
+{
+  "id": "dhorme-bible",
+  "title": "La Bible (traduction Dhorme)",
+  "authored_by": [
+    "Édouard Dhorme"
+  ],
+  "publish_date": "1956-1959",
+  "follow_url": "https://en.wikipedia.org/wiki/%C3%89douard_Dhorme",
+  "description": "Édouard Dhorme's French translation of the Hebrew Bible, published by Bibliothèque de la Pléiade. The translation Rael consulted during the 1973 contact and the principal French Bible used by the Raëlian canon. Dhorme's renderings — particularly *science* for what other translations give as *good and evil*, and his Assyriological-philological precision — are themselves a substantial interpretive position the canon adopts.",
+  "medium": "religious-text",
+  "topics": [
+    "Hebrew Bible",
+    "Translation",
+    "Raëlism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ezekiel",
+      "path": "/wiki/ezekiel/"
+    },
+    {
+      "section": "wiki",
+      "title": "Message from the Designers",
+      "path": "/wiki/message-from-the-designers/"
+    },
+    {
+      "section": "wiki",
+      "title": "Reference corpus of the Raëlian canon",
+      "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

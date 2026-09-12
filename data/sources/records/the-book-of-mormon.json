@@ -1,0 +1,21 @@
+{
+  "id": "the-book-of-mormon",
+  "title": "The Book of Mormon",
+  "authored_by": [
+    "Joseph Smith (translator); Mormon, Moroni et al. (named ancient compilers)"
+  ],
+  "publish_date": "1830 (first edition)",
+  "follow_url": "",
+  "description": "Cited in §VI on the Mormon Piscean-age intervention.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

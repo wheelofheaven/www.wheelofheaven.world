@@ -1,0 +1,26 @@
+{
+  "id": "myth-of-the-eternal-return",
+  "title": "The Myth of the Eternal Return",
+  "authored_by": [
+    "Mircea Eliade"
+  ],
+  "publish_date": "1954",
+  "follow_url": "https://press.princeton.edu/books/paperback/9780691182971/the-myth-of-the-eternal-return",
+  "description": "Mircea Eliade's 1949 (English 1954, Princeton University Press) foundational work in the comparative phenomenology of religion. Eliade analyses the cyclical-time cosmologies of archaic cultures — Hindu *yuga*, Mesoamerican *suns*, Norse *Ragnarök*, the antediluvian / post-Flood schema — as expressions of a shared structural pattern: the periodic return of cosmic origins through ritual repetition and mythological narration. The work remains the principal scholarly source for the comparative observation that global cyclical-destruction traditions display deep structural similarities, against which the corpus's reading of these traditions as fragmentary historical memory is positioned.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Comparative Religion",
+    "Cyclical Time",
+    "Antediluvian",
+    "Mythography"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Antediluvian",
+      "path": "/wiki/antediluvian/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

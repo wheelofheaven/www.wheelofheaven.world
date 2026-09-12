@@ -1,0 +1,25 @@
+{
+  "id": "mores-utopia",
+  "title": "Utopia",
+  "authored_by": [
+    "Thomas More"
+  ],
+  "publish_date": "1516",
+  "follow_url": "https://en.wikipedia.org/wiki/Utopia_(book)",
+  "description": "More's foundational text of the Western utopian literary tradition. The substantial subsequent utopian-literary tradition within which Cyberparadism operates as specific contemporary aesthetic-cultural-technological articulation.",
+  "medium": "fiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Fiction",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

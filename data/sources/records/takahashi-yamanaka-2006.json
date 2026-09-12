@@ -1,0 +1,27 @@
+{
+  "id": "takahashi-yamanaka-2006",
+  "title": "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors",
+  "authored_by": [
+    "Kazutoshi Takahashi",
+    "Shinya Yamanaka"
+  ],
+  "publish_date": "2006",
+  "follow_url": "https://www.cell.com/cell/fulltext/S0092-8674(06)00976-7",
+  "description": "Kazutoshi Takahashi and Shinya Yamanaka's landmark 2006 *Cell* paper (126:4) demonstrating that four transcription factors can reprogram adult cells to a pluripotent state — the discovery (Nobel Prize 2012) that founded the induced-pluripotent-stem-cell field and underlies the contemporary cellular-reprogramming longevity trajectory the corpus engages.",
+  "medium": "academic-paper",
+  "topics": [
+    "Cellular Reprogramming",
+    "Stem Cells",
+    "Yamanaka Factors",
+    "Longevity"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

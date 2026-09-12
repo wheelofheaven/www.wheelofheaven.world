@@ -1,0 +1,26 @@
+{
+  "id": "atlantis-antediluvian-world",
+  "title": "Atlantis: The Antediluvian World",
+  "authored_by": [
+    "Ignatius Donnelly"
+  ],
+  "publish_date": "1882",
+  "follow_url": "https://archive.org/details/atlantisantediluv00donnrich",
+  "description": "Ignatius Donnelly's 1882 Harper & Brothers work — the foundational nineteenth-century revival of the Atlantis tradition and the principal source of subsequent popular Atlantis discourse. Donnelly, a U.S. Congressman and amateur scholar, argued that Plato's Atlantis was a real historical civilization in the Atlantic Ocean whose destruction produced the cross-cultural Flood traditions and whose surviving cultural transmitters seeded the Bronze Age civilizations of the Mediterranean, the Americas, and beyond. The work substantially shaped subsequent Atlantis discourse from Cayce through Hancock.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Atlantis",
+    "Lost Civilization",
+    "Flood Traditions",
+    "Comparative Mythology"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

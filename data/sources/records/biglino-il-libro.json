@@ -1,0 +1,54 @@
+{
+  "id": "biglino-il-libro",
+  "title": "Il Libro che cambierà per sempre le nostre idee sulla Bibbia",
+  "authored_by": [
+    "Mauro Biglino"
+  ],
+  "publish_date": "2010",
+  "follow_url": "https://www.unoeditori.com/",
+  "description": "Biglino's first principal articulation of the strict-literal Hebrew Bible reading, foundational to the broader Biglino corpus.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Hebrew Bible",
+    "Elohim"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Masoretic Text",
+      "path": "/wiki/masoretic-text/"
+    },
+    {
+      "section": "wiki",
+      "title": "Mauro Biglino",
+      "path": "/wiki/mauro-biglino/"
+    },
+    {
+      "section": "wiki",
+      "title": "Paul Wallis",
+      "path": "/wiki/paul-wallis/"
+    }
+  ],
+  "cite_count": 7,
+  "licensing_status": "unverified"
+}

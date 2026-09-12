@@ -1,0 +1,27 @@
+{
+  "id": "avebury-biography-of-a-landscape",
+  "title": "Avebury: The Biography of a Landscape",
+  "authored_by": [
+    "Joshua Pollard",
+    "Andrew Reynolds"
+  ],
+  "publish_date": "2002",
+  "follow_url": "https://www.amazon.com/Avebury-Biography-Landscape-Joshua-Pollard/dp/0752419579",
+  "description": "Joshua Pollard and Andrew Reynolds's 2002 Tempus work — the principal contemporary scholarly synthesis of the substantial Avebury landscape archaeology, integrating substantial excavation work since Burl's foundational treatment with substantial broader contextual engagement. The work substantially documents the substantial prehistoric monumental landscape of which crop circles operate as substantial contemporary cultural-artistic extension.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Avebury",
+    "Wiltshire",
+    "British Prehistory",
+    "Landscape Archaeology"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Crop Circles",
+      "path": "/wiki/crop-circles/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

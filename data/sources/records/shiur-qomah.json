@@ -1,0 +1,29 @@
+{
+  "id": "shiur-qomah",
+  "title": "Shi’ur Qomah",
+  "authored_by": [
+    "Anonymous (early Jewish mystical tradition)"
+  ],
+  "publish_date": "c. 2nd-4th century CE",
+  "follow_url": "https://en.wikipedia.org/wiki/Shi%27ur_Qomah",
+  "description": "An early Jewish mystical text giving anthropomorphic measurements of the divine body in cosmic units (*parasangs*). The cosmological passage attributed to 'the Kabbalah' in *The End of the World* — measuring the 'height of the creator' in parasangs — matches motifs from the *Shi'ur Qomah* tradition rather than the *Zohar* corpus the term 'Kabbalah' more conventionally designates.",
+  "medium": "religious-text",
+  "topics": [
+    "Kabbalah",
+    "Jewish Mysticism"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Book Closest to the Truth",
+      "path": "/articles/the-book-closest-to-the-truth/"
+    },
+    {
+      "section": "wiki",
+      "title": "Reference corpus of the Raëlian canon",
+      "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

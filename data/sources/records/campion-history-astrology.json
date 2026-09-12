@@ -1,0 +1,25 @@
+{
+  "id": "campion-history-astrology",
+  "title": "A History of Western Astrology (2 vols.)",
+  "authored_by": [
+    "Nicholas Campion"
+  ],
+  "publish_date": "2008-2009",
+  "follow_url": "https://www.bloomsbury.com/",
+  "description": "Campion's principal two-volume historical articulation of the Western astrological tradition; the contemporary reference work.",
+  "medium": "academic-paper",
+  "topics": [
+    "Astrology",
+    "Precession",
+    "Western Tradition"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Carl Jung",
+      "path": "/wiki/carl-jung/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

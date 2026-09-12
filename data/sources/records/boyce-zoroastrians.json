@@ -1,0 +1,41 @@
+{
+  "id": "boyce-zoroastrians",
+  "title": "Zoroastrians: Their Religious Beliefs and Practices",
+  "authored_by": [
+    "Mary Boyce"
+  ],
+  "publish_date": "2001",
+  "follow_url": "https://www.routledge.com/",
+  "description": "Mary Boyce's standard 2001 Routledge survey of Zoroastrianism, including the Saoshyant future-saviour and the *frashokereti* renewal-of-the-world doctrine the corpus engages comparatively with the embassy's projected arrival.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Zoroastrianism",
+    "Saoshyant",
+    "Frashokereti",
+    "Comparative Eschatology"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Embassy",
+      "path": "/wiki/embassy/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "licensed"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nickelsburg-enoch-1",
+  "title": "1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108",
+  "authored_by": [
+    "George W. E. Nickelsburg"
+  ],
+  "publish_date": "2001",
+  "follow_url": "https://fortresspress.com/",
+  "description": "Nickelsburg's principal Hermeneia commentary on 1 Enoch; foundational for the Watchers tradition and the Genesis 6 Nephilim material.",
+  "medium": "academic-paper",
+  "topics": [
+    "Watchers",
+    "Nephilim",
+    "Second Temple"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Are the Watchers and the Nephilim the Same?",
+      "path": "/articles/watchers-and-the-nephilim/"
+    },
+    {
+      "section": "wiki",
+      "title": "Book of Enoch",
+      "path": "/wiki/book-of-enoch/"
+    },
+    {
+      "section": "wiki",
+      "title": "Nephilim",
+      "path": "/wiki/nephilim/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Watchers",
+      "path": "/wiki/watchers/"
+    }
+  ],
+  "cite_count": 6,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "star-trek-tng",
+  "title": "Star Trek: The Next Generation",
+  "authored_by": [
+    "Gene Roddenberry",
+    "Paramount Television"
+  ],
+  "publish_date": "1987-1994",
+  "follow_url": "https://www.startrek.com/series/star-trek-the-next-generation",
+  "description": "The principal Star Trek series of the post-original-series period. The Federation aesthetic — post-scarcity organisation, advanced-technology integration with environmental-ethical commitment, cooperative-civilisational organisation, and cosmic-frontier extension — registers as substantively Cyberparadist.",
+  "medium": "documentary",
+  "topics": [
+    "Cyberparadism",
+    "Fiction",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "akhbar-makka",
+  "title": "Akhbār Makka (‘Chronicles of Mecca’)",
+  "authored_by": [
+    "al-Azraqī (d. c. 837)"
+  ],
+  "publish_date": "9th c. CE",
+  "follow_url": "",
+  "description": "Early Meccan history; source for the irregular four-sided measurements of the Ka'ba as rebuilt in Muhammad's lifetime, central to the Ka'ba-identification strand of the Petra hypothesis.",
+  "medium": "religious-text",
+  "topics": [
+    "Ka'ba",
+    "Mecca",
+    "Islamic Origins"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

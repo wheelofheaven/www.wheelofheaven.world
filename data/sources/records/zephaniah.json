@@ -1,0 +1,26 @@
+{
+  "id": "zephaniah",
+  "title": "Zephaniah",
+  "authored_by": [
+    "Anonymous (Hebrew Bible)"
+  ],
+  "publish_date": "c. 7th c. BCE",
+  "follow_url": "",
+  "description": "Source of the 'noise of a cry from the fish gate' transition signal cited in §II.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

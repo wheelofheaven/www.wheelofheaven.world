@@ -1,0 +1,26 @@
+{
+  "id": "chaos-making-a-new-science",
+  "title": "Chaos: Making a New Science",
+  "authored_by": [
+    "James Gleick"
+  ],
+  "publish_date": "1987",
+  "follow_url": "",
+  "description": "",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Infinite in Both Directions",
+      "path": "/articles/the-infinite-in-both-directions/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pritchard-anet",
+  "title": "Ancient Near Eastern Texts Relating to the Old Testament",
+  "authored_by": [
+    "James B. Pritchard"
+  ],
+  "publish_date": "1969",
+  "follow_url": "https://press.princeton.edu/",
+  "description": "Pritchard's principal English-language reference for ancient Near Eastern texts parallel to the Hebrew Bible.",
+  "medium": "religious-text",
+  "topics": [
+    "Hebrew Bible",
+    "Ancient Near East"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Sumerian King List",
+      "path": "/wiki/sumerian-king-list/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

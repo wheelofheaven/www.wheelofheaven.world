@@ -1,0 +1,36 @@
+{
+  "id": "numbers",
+  "title": "Numbers",
+  "authored_by": [
+    "Anonymous (Hebrew Bible)"
+  ],
+  "publish_date": "c. 6th–5th c. BCE",
+  "follow_url": "",
+  "description": "Brass serpent (21:8–9), Tabernacle instructions, and the wilderness narratives cited in §III.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aries",
+      "path": "/timeline/age-of-aries/"
+    },
+    {
+      "section": "wiki",
+      "title": "Moses",
+      "path": "/wiki/moses/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

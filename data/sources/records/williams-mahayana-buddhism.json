@@ -1,0 +1,26 @@
+{
+  "id": "williams-mahayana-buddhism",
+  "title": "Mahāyāna Buddhism: The Doctrinal Foundations",
+  "authored_by": [
+    "Paul Williams"
+  ],
+  "publish_date": "2008",
+  "follow_url": "https://www.routledge.com/",
+  "description": "Paul Williams's standard 2008 Routledge survey of Mahāyāna Buddhist doctrine, including the beginningless cycle of saṃsāra and the cosmology of innumerable world-systems and kalpas. The corpus engages it for the Buddhist beginningless-cycle framework that parallels the Cosmic Chain's 'no first creator' position.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Buddhism",
+    "Saṃsāra",
+    "Cyclic Cosmology",
+    "Kalpa"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

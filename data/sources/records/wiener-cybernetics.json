@@ -1,0 +1,25 @@
+{
+  "id": "wiener-cybernetics",
+  "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+  "authored_by": [
+    "Norbert Wiener"
+  ],
+  "publish_date": "1948",
+  "follow_url": "https://mitpress.mit.edu/9780262730099/cybernetics/",
+  "description": "Wiener's foundational treatise establishing cybernetics as the scientific study of regulatory and communicative systems. The book introduced the cyber- prefix into modern technical-scientific vocabulary and laid the groundwork for the broader cyber- aesthetic family.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Science",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

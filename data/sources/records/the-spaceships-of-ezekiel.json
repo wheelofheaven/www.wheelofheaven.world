@@ -1,0 +1,31 @@
+{
+  "id": "the-spaceships-of-ezekiel",
+  "title": "The Spaceships of Ezekiel",
+  "authored_by": [
+    "Josef F. Blumrich"
+  ],
+  "publish_date": "1974",
+  "follow_url": "",
+  "description": "The NASA engineer's technical reconstruction of the Ezekiel-1 vehicle, central to the chapter's §V re-reading.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Aries",
+      "path": "/timeline/age-of-aries/"
+    },
+    {
+      "section": "wiki",
+      "title": "Ezekiel",
+      "path": "/wiki/ezekiel/"
+    },
+    {
+      "section": "wiki",
+      "title": "Yahweh",
+      "path": "/wiki/yahweh/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

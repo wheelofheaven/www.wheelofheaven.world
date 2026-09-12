@@ -1,0 +1,26 @@
+{
+  "id": "pseudodoxia-epidemica",
+  "title": "Pseudodoxia Epidemica",
+  "authored_by": [
+    "Sir Thomas Browne"
+  ],
+  "publish_date": "1646",
+  "follow_url": "https://archive.org/details/pseudodoxiaepid00browgoog",
+  "description": "Sir Thomas Browne's 1646 encyclopaedic survey of 'vulgar errors' — popular received opinions Browne subjected to empirical, philological, and natural-philosophical scrutiny. The work is one of the earliest sustained English-language exercises in source-critical natural history, and is the citation point for the technical use of *antediluvian* as the designation for the period before the Flood. Browne treats the longevity of the patriarchs, the conditions of the pre-Flood world, and the natural history of the Genesis narrative as genuinely contested early-modern questions.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Antediluvian",
+    "Genesis",
+    "Flood",
+    "Early-Modern Natural History"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Antediluvian",
+      "path": "/wiki/antediluvian/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

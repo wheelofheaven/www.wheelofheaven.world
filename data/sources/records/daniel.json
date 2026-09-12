@@ -1,0 +1,51 @@
+{
+  "id": "daniel",
+  "title": "Daniel",
+  "authored_by": [
+    "Anonymous (Hellenistic Judaism)"
+  ],
+  "publish_date": "c. 165 BCE",
+  "follow_url": "",
+  "description": "Source of the Daniel 10:13 Michael / 'prince of Persia' passage on Persia and Greece in §VII.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The East Face of Homer",
+      "path": "/articles/the-east-face-of-homer/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Are the Watchers and the Nephilim the Same?",
+      "path": "/articles/watchers-and-the-nephilim/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aries",
+      "path": "/timeline/age-of-aries/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    }
+  ],
+  "cite_count": 7,
+  "licensing_status": "unverified"
+}

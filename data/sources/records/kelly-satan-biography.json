@@ -1,0 +1,46 @@
+{
+  "id": "kelly-satan-biography",
+  "title": "Satan: A Biography",
+  "authored_by": [
+    "Henry Ansgar Kelly"
+  ],
+  "publish_date": "2006",
+  "follow_url": "https://www.cambridge.org/9780521604024",
+  "description": "Henry Ansgar Kelly's 2006 Cambridge University Press study — the most comprehensive recent academic account of how the Satan figure developed across the Hebrew Bible, Second Temple Jewish literature, the New Testament, and patristic theology. Kelly argues the developed cosmic-adversary Devil is a post-biblical synthesis. The principal scholarly support for the corpus's Serpent/Satan/Lucifer disambiguation.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Satan",
+    "Devil",
+    "Hebrew Bible",
+    "Second Temple Judaism"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "licensed"
+}

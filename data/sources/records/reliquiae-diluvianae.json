@@ -1,0 +1,26 @@
+{
+  "id": "reliquiae-diluvianae",
+  "title": "Reliquiae Diluvianae",
+  "authored_by": [
+    "William Buckland"
+  ],
+  "publish_date": "1823",
+  "follow_url": "https://archive.org/details/reliquiaediluvia00buck",
+  "description": "William Buckland's 1823 *Reliquiae Diluvianae* — the major nineteenth-century work of diluvialism, the geological tradition that read the stratigraphic record as preserving evidence of the biblical Flood. Buckland, then Reader in Geology at Oxford, marshalled evidence from cave deposits, erratic boulders, and surface gravels to argue for a recent global inundation. Buckland himself eventually abandoned the position in the 1830s in light of Louis Agassiz's glacial-theory developments; the broader scientific community followed across the subsequent decades. The work remains the principal documentary source for the diluvialist phase of mainstream nineteenth-century geology.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Flood",
+    "Diluvialism",
+    "Nineteenth-Century Geology",
+    "Antediluvian"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Antediluvian",
+      "path": "/wiki/antediluvian/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

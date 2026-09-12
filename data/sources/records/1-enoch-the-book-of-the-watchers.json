@@ -1,0 +1,61 @@
+{
+  "id": "1-enoch-the-book-of-the-watchers",
+  "title": "1 Enoch (The Book of the Watchers)",
+  "authored_by": [
+    "Anonymous (Second Temple Judaism)"
+  ],
+  "publish_date": "c. 3rd c. BCE",
+  "follow_url": "",
+  "description": "",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Are the Watchers and the Nephilim the Same?",
+      "path": "/articles/watchers-and-the-nephilim/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    },
+    {
+      "section": "wiki",
+      "title": "Book of Enoch",
+      "path": "/wiki/book-of-enoch/"
+    },
+    {
+      "section": "wiki",
+      "title": "Council of the Eternals",
+      "path": "/wiki/council-of-eternals/"
+    },
+    {
+      "section": "wiki",
+      "title": "Dead Sea Scrolls",
+      "path": "/wiki/dead-sea-scrolls/"
+    },
+    {
+      "section": "wiki",
+      "title": "Nephilim",
+      "path": "/wiki/nephilim/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Watchers",
+      "path": "/wiki/watchers/"
+    }
+  ],
+  "cite_count": 9,
+  "licensing_status": "unverified"
+}

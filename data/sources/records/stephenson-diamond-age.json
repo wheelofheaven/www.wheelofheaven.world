@@ -1,0 +1,25 @@
+{
+  "id": "stephenson-diamond-age",
+  "title": "The Diamond Age: Or, A Young Lady’s Illustrated Primer",
+  "authored_by": [
+    "Neal Stephenson"
+  ],
+  "publish_date": "1995",
+  "follow_url": "https://www.nealstephenson.com/the-diamond-age.html",
+  "description": "Stephenson's post-cyberpunk novel exploring nanotechnology, post-state phyle organisation, and the substantial cultural-transformational consequences of mature molecular-manufacturing capacity.",
+  "medium": "fiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Fiction",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

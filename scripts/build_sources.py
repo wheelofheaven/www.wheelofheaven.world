@@ -24,6 +24,10 @@ Output:
   - data/sources.json — single flat file consumed by
     sources-section.html via Zola's load_data.
   - data/sources/cited-by.json — reverse index for source detail pages.
+  - data/sources/by-id.json — id -> title/authors/date lookup for the
+    reference lists on wiki, article, timeline, library and hub pages.
+  - data/sources/records/<id>.json — one full record per source, read by
+    source-page.html instead of the whole manifest.
   - content/sources/_generated/*.md — tiny page stubs for /sources/{id}/.
 
 Run: `python scripts/build_sources.py` (or `mise run sources`).
@@ -42,6 +46,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 LEGACY_SEED_DIR = PROJECT_ROOT / "data" / "sources" / "sources"
 OUTPUT_PATH = PROJECT_ROOT / "data" / "sources.json"
 CITED_BY_OUTPUT_PATH = PROJECT_ROOT / "data" / "sources" / "cited-by.json"
+BY_ID_OUTPUT_PATH = PROJECT_ROOT / "data" / "sources" / "by-id.json"
+RECORDS_DIR = PROJECT_ROOT / "data" / "sources" / "records"
 LICENSING_PATH = PROJECT_ROOT / "data" / "sources" / "licensing.json"
 CONTENT_ROOT = PROJECT_ROOT / "content"
 SOURCE_PAGES_DIR = CONTENT_ROOT / "sources" / "_generated"
@@ -333,6 +339,58 @@ def scan_pages(seeds: dict[str, dict]) -> int:
     return cites_recorded
 
 
+def write_by_id(sources: list[dict], payload: dict) -> None:
+    """data/sources/by-id.json — the slim lookup templates use to resolve a
+    cited source id to its title, authors and date (wiki, article, timeline,
+    library and tradition-hub pages). Keyed by id so a template does a direct
+    lookup instead of filtering the 800-record manifest, and small enough that
+    Zola's per-render clone of the loaded file is free; loading the full
+    sources.json on every page cost a seventh of the build."""
+    by_id = {
+        s["id"]: {
+            "id": s["id"],
+            "title": s["title"],
+            "authored_by": s.get("authored_by") or [],
+            "publish_date": s.get("publish_date"),
+        }
+        for s in sources
+    }
+    BY_ID_OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    BY_ID_OUTPUT_PATH.write_text(
+        json.dumps(
+            {
+                "generated_at": payload["generated_at"],
+                "generator": payload["generator"],
+                "schema_version": payload["schema_version"],
+                "total": len(by_id),
+                "sources": by_id,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+
+def write_records(sources: list[dict]) -> None:
+    """data/sources/records/<id>.json — one full record per source (cited_by
+    included), read by source-page.html. There are 8,000 source detail pages
+    (800 records x 10 locales); each used to load the whole manifest plus the
+    cited-by index and filter for its own id, which cloned ~1.2 MB of JSON per
+    page and was the largest remaining cost of the full build. Stale files
+    are pruned the same way the page stubs are."""
+    RECORDS_DIR.mkdir(parents=True, exist_ok=True)
+    current_ids = {s["id"] for s in sources}
+    for stale in RECORDS_DIR.glob("*.json"):
+        if stale.stem not in current_ids:
+            stale.unlink()
+    for s in sources:
+        (RECORDS_DIR / f"{s['id']}.json").write_text(
+            json.dumps(s, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
+
+
 def write_output(seeds: dict[str, dict], cites_recorded: int) -> None:
     sources = sorted(seeds.values(), key=lambda s: (s["title"].casefold(), s["id"]))
 
@@ -379,6 +437,9 @@ def write_output(seeds: dict[str, dict], cites_recorded: int) -> None:
         json.dumps(cited_by_payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+    write_by_id(sources, payload)
+    write_records(sources)
 
     write_source_pages(sources)
 

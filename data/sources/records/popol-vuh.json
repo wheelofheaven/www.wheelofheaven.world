@@ -1,0 +1,41 @@
+{
+  "id": "popol-vuh",
+  "title": "Popol Vuh",
+  "authored_by": [
+    "Anonymous (K'iche' Maya); translated by Dennis Tedlock"
+  ],
+  "publish_date": "16th c.; 1996 translation",
+  "follow_url": "",
+  "description": "",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Shape of Humanity",
+      "path": "/articles/the-shape-of-humanity/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    },
+    {
+      "section": "wiki",
+      "title": "Reference corpus of the Raëlian canon",
+      "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+    },
+    {
+      "section": "wiki",
+      "title": "World Age",
+      "path": "/wiki/world-age/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "unverified"
+}

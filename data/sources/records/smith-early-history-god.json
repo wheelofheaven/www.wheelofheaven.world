@@ -1,0 +1,39 @@
+{
+  "id": "smith-early-history-god",
+  "title": "The Early History of God: Yahweh and the Other Deities in Ancient Israel",
+  "authored_by": [
+    "Mark S. Smith"
+  ],
+  "publish_date": "1990",
+  "follow_url": "https://www.eerdmans.com/",
+  "description": "Smith's principal articulation of the early development of Israelite religion within the broader Canaanite-Levantine religious context.",
+  "medium": "academic-paper",
+  "topics": [
+    "Hebrew Bible",
+    "Yahweh"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Paul Wallis",
+      "path": "/wiki/paul-wallis/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

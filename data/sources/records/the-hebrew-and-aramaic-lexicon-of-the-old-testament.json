@@ -1,0 +1,26 @@
+{
+  "id": "the-hebrew-and-aramaic-lexicon-of-the-old-testament",
+  "title": "The Hebrew and Aramaic Lexicon of the Old Testament",
+  "authored_by": [
+    "Ludwig Koehler, Walter Baumgartner, and Johann Jakob Stamm"
+  ],
+  "publish_date": "1994–2000",
+  "follow_url": "",
+  "description": "HALOT — also cited in §V on tannin.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Virgo",
+      "path": "/timeline/age-of-virgo/"
+    },
+    {
+      "section": "wiki",
+      "title": "Yahweh",
+      "path": "/wiki/yahweh/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

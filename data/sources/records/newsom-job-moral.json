@@ -1,0 +1,24 @@
+{
+  "id": "newsom-job-moral",
+  "title": "The Book of Job: A Contest of Moral Imaginations",
+  "authored_by": [
+    "Carol A. Newsom"
+  ],
+  "publish_date": "2003",
+  "follow_url": "https://global.oup.com/academic/",
+  "description": "Newsom's principal monograph on Job, including substantive treatment of the ha-satan figure's institutional-adversarial role.",
+  "medium": "academic-paper",
+  "topics": [
+    "Satan",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

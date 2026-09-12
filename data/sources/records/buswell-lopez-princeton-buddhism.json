@@ -1,0 +1,27 @@
+{
+  "id": "buswell-lopez-princeton-buddhism",
+  "title": "The Princeton Dictionary of Buddhism",
+  "authored_by": [
+    "Robert E. Buswell Jr.",
+    "Donald S. Lopez Jr."
+  ],
+  "publish_date": "2014",
+  "follow_url": "https://press.princeton.edu/",
+  "description": "Robert Buswell and Donald Lopez's 2014 Princeton University Press reference — the standard scholarly dictionary of Buddhism, covering the kalpa cosmology and beginningless-time doctrines the corpus engages comparatively with the Cosmic Chain.",
+  "medium": "wiki",
+  "topics": [
+    "Buddhism",
+    "Kalpa",
+    "Cosmology",
+    "Reference"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

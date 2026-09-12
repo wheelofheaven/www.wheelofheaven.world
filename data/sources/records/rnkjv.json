@@ -1,0 +1,30 @@
+{
+  "id": "rnkjv",
+  "title": "Restored Name King James Version (RNKJV)",
+  "authored_by": [
+    "Restored Name King James community"
+  ],
+  "publish_date": "2001-present",
+  "follow_url": "https://en.wikipedia.org/wiki/Sacred_Name_Bible",
+  "description": "A modern revision of the King James Version that restores *Elohim* and *Yahweh* in place of the conventional 'God' and 'the Lord' renderings. Used throughout the 2005 English-language omnibus edition of *Intelligent Design — Message From the Designers*.",
+  "medium": "religious-text",
+  "topics": [
+    "Hebrew Bible",
+    "Translation",
+    "Raëlism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Message from the Designers",
+      "path": "/wiki/message-from-the-designers/"
+    },
+    {
+      "section": "wiki",
+      "title": "Reference corpus of the Raëlian canon",
+      "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

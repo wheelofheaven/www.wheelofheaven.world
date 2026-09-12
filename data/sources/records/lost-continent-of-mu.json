@@ -1,0 +1,26 @@
+{
+  "id": "lost-continent-of-mu",
+  "title": "The Lost Continent of Mu",
+  "authored_by": [
+    "James Churchward"
+  ],
+  "publish_date": "1926",
+  "follow_url": "https://archive.org/details/lostcontinentofm00chur",
+  "description": "James Churchward's 1926 work — the principal foundational text of the Mu / Pacific lost-civilization tradition. Churchward (1851–1936) claimed access to \"Naacal tablets\" preserved in Indian and Tibetan monasteries that document the existence of a substantial Pacific civilization (\"Mu\") destroyed by volcanic catastrophe approximately 12,000 years before present, with the substantial diaspora seeding subsequent civilizations across the Pacific Rim. The work substantially shaped the Pacific equivalent of the Atlantic Atlantis tradition; the academic consensus rejects Churchward's specific historical claims while acknowledging the work's cultural-historical influence.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Mu",
+    "Lemuria",
+    "Pacific Lost Civilization",
+    "Ancient Builders"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a-concise-dictionary-of-the-words-in-the-hebrew-bible-strong-s",
+  "title": "A Concise Dictionary of the Words in the Hebrew Bible (Strong’s)",
+  "authored_by": [
+    "James Strong"
+  ],
+  "publish_date": "1890",
+  "follow_url": "",
+  "description": "Strong's Hebrew Dictionary, cited inline for the tannin definition.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Virgo",
+      "path": "/timeline/age-of-virgo/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "design-and-synthesis-of-a-minimal-bacterial-genome",
+  "title": "Design and synthesis of a minimal bacterial genome",
+  "authored_by": [
+    "Clyde A. Hutchison III et al."
+  ],
+  "publish_date": "2016",
+  "follow_url": "https://doi.org/10.1126/science.aad6253",
+  "description": "",
+  "medium": "academic-paper",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Signature and the Designers",
+      "path": "/articles/the-signature-and-the-designers/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

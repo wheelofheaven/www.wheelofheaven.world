@@ -1,0 +1,25 @@
+{
+  "id": "elysium-film",
+  "title": "Elysium",
+  "authored_by": [
+    "Neill Blomkamp",
+    "Sony Pictures"
+  ],
+  "publish_date": "2013",
+  "follow_url": "https://en.wikipedia.org/wiki/Elysium_(film)",
+  "description": "Blomkamp's articulation of the orbital-ring-world Elysium as visual realisation of Cyberparadist aesthetic attached to substantively anti-Cyberparadist social-political content; functions on Cyberparadist reading as illustration of how aesthetic-surface without substantive Law-of-Equity commitment produces dystopia rather than utopia.",
+  "medium": "documentary",
+  "topics": [
+    "Cyberparadism",
+    "Fiction"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

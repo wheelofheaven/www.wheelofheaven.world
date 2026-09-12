@@ -1,0 +1,21 @@
+{
+  "id": "letter-of-aristeas",
+  "title": "Letter of Aristeas",
+  "authored_by": [
+    "Pseudo-Aristeas (2nd century BCE)"
+  ],
+  "publish_date": "c. 2nd c. BCE",
+  "follow_url": "https://en.wikipedia.org/wiki/Letter_of_Aristeas",
+  "description": "",
+  "medium": "",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Septuagint",
+      "path": "/wiki/septuagint/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

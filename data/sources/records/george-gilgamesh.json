@@ -1,0 +1,29 @@
+{
+  "id": "george-gilgamesh",
+  "title": "The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian",
+  "authored_by": [
+    "Andrew George"
+  ],
+  "publish_date": "1999",
+  "follow_url": "https://www.penguinrandomhouse.com/",
+  "description": "George's principal accessible English edition and translation of the Gilgamesh epic and adjacent Akkadian-Sumerian texts.",
+  "medium": "religious-text",
+  "topics": [
+    "Great Flood",
+    "Mesopotamian"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    },
+    {
+      "section": "wiki",
+      "title": "Sumerian King List",
+      "path": "/wiki/sumerian-king-list/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

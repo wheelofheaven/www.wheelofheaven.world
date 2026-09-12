@@ -1,0 +1,54 @@
+{
+  "id": "sendy-lune-cle-bible",
+  "title": "La lune, clé de la Bible",
+  "authored_by": [
+    "Jean Sendy"
+  ],
+  "publish_date": "1968",
+  "follow_url": "https://www.julliard.fr/",
+  "description": "Sendy's early articulation of the lunar-astronomical reading of biblical chronology.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Hebrew Bible",
+    "Precession"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Book Closest to the Truth",
+      "path": "/articles/the-book-closest-to-the-truth/"
+    },
+    {
+      "section": "articles",
+      "title": "The Man Who Bet the Bible on the Moon",
+      "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "wiki",
+      "title": "Ezekiel",
+      "path": "/wiki/ezekiel/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jean Sendy",
+      "path": "/wiki/jean-sendy/"
+    }
+  ],
+  "cite_count": 7,
+  "licensing_status": "unverified"
+}

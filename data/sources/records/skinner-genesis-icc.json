@@ -1,0 +1,31 @@
+{
+  "id": "skinner-genesis-icc",
+  "title": "A Critical and Exegetical Commentary on Genesis",
+  "authored_by": [
+    "John Skinner"
+  ],
+  "publish_date": "1910",
+  "follow_url": "https://archive.org/details/criticalexegetic01skinuoft",
+  "description": "John Skinner's 1910 International Critical Commentary on Genesis — the foundational English-language historical-critical commentary on Genesis, preserving the classic documentary-hypothesis reading of the Yahwist and Priestly sources. Still cited as the baseline historical-critical treatment of the Eden narrative and the Genesis source-divisions.",
+  "medium": "article",
+  "topics": [
+    "Genesis",
+    "Documentary Hypothesis",
+    "Historical Criticism",
+    "Eden"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "public_domain"
+}

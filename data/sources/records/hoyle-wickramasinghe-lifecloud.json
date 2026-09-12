@@ -1,0 +1,27 @@
+{
+  "id": "hoyle-wickramasinghe-lifecloud",
+  "title": "Lifecloud: The Origin of Life in the Universe",
+  "authored_by": [
+    "Fred Hoyle",
+    "Chandra Wickramasinghe"
+  ],
+  "publish_date": "1978",
+  "follow_url": "https://www.harpercollins.com/",
+  "description": "Fred Hoyle and Chandra Wickramasinghe's 1978 Harper and Row articulation of cometary panspermia — the proposal that life's chemical precursors and life itself arrive from cosmic sources. The corpus engages it in the panspermia discussion around the Cosmic Chain.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Panspermia",
+    "Origin of Life",
+    "Hoyle",
+    "Comets"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

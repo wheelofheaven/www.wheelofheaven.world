@@ -1,0 +1,24 @@
+{
+  "id": "soleri-arcology",
+  "title": "Arcology: The City in the Image of Man",
+  "authored_by": [
+    "Paolo Soleri"
+  ],
+  "publish_date": "1969",
+  "follow_url": "https://www.arcosanti.org/",
+  "description": "Soleri's principal articulation of arcology — high-density human habitats integrated with surrounding ecologies — one of the principal architectural-design lineages feeding Cyberparadist visual vocabulary.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Cyberparadism",
+    "Architecture"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

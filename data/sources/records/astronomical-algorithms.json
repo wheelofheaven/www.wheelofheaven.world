@@ -1,0 +1,36 @@
+{
+  "id": "astronomical-algorithms",
+  "title": "Astronomical Algorithms",
+  "authored_by": [
+    "Jean Meeus"
+  ],
+  "publish_date": "1991 (2nd ed. 1998)",
+  "follow_url": "",
+  "description": "Standard reference for the tropical, sidereal, and anomalistic year and for precession formulae cited throughout the chapter.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Mill That Grinds the Ages",
+      "path": "/articles/the-mill-that-grinds-the-ages/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Libra",
+      "path": "/timeline/age-of-libra/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hamlet's Mill",
+      "path": "/wiki/hamlets-mill/"
+    },
+    {
+      "section": "wiki",
+      "title": "Precession",
+      "path": "/wiki/precession/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

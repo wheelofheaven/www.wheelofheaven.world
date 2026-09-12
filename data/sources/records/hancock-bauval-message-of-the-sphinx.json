@@ -1,0 +1,35 @@
+{
+  "id": "hancock-bauval-message-of-the-sphinx",
+  "title": "The Message of the Sphinx: A Quest for the Hidden Legacy of Mankind",
+  "authored_by": [
+    "Graham Hancock & Robert Bauval"
+  ],
+  "publish_date": "1996",
+  "follow_url": "",
+  "description": "Hancock and Bauval’s Giza–Orion correlation argument (published in the UK as Keeper of Genesis): the Sphinx and pyramid layout read as a sky-map of the c. 10,500 BCE ‘First Time’.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "giza",
+    "orion-correlation",
+    "archaeoastronomy"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Graham Hancock",
+      "path": "/wiki/graham-hancock/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Sphinx",
+      "path": "/wiki/great-sphinx/"
+    },
+    {
+      "section": "wiki",
+      "title": "Orion Correlation",
+      "path": "/wiki/orion-correlation/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

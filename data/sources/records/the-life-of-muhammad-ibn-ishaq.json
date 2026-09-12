@@ -1,0 +1,32 @@
+{
+  "id": "the-life-of-muhammad-ibn-ishaq",
+  "title": "The Life of Muhammad: A Translation of Ibn Isḥāq’s Sīrat Rasūl Allāh",
+  "authored_by": [
+    "Ibn Isḥāq",
+    "trans. A. Guillaume"
+  ],
+  "publish_date": "1955 (Sīra c. 760 CE)",
+  "follow_url": "",
+  "description": "The earliest biography of Muhammad, surviving in Ibn Hishām's recension. Source for the pre-Islamic four seekers of the Hanafiyya and the religion-of-Abraham material.",
+  "medium": "religious-text",
+  "topics": [
+    "Sira",
+    "Muhammad",
+    "Hanafiyya",
+    "Islamic Origins"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

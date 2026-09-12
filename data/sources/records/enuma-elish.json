@@ -1,0 +1,61 @@
+{
+  "id": "enuma-elish",
+  "title": "Enuma Elish",
+  "authored_by": [
+    "Anonymous (Babylonian)"
+  ],
+  "publish_date": "c. 12th c. BCE",
+  "follow_url": "",
+  "description": "",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are the Anunnaki the Elohim?",
+      "path": "/articles/anunnaki-and-the-elohim/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Rain Over Helicon",
+      "path": "/articles/the-rain-over-helicon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "articles",
+      "title": "The World Behind the Odyssey",
+      "path": "/articles/the-world-behind-the-odyssey/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    },
+    {
+      "section": "wiki",
+      "title": "Anunnaki",
+      "path": "/wiki/anunnaki/"
+    },
+    {
+      "section": "wiki",
+      "title": "Council of the Eternals",
+      "path": "/wiki/council-of-eternals/"
+    },
+    {
+      "section": "wiki",
+      "title": "Genesis",
+      "path": "/wiki/genesis/"
+    }
+  ],
+  "cite_count": 9,
+  "licensing_status": "unverified"
+}

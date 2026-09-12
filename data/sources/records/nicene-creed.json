@@ -1,0 +1,26 @@
+{
+  "id": "nicene-creed",
+  "title": "Nicene Creed",
+  "authored_by": [
+    "Council of Nicaea"
+  ],
+  "publish_date": "325 CE (revised at Constantinople 381 CE)",
+  "follow_url": "",
+  "description": "The Trinitarian formulation discussed and contested in §IV.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

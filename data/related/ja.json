@@ -1,0 +1,3944 @@
+{
+  "generator": "scripts/build_related.py",
+  "schema_version": 1,
+  "lang": "ja",
+  "max_items": 4,
+  "pages": {
+    "ja/articles/monotheism-is-the-wrong-question": [
+      {
+        "path": "/ja/articles/the-signature-and-the-designers/",
+        "title": "署名と設計者たち",
+        "category": "Science & Technology",
+        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+      },
+      {
+        "path": "/ja/articles/the-rain-over-helicon/",
+        "title": "ヘリコンに降る雨",
+        "category": "Comparative Mythology",
+        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+      },
+      {
+        "path": "/ja/articles/the-east-face-of-homer/",
+        "title": "ホメロスの東面",
+        "category": "Comparative Mythology",
+        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+      },
+      {
+        "path": "/ja/articles/the-world-behind-the-odyssey/",
+        "title": "『オデュッセイア』の背後の世界",
+        "category": "Comparative Mythology",
+        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+      }
+    ],
+    "ja/articles/the-archdeacon-and-the-dragon": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      }
+    ],
+    "ja/articles/the-book-closest-to-the-truth": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      }
+    ],
+    "ja/articles/the-east-face-of-homer": [
+      {
+        "path": "/ja/articles/the-rain-over-helicon/",
+        "title": "ヘリコンに降る雨",
+        "category": "Comparative Mythology",
+        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+      },
+      {
+        "path": "/ja/articles/the-world-behind-the-odyssey/",
+        "title": "『オデュッセイア』の背後の世界",
+        "category": "Comparative Mythology",
+        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+      },
+      {
+        "path": "/ja/articles/the-signature-and-the-designers/",
+        "title": "署名と設計者たち",
+        "category": "Science & Technology",
+        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+      },
+      {
+        "path": "/ja/articles/the-shape-of-humanity/",
+        "title": "人類の形",
+        "category": "Macro-History",
+        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+      }
+    ],
+    "ja/articles/the-first-mosques-faced-petra-not-mecca": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      }
+    ],
+    "ja/articles/the-flood-was-a-reset-not-a-punishment": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      }
+    ],
+    "ja/articles/the-infinite-in-both-directions": [
+      {
+        "path": "/ja/articles/the-signature-and-the-designers/",
+        "title": "署名と設計者たち",
+        "category": "Science & Technology",
+        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+      },
+      {
+        "path": "/ja/articles/the-rain-over-helicon/",
+        "title": "ヘリコンに降る雨",
+        "category": "Comparative Mythology",
+        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+      },
+      {
+        "path": "/ja/articles/the-east-face-of-homer/",
+        "title": "ホメロスの東面",
+        "category": "Comparative Mythology",
+        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+      },
+      {
+        "path": "/ja/articles/the-world-behind-the-odyssey/",
+        "title": "『オデュッセイア』の背後の世界",
+        "category": "Comparative Mythology",
+        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+      }
+    ],
+    "ja/articles/the-man-who-bet-the-bible-on-the-moon": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      },
+      {
+        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "元年に目覚めた巻物",
+        "category": "Comparative",
+        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+      }
+    ],
+    "ja/articles/the-mill-that-grinds-the-ages": [
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      },
+      {
+        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "元年に目覚めた巻物",
+        "category": "Comparative",
+        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+      }
+    ],
+    "ja/articles/the-rain-over-helicon": [
+      {
+        "path": "/ja/articles/the-east-face-of-homer/",
+        "title": "ホメロスの東面",
+        "category": "Comparative Mythology",
+        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+      },
+      {
+        "path": "/ja/articles/the-world-behind-the-odyssey/",
+        "title": "『オデュッセイア』の背後の世界",
+        "category": "Comparative Mythology",
+        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+      },
+      {
+        "path": "/ja/articles/the-signature-and-the-designers/",
+        "title": "署名と設計者たち",
+        "category": "Science & Technology",
+        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+      },
+      {
+        "path": "/ja/articles/the-shape-of-humanity/",
+        "title": "人類の形",
+        "category": "Macro-History",
+        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+      }
+    ],
+    "ja/articles/the-religion-of-religions": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "元年に目覚めた巻物",
+        "category": "Comparative",
+        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+      }
+    ],
+    "ja/articles/the-scrolls-that-woke-in-year-one": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      }
+    ],
+    "ja/articles/the-shape-of-humanity": [
+      {
+        "path": "/ja/articles/the-signature-and-the-designers/",
+        "title": "署名と設計者たち",
+        "category": "Science & Technology",
+        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+      },
+      {
+        "path": "/ja/articles/the-rain-over-helicon/",
+        "title": "ヘリコンに降る雨",
+        "category": "Comparative Mythology",
+        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+      },
+      {
+        "path": "/ja/articles/the-east-face-of-homer/",
+        "title": "ホメロスの東面",
+        "category": "Comparative Mythology",
+        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+      },
+      {
+        "path": "/ja/articles/the-world-behind-the-odyssey/",
+        "title": "『オデュッセイア』の背後の世界",
+        "category": "Comparative Mythology",
+        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+      }
+    ],
+    "ja/articles/the-signature-and-the-designers": [
+      {
+        "path": "/ja/articles/the-rain-over-helicon/",
+        "title": "ヘリコンに降る雨",
+        "category": "Comparative Mythology",
+        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+      },
+      {
+        "path": "/ja/articles/the-east-face-of-homer/",
+        "title": "ホメロスの東面",
+        "category": "Comparative Mythology",
+        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+      },
+      {
+        "path": "/ja/articles/the-world-behind-the-odyssey/",
+        "title": "『オデュッセイア』の背後の世界",
+        "category": "Comparative Mythology",
+        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+      },
+      {
+        "path": "/ja/articles/the-shape-of-humanity/",
+        "title": "人類の形",
+        "category": "Macro-History",
+        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+      }
+    ],
+    "ja/articles/the-translators-wager": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/unsealed-in-year-one/",
+        "title": "元年に封を解かれて",
+        "category": "Comparative",
+        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      }
+    ],
+    "ja/articles/the-world-behind-the-odyssey": [
+      {
+        "path": "/ja/articles/the-rain-over-helicon/",
+        "title": "ヘリコンに降る雨",
+        "category": "Comparative Mythology",
+        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+      },
+      {
+        "path": "/ja/articles/the-east-face-of-homer/",
+        "title": "ホメロスの東面",
+        "category": "Comparative Mythology",
+        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+      },
+      {
+        "path": "/ja/articles/the-signature-and-the-designers/",
+        "title": "署名と設計者たち",
+        "category": "Science & Technology",
+        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+      },
+      {
+        "path": "/ja/articles/the-shape-of-humanity/",
+        "title": "人類の形",
+        "category": "Macro-History",
+        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+      }
+    ],
+    "ja/articles/unsealed-in-year-one": [
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      },
+      {
+        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "聖書を月に賭けた男",
+        "category": "Comparative",
+        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+      },
+      {
+        "path": "/ja/articles/the-religion-of-religions/",
+        "title": "諸宗教の宗教",
+        "category": "Comparative",
+        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+      },
+      {
+        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "元年に目覚めた巻物",
+        "category": "Comparative",
+        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+      }
+    ],
+    "ja/news/library-hebrew-bible-nine-languages": [
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      },
+      {
+        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
+        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+      }
+    ],
+    "ja/news/pursue-release-01-uap-files": [
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      },
+      {
+        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
+        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+      }
+    ],
+    "ja/news/pursue-release-02-spheres-and-transmedium": [
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      },
+      {
+        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
+        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+      }
+    ],
+    "ja/news/pursue-release-03-multi-agency-and-international": [
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      },
+      {
+        "path": "/ja/news/library-hebrew-bible-nine-languages/",
+        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
+        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
+      }
+    ],
+    "ja/news/pursue-release-04-the-nuclear-nexus": [
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      },
+      {
+        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
+        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/library-hebrew-bible-nine-languages/",
+        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
+        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
+      }
+    ],
+    "ja/news/pursue-release-05-triangles-and-the-white-house-file": [
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      },
+      {
+        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
+        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/library-hebrew-bible-nine-languages/",
+        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
+        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
+      }
+    ],
+    "ja/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
+        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/library-hebrew-bible-nine-languages/",
+        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
+        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
+      }
+    ],
+    "ja/timeline/age-of-aquarius": [
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-aries": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-cancer": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-capricorn": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-gemini": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-leo": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-libra": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-pisces": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-sagittarius": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-scorpio": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-taurus": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/age-of-virgo": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/in-the-beginning": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/preamble": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/timeline/the-wheel-keeps-turning": [
+      {
+        "path": "/ja/timeline/age-of-aquarius/",
+        "title": "みずがめ座の時代",
+        "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
+      },
+      {
+        "path": "/ja/timeline/age-of-aries/",
+        "title": "牡羊座の時代",
+        "description": "大年の第十の時代——モーセ、出エジプト、シナイの律法、牡羊時代の預言者の角、カナン征服、預言者の伝統、ヘブライ人による使命伝播の失敗、評議会によるペルシアとギリシャの育成、そして魚座に向けた世界的な枢軸時代の準備。"
+      },
+      {
+        "path": "/ja/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ja/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ja/wiki/abraham": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noah/",
+        "title": "ノア",
+        "category": "Biblical Figures",
+        "description": "ノア(ヘブライ語:נֹחַ、ノアフ)は、大洪水の族長であり、その箱舟は生命系統の保存を可能にする。Wheel of Heaven の文脈では、彼の姿は水文学的リセットの際に、エロヒムの直接の指示を受けて活動する生物工学的オペレーターとして読まれる。"
+      }
+    ],
+    "ja/wiki/adam-and-eve": [
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noah/",
+        "title": "ノア",
+        "category": "Biblical Figures",
+        "description": "ノア(ヘブライ語:נֹחַ、ノアフ)は、大洪水の族長であり、その箱舟は生命系統の保存を可能にする。Wheel of Heaven の文脈では、彼の姿は水文学的リセットの際に、エロヒムの直接の指示を受けて活動する生物工学的オペレーターとして読まれる。"
+      }
+    ],
+    "ja/wiki/adamite-struggle": [
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahic-covenant/",
+        "title": "ノア契約",
+        "category": "Events & Narratives",
+        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
+      }
+    ],
+    "ja/wiki/adamites": [
+      {
+        "path": "/ja/wiki/nabataeans/",
+        "title": "ナバテア人",
+        "category": "Peoples & Groups",
+        "description": "ナバテア人(ナバテア・アラム語 נבטו Nabaṭu;ギリシア語 Ναβαταῖοι Nabataîoi;アラビア語 ٱلْأَنْبَاط al-Anbāṭ)は、およそ紀元前4世紀から南レヴァントおよび北西アラビアにまたがる富裕な隊商交易王国を築き、岩を掘り抜いた首都をペトラに置いた古代北アラビアの民族です。彼らの"
+      },
+      {
+        "path": "/ja/wiki/ancient-builders/",
+        "title": "古代の建設者",
+        "category": "Peoples & Groups",
+        "description": "「古代の建設者」とは、大衆的および代替考古学の用法において、エジプトのピラミッド、ストーンヘンジ、サクサイワマンおよびマチュ・ピチュのアンデス巨石遺跡、イースター島のモアイ、マルタの巨石神殿などを含む、世界的に見出される実質的な古代石造記念物の多くを、失われたまたは未知の一つまたは複数の文明が建造したとする命題である。"
+      },
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      }
+    ],
+    "ja/wiki/ancient-astronaut-hypothesis": [
+      {
+        "path": "/ja/wiki/sendys-conditions-of-coherence/",
+        "title": "サンディの整合性条件",
+        "category": "Methodology",
+        "description": "サンディの整合性条件は、著者ジャン・サンディに由来し、古代の物語の中に長期にわたって整合的な技術情報の層を認識可能とする文献学的基準群を指す。Wheel of Heaven は、これを方法論的指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/dhorme-bible-translation/",
+        "title": "ドルムによる聖書翻訳",
+        "category": "Methodology",
+        "description": "エドゥアール・ドルムによる聖書翻訳は、「プレイアード叢書」より刊行され、ヘブライ語テクストの批判的読解にとって主要な文献学的参照点となっている。Wheel of Heaven はこれを仏語テクスト基盤の一つとして参照する。"
+      },
+      {
+        "path": "/ja/wiki/neo-euhemerism/",
+        "title": "ネオエウヘメリズム",
+        "category": "Methodology",
+        "description": "ネオエウヘメリズムは、Wheel of Heaven の文脈において、神々の物語を実在の人物の歴史的記憶として読む立場を指し、エロヒムの主張によって現代化されたものである。古代のエウヘメリズムを継承しつつ、それに地球外的次元を組み込む。"
+      },
+      {
+        "path": "/ja/wiki/biglino-method/",
+        "title": "ビリーノの方法",
+        "category": "Methodology",
+        "description": "ビリーノの方法は、イタリアの翻訳者マウロ・ビリーノにちなんで命名され、蓄積された神学的前提を取り去ってヘブライ語聖書を読み、その文字通りかつ技術的な射程を復元することを旨とする。Wheel of Heaven は資料再読の道具として広くこれを参照するが、その全ての主張に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/ancient-builders": [
+      {
+        "path": "/ja/wiki/adamites/",
+        "title": "アダム系統",
+        "category": "Peoples & Groups",
+        "description": "アダム系統(Adamites)は、Wheel of Heaven の文脈において、エロヒムによって最初に完全合成された人類系譜 — アダムとイヴの直系の子孫が園=実験室を出た時点から始まる血統である。この用語はこの系統を、地球上に存在した他の前人類的系統と区別し、本来の意味での人類史の起点を画する。"
+      },
+      {
+        "path": "/ja/wiki/nabataeans/",
+        "title": "ナバテア人",
+        "category": "Peoples & Groups",
+        "description": "ナバテア人(ナバテア・アラム語 נבטו Nabaṭu;ギリシア語 Ναβαταῖοι Nabataîoi;アラビア語 ٱلْأَنْبَاط al-Anbāṭ)は、およそ紀元前4世紀から南レヴァントおよび北西アラビアにまたがる富裕な隊商交易王国を築き、岩を掘り抜いた首都をペトラに置いた古代北アラビアの民族です。彼らの"
+      },
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      }
+    ],
+    "ja/wiki/antediluvian": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      }
+    ],
+    "ja/wiki/apocalypse": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/archaeoastronomy": [
+      {
+        "path": "/ja/wiki/sendys-conditions-of-coherence/",
+        "title": "サンディの整合性条件",
+        "category": "Methodology",
+        "description": "サンディの整合性条件は、著者ジャン・サンディに由来し、古代の物語の中に長期にわたって整合的な技術情報の層を認識可能とする文献学的基準群を指す。Wheel of Heaven は、これを方法論的指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/dhorme-bible-translation/",
+        "title": "ドルムによる聖書翻訳",
+        "category": "Methodology",
+        "description": "エドゥアール・ドルムによる聖書翻訳は、「プレイアード叢書」より刊行され、ヘブライ語テクストの批判的読解にとって主要な文献学的参照点となっている。Wheel of Heaven はこれを仏語テクスト基盤の一つとして参照する。"
+      },
+      {
+        "path": "/ja/wiki/neo-euhemerism/",
+        "title": "ネオエウヘメリズム",
+        "category": "Methodology",
+        "description": "ネオエウヘメリズムは、Wheel of Heaven の文脈において、神々の物語を実在の人物の歴史的記憶として読む立場を指し、エロヒムの主張によって現代化されたものである。古代のエウヘメリズムを継承しつつ、それに地球外的次元を組み込む。"
+      },
+      {
+        "path": "/ja/wiki/biglino-method/",
+        "title": "ビリーノの方法",
+        "category": "Methodology",
+        "description": "ビリーノの方法は、イタリアの翻訳者マウロ・ビリーノにちなんで命名され、蓄積された神学的前提を取り去ってヘブライ語聖書を読み、その文字通りかつ技術的な射程を復元することを旨とする。Wheel of Heaven は資料再読の道具として広くこれを参照するが、その全ての主張に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/astrobiology": [
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      },
+      {
+        "path": "/ja/wiki/pantropy/",
+        "title": "パントロピー",
+        "category": "Science & Technology",
+        "description": "パントロピーは、生物 — 人類を含む — を他の世界の条件に遺伝的に適応させることを指し、世界の側を生物に適応させるテラフォーミングと対になる概念である。Wheel of Heaven は、それをエロヒムの播種の代替的または補完的戦略として言及する。"
+      }
+    ],
+    "ja/wiki/babel": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/bible": [
+      {
+        "path": "/ja/wiki/hanafiyya/",
+        "title": "ハニーフィーヤ",
+        "category": "Theology & Traditions",
+        "description": "ハニーフィーヤ(アラビア語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah、حَنِيف ḥanīf「偶像崇拝から離れ、直き原初の礼拝へと傾く者」に由来)は、アブラハムの純粋な一神教を指すクルアーンおよび初期イスラームの用語であり——ユダヤ教やキリスト教が存在する以前にアブラハムが属していた「アブラハムの宗教"
+      },
+      {
+        "path": "/ja/wiki/hebrew/",
+        "title": "ヘブライ語",
+        "category": "Theology & Traditions",
+        "description": "ヘブライ語(<span class=\"hebrew\">עִבְרִית</span>、イヴリート)は、ユダヤ教の根本テクストの言語であるセム語族の一言語であり、その三子音体系と圧縮された多義性は、Wheel of Heaven が提示する読解において決定的な役割を果たす。"
+      },
+      {
+        "path": "/ja/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "ラエリアン正典の参照コーパス",
+        "category": "Theology & Traditions",
+        "description": "ラエリアン・コーパスの三冊の正典書 ―『真実を告げる書』(1974)、『地球外生命体は私を彼らの惑星へと連れて行った』(1975)、『地球外生命体を歓迎しよう』(1979) ― が直接引用または間接的に言及するテクスト、伝承、人物の目録。明示的に名指された一次層と、ほのめかしのみの二次層に整理する。"
+      },
+      {
+        "path": "/ja/wiki/the-tradition/",
+        "title": "伝統",
+        "category": "Theology & Traditions",
+        "description": "伝統は、Wheel of Heaven の文脈において、宗教・秘儀学派・特定の哲学的本文集を通じて保存されてきたエロヒム的伝達の累積的総体を指す — 特定の宗派的伝統とは区別される。"
+      }
+    ],
+    "ja/wiki/biglino-method": [
+      {
+        "path": "/ja/wiki/sendys-conditions-of-coherence/",
+        "title": "サンディの整合性条件",
+        "category": "Methodology",
+        "description": "サンディの整合性条件は、著者ジャン・サンディに由来し、古代の物語の中に長期にわたって整合的な技術情報の層を認識可能とする文献学的基準群を指す。Wheel of Heaven は、これを方法論的指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/dhorme-bible-translation/",
+        "title": "ドルムによる聖書翻訳",
+        "category": "Methodology",
+        "description": "エドゥアール・ドルムによる聖書翻訳は、「プレイアード叢書」より刊行され、ヘブライ語テクストの批判的読解にとって主要な文献学的参照点となっている。Wheel of Heaven はこれを仏語テクスト基盤の一つとして参照する。"
+      },
+      {
+        "path": "/ja/wiki/neo-euhemerism/",
+        "title": "ネオエウヘメリズム",
+        "category": "Methodology",
+        "description": "ネオエウヘメリズムは、Wheel of Heaven の文脈において、神々の物語を実在の人物の歴史的記憶として読む立場を指し、エロヒムの主張によって現代化されたものである。古代のエウヘメリズムを継承しつつ、それに地球外的次元を組み込む。"
+      },
+      {
+        "path": "/ja/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇宙飛行士仮説",
+        "category": "Methodology",
+        "description": "古代宇宙飛行士仮説は、地球外の知性が先史および古代に地球を訪れ、人類文明の発展に決定的な痕跡を残したと主張する。Wheel of Heaven の文脈はその規律化されたヴァリアントであり、ラエル文献のエロヒム的グリッドを通して読み解く。"
+      }
+    ],
+    "ja/wiki/chronology": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      }
+    ],
+    "ja/wiki/comparative-mythology": [
+      {
+        "path": "/ja/wiki/sendys-conditions-of-coherence/",
+        "title": "サンディの整合性条件",
+        "category": "Methodology",
+        "description": "サンディの整合性条件は、著者ジャン・サンディに由来し、古代の物語の中に長期にわたって整合的な技術情報の層を認識可能とする文献学的基準群を指す。Wheel of Heaven は、これを方法論的指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/dhorme-bible-translation/",
+        "title": "ドルムによる聖書翻訳",
+        "category": "Methodology",
+        "description": "エドゥアール・ドルムによる聖書翻訳は、「プレイアード叢書」より刊行され、ヘブライ語テクストの批判的読解にとって主要な文献学的参照点となっている。Wheel of Heaven はこれを仏語テクスト基盤の一つとして参照する。"
+      },
+      {
+        "path": "/ja/wiki/neo-euhemerism/",
+        "title": "ネオエウヘメリズム",
+        "category": "Methodology",
+        "description": "ネオエウヘメリズムは、Wheel of Heaven の文脈において、神々の物語を実在の人物の歴史的記憶として読む立場を指し、エロヒムの主張によって現代化されたものである。古代のエウヘメリズムを継承しつつ、それに地球外的次元を組み込む。"
+      },
+      {
+        "path": "/ja/wiki/biglino-method/",
+        "title": "ビリーノの方法",
+        "category": "Methodology",
+        "description": "ビリーノの方法は、イタリアの翻訳者マウロ・ビリーノにちなんで命名され、蓄積された神学的前提を取り去ってヘブライ語聖書を読み、その文字通りかつ技術的な射程を復元することを旨とする。Wheel of Heaven は資料再読の道具として広くこれを参照するが、その全ての主張に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/confusion-of-tongues": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/cosmic-chain": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/cosmic-competition": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/cosmic-evolution": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/cosmic-pluralism": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/council-of-the-eternals": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/crop-circles": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/us-space-force/",
+        "title": "アメリカ宇宙軍",
+        "category": "Ufology",
+        "description": "アメリカ宇宙軍は、2019年以来、合衆国軍の宇宙部門である。Wheel of Heaven は、エクソバイオロジーの軍事的隠蔽との関連で、現代の宇宙軍事化の制度的指標としてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/military-cover-up-of-exobiology/",
+        "title": "エクソバイオロジーの軍事的隠蔽",
+        "category": "Ufology",
+        "description": "エクソバイオロジーの軍事的隠蔽は、地球上における非人類的存在の存在に関するデータを機密化する国家的(主として米国の)装置群を指す。Wheel of Heaven は、それを大いなる帰還への制度的障害の一つとして文書化する。"
+      }
+    ],
+    "ja/wiki/cyberparadism": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven は、啓示・宇宙的年代論・古代の記憶・聖なる歴史・現代における再解釈を中心に据えた、整理された比較知識プロジェクトであり、解釈枠組みの名称でもあり、それを言語化する文献集の名称でもあります。プロジェクトの作業仮説は次のとおりです。地球上の生命は、ヘブライ語聖書において *エロヒム* と呼ば"
+      },
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      }
+    ],
+    "ja/wiki/dhorme-bible-translation": [
+      {
+        "path": "/ja/wiki/sendys-conditions-of-coherence/",
+        "title": "サンディの整合性条件",
+        "category": "Methodology",
+        "description": "サンディの整合性条件は、著者ジャン・サンディに由来し、古代の物語の中に長期にわたって整合的な技術情報の層を認識可能とする文献学的基準群を指す。Wheel of Heaven は、これを方法論的指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/neo-euhemerism/",
+        "title": "ネオエウヘメリズム",
+        "category": "Methodology",
+        "description": "ネオエウヘメリズムは、Wheel of Heaven の文脈において、神々の物語を実在の人物の歴史的記憶として読む立場を指し、エロヒムの主張によって現代化されたものである。古代のエウヘメリズムを継承しつつ、それに地球外的次元を組み込む。"
+      },
+      {
+        "path": "/ja/wiki/biglino-method/",
+        "title": "ビリーノの方法",
+        "category": "Methodology",
+        "description": "ビリーノの方法は、イタリアの翻訳者マウロ・ビリーノにちなんで命名され、蓄積された神学的前提を取り去ってヘブライ語聖書を読み、その文字通りかつ技術的な射程を復元することを旨とする。Wheel of Heaven は資料再読の道具として広くこれを参照するが、その全ての主張に同一化するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇宙飛行士仮説",
+        "category": "Methodology",
+        "description": "古代宇宙飛行士仮説は、地球外の知性が先史および古代に地球を訪れ、人類文明の発展に決定的な痕跡を残したと主張する。Wheel of Heaven の文脈はその規律化されたヴァリアントであり、ラエル文献のエロヒム的グリッドを通して読み解く。"
+      }
+    ],
+    "ja/wiki/doubled-signature": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/the-alliance/",
+        "title": "同盟",
+        "category": "Cosmology & Framework",
+        "description": "同盟 — Wheel of Heaven における洪水後のエロヒム=人類相互作用の最初の安定したプロトコルの正典項目については「ノア契約」を参照。"
+      }
+    ],
+    "ja/wiki/dragons": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      },
+      {
+        "path": "/ja/wiki/leviathan/",
+        "title": "レヴィアタン",
+        "category": "Symbolism & Motifs",
+        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
+      }
+    ],
+    "ja/wiki/drake-equation": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/pantropy/",
+        "title": "パントロピー",
+        "category": "Science & Technology",
+        "description": "パントロピーは、生物 — 人類を含む — を他の世界の条件に遺伝的に適応させることを指し、世界の側を生物に適応させるテラフォーミングと対になる概念である。Wheel of Heaven は、それをエロヒムの播種の代替的または補完的戦略として言及する。"
+      }
+    ],
+    "ja/wiki/eden": [
+      {
+        "path": "/ja/wiki/pangaea/",
+        "title": "パンゲア",
+        "category": "Places & Locations",
+        "description": "パンゲアは、古生代末についてプレートテクトニクスにより復元された単一の超大陸である。Wheel of Heaven は、それをエロヒムによる地球生命合成の初期段階における参照地質配置として捉える。"
+      },
+      {
+        "path": "/ja/wiki/petra/",
+        "title": "ペトラ",
+        "category": "Places & Locations",
+        "description": "ペトラ(ギリシャ語 Πέτρα「岩」、ナバテア・アラム語 רקמו Raqmū、ヘブライ語 רֶקֶם Reqem、アラビア語 ٱلْبَتْرَاء al-Batrāʾ)は、現在のヨルダン南部にあるナバテア王国の岩窟首都であり、カナダの研究者ダン・ギブソンに主に結びつけられた修正主義的仮説——ヒジャーズの現在メッカと"
+      },
+      {
+        "path": "/ja/wiki/new-jerusalem/",
+        "title": "新しいエルサレム",
+        "category": "Places & Locations",
+        "description": "新しいエルサレムは、聖書終末論において、終わりの時に天から降る再生された都市である。Wheel of Heaven の文脈では、それは大使館と大いなる帰還の象徴的投影として読まれ — 厳密に神学的な比喩というよりは、エロヒム的歓迎インフラとして扱われる。"
+      },
+      {
+        "path": "/ja/wiki/third-temple/",
+        "title": "第三神殿",
+        "category": "Places & Locations",
+        "description": "第三神殿は、ユダヤ教終末論において、終わりの時にエルサレムに再建されるべき聖所である。Wheel of Heaven の文脈では、それは大使館 — 大いなる帰還のためのエロヒム的歓迎インフラ — の象徴的投影として読まれる。"
+      }
+    ],
+    "ja/wiki/elijah": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/noah/",
+        "title": "ノア",
+        "category": "Biblical Figures",
+        "description": "ノア(ヘブライ語:נֹחַ、ノアフ)は、大洪水の族長であり、その箱舟は生命系統の保存を可能にする。Wheel of Heaven の文脈では、彼の姿は水文学的リセットの際に、エロヒムの直接の指示を受けて活動する生物工学的オペレーターとして読まれる。"
+      }
+    ],
+    "ja/wiki/elohim": [
+      {
+        "path": "/ja/wiki/elohim-home-planet/",
+        "title": "エロヒムの母星",
+        "category": "Elohim",
+        "description": "エロヒムの母星 — Wheel of Heaven の正典項目については「エロヒム母星」を参照。"
+      },
+      {
+        "path": "/ja/wiki/elohimian-space-wars/",
+        "title": "エロヒム的宇宙戦争",
+        "category": "Elohim",
+        "description": "エロヒム的宇宙戦争 — Wheel of Heaven の正典項目については「神々の闘い」を参照。"
+      },
+      {
+        "path": "/ja/wiki/satan/",
+        "title": "サタン",
+        "category": "Elohim",
+        "description": "サタン(שָׂטָן、ヘブライ語で「敵対者」「告発者」「対立者」)は母星に在るエロアハの人物であり、エロヒム文明内部の政治派閥 ― すなわち、自らの創造者と同等あるいは凌駕しうる合成的存在の創造に対して一貫して反対してきた派閥 ― の指導者である。サタンの立場は地球計画開始以前から実質的に一貫している。すなわち、エロヒ"
+      },
+      {
+        "path": "/ja/wiki/yahweh/",
+        "title": "ヤハウェ",
+        "category": "Elohim",
+        "description": "ヤハウェ(ヘブライ語:יהוה、YHWH)はヘブライ語聖書における主要な神的人物の固有名であり、主流の伝統では慣例的にイスラエルの唯一神として読まれている。ラエル文献において展開され、Wheel of Heaven 文献集が採用する読解によれば、ヤハウェは特定のエロアハ ― 永遠の評議会の議長であり、山羊座の時代以降、"
+      }
+    ],
+    "ja/wiki/elohim-home-planet": [
+      {
+        "path": "/ja/wiki/elohim/",
+        "title": "エロヒム",
+        "category": "Elohim",
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+      },
+      {
+        "path": "/ja/wiki/elohimian-space-wars/",
+        "title": "エロヒム的宇宙戦争",
+        "category": "Elohim",
+        "description": "エロヒム的宇宙戦争 — Wheel of Heaven の正典項目については「神々の闘い」を参照。"
+      },
+      {
+        "path": "/ja/wiki/satan/",
+        "title": "サタン",
+        "category": "Elohim",
+        "description": "サタン(שָׂטָן、ヘブライ語で「敵対者」「告発者」「対立者」)は母星に在るエロアハの人物であり、エロヒム文明内部の政治派閥 ― すなわち、自らの創造者と同等あるいは凌駕しうる合成的存在の創造に対して一貫して反対してきた派閥 ― の指導者である。サタンの立場は地球計画開始以前から実質的に一貫している。すなわち、エロヒ"
+      },
+      {
+        "path": "/ja/wiki/yahweh/",
+        "title": "ヤハウェ",
+        "category": "Elohim",
+        "description": "ヤハウェ(ヘブライ語:יהוה、YHWH)はヘブライ語聖書における主要な神的人物の固有名であり、主流の伝統では慣例的にイスラエルの唯一神として読まれている。ラエル文献において展開され、Wheel of Heaven 文献集が採用する読解によれば、ヤハウェは特定のエロアハ ― 永遠の評議会の議長であり、山羊座の時代以降、"
+      }
+    ],
+    "ja/wiki/elohimian-space-wars": [
+      {
+        "path": "/ja/wiki/elohim/",
+        "title": "エロヒム",
+        "category": "Elohim",
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+      },
+      {
+        "path": "/ja/wiki/elohim-home-planet/",
+        "title": "エロヒムの母星",
+        "category": "Elohim",
+        "description": "エロヒムの母星 — Wheel of Heaven の正典項目については「エロヒム母星」を参照。"
+      },
+      {
+        "path": "/ja/wiki/satan/",
+        "title": "サタン",
+        "category": "Elohim",
+        "description": "サタン(שָׂטָן、ヘブライ語で「敵対者」「告発者」「対立者」)は母星に在るエロアハの人物であり、エロヒム文明内部の政治派閥 ― すなわち、自らの創造者と同等あるいは凌駕しうる合成的存在の創造に対して一貫して反対してきた派閥 ― の指導者である。サタンの立場は地球計画開始以前から実質的に一貫している。すなわち、エロヒ"
+      },
+      {
+        "path": "/ja/wiki/yahweh/",
+        "title": "ヤハウェ",
+        "category": "Elohim",
+        "description": "ヤハウェ(ヘブライ語:יהוה、YHWH)はヘブライ語聖書における主要な神的人物の固有名であり、主流の伝統では慣例的にイスラエルの唯一神として読まれている。ラエル文献において展開され、Wheel of Heaven 文献集が採用する読解によれば、ヤハウェは特定のエロアハ ― 永遠の評議会の議長であり、山羊座の時代以降、"
+      }
+    ],
+    "ja/wiki/embassy": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/forerunners": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/four-levels": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/fractal-cosmology": [
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      },
+      {
+        "path": "/ja/wiki/the-alliance/",
+        "title": "同盟",
+        "category": "Cosmology & Framework",
+        "description": "同盟 — Wheel of Heaven における洪水後のエロヒム=人類相互作用の最初の安定したプロトコルの正典項目については「ノア契約」を参照。"
+      }
+    ],
+    "ja/wiki/genesis": [
+      {
+        "path": "/ja/wiki/kabbalah/",
+        "title": "カバラ",
+        "category": "Texts & Sources",
+        "description": "カバラ(<span class=\"hebrew\">קַבָּלָה</span>)は、中世以降に発展したユダヤ神秘主義の伝統であり、トーラーの秘儀的読解を中心に据える。Wheel of Heaven は、ヘブライ語テクストの非字義的読解を歴史的に保存してきたチャネルの一つとして、その貢献と限界を論じる。"
+      },
+      {
+        "path": "/ja/wiki/shiur-qomah/",
+        "title": "シウル・コマー",
+        "category": "Texts & Sources",
+        "description": "シウル・コマー(ヘブライ語 שִׁעוּר קוֹמָה、「身丈の寸法」)は、カバラ以前のヘカロート/メルカバー文献に属するテクストであり、天使 Metatron が神の身体の宇宙的な寸法を四肢ごとに口述し、各部位がパラサング(parasang)で測られ、秘密の名を付されていく。ラエル文献資料が「カバラ」に帰しているパ"
+      },
+      {
+        "path": "/ja/wiki/hekhalot-literature/",
+        "title": "ヘカロート文献",
+        "category": "Texts & Sources",
+        "description": "ヘカロート文献(ヘブライ語 הֵיכָלוֹת、「宮殿群」)は、七つの天の宮殿を通って神の玉座の戦車(merkavah)へと魂が上昇する様を描く、古代末期ユダヤ神秘主義の著作群である。ユダヤ神秘主義におけるカバラ以前の層をなし、シウル・コマー(Shi'ur Qomah)が伝承される文献集でもある。"
+      },
+      {
+        "path": "/ja/wiki/hebrew-bible/",
+        "title": "ヘブライ語聖書",
+        "category": "Texts & Sources",
+        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+      }
+    ],
+    "ja/wiki/genetic-engineering": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/geniocracy": [
+      {
+        "path": "/ja/wiki/paradism/",
+        "title": "パラディズム",
+        "category": "Raëlism",
+        "description": "パラディズムは、ラエル文献の文脈において、貨幣も強制労働もない自動化された豊かさの社会という社会経済プロジェクトを指す。Wheel of Heaven はこれを、大いなる帰還の準備段階の政治的地平として読む。"
+      },
+      {
+        "path": "/ja/wiki/humanitarianism/",
+        "title": "ヒューマニタリアニズム",
+        "category": "Raëlism",
+        "description": "ヒューマニタリアニズムは、ラエル文献の文脈において、人権・貧困撲滅・生命への敬意などの普遍的倫理原則の集合体を指し、エロヒムとの公的接触に向けた人類の準備をなす。Wheel of Heaven はこれを、大いなる帰還の政治的条件の一つに位置づける。"
+      },
+      {
+        "path": "/ja/wiki/rael/",
+        "title": "ラエル",
+        "category": "Raëlism",
+        "description": "ラエル(本名クロード・ヴォリロン、1946年生)は、ラエル運動の創始者であり、1973年と1975年にエロヒムから直接の伝達を受けたと報告している。Wheel of Heaven の文脈では、彼はモーセ・イエス・ムハンマドの連続のうちにあるエロヒム系譜の最後に文書化された預言者として読まれる。"
+      },
+      {
+        "path": "/ja/wiki/new-commandments/",
+        "title": "新しい戒め",
+        "category": "Raëlism",
+        "description": "新しい戒めは、ラエル文献の文脈において、現代の人類に向けてヤハウェからラエルへと伝えられた更新された倫理的・政治的戒律の総体である。Wheel of Heaven はこれを、それ以前のエロヒム的立法伝達との連続のうちに位置づける。"
+      }
+    ],
+    "ja/wiki/golden-age": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      }
+    ],
+    "ja/wiki/great-flood": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/great-month": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/antediluvian/",
+        "title": "大洪水以前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水以前(ラテン語:ante、「前」+ diluvium、「洪水」)とは、創世記6-9章および古代世界全体にわたる並行諸伝統に語られる大洪水以前の地球における人類の存在期間を指す。ラエル文献資料において展開され Wheel of Heaven 文献集が採用する読解では、これは創造後・洪水以前の期間 ― 獅子座の時代か"
+      }
+    ],
+    "ja/wiki/great-return": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/great-year": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      },
+      {
+        "path": "/ja/wiki/antediluvian/",
+        "title": "大洪水以前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水以前(ラテン語:ante、「前」+ diluvium、「洪水」)とは、創世記6-9章および古代世界全体にわたる並行諸伝統に語られる大洪水以前の地球における人類の存在期間を指す。ラエル文献資料において展開され Wheel of Heaven 文献集が採用する読解では、これは創造後・洪水以前の期間 ― 獅子座の時代か"
+      }
+    ],
+    "ja/wiki/hanafiyya": [
+      {
+        "path": "/ja/wiki/hebrew/",
+        "title": "ヘブライ語",
+        "category": "Theology & Traditions",
+        "description": "ヘブライ語(<span class=\"hebrew\">עִבְרִית</span>、イヴリート)は、ユダヤ教の根本テクストの言語であるセム語族の一言語であり、その三子音体系と圧縮された多義性は、Wheel of Heaven が提示する読解において決定的な役割を果たす。"
+      },
+      {
+        "path": "/ja/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "ラエリアン正典の参照コーパス",
+        "category": "Theology & Traditions",
+        "description": "ラエリアン・コーパスの三冊の正典書 ―『真実を告げる書』(1974)、『地球外生命体は私を彼らの惑星へと連れて行った』(1975)、『地球外生命体を歓迎しよう』(1979) ― が直接引用または間接的に言及するテクスト、伝承、人物の目録。明示的に名指された一次層と、ほのめかしのみの二次層に整理する。"
+      },
+      {
+        "path": "/ja/wiki/the-tradition/",
+        "title": "伝統",
+        "category": "Theology & Traditions",
+        "description": "伝統は、Wheel of Heaven の文脈において、宗教・秘儀学派・特定の哲学的本文集を通じて保存されてきたエロヒム的伝達の累積的総体を指す — 特定の宗派的伝統とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教は、Wheel of Heaven の文脈において、エロヒム的記憶を長期的に保存する装置であると同時に、伝達の過程で蓄積される歪曲の層として読まれる。本プロジェクトはそのアーカイブ的機能を論じるが、特定の宗派的体系に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/hebrew": [
+      {
+        "path": "/ja/wiki/hanafiyya/",
+        "title": "ハニーフィーヤ",
+        "category": "Theology & Traditions",
+        "description": "ハニーフィーヤ(アラビア語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah、حَنِيف ḥanīf「偶像崇拝から離れ、直き原初の礼拝へと傾く者」に由来)は、アブラハムの純粋な一神教を指すクルアーンおよび初期イスラームの用語であり——ユダヤ教やキリスト教が存在する以前にアブラハムが属していた「アブラハムの宗教"
+      },
+      {
+        "path": "/ja/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "ラエリアン正典の参照コーパス",
+        "category": "Theology & Traditions",
+        "description": "ラエリアン・コーパスの三冊の正典書 ―『真実を告げる書』(1974)、『地球外生命体は私を彼らの惑星へと連れて行った』(1975)、『地球外生命体を歓迎しよう』(1979) ― が直接引用または間接的に言及するテクスト、伝承、人物の目録。明示的に名指された一次層と、ほのめかしのみの二次層に整理する。"
+      },
+      {
+        "path": "/ja/wiki/the-tradition/",
+        "title": "伝統",
+        "category": "Theology & Traditions",
+        "description": "伝統は、Wheel of Heaven の文脈において、宗教・秘儀学派・特定の哲学的本文集を通じて保存されてきたエロヒム的伝達の累積的総体を指す — 特定の宗派的伝統とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教は、Wheel of Heaven の文脈において、エロヒム的記憶を長期的に保存する装置であると同時に、伝達の過程で蓄積される歪曲の層として読まれる。本プロジェクトはそのアーカイブ的機能を論じるが、特定の宗派的体系に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/hebrew-bible": [
+      {
+        "path": "/ja/wiki/kabbalah/",
+        "title": "カバラ",
+        "category": "Texts & Sources",
+        "description": "カバラ(<span class=\"hebrew\">קַבָּלָה</span>)は、中世以降に発展したユダヤ神秘主義の伝統であり、トーラーの秘儀的読解を中心に据える。Wheel of Heaven は、ヘブライ語テクストの非字義的読解を歴史的に保存してきたチャネルの一つとして、その貢献と限界を論じる。"
+      },
+      {
+        "path": "/ja/wiki/shiur-qomah/",
+        "title": "シウル・コマー",
+        "category": "Texts & Sources",
+        "description": "シウル・コマー(ヘブライ語 שִׁעוּר קוֹמָה、「身丈の寸法」)は、カバラ以前のヘカロート/メルカバー文献に属するテクストであり、天使 Metatron が神の身体の宇宙的な寸法を四肢ごとに口述し、各部位がパラサング(parasang)で測られ、秘密の名を付されていく。ラエル文献資料が「カバラ」に帰しているパ"
+      },
+      {
+        "path": "/ja/wiki/hekhalot-literature/",
+        "title": "ヘカロート文献",
+        "category": "Texts & Sources",
+        "description": "ヘカロート文献(ヘブライ語 הֵיכָלוֹת、「宮殿群」)は、七つの天の宮殿を通って神の玉座の戦車(merkavah)へと魂が上昇する様を描く、古代末期ユダヤ神秘主義の著作群である。ユダヤ神秘主義におけるカバラ以前の層をなし、シウル・コマー(Shi'ur Qomah)が伝承される文献集でもある。"
+      },
+      {
+        "path": "/ja/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "創世記(ヘブライ語:בְּרֵאשִׁית、ベレシート)は、トーラーおよびヘブライ語聖書の最初の書であり、創造・エデン・大洪水・族長たちの物語を記す。Wheel of Heaven にとって、それはエロヒム的グリッドを通して再読すべき源泉的テクストである。"
+      }
+    ],
+    "ja/wiki/hekhalot-literature": [
+      {
+        "path": "/ja/wiki/kabbalah/",
+        "title": "カバラ",
+        "category": "Texts & Sources",
+        "description": "カバラ(<span class=\"hebrew\">קַבָּלָה</span>)は、中世以降に発展したユダヤ神秘主義の伝統であり、トーラーの秘儀的読解を中心に据える。Wheel of Heaven は、ヘブライ語テクストの非字義的読解を歴史的に保存してきたチャネルの一つとして、その貢献と限界を論じる。"
+      },
+      {
+        "path": "/ja/wiki/shiur-qomah/",
+        "title": "シウル・コマー",
+        "category": "Texts & Sources",
+        "description": "シウル・コマー(ヘブライ語 שִׁעוּר קוֹמָה、「身丈の寸法」)は、カバラ以前のヘカロート/メルカバー文献に属するテクストであり、天使 Metatron が神の身体の宇宙的な寸法を四肢ごとに口述し、各部位がパラサング(parasang)で測られ、秘密の名を付されていく。ラエル文献資料が「カバラ」に帰しているパ"
+      },
+      {
+        "path": "/ja/wiki/hebrew-bible/",
+        "title": "ヘブライ語聖書",
+        "category": "Texts & Sources",
+        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+      },
+      {
+        "path": "/ja/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "創世記(ヘブライ語:בְּרֵאשִׁית、ベレシート)は、トーラーおよびヘブライ語聖書の最初の書であり、創造・エデン・大洪水・族長たちの物語を記す。Wheel of Heaven にとって、それはエロヒム的グリッドを通して再読すべき源泉的テクストである。"
+      }
+    ],
+    "ja/wiki/humanitarianism": [
+      {
+        "path": "/ja/wiki/geniocracy/",
+        "title": "ジェニオクラシー",
+        "category": "Raëlism",
+        "description": "ジェニオクラシーは、ラエル文献の文脈において、測定された認知能力に基づいて指導者を選抜する政治制度である。Wheel of Heaven は、ラエル運動が提示する制度的構想の一つとしてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/paradism/",
+        "title": "パラディズム",
+        "category": "Raëlism",
+        "description": "パラディズムは、ラエル文献の文脈において、貨幣も強制労働もない自動化された豊かさの社会という社会経済プロジェクトを指す。Wheel of Heaven はこれを、大いなる帰還の準備段階の政治的地平として読む。"
+      },
+      {
+        "path": "/ja/wiki/rael/",
+        "title": "ラエル",
+        "category": "Raëlism",
+        "description": "ラエル(本名クロード・ヴォリロン、1946年生)は、ラエル運動の創始者であり、1973年と1975年にエロヒムから直接の伝達を受けたと報告している。Wheel of Heaven の文脈では、彼はモーセ・イエス・ムハンマドの連続のうちにあるエロヒム系譜の最後に文書化された預言者として読まれる。"
+      },
+      {
+        "path": "/ja/wiki/new-commandments/",
+        "title": "新しい戒め",
+        "category": "Raëlism",
+        "description": "新しい戒めは、ラエル文献の文脈において、現代の人類に向けてヤハウェからラエルへと伝えられた更新された倫理的・政治的戒律の総体である。Wheel of Heaven はこれを、それ以前のエロヒム的立法伝達との連続のうちに位置づける。"
+      }
+    ],
+    "ja/wiki/infinity": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/intelligent-design": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      },
+      {
+        "path": "/ja/wiki/pantropy/",
+        "title": "パントロピー",
+        "category": "Science & Technology",
+        "description": "パントロピーは、生物 — 人類を含む — を他の世界の条件に遺伝的に適応させることを指し、世界の側を生物に適応させるテラフォーミングと対になる概念である。Wheel of Heaven は、それをエロヒムの播種の代替的または補完的戦略として言及する。"
+      }
+    ],
+    "ja/wiki/jesus": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noah/",
+        "title": "ノア",
+        "category": "Biblical Figures",
+        "description": "ノア(ヘブライ語:נֹחַ、ノアフ)は、大洪水の族長であり、その箱舟は生命系統の保存を可能にする。Wheel of Heaven の文脈では、彼の姿は水文学的リセットの際に、エロヒムの直接の指示を受けて活動する生物工学的オペレーターとして読まれる。"
+      }
+    ],
+    "ja/wiki/kabbalah": [
+      {
+        "path": "/ja/wiki/shiur-qomah/",
+        "title": "シウル・コマー",
+        "category": "Texts & Sources",
+        "description": "シウル・コマー(ヘブライ語 שִׁעוּר קוֹמָה、「身丈の寸法」)は、カバラ以前のヘカロート/メルカバー文献に属するテクストであり、天使 Metatron が神の身体の宇宙的な寸法を四肢ごとに口述し、各部位がパラサング(parasang)で測られ、秘密の名を付されていく。ラエル文献資料が「カバラ」に帰しているパ"
+      },
+      {
+        "path": "/ja/wiki/hekhalot-literature/",
+        "title": "ヘカロート文献",
+        "category": "Texts & Sources",
+        "description": "ヘカロート文献(ヘブライ語 הֵיכָלוֹת、「宮殿群」)は、七つの天の宮殿を通って神の玉座の戦車(merkavah)へと魂が上昇する様を描く、古代末期ユダヤ神秘主義の著作群である。ユダヤ神秘主義におけるカバラ以前の層をなし、シウル・コマー(Shi'ur Qomah)が伝承される文献集でもある。"
+      },
+      {
+        "path": "/ja/wiki/hebrew-bible/",
+        "title": "ヘブライ語聖書",
+        "category": "Texts & Sources",
+        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+      },
+      {
+        "path": "/ja/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "創世記(ヘブライ語:בְּרֵאשִׁית、ベレシート)は、トーラーおよびヘブライ語聖書の最初の書であり、創造・エデン・大洪水・族長たちの物語を記す。Wheel of Heaven にとって、それはエロヒム的グリッドを通して再読すべき源泉的テクストである。"
+      }
+    ],
+    "ja/wiki/leviathan": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/life-engineering": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/list-of-close-encounters": [
+      {
+        "path": "/ja/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺跡のリスト",
+        "category": "Reference Lists",
+        "description": "天文学的精度、古さ、または大災害後の伝達伝統における反復性によって保持された、Wheel of Heaven が関心を寄せる巨石遺跡のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素および神話的モチーフのリスト",
+        "category": "Reference Lists",
+        "description": "世界の諸伝統を横断して反復する神話素および神話的モチーフのリスト。Wheel of Heaven は、それらを共通の出来事的母型の指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/list-of-etymological-readings/",
+        "title": "語源学的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、慣用的翻訳・文献学的語根・エロヒム的解釈を結びつけた、本文の鍵語(主としてヘブライ語・ギリシャ語)の語源学的再読のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-exegetic-readings/",
+        "title": "釈義的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven の四段階を通じて、字義的な意味から技術的=エロヒム的意味まで再読された聖書箇所のリスト。"
+      }
+    ],
+    "ja/wiki/list-of-etymological-readings": [
+      {
+        "path": "/ja/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺跡のリスト",
+        "category": "Reference Lists",
+        "description": "天文学的精度、古さ、または大災害後の伝達伝統における反復性によって保持された、Wheel of Heaven が関心を寄せる巨石遺跡のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素および神話的モチーフのリスト",
+        "category": "Reference Lists",
+        "description": "世界の諸伝統を横断して反復する神話素および神話的モチーフのリスト。Wheel of Heaven は、それらを共通の出来事的母型の指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/list-of-close-encounters/",
+        "title": "近接遭遇のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、類型と歴史的時代別に分類された、人類とエロヒムと推定される存在との間の証言された近接遭遇の整理リスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-exegetic-readings/",
+        "title": "釈義的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven の四段階を通じて、字義的な意味から技術的=エロヒム的意味まで再読された聖書箇所のリスト。"
+      }
+    ],
+    "ja/wiki/list-of-exegetic-readings": [
+      {
+        "path": "/ja/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺跡のリスト",
+        "category": "Reference Lists",
+        "description": "天文学的精度、古さ、または大災害後の伝達伝統における反復性によって保持された、Wheel of Heaven が関心を寄せる巨石遺跡のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素および神話的モチーフのリスト",
+        "category": "Reference Lists",
+        "description": "世界の諸伝統を横断して反復する神話素および神話的モチーフのリスト。Wheel of Heaven は、それらを共通の出来事的母型の指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/list-of-etymological-readings/",
+        "title": "語源学的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、慣用的翻訳・文献学的語根・エロヒム的解釈を結びつけた、本文の鍵語(主としてヘブライ語・ギリシャ語)の語源学的再読のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-close-encounters/",
+        "title": "近接遭遇のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、類型と歴史的時代別に分類された、人類とエロヒムと推定される存在との間の証言された近接遭遇の整理リスト。"
+      }
+    ],
+    "ja/wiki/list-of-megalithic-sites": [
+      {
+        "path": "/ja/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素および神話的モチーフのリスト",
+        "category": "Reference Lists",
+        "description": "世界の諸伝統を横断して反復する神話素および神話的モチーフのリスト。Wheel of Heaven は、それらを共通の出来事的母型の指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/list-of-etymological-readings/",
+        "title": "語源学的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、慣用的翻訳・文献学的語根・エロヒム的解釈を結びつけた、本文の鍵語(主としてヘブライ語・ギリシャ語)の語源学的再読のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-close-encounters/",
+        "title": "近接遭遇のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、類型と歴史的時代別に分類された、人類とエロヒムと推定される存在との間の証言された近接遭遇の整理リスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-exegetic-readings/",
+        "title": "釈義的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven の四段階を通じて、字義的な意味から技術的=エロヒム的意味まで再読された聖書箇所のリスト。"
+      }
+    ],
+    "ja/wiki/list-of-mythemes-and-mythological-motifs": [
+      {
+        "path": "/ja/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺跡のリスト",
+        "category": "Reference Lists",
+        "description": "天文学的精度、古さ、または大災害後の伝達伝統における反復性によって保持された、Wheel of Heaven が関心を寄せる巨石遺跡のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-etymological-readings/",
+        "title": "語源学的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、慣用的翻訳・文献学的語根・エロヒム的解釈を結びつけた、本文の鍵語(主としてヘブライ語・ギリシャ語)の語源学的再読のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-close-encounters/",
+        "title": "近接遭遇のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、類型と歴史的時代別に分類された、人類とエロヒムと推定される存在との間の証言された近接遭遇の整理リスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-exegetic-readings/",
+        "title": "釈義的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven の四段階を通じて、字義的な意味から技術的=エロヒム的意味まで再読された聖書箇所のリスト。"
+      }
+    ],
+    "ja/wiki/list-of-prophets-and-religions": [
+      {
+        "path": "/ja/wiki/list-of-megalithic-sites/",
+        "title": "巨石遺跡のリスト",
+        "category": "Reference Lists",
+        "description": "天文学的精度、古さ、または大災害後の伝達伝統における反復性によって保持された、Wheel of Heaven が関心を寄せる巨石遺跡のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "神話素および神話的モチーフのリスト",
+        "category": "Reference Lists",
+        "description": "世界の諸伝統を横断して反復する神話素および神話的モチーフのリスト。Wheel of Heaven は、それらを共通の出来事的母型の指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/list-of-etymological-readings/",
+        "title": "語源学的読解のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、慣用的翻訳・文献学的語根・エロヒム的解釈を結びつけた、本文の鍵語(主としてヘブライ語・ギリシャ語)の語源学的再読のリスト。"
+      },
+      {
+        "path": "/ja/wiki/list-of-close-encounters/",
+        "title": "近接遭遇のリスト",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven のために、類型と歴史的時代別に分類された、人類とエロヒムと推定される存在との間の証言された近接遭遇の整理リスト。"
+      }
+    ],
+    "ja/wiki/living-earth": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/lucifer": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      }
+    ],
+    "ja/wiki/mass-effect": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      },
+      {
+        "path": "/ja/wiki/the-alliance/",
+        "title": "同盟",
+        "category": "Cosmology & Framework",
+        "description": "同盟 — Wheel of Heaven における洪水後のエロヒム=人類相互作用の最初の安定したプロトコルの正典項目については「ノア契約」を参照。"
+      }
+    ],
+    "ja/wiki/menorah": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      },
+      {
+        "path": "/ja/wiki/leviathan/",
+        "title": "レヴィアタン",
+        "category": "Symbolism & Motifs",
+        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
+      }
+    ],
+    "ja/wiki/military-cover-up-of-exobiology": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/us-space-force/",
+        "title": "アメリカ宇宙軍",
+        "category": "Ufology",
+        "description": "アメリカ宇宙軍は、2019年以来、合衆国軍の宇宙部門である。Wheel of Heaven は、エクソバイオロジーの軍事的隠蔽との関連で、現代の宇宙軍事化の制度的指標としてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/crop-circles/",
+        "title": "ミステリーサークル",
+        "category": "Ufology",
+        "description": "ミステリーサークル(crop circles)、すなわち穀物模様(crop formations)は、農作物(主に小麦、大麦、菜種、ライ麦、トウモロコシ、亜麻、大豆)を体系的に倒伏させることで生み出される幾何学的・数学的・象徴的な大規模模様です。現代的現象は1970年代後期にイングランド南部において主として出現し、その"
+      }
+    ],
+    "ja/wiki/moses": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      }
+    ],
+    "ja/wiki/muhammad": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      }
+    ],
+    "ja/wiki/mytheme": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/nabataeans": [
+      {
+        "path": "/ja/wiki/adamites/",
+        "title": "アダム系統",
+        "category": "Peoples & Groups",
+        "description": "アダム系統(Adamites)は、Wheel of Heaven の文脈において、エロヒムによって最初に完全合成された人類系譜 — アダムとイヴの直系の子孫が園=実験室を出た時点から始まる血統である。この用語はこの系統を、地球上に存在した他の前人類的系統と区別し、本来の意味での人類史の起点を画する。"
+      },
+      {
+        "path": "/ja/wiki/ancient-builders/",
+        "title": "古代の建設者",
+        "category": "Peoples & Groups",
+        "description": "「古代の建設者」とは、大衆的および代替考古学の用法において、エジプトのピラミッド、ストーンヘンジ、サクサイワマンおよびマチュ・ピチュのアンデス巨石遺跡、イースター島のモアイ、マルタの巨石神殿などを含む、世界的に見出される実質的な古代石造記念物の多くを、失われたまたは未知の一つまたは複数の文明が建造したとする命題である。"
+      },
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      }
+    ],
+    "ja/wiki/neo-euhemerism": [
+      {
+        "path": "/ja/wiki/sendys-conditions-of-coherence/",
+        "title": "サンディの整合性条件",
+        "category": "Methodology",
+        "description": "サンディの整合性条件は、著者ジャン・サンディに由来し、古代の物語の中に長期にわたって整合的な技術情報の層を認識可能とする文献学的基準群を指す。Wheel of Heaven は、これを方法論的指標として保持する。"
+      },
+      {
+        "path": "/ja/wiki/dhorme-bible-translation/",
+        "title": "ドルムによる聖書翻訳",
+        "category": "Methodology",
+        "description": "エドゥアール・ドルムによる聖書翻訳は、「プレイアード叢書」より刊行され、ヘブライ語テクストの批判的読解にとって主要な文献学的参照点となっている。Wheel of Heaven はこれを仏語テクスト基盤の一つとして参照する。"
+      },
+      {
+        "path": "/ja/wiki/biglino-method/",
+        "title": "ビリーノの方法",
+        "category": "Methodology",
+        "description": "ビリーノの方法は、イタリアの翻訳者マウロ・ビリーノにちなんで命名され、蓄積された神学的前提を取り去ってヘブライ語聖書を読み、その文字通りかつ技術的な射程を復元することを旨とする。Wheel of Heaven は資料再読の道具として広くこれを参照するが、その全ての主張に同一化するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇宙飛行士仮説",
+        "category": "Methodology",
+        "description": "古代宇宙飛行士仮説は、地球外の知性が先史および古代に地球を訪れ、人類文明の発展に決定的な痕跡を残したと主張する。Wheel of Heaven の文脈はその規律化されたヴァリアントであり、ラエル文献のエロヒム的グリッドを通して読み解く。"
+      }
+    ],
+    "ja/wiki/new-commandments": [
+      {
+        "path": "/ja/wiki/geniocracy/",
+        "title": "ジェニオクラシー",
+        "category": "Raëlism",
+        "description": "ジェニオクラシーは、ラエル文献の文脈において、測定された認知能力に基づいて指導者を選抜する政治制度である。Wheel of Heaven は、ラエル運動が提示する制度的構想の一つとしてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/paradism/",
+        "title": "パラディズム",
+        "category": "Raëlism",
+        "description": "パラディズムは、ラエル文献の文脈において、貨幣も強制労働もない自動化された豊かさの社会という社会経済プロジェクトを指す。Wheel of Heaven はこれを、大いなる帰還の準備段階の政治的地平として読む。"
+      },
+      {
+        "path": "/ja/wiki/humanitarianism/",
+        "title": "ヒューマニタリアニズム",
+        "category": "Raëlism",
+        "description": "ヒューマニタリアニズムは、ラエル文献の文脈において、人権・貧困撲滅・生命への敬意などの普遍的倫理原則の集合体を指し、エロヒムとの公的接触に向けた人類の準備をなす。Wheel of Heaven はこれを、大いなる帰還の政治的条件の一つに位置づける。"
+      },
+      {
+        "path": "/ja/wiki/rael/",
+        "title": "ラエル",
+        "category": "Raëlism",
+        "description": "ラエル(本名クロード・ヴォリロン、1946年生)は、ラエル運動の創始者であり、1973年と1975年にエロヒムから直接の伝達を受けたと報告している。Wheel of Heaven の文脈では、彼はモーセ・イエス・ムハンマドの連続のうちにあるエロヒム系譜の最後に文書化された預言者として読まれる。"
+      }
+    ],
+    "ja/wiki/new-jerusalem": [
+      {
+        "path": "/ja/wiki/eden/",
+        "title": "エデン",
+        "category": "Places & Locations",
+        "description": "エデン(ヘブライ語:עֵדֶן、ʿĒden)は、ヘブライ語聖書において最初の人類が創造され、追放される前に住んでいた園の所在地として名付けられた地域である。ラエル文献において展開され、Wheel of Heaven 文献集に採用された読解によれば、エデンとは、大洪水前の超大陸におけるエロヒム創造者のうちのイスラエル・チ"
+      },
+      {
+        "path": "/ja/wiki/pangaea/",
+        "title": "パンゲア",
+        "category": "Places & Locations",
+        "description": "パンゲアは、古生代末についてプレートテクトニクスにより復元された単一の超大陸である。Wheel of Heaven は、それをエロヒムによる地球生命合成の初期段階における参照地質配置として捉える。"
+      },
+      {
+        "path": "/ja/wiki/petra/",
+        "title": "ペトラ",
+        "category": "Places & Locations",
+        "description": "ペトラ(ギリシャ語 Πέτρα「岩」、ナバテア・アラム語 רקמו Raqmū、ヘブライ語 רֶקֶם Reqem、アラビア語 ٱلْبَتْرَاء al-Batrāʾ)は、現在のヨルダン南部にあるナバテア王国の岩窟首都であり、カナダの研究者ダン・ギブソンに主に結びつけられた修正主義的仮説——ヒジャーズの現在メッカと"
+      },
+      {
+        "path": "/ja/wiki/third-temple/",
+        "title": "第三神殿",
+        "category": "Places & Locations",
+        "description": "第三神殿は、ユダヤ教終末論において、終わりの時にエルサレムに再建されるべき聖所である。Wheel of Heaven の文脈では、それは大使館 — 大いなる帰還のためのエロヒム的歓迎インフラ — の象徴的投影として読まれる。"
+      }
+    ],
+    "ja/wiki/noah": [
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      },
+      {
+        "path": "/ja/wiki/abraham/",
+        "title": "アブラハム",
+        "category": "Biblical Figures",
+        "description": "アブラハム(ヘブライ語:אַבְרָהָם)は、ユダヤ教・キリスト教・イスラム教というアブラハム諸宗教の創始族長であり、その姿は族誕生譚・契約・預言者継承を結びつける。Wheel of Heavenの枠組みでは、アブラハムはエロヒムによる後期の伝達を受け取った節として読まれ、契約の系譜が世代を超えてモーセ以降へと受け継"
+      },
+      {
+        "path": "/ja/wiki/jesus/",
+        "title": "イエス",
+        "category": "Biblical Figures",
+        "description": "イエス(ヘブライ語:יֵשׁוּעַ、イェシュア)は、ユダヤ系メシア的預言者であり、キリスト教の中心的人物である。Wheel of Heaven の文脈では、彼はエロヒムによって遣わされた預言者の一人として読まれ、その時代に適合化されたメッセージを中継し、預言者系譜の連続性のうちに位置づけられる。"
+      },
+      {
+        "path": "/ja/wiki/elijah/",
+        "title": "エリヤ",
+        "category": "Biblical Figures",
+        "description": "エリヤ(ヘブライ語:אֵלִיָּהוּ)は、火の戦車に乗って天に取り去られた預言者であり、その姿はユダヤ教・キリスト教・イスラム教を横断する。Wheel of Heaven の文脈では、その昇天はエロヒムの飛行体による物理的引き上げの典型例として読まれる。"
+      }
+    ],
+    "ja/wiki/noahic-covenant": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/noahs-ark": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahic-covenant/",
+        "title": "ノア契約",
+        "category": "Events & Narratives",
+        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
+      }
+    ],
+    "ja/wiki/number-of-man": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/pangaea": [
+      {
+        "path": "/ja/wiki/eden/",
+        "title": "エデン",
+        "category": "Places & Locations",
+        "description": "エデン(ヘブライ語:עֵדֶן、ʿĒden)は、ヘブライ語聖書において最初の人類が創造され、追放される前に住んでいた園の所在地として名付けられた地域である。ラエル文献において展開され、Wheel of Heaven 文献集に採用された読解によれば、エデンとは、大洪水前の超大陸におけるエロヒム創造者のうちのイスラエル・チ"
+      },
+      {
+        "path": "/ja/wiki/petra/",
+        "title": "ペトラ",
+        "category": "Places & Locations",
+        "description": "ペトラ(ギリシャ語 Πέτρα「岩」、ナバテア・アラム語 רקמו Raqmū、ヘブライ語 רֶקֶם Reqem、アラビア語 ٱلْبَتْرَاء al-Batrāʾ)は、現在のヨルダン南部にあるナバテア王国の岩窟首都であり、カナダの研究者ダン・ギブソンに主に結びつけられた修正主義的仮説——ヒジャーズの現在メッカと"
+      },
+      {
+        "path": "/ja/wiki/new-jerusalem/",
+        "title": "新しいエルサレム",
+        "category": "Places & Locations",
+        "description": "新しいエルサレムは、聖書終末論において、終わりの時に天から降る再生された都市である。Wheel of Heaven の文脈では、それは大使館と大いなる帰還の象徴的投影として読まれ — 厳密に神学的な比喩というよりは、エロヒム的歓迎インフラとして扱われる。"
+      },
+      {
+        "path": "/ja/wiki/third-temple/",
+        "title": "第三神殿",
+        "category": "Places & Locations",
+        "description": "第三神殿は、ユダヤ教終末論において、終わりの時にエルサレムに再建されるべき聖所である。Wheel of Heaven の文脈では、それは大使館 — 大いなる帰還のためのエロヒム的歓迎インフラ — の象徴的投影として読まれる。"
+      }
+    ],
+    "ja/wiki/pantropy": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/paradism": [
+      {
+        "path": "/ja/wiki/geniocracy/",
+        "title": "ジェニオクラシー",
+        "category": "Raëlism",
+        "description": "ジェニオクラシーは、ラエル文献の文脈において、測定された認知能力に基づいて指導者を選抜する政治制度である。Wheel of Heaven は、ラエル運動が提示する制度的構想の一つとしてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/humanitarianism/",
+        "title": "ヒューマニタリアニズム",
+        "category": "Raëlism",
+        "description": "ヒューマニタリアニズムは、ラエル文献の文脈において、人権・貧困撲滅・生命への敬意などの普遍的倫理原則の集合体を指し、エロヒムとの公的接触に向けた人類の準備をなす。Wheel of Heaven はこれを、大いなる帰還の政治的条件の一つに位置づける。"
+      },
+      {
+        "path": "/ja/wiki/rael/",
+        "title": "ラエル",
+        "category": "Raëlism",
+        "description": "ラエル(本名クロード・ヴォリロン、1946年生)は、ラエル運動の創始者であり、1973年と1975年にエロヒムから直接の伝達を受けたと報告している。Wheel of Heaven の文脈では、彼はモーセ・イエス・ムハンマドの連続のうちにあるエロヒム系譜の最後に文書化された預言者として読まれる。"
+      },
+      {
+        "path": "/ja/wiki/new-commandments/",
+        "title": "新しい戒め",
+        "category": "Raëlism",
+        "description": "新しい戒めは、ラエル文献の文脈において、現代の人類に向けてヤハウェからラエルへと伝えられた更新された倫理的・政治的戒律の総体である。Wheel of Heaven はこれを、それ以前のエロヒム的立法伝達との連続のうちに位置づける。"
+      }
+    ],
+    "ja/wiki/petra": [
+      {
+        "path": "/ja/wiki/eden/",
+        "title": "エデン",
+        "category": "Places & Locations",
+        "description": "エデン(ヘブライ語:עֵדֶן、ʿĒden)は、ヘブライ語聖書において最初の人類が創造され、追放される前に住んでいた園の所在地として名付けられた地域である。ラエル文献において展開され、Wheel of Heaven 文献集に採用された読解によれば、エデンとは、大洪水前の超大陸におけるエロヒム創造者のうちのイスラエル・チ"
+      },
+      {
+        "path": "/ja/wiki/pangaea/",
+        "title": "パンゲア",
+        "category": "Places & Locations",
+        "description": "パンゲアは、古生代末についてプレートテクトニクスにより復元された単一の超大陸である。Wheel of Heaven は、それをエロヒムによる地球生命合成の初期段階における参照地質配置として捉える。"
+      },
+      {
+        "path": "/ja/wiki/new-jerusalem/",
+        "title": "新しいエルサレム",
+        "category": "Places & Locations",
+        "description": "新しいエルサレムは、聖書終末論において、終わりの時に天から降る再生された都市である。Wheel of Heaven の文脈では、それは大使館と大いなる帰還の象徴的投影として読まれ — 厳密に神学的な比喩というよりは、エロヒム的歓迎インフラとして扱われる。"
+      },
+      {
+        "path": "/ja/wiki/third-temple/",
+        "title": "第三神殿",
+        "category": "Places & Locations",
+        "description": "第三神殿は、ユダヤ教終末論において、終わりの時にエルサレムに再建されるべき聖所である。Wheel of Heaven の文脈では、それは大使館 — 大いなる帰還のためのエロヒム的歓迎インフラ — の象徴的投影として読まれる。"
+      }
+    ],
+    "ja/wiki/plurality-of-gods": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/precession": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      }
+    ],
+    "ja/wiki/prophet": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven は、啓示・宇宙的年代論・古代の記憶・聖なる歴史・現代における再解釈を中心に据えた、整理された比較知識プロジェクトであり、解釈枠組みの名称でもあり、それを言語化する文献集の名称でもあります。プロジェクトの作業仮説は次のとおりです。地球上の生命は、ヘブライ語聖書において *エロヒム* と呼ば"
+      },
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      }
+    ],
+    "ja/wiki/pursue": [
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/us-space-force/",
+        "title": "アメリカ宇宙軍",
+        "category": "Ufology",
+        "description": "アメリカ宇宙軍は、2019年以来、合衆国軍の宇宙部門である。Wheel of Heaven は、エクソバイオロジーの軍事的隠蔽との関連で、現代の宇宙軍事化の制度的指標としてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/military-cover-up-of-exobiology/",
+        "title": "エクソバイオロジーの軍事的隠蔽",
+        "category": "Ufology",
+        "description": "エクソバイオロジーの軍事的隠蔽は、地球上における非人類的存在の存在に関するデータを機密化する国家的(主として米国の)装置群を指す。Wheel of Heaven は、それを大いなる帰還への制度的障害の一つとして文書化する。"
+      },
+      {
+        "path": "/ja/wiki/crop-circles/",
+        "title": "ミステリーサークル",
+        "category": "Ufology",
+        "description": "ミステリーサークル(crop circles)、すなわち穀物模様(crop formations)は、農作物(主に小麦、大麦、菜種、ライ麦、トウモロコシ、亜麻、大豆)を体系的に倒伏させることで生み出される幾何学的・数学的・象徴的な大規模模様です。現代的現象は1970年代後期にイングランド南部において主として出現し、その"
+      }
+    ],
+    "ja/wiki/rael": [
+      {
+        "path": "/ja/wiki/geniocracy/",
+        "title": "ジェニオクラシー",
+        "category": "Raëlism",
+        "description": "ジェニオクラシーは、ラエル文献の文脈において、測定された認知能力に基づいて指導者を選抜する政治制度である。Wheel of Heaven は、ラエル運動が提示する制度的構想の一つとしてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/paradism/",
+        "title": "パラディズム",
+        "category": "Raëlism",
+        "description": "パラディズムは、ラエル文献の文脈において、貨幣も強制労働もない自動化された豊かさの社会という社会経済プロジェクトを指す。Wheel of Heaven はこれを、大いなる帰還の準備段階の政治的地平として読む。"
+      },
+      {
+        "path": "/ja/wiki/humanitarianism/",
+        "title": "ヒューマニタリアニズム",
+        "category": "Raëlism",
+        "description": "ヒューマニタリアニズムは、ラエル文献の文脈において、人権・貧困撲滅・生命への敬意などの普遍的倫理原則の集合体を指し、エロヒムとの公的接触に向けた人類の準備をなす。Wheel of Heaven はこれを、大いなる帰還の政治的条件の一つに位置づける。"
+      },
+      {
+        "path": "/ja/wiki/new-commandments/",
+        "title": "新しい戒め",
+        "category": "Raëlism",
+        "description": "新しい戒めは、ラエル文献の文脈において、現代の人類に向けてヤハウェからラエルへと伝えられた更新された倫理的・政治的戒律の総体である。Wheel of Heaven はこれを、それ以前のエロヒム的立法伝達との連続のうちに位置づける。"
+      }
+    ],
+    "ja/wiki/raelian-symbol-of-infinity": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/leviathan/",
+        "title": "レヴィアタン",
+        "category": "Symbolism & Motifs",
+        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
+      }
+    ],
+    "ja/wiki/raelism": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      },
+      {
+        "path": "/ja/wiki/the-alliance/",
+        "title": "同盟",
+        "category": "Cosmology & Framework",
+        "description": "同盟 — Wheel of Heaven における洪水後のエロヒム=人類相互作用の最初の安定したプロトコルの正典項目については「ノア契約」を参照。"
+      }
+    ],
+    "ja/wiki/reference-corpus-of-the-raelian-canon": [
+      {
+        "path": "/ja/wiki/hanafiyya/",
+        "title": "ハニーフィーヤ",
+        "category": "Theology & Traditions",
+        "description": "ハニーフィーヤ(アラビア語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah、حَنِيف ḥanīf「偶像崇拝から離れ、直き原初の礼拝へと傾く者」に由来)は、アブラハムの純粋な一神教を指すクルアーンおよび初期イスラームの用語であり——ユダヤ教やキリスト教が存在する以前にアブラハムが属していた「アブラハムの宗教"
+      },
+      {
+        "path": "/ja/wiki/hebrew/",
+        "title": "ヘブライ語",
+        "category": "Theology & Traditions",
+        "description": "ヘブライ語(<span class=\"hebrew\">עִבְרִית</span>、イヴリート)は、ユダヤ教の根本テクストの言語であるセム語族の一言語であり、その三子音体系と圧縮された多義性は、Wheel of Heaven が提示する読解において決定的な役割を果たす。"
+      },
+      {
+        "path": "/ja/wiki/the-tradition/",
+        "title": "伝統",
+        "category": "Theology & Traditions",
+        "description": "伝統は、Wheel of Heaven の文脈において、宗教・秘儀学派・特定の哲学的本文集を通じて保存されてきたエロヒム的伝達の累積的総体を指す — 特定の宗派的伝統とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教は、Wheel of Heaven の文脈において、エロヒム的記憶を長期的に保存する装置であると同時に、伝達の過程で蓄積される歪曲の層として読まれる。本プロジェクトはそのアーカイブ的機能を論じるが、特定の宗派的体系に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/religion": [
+      {
+        "path": "/ja/wiki/hanafiyya/",
+        "title": "ハニーフィーヤ",
+        "category": "Theology & Traditions",
+        "description": "ハニーフィーヤ(アラビア語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah、حَنِيف ḥanīf「偶像崇拝から離れ、直き原初の礼拝へと傾く者」に由来)は、アブラハムの純粋な一神教を指すクルアーンおよび初期イスラームの用語であり——ユダヤ教やキリスト教が存在する以前にアブラハムが属していた「アブラハムの宗教"
+      },
+      {
+        "path": "/ja/wiki/hebrew/",
+        "title": "ヘブライ語",
+        "category": "Theology & Traditions",
+        "description": "ヘブライ語(<span class=\"hebrew\">עִבְרִית</span>、イヴリート)は、ユダヤ教の根本テクストの言語であるセム語族の一言語であり、その三子音体系と圧縮された多義性は、Wheel of Heaven が提示する読解において決定的な役割を果たす。"
+      },
+      {
+        "path": "/ja/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "ラエリアン正典の参照コーパス",
+        "category": "Theology & Traditions",
+        "description": "ラエリアン・コーパスの三冊の正典書 ―『真実を告げる書』(1974)、『地球外生命体は私を彼らの惑星へと連れて行った』(1975)、『地球外生命体を歓迎しよう』(1979) ― が直接引用または間接的に言及するテクスト、伝承、人物の目録。明示的に名指された一次層と、ほのめかしのみの二次層に整理する。"
+      },
+      {
+        "path": "/ja/wiki/the-tradition/",
+        "title": "伝統",
+        "category": "Theology & Traditions",
+        "description": "伝統は、Wheel of Heaven の文脈において、宗教・秘儀学派・特定の哲学的本文集を通じて保存されてきたエロヒム的伝達の累積的総体を指す — 特定の宗派的伝統とは区別される。"
+      }
+    ],
+    "ja/wiki/sacred-geometry": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/samsara": [
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      },
+      {
+        "path": "/ja/wiki/antediluvian/",
+        "title": "大洪水以前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水以前(ラテン語:ante、「前」+ diluvium、「洪水」)とは、創世記6-9章および古代世界全体にわたる並行諸伝統に語られる大洪水以前の地球における人類の存在期間を指す。ラエル文献資料において展開され Wheel of Heaven 文献集が採用する読解では、これは創造後・洪水以前の期間 ― 獅子座の時代か"
+      }
+    ],
+    "ja/wiki/satan": [
+      {
+        "path": "/ja/wiki/elohim/",
+        "title": "エロヒム",
+        "category": "Elohim",
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+      },
+      {
+        "path": "/ja/wiki/elohim-home-planet/",
+        "title": "エロヒムの母星",
+        "category": "Elohim",
+        "description": "エロヒムの母星 — Wheel of Heaven の正典項目については「エロヒム母星」を参照。"
+      },
+      {
+        "path": "/ja/wiki/elohimian-space-wars/",
+        "title": "エロヒム的宇宙戦争",
+        "category": "Elohim",
+        "description": "エロヒム的宇宙戦争 — Wheel of Heaven の正典項目については「神々の闘い」を参照。"
+      },
+      {
+        "path": "/ja/wiki/yahweh/",
+        "title": "ヤハウェ",
+        "category": "Elohim",
+        "description": "ヤハウェ(ヘブライ語:יהוה、YHWH)はヘブライ語聖書における主要な神的人物の固有名であり、主流の伝統では慣例的にイスラエルの唯一神として読まれている。ラエル文献において展開され、Wheel of Heaven 文献集が採用する読解によれば、ヤハウェは特定のエロアハ ― 永遠の評議会の議長であり、山羊座の時代以降、"
+      }
+    ],
+    "ja/wiki/sendys-conditions-of-coherence": [
+      {
+        "path": "/ja/wiki/dhorme-bible-translation/",
+        "title": "ドルムによる聖書翻訳",
+        "category": "Methodology",
+        "description": "エドゥアール・ドルムによる聖書翻訳は、「プレイアード叢書」より刊行され、ヘブライ語テクストの批判的読解にとって主要な文献学的参照点となっている。Wheel of Heaven はこれを仏語テクスト基盤の一つとして参照する。"
+      },
+      {
+        "path": "/ja/wiki/neo-euhemerism/",
+        "title": "ネオエウヘメリズム",
+        "category": "Methodology",
+        "description": "ネオエウヘメリズムは、Wheel of Heaven の文脈において、神々の物語を実在の人物の歴史的記憶として読む立場を指し、エロヒムの主張によって現代化されたものである。古代のエウヘメリズムを継承しつつ、それに地球外的次元を組み込む。"
+      },
+      {
+        "path": "/ja/wiki/biglino-method/",
+        "title": "ビリーノの方法",
+        "category": "Methodology",
+        "description": "ビリーノの方法は、イタリアの翻訳者マウロ・ビリーノにちなんで命名され、蓄積された神学的前提を取り去ってヘブライ語聖書を読み、その文字通りかつ技術的な射程を復元することを旨とする。Wheel of Heaven は資料再読の道具として広くこれを参照するが、その全ての主張に同一化するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/ancient-astronaut-hypothesis/",
+        "title": "古代宇宙飛行士仮説",
+        "category": "Methodology",
+        "description": "古代宇宙飛行士仮説は、地球外の知性が先史および古代に地球を訪れ、人類文明の発展に決定的な痕跡を残したと主張する。Wheel of Heaven の文脈はその規律化されたヴァリアントであり、ラエル文献のエロヒム的グリッドを通して読み解く。"
+      }
+    ],
+    "ja/wiki/serpent": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/serpentine-rebellion": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahic-covenant/",
+        "title": "ノア契約",
+        "category": "Events & Narratives",
+        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
+      }
+    ],
+    "ja/wiki/shiur-qomah": [
+      {
+        "path": "/ja/wiki/kabbalah/",
+        "title": "カバラ",
+        "category": "Texts & Sources",
+        "description": "カバラ(<span class=\"hebrew\">קַבָּלָה</span>)は、中世以降に発展したユダヤ神秘主義の伝統であり、トーラーの秘儀的読解を中心に据える。Wheel of Heaven は、ヘブライ語テクストの非字義的読解を歴史的に保存してきたチャネルの一つとして、その貢献と限界を論じる。"
+      },
+      {
+        "path": "/ja/wiki/hekhalot-literature/",
+        "title": "ヘカロート文献",
+        "category": "Texts & Sources",
+        "description": "ヘカロート文献(ヘブライ語 הֵיכָלוֹת、「宮殿群」)は、七つの天の宮殿を通って神の玉座の戦車(merkavah)へと魂が上昇する様を描く、古代末期ユダヤ神秘主義の著作群である。ユダヤ神秘主義におけるカバラ以前の層をなし、シウル・コマー(Shi'ur Qomah)が伝承される文献集でもある。"
+      },
+      {
+        "path": "/ja/wiki/hebrew-bible/",
+        "title": "ヘブライ語聖書",
+        "category": "Texts & Sources",
+        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+      },
+      {
+        "path": "/ja/wiki/genesis/",
+        "title": "創世記",
+        "category": "Texts & Sources",
+        "description": "創世記(ヘブライ語:בְּרֵאשִׁית、ベレシート)は、トーラーおよびヘブライ語聖書の最初の書であり、創造・エデン・大洪水・族長たちの物語を記す。Wheel of Heaven にとって、それはエロヒム的グリッドを通して再読すべき源泉的テクストである。"
+      }
+    ],
+    "ja/wiki/sodom-and-gomorrah": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahic-covenant/",
+        "title": "ノア契約",
+        "category": "Events & Narratives",
+        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
+      }
+    ],
+    "ja/wiki/star-of-david": [
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      },
+      {
+        "path": "/ja/wiki/leviathan/",
+        "title": "レヴィアタン",
+        "category": "Symbolism & Motifs",
+        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
+      }
+    ],
+    "ja/wiki/swastika": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/synthetic-biology": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/synthetic-genomics": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/terraforming/",
+        "title": "テラフォーミング",
+        "category": "Science & Technology",
+        "description": "テラフォーミングは、惑星の生物圏を変容させて居住可能にするための技術の総体である。Wheel of Heaven は、それをエロヒムが地球の事前整備に際して動員したと考えられる中核能力の一つとして読む。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/terraforming": [
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/intelligent-design/",
+        "title": "インテリジェント・デザイン",
+        "category": "Science & Technology",
+        "description": "インテリジェント・デザインは、Wheel of Heaven の文脈において、地球生命(人類を含む)は純粋に自発的な発生によるのではなく、技術的に先進的な外部の文明によって合成された、とする主張を指す。この用語は、それを標語に転用した北米の宗教的創造論諸潮流の用法とは区別される。"
+      },
+      {
+        "path": "/ja/wiki/drake-equation/",
+        "title": "ドレイクの方程式",
+        "category": "Science & Technology",
+        "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      },
+      {
+        "path": "/ja/wiki/pantropy/",
+        "title": "パントロピー",
+        "category": "Science & Technology",
+        "description": "パントロピーは、生物 — 人類を含む — を他の世界の条件に遺伝的に適応させることを指し、世界の側を生物に適応させるテラフォーミングと対になる概念である。Wheel of Heaven は、それをエロヒムの播種の代替的または補完的戦略として言及する。"
+      }
+    ],
+    "ja/wiki/the-alliance": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/the-tradition": [
+      {
+        "path": "/ja/wiki/hanafiyya/",
+        "title": "ハニーフィーヤ",
+        "category": "Theology & Traditions",
+        "description": "ハニーフィーヤ(アラビア語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah、حَنِيف ḥanīf「偶像崇拝から離れ、直き原初の礼拝へと傾く者」に由来)は、アブラハムの純粋な一神教を指すクルアーンおよび初期イスラームの用語であり——ユダヤ教やキリスト教が存在する以前にアブラハムが属していた「アブラハムの宗教"
+      },
+      {
+        "path": "/ja/wiki/hebrew/",
+        "title": "ヘブライ語",
+        "category": "Theology & Traditions",
+        "description": "ヘブライ語(<span class=\"hebrew\">עִבְרִית</span>、イヴリート)は、ユダヤ教の根本テクストの言語であるセム語族の一言語であり、その三子音体系と圧縮された多義性は、Wheel of Heaven が提示する読解において決定的な役割を果たす。"
+      },
+      {
+        "path": "/ja/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "ラエリアン正典の参照コーパス",
+        "category": "Theology & Traditions",
+        "description": "ラエリアン・コーパスの三冊の正典書 ―『真実を告げる書』(1974)、『地球外生命体は私を彼らの惑星へと連れて行った』(1975)、『地球外生命体を歓迎しよう』(1979) ― が直接引用または間接的に言及するテクスト、伝承、人物の目録。明示的に名指された一次層と、ほのめかしのみの二次層に整理する。"
+      },
+      {
+        "path": "/ja/wiki/religion/",
+        "title": "宗教",
+        "category": "Theology & Traditions",
+        "description": "宗教は、Wheel of Heaven の文脈において、エロヒム的記憶を長期的に保存する装置であると同時に、伝達の過程で蓄積される歪曲の層として読まれる。本プロジェクトはそのアーカイブ的機能を論じるが、特定の宗派的体系に同一化するわけではない。"
+      }
+    ],
+    "ja/wiki/the-truth": [
+      {
+        "path": "/ja/wiki/hanafiyya/",
+        "title": "ハニーフィーヤ",
+        "category": "Theology & Traditions",
+        "description": "ハニーフィーヤ(アラビア語 ٱلْحَنِيفِيَّة al-Ḥanīfiyyah、حَنِيف ḥanīf「偶像崇拝から離れ、直き原初の礼拝へと傾く者」に由来)は、アブラハムの純粋な一神教を指すクルアーンおよび初期イスラームの用語であり——ユダヤ教やキリスト教が存在する以前にアブラハムが属していた「アブラハムの宗教"
+      },
+      {
+        "path": "/ja/wiki/hebrew/",
+        "title": "ヘブライ語",
+        "category": "Theology & Traditions",
+        "description": "ヘブライ語(<span class=\"hebrew\">עִבְרִית</span>、イヴリート)は、ユダヤ教の根本テクストの言語であるセム語族の一言語であり、その三子音体系と圧縮された多義性は、Wheel of Heaven が提示する読解において決定的な役割を果たす。"
+      },
+      {
+        "path": "/ja/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "ラエリアン正典の参照コーパス",
+        "category": "Theology & Traditions",
+        "description": "ラエリアン・コーパスの三冊の正典書 ―『真実を告げる書』(1974)、『地球外生命体は私を彼らの惑星へと連れて行った』(1975)、『地球外生命体を歓迎しよう』(1979) ― が直接引用または間接的に言及するテクスト、伝承、人物の目録。明示的に名指された一次層と、ほのめかしのみの二次層に整理する。"
+      },
+      {
+        "path": "/ja/wiki/the-tradition/",
+        "title": "伝統",
+        "category": "Theology & Traditions",
+        "description": "伝統は、Wheel of Heaven の文脈において、宗教・秘儀学派・特定の哲学的本文集を通じて保存されてきたエロヒム的伝達の累積的総体を指す — 特定の宗派的伝統とは区別される。"
+      }
+    ],
+    "ja/wiki/theomachy": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/third-temple": [
+      {
+        "path": "/ja/wiki/eden/",
+        "title": "エデン",
+        "category": "Places & Locations",
+        "description": "エデン(ヘブライ語:עֵדֶן、ʿĒden)は、ヘブライ語聖書において最初の人類が創造され、追放される前に住んでいた園の所在地として名付けられた地域である。ラエル文献において展開され、Wheel of Heaven 文献集に採用された読解によれば、エデンとは、大洪水前の超大陸におけるエロヒム創造者のうちのイスラエル・チ"
+      },
+      {
+        "path": "/ja/wiki/pangaea/",
+        "title": "パンゲア",
+        "category": "Places & Locations",
+        "description": "パンゲアは、古生代末についてプレートテクトニクスにより復元された単一の超大陸である。Wheel of Heaven は、それをエロヒムによる地球生命合成の初期段階における参照地質配置として捉える。"
+      },
+      {
+        "path": "/ja/wiki/petra/",
+        "title": "ペトラ",
+        "category": "Places & Locations",
+        "description": "ペトラ(ギリシャ語 Πέτρα「岩」、ナバテア・アラム語 רקמו Raqmū、ヘブライ語 רֶקֶם Reqem、アラビア語 ٱلْبَتْرَاء al-Batrāʾ)は、現在のヨルダン南部にあるナバテア王国の岩窟首都であり、カナダの研究者ダン・ギブソンに主に結びつけられた修正主義的仮説——ヒジャーズの現在メッカと"
+      },
+      {
+        "path": "/ja/wiki/new-jerusalem/",
+        "title": "新しいエルサレム",
+        "category": "Places & Locations",
+        "description": "新しいエルサレムは、聖書終末論において、終わりの時に天から降る再生された都市である。Wheel of Heaven の文脈では、それは大使館と大いなる帰還の象徴的投影として読まれ — 厳密に神学的な比喩というよりは、エロヒム的歓迎インフラとして扱われる。"
+      }
+    ],
+    "ja/wiki/tower-of-babel": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
+    "ja/wiki/tree-of-life": [
+      {
+        "path": "/ja/wiki/fractal-cosmology/",
+        "title": "フラクタル宇宙論",
+        "category": "Cosmology & Framework",
+        "description": "フラクタル宇宙論は、宇宙が原子から銀河、生命まで様々なスケールで自己相似性を示すという考えである。Wheel of Heaven の文脈では、それは入れ子状の文明からなる宇宙の連鎖を整合的な宇宙論的枠組みに結びつける。"
+      },
+      {
+        "path": "/ja/wiki/mass-effect/",
+        "title": "マス・エフェクト",
+        "category": "Cosmology & Framework",
+        "description": "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
+      },
+      {
+        "path": "/ja/wiki/raelism/",
+        "title": "ラエル運動",
+        "category": "Cosmology & Framework",
+        "description": "ラエル運動(ラエリズム)は、1973年12月13日のクレルモン=フェラン近郊ピュイ=ド=ラソラ火口におけるエロヒム連合の士官との接触報告に基づき、ラエル(クロード・ヴォリロン)によって1974–1976年に創始された宗教的・哲学的運動である。本運動は、より広範な宗教運動の風景の中で構造的に特異であり、明示的に無神論的で"
+      },
+      {
+        "path": "/ja/wiki/doubled-signature/",
+        "title": "二重の署名",
+        "category": "Cosmology & Framework",
+        "description": "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
+      }
+    ],
+    "ja/wiki/tree-of-the-knowledge-of-good-and-evil": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
+      }
+    ],
+    "ja/wiki/ufology": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/us-space-force/",
+        "title": "アメリカ宇宙軍",
+        "category": "Ufology",
+        "description": "アメリカ宇宙軍は、2019年以来、合衆国軍の宇宙部門である。Wheel of Heaven は、エクソバイオロジーの軍事的隠蔽との関連で、現代の宇宙軍事化の制度的指標としてこれに言及する。"
+      },
+      {
+        "path": "/ja/wiki/military-cover-up-of-exobiology/",
+        "title": "エクソバイオロジーの軍事的隠蔽",
+        "category": "Ufology",
+        "description": "エクソバイオロジーの軍事的隠蔽は、地球上における非人類的存在の存在に関するデータを機密化する国家的(主として米国の)装置群を指す。Wheel of Heaven は、それを大いなる帰還への制度的障害の一つとして文書化する。"
+      },
+      {
+        "path": "/ja/wiki/crop-circles/",
+        "title": "ミステリーサークル",
+        "category": "Ufology",
+        "description": "ミステリーサークル(crop circles)、すなわち穀物模様(crop formations)は、農作物(主に小麦、大麦、菜種、ライ麦、トウモロコシ、亜麻、大豆)を体系的に倒伏させることで生み出される幾何学的・数学的・象徴的な大規模模様です。現代的現象は1970年代後期にイングランド南部において主として出現し、その"
+      }
+    ],
+    "ja/wiki/us-space-force": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/military-cover-up-of-exobiology/",
+        "title": "エクソバイオロジーの軍事的隠蔽",
+        "category": "Ufology",
+        "description": "エクソバイオロジーの軍事的隠蔽は、地球上における非人類的存在の存在に関するデータを機密化する国家的(主として米国の)装置群を指す。Wheel of Heaven は、それを大いなる帰還への制度的障害の一つとして文書化する。"
+      },
+      {
+        "path": "/ja/wiki/crop-circles/",
+        "title": "ミステリーサークル",
+        "category": "Ufology",
+        "description": "ミステリーサークル(crop circles)、すなわち穀物模様(crop formations)は、農作物(主に小麦、大麦、菜種、ライ麦、トウモロコシ、亜麻、大豆)を体系的に倒伏させることで生み出される幾何学的・数学的・象徴的な大規模模様です。現代的現象は1970年代後期にイングランド南部において主として出現し、その"
+      }
+    ],
+    "ja/wiki/wheel-of-heaven": [
+      {
+        "path": "/ja/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE——UAP遭遇に関する大統領による開封および報告システム——は、未確認異常現象(UAP)に関する未解決記録を機密解除し、戦争省のポータルwar.gov/UFOで公開するために2026年に発足した米国政府のプログラムである。2026年2月19日の大統領指令によって命じられ、議会が2022年に創設した法定の開示"
+      },
+      {
+        "path": "/ja/wiki/ufology/",
+        "title": "UFO学",
+        "category": "Ufology",
+        "description": "UFO学は、未確認飛行物体および関連する遭遇現象の研究である。Wheel of Heaven は、その文書的価値について論じ、活用可能な事例と決定的でない事例を区別しつつ、UFO学の全体に同調するわけではない。"
+      },
+      {
+        "path": "/ja/wiki/astrobiology/",
+        "title": "アストロバイオロジー",
+        "category": "Science & Technology",
+        "description": "アストロバイオロジーは、宇宙における生命 — その起源、進化、分布、地球外での将来 — を科学的に研究する分野である。Wheel of Heaven の文脈では、それはエロヒム仮説の現代における科学的対応物を構成し、他の世界における生命誕生の条件を探究する。"
+      },
+      {
+        "path": "/ja/wiki/adam-and-eve/",
+        "title": "アダムとエバ",
+        "category": "Biblical Figures",
+        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+      }
+    ],
+    "ja/wiki/world-age": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      },
+      {
+        "path": "/ja/wiki/antediluvian/",
+        "title": "大洪水以前",
+        "category": "Cosmic Chronology",
+        "description": "大洪水以前(ラテン語:ante、「前」+ diluvium、「洪水」)とは、創世記6-9章および古代世界全体にわたる並行諸伝統に語られる大洪水以前の地球における人類の存在期間を指す。ラエル文献資料において展開され Wheel of Heaven 文献集が採用する読解では、これは創造後・洪水以前の期間 ― 獅子座の時代か"
+      }
+    ],
+    "ja/wiki/yahweh": [
+      {
+        "path": "/ja/wiki/elohim/",
+        "title": "エロヒム",
+        "category": "Elohim",
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+      },
+      {
+        "path": "/ja/wiki/elohim-home-planet/",
+        "title": "エロヒムの母星",
+        "category": "Elohim",
+        "description": "エロヒムの母星 — Wheel of Heaven の正典項目については「エロヒム母星」を参照。"
+      },
+      {
+        "path": "/ja/wiki/elohimian-space-wars/",
+        "title": "エロヒム的宇宙戦争",
+        "category": "Elohim",
+        "description": "エロヒム的宇宙戦争 — Wheel of Heaven の正典項目については「神々の闘い」を参照。"
+      },
+      {
+        "path": "/ja/wiki/satan/",
+        "title": "サタン",
+        "category": "Elohim",
+        "description": "サタン(שָׂטָן、ヘブライ語で「敵対者」「告発者」「対立者」)は母星に在るエロアハの人物であり、エロヒム文明内部の政治派閥 ― すなわち、自らの創造者と同等あるいは凌駕しうる合成的存在の創造に対して一貫して反対してきた派閥 ― の指導者である。サタンの立場は地球計画開始以前から実質的に一貫している。すなわち、エロヒ"
+      }
+    ],
+    "ja/wiki/zodiac": [
+      {
+        "path": "/ja/wiki/samsara/",
+        "title": "サンサーラ",
+        "category": "Cosmic Chronology",
+        "description": "サンサーラ(サンスクリット:<span class=\"sanskrit\">संसार</span>)は、ダルマ系の伝統において、業に従属する輪廻転生の循環を指す。Wheel of Heaven はそれをアジア的長期記憶の文法の一つとして論じ、自らの循環的歴史読解と接合可能なものとして扱う。"
+      },
+      {
+        "path": "/ja/wiki/world-age/",
+        "title": "世界年代",
+        "category": "Cosmic Chronology",
+        "description": "世界年代は、Wheel of Heaven の文脈において、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。十二の世界年代が一つの大年を構成し、これが本プロジェクトの宇宙年代論の基本単位となる。"
+      },
+      {
+        "path": "/ja/wiki/great-year/",
+        "title": "大年",
+        "category": "Cosmic Chronology",
+        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+      },
+      {
+        "path": "/ja/wiki/great-month/",
+        "title": "大月",
+        "category": "Cosmic Chronology",
+        "description": "大月は、歳差の枠組みにおいて、春分点が黄道十二宮の一つを通過する期間 — 約2,160年 — を指す。Wheel of Heaven はそれを世界年代と同一視し、本プロジェクトの宇宙的年代論の基本単位とする。"
+      }
+    ]
+  }
+}

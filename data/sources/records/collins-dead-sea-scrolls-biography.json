@@ -1,0 +1,30 @@
+{
+  "id": "collins-dead-sea-scrolls-biography",
+  "title": "The Dead Sea Scrolls: A Biography (Lives of Great Religious Books)",
+  "authored_by": [
+    "John J. Collins"
+  ],
+  "publish_date": "2013",
+  "follow_url": "",
+  "description": "John J. Collins's short “biography” of the Dead Sea Scrolls in the Princeton Lives of Great Religious Books series: the discovery narrative, the forty-year publication scandal, the Essene debate, and the canon-and-text questions.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "dead-sea-scrolls",
+    "qumran",
+    "second-temple-judaism"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

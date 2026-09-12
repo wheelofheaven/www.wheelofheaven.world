@@ -1,0 +1,24 @@
+{
+  "id": "sturluson-prose-edda",
+  "title": "The Prose Edda",
+  "authored_by": [
+    "Snorri Sturluson"
+  ],
+  "publish_date": "c. 1220",
+  "follow_url": "https://www.penguinrandomhouse.com/",
+  "description": "Sturluson's principal articulation of the Norse mythological tradition, including the Loki figure with substantial parallel content to the Hebrew satan.",
+  "medium": "religious-text",
+  "topics": [
+    "Comparative Religion",
+    "Norse Tradition"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "monotheism",
+  "title": "Monotheism",
+  "authored_by": [
+    "Dan McClellan"
+  ],
+  "publish_date": "2025",
+  "follow_url": "https://doi.org/10.1093/acrefore/9780199340378.013.1195",
+  "description": "",
+  "medium": "",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "wiki",
+      "title": "Monotheism",
+      "path": "/wiki/monotheism/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

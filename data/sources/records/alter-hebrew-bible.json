@@ -1,0 +1,24 @@
+{
+  "id": "alter-hebrew-bible",
+  "title": "The Hebrew Bible: A Translation with Commentary (3 vols.)",
+  "authored_by": [
+    "Robert Alter"
+  ],
+  "publish_date": "2018",
+  "follow_url": "https://wwnorton.com/",
+  "description": "Alter's principal three-volume English translation of the Hebrew Bible with substantial scholarly commentary.",
+  "medium": "academic-paper",
+  "topics": [
+    "Hebrew Bible",
+    "Translation"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

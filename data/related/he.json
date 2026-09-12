@@ -1,0 +1,3944 @@
+{
+  "generator": "scripts/build_related.py",
+  "schema_version": 1,
+  "lang": "he",
+  "max_items": 4,
+  "pages": {
+    "he/articles/monotheism-is-the-wrong-question": [
+      {
+        "path": "/he/articles/the-signature-and-the-designers/",
+        "title": "החתימה והמתכננים",
+        "category": "Science & Technology",
+        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+      },
+      {
+        "path": "/he/articles/the-rain-over-helicon/",
+        "title": "הגשם מעל הליקון",
+        "category": "Comparative Mythology",
+        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+      },
+      {
+        "path": "/he/articles/the-east-face-of-homer/",
+        "title": "הפן המזרחי של הומרוס",
+        "category": "Comparative Mythology",
+        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+      },
+      {
+        "path": "/he/articles/the-world-behind-the-odyssey/",
+        "title": "העולם שמאחורי האודיסיאה",
+        "category": "Comparative Mythology",
+        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+      }
+    ],
+    "he/articles/the-archdeacon-and-the-dragon": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      }
+    ],
+    "he/articles/the-book-closest-to-the-truth": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      }
+    ],
+    "he/articles/the-east-face-of-homer": [
+      {
+        "path": "/he/articles/the-rain-over-helicon/",
+        "title": "הגשם מעל הליקון",
+        "category": "Comparative Mythology",
+        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+      },
+      {
+        "path": "/he/articles/the-world-behind-the-odyssey/",
+        "title": "העולם שמאחורי האודיסיאה",
+        "category": "Comparative Mythology",
+        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+      },
+      {
+        "path": "/he/articles/the-signature-and-the-designers/",
+        "title": "החתימה והמתכננים",
+        "category": "Science & Technology",
+        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+      },
+      {
+        "path": "/he/articles/the-shape-of-humanity/",
+        "title": "צורתה של האנושות",
+        "category": "Macro-History",
+        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+      }
+    ],
+    "he/articles/the-first-mosques-faced-petra-not-mecca": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      }
+    ],
+    "he/articles/the-flood-was-a-reset-not-a-punishment": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      }
+    ],
+    "he/articles/the-infinite-in-both-directions": [
+      {
+        "path": "/he/articles/the-signature-and-the-designers/",
+        "title": "החתימה והמתכננים",
+        "category": "Science & Technology",
+        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+      },
+      {
+        "path": "/he/articles/the-rain-over-helicon/",
+        "title": "הגשם מעל הליקון",
+        "category": "Comparative Mythology",
+        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+      },
+      {
+        "path": "/he/articles/the-east-face-of-homer/",
+        "title": "הפן המזרחי של הומרוס",
+        "category": "Comparative Mythology",
+        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+      },
+      {
+        "path": "/he/articles/the-world-behind-the-odyssey/",
+        "title": "העולם שמאחורי האודיסיאה",
+        "category": "Comparative Mythology",
+        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+      }
+    ],
+    "he/articles/the-man-who-bet-the-bible-on-the-moon": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      },
+      {
+        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "category": "Comparative",
+        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+      }
+    ],
+    "he/articles/the-mill-that-grinds-the-ages": [
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      },
+      {
+        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "category": "Comparative",
+        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+      }
+    ],
+    "he/articles/the-rain-over-helicon": [
+      {
+        "path": "/he/articles/the-east-face-of-homer/",
+        "title": "הפן המזרחי של הומרוס",
+        "category": "Comparative Mythology",
+        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+      },
+      {
+        "path": "/he/articles/the-world-behind-the-odyssey/",
+        "title": "העולם שמאחורי האודיסיאה",
+        "category": "Comparative Mythology",
+        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+      },
+      {
+        "path": "/he/articles/the-signature-and-the-designers/",
+        "title": "החתימה והמתכננים",
+        "category": "Science & Technology",
+        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+      },
+      {
+        "path": "/he/articles/the-shape-of-humanity/",
+        "title": "צורתה של האנושות",
+        "category": "Macro-History",
+        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+      }
+    ],
+    "he/articles/the-religion-of-religions": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "category": "Comparative",
+        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+      }
+    ],
+    "he/articles/the-scrolls-that-woke-in-year-one": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      }
+    ],
+    "he/articles/the-shape-of-humanity": [
+      {
+        "path": "/he/articles/the-signature-and-the-designers/",
+        "title": "החתימה והמתכננים",
+        "category": "Science & Technology",
+        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+      },
+      {
+        "path": "/he/articles/the-rain-over-helicon/",
+        "title": "הגשם מעל הליקון",
+        "category": "Comparative Mythology",
+        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+      },
+      {
+        "path": "/he/articles/the-east-face-of-homer/",
+        "title": "הפן המזרחי של הומרוס",
+        "category": "Comparative Mythology",
+        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+      },
+      {
+        "path": "/he/articles/the-world-behind-the-odyssey/",
+        "title": "העולם שמאחורי האודיסיאה",
+        "category": "Comparative Mythology",
+        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+      }
+    ],
+    "he/articles/the-signature-and-the-designers": [
+      {
+        "path": "/he/articles/the-rain-over-helicon/",
+        "title": "הגשם מעל הליקון",
+        "category": "Comparative Mythology",
+        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+      },
+      {
+        "path": "/he/articles/the-east-face-of-homer/",
+        "title": "הפן המזרחי של הומרוס",
+        "category": "Comparative Mythology",
+        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+      },
+      {
+        "path": "/he/articles/the-world-behind-the-odyssey/",
+        "title": "העולם שמאחורי האודיסיאה",
+        "category": "Comparative Mythology",
+        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+      },
+      {
+        "path": "/he/articles/the-shape-of-humanity/",
+        "title": "צורתה של האנושות",
+        "category": "Macro-History",
+        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+      }
+    ],
+    "he/articles/the-translators-wager": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/unsealed-in-year-one/",
+        "title": "נחתמו עד השנה הראשונה",
+        "category": "Comparative",
+        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      }
+    ],
+    "he/articles/the-world-behind-the-odyssey": [
+      {
+        "path": "/he/articles/the-rain-over-helicon/",
+        "title": "הגשם מעל הליקון",
+        "category": "Comparative Mythology",
+        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+      },
+      {
+        "path": "/he/articles/the-east-face-of-homer/",
+        "title": "הפן המזרחי של הומרוס",
+        "category": "Comparative Mythology",
+        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+      },
+      {
+        "path": "/he/articles/the-signature-and-the-designers/",
+        "title": "החתימה והמתכננים",
+        "category": "Science & Technology",
+        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+      },
+      {
+        "path": "/he/articles/the-shape-of-humanity/",
+        "title": "צורתה של האנושות",
+        "category": "Macro-History",
+        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+      }
+    ],
+    "he/articles/unsealed-in-year-one": [
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      },
+      {
+        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "category": "Comparative",
+        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+      },
+      {
+        "path": "/he/articles/the-religion-of-religions/",
+        "title": "דת הדתות",
+        "category": "Comparative",
+        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+      },
+      {
+        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "category": "Comparative",
+        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+      }
+    ],
+    "he/news/library-hebrew-bible-nine-languages": [
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      },
+      {
+        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
+        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
+        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+      }
+    ],
+    "he/news/pursue-release-01-uap-files": [
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      },
+      {
+        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
+        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
+        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+      }
+    ],
+    "he/news/pursue-release-02-spheres-and-transmedium": [
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      },
+      {
+        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
+        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
+        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+      }
+    ],
+    "he/news/pursue-release-03-multi-agency-and-international": [
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      },
+      {
+        "path": "/he/news/library-hebrew-bible-nine-languages/",
+        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
+        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
+      }
+    ],
+    "he/news/pursue-release-04-the-nuclear-nexus": [
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      },
+      {
+        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
+        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
+        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+      },
+      {
+        "path": "/he/news/library-hebrew-bible-nine-languages/",
+        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
+        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
+      }
+    ],
+    "he/news/pursue-release-05-triangles-and-the-white-house-file": [
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      },
+      {
+        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
+        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
+        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+      },
+      {
+        "path": "/he/news/library-hebrew-bible-nine-languages/",
+        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
+        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
+      }
+    ],
+    "he/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
+        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
+        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+      },
+      {
+        "path": "/he/news/library-hebrew-bible-nine-languages/",
+        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
+        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
+      }
+    ],
+    "he/timeline/age-of-aquarius": [
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-aries": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-cancer": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-capricorn": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-gemini": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-leo": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-libra": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-pisces": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-sagittarius": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-scorpio": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-taurus": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/age-of-virgo": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/in-the-beginning": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/preamble": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/timeline/the-wheel-keeps-turning": [
+      {
+        "path": "/he/timeline/age-of-aquarius/",
+        "title": "עידן הדלי",
+        "description": "העידן השנים־עשר והנוכחי של השנה הגדולה — עידן ההתגלות, שבו התוכן המצטבר של כל העידנים הקודמים נעשה קריא לאנושות המצוידת סוף־סוף להבינו. סף 1946, מגע 1973, מיזם "
+      },
+      {
+        "path": "/he/timeline/age-of-aries/",
+        "title": "עידן הטלה",
+        "description": "העידן העשירי של השנה הגדולה — משה, יציאת מצרים, מתן תורה בסיני, קרני נביא עידן האיל, כיבוש כנען, המסורת הנבואית, כישלון העברים להפיץ את המסר, טיפוח פרס ויוון בי"
+      },
+      {
+        "path": "/he/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/he/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "he/wiki/abraham": [
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      },
+      {
+        "path": "/he/wiki/lucifer/",
+        "title": "לוציפר",
+        "category": "Biblical Figures",
+        "description": "לוציפר (לטינית: lūcifer, »מביא האור«; עברית: הֵילֵל בֶּן־שַׁחַר, »כוכב היום, בן השחר«) הוא הדמות הנקראת במסורת התיאולוגית הנוצרית כמנהיג המלאכים שנפלו מן השמיים"
+      }
+    ],
+    "he/wiki/adam-and-eve": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      },
+      {
+        "path": "/he/wiki/lucifer/",
+        "title": "לוציפר",
+        "category": "Biblical Figures",
+        "description": "לוציפר (לטינית: lūcifer, »מביא האור«; עברית: הֵילֵל בֶּן־שַׁחַר, »כוכב היום, בן השחר«) הוא הדמות הנקראת במסורת התיאולוגית הנוצרית כמנהיג המלאכים שנפלו מן השמיים"
+      }
+    ],
+    "he/wiki/adamite-struggle": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/adamites": [
+      {
+        "path": "/he/wiki/ancient-builders/",
+        "title": "בונים קדומים",
+        "category": "Peoples & Groups",
+        "description": "»בונים קדומים« הוא, בשימוש פופולרי ובארכיאולוגיה חלופית, ההצעה שאחת או יותר ציוויליזציות אבודות או לא-ידועות היו אחראיות לבניית רבים מהמונומנטים הקדומים העיקריי"
+      },
+      {
+        "path": "/he/wiki/nabataeans/",
+        "title": "הנבטים",
+        "category": "Peoples & Groups",
+        "description": "הנבטים (ארמית נבטית נבטו Nabaṭu; יוונית Ναβαταῖοι Nabataîoi; ערבית ٱلْأَنْبَاط al-Anbāṭ) היו עם צפון-ערבי קדום אשר החל מן המאה הרביעית לפני הספירה לערך הקים ממל"
+      },
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה — המתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודש"
+      }
+    ],
+    "he/wiki/ancient-astronaut-hypothesis": [
+      {
+        "path": "/he/wiki/archaeoastronomy/",
+        "title": "ארכיאואסטרונומיה",
+        "category": "Methodology",
+        "description": "ארכיאואסטרונומיה חוקרת את הידע והמנהגים האסטרונומיים החקוקים במונומנטים, במיתוסים ובלוחות השנה של חברות קדומות; במסגרת Wheel of Heaven היא מתחומי היסוד לזיהוי ה"
+      },
+      {
+        "path": "/he/wiki/comparative-mythology/",
+        "title": "מיתולוגיה השוואתית",
+        "category": "Methodology",
+        "description": "מיתולוגיה השוואתית חוקרת באופן שיטתי את ההתאמות המבניות שבין מיתוסים של תרבויות שונות. במסגרת Wheel of Heaven היא כלי מרכזי לזיהוי אירועים היסטוריים שהועברו ממק"
+      },
+      {
+        "path": "/he/wiki/neo-euhemerism/",
+        "title": "נאו-אוהמריזם",
+        "category": "Methodology",
+        "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
+      },
+      {
+        "path": "/he/wiki/biglino-method/",
+        "title": "שיטת ביגלינו",
+        "category": "Methodology",
+        "description": "שיטת ביגלינו, על שם המתרגם האיטלקי מאורו ביגלינו, מבקשת לשחזר את הממד המילולי והטכני של המקרא העברי מתוך הסרת ההנחות התאולוגיות שהצטברו עליו; Wheel of Heaven מא"
+      }
+    ],
+    "he/wiki/ancient-builders": [
+      {
+        "path": "/he/wiki/adamites/",
+        "title": "האדמיים",
+        "category": "Peoples & Groups",
+        "description": "האדמיים הם שושלת בני האדם הראשונה שסונתזה במלואה בידי האלוהים — צאצאיהם הישירים של אדם וחוה מגן-המעבדה; במסגרת Wheel of Heaven המונח מבחין אותה מענפים קדם-אנושי"
+      },
+      {
+        "path": "/he/wiki/nabataeans/",
+        "title": "הנבטים",
+        "category": "Peoples & Groups",
+        "description": "הנבטים (ארמית נבטית נבטו Nabaṭu; יוונית Ναβαταῖοι Nabataîoi; ערבית ٱلْأَنْبَاط al-Anbāṭ) היו עם צפון-ערבי קדום אשר החל מן המאה הרביעית לפני הספירה לערך הקים ממל"
+      },
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה — המתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודש"
+      }
+    ],
+    "he/wiki/antediluvian": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/chronology/",
+        "title": "כרונולוגיה",
+        "category": "Cosmic Chronology",
+        "description": "כרונולוגיה — ציר הזמן הקוסמי של הקורפוס, המורכב משנים-עשר עידני המזלות המרכיבים את השנה הגדולה. הערך המהותי מצוי בעידן העולם."
+      }
+    ],
+    "he/wiki/apocalypse": [
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      },
+      {
+        "path": "/he/wiki/great-flood/",
+        "title": "המבול",
+        "category": "Events & Narratives",
+        "description": "המבול (בעברית: הַמַּבּוּל, ha-mabbul) הוא האירוע הגלובלי הקטסטרופלי המתועד בבראשית פרקים ו'-ט' וביותר ממאתיים מסורות תרבותיות מקבילות, שבו הושמדה התרבות האנושית"
+      }
+    ],
+    "he/wiki/archaeoastronomy": [
+      {
+        "path": "/he/wiki/ancient-astronaut-hypothesis/",
+        "title": "השערת האסטרונאוטים הקדמונים",
+        "category": "Methodology",
+        "description": "השערת האסטרונאוטים הקדמונים גורסת שתבונה לא-ארצית ביקרה בכדור הארץ בעת הפרהיסטורית והעתיקה והותירה חותם מכריע על התפתחות האנושות. קורפוס Wheel of Heaven הוא גרס"
+      },
+      {
+        "path": "/he/wiki/comparative-mythology/",
+        "title": "מיתולוגיה השוואתית",
+        "category": "Methodology",
+        "description": "מיתולוגיה השוואתית חוקרת באופן שיטתי את ההתאמות המבניות שבין מיתוסים של תרבויות שונות. במסגרת Wheel of Heaven היא כלי מרכזי לזיהוי אירועים היסטוריים שהועברו ממק"
+      },
+      {
+        "path": "/he/wiki/neo-euhemerism/",
+        "title": "נאו-אוהמריזם",
+        "category": "Methodology",
+        "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
+      },
+      {
+        "path": "/he/wiki/biglino-method/",
+        "title": "שיטת ביגלינו",
+        "category": "Methodology",
+        "description": "שיטת ביגלינו, על שם המתרגם האיטלקי מאורו ביגלינו, מבקשת לשחזר את הממד המילולי והטכני של המקרא העברי מתוך הסרת ההנחות התאולוגיות שהצטברו עליו; Wheel of Heaven מא"
+      }
+    ],
+    "he/wiki/astrobiology": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      },
+      {
+        "path": "/he/wiki/genetic-engineering/",
+        "title": "הנדסה גנטית",
+        "category": "Science & Technology",
+        "description": "הנדסה גנטית היא מכלול הטכנולוגיות לשינוי ממוקד של החומר הגנטי של אורגניזם. קורפוס Wheel of Heaven קורא אותה כמסלול הסינתזה שבו נקטו האלוהים ביצירת החיים עלי אדמ"
+      }
+    ],
+    "he/wiki/babel": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      },
+      {
+        "path": "/he/wiki/great-flood/",
+        "title": "המבול",
+        "category": "Events & Narratives",
+        "description": "המבול (בעברית: הַמַּבּוּל, ha-mabbul) הוא האירוע הגלובלי הקטסטרופלי המתועד בבראשית פרקים ו'-ט' וביותר ממאתיים מסורות תרבותיות מקבילות, שבו הושמדה התרבות האנושית"
+      }
+    ],
+    "he/wiki/bible": [
+      {
+        "path": "/he/wiki/religion/",
+        "title": "דת",
+        "category": "Theology & Traditions",
+        "description": "הדת נקראת, במסגרת Wheel of Heaven, כמנגנון לשימור ארוך-טווח של זיכרון האלוהים ובה בעת כשכבות עיוות שהצטברו במסירה. הפרויקט דן בתפקידה הארכיוני אך אינו מזהה עצמו"
+      },
+      {
+        "path": "/he/wiki/the-truth/",
+        "title": "האמת",
+        "category": "Theology & Traditions",
+        "description": "האמת מציינת, בחומר המקור הראליאני ובקורפוס Wheel of Heaven, את גוף המידע הקוהרנטי שהועבר מן האלוהים דרך שושלת הנביאים — בניגוד לשכבות העיוות שהצטברו במוסדות הדת"
+      },
+      {
+        "path": "/he/wiki/the-tradition/",
+        "title": "המסורת",
+        "category": "Theology & Traditions",
+        "description": "המסורת, במסגרת Wheel of Heaven, היא המכלול המצטבר של מסירת האלוהים שנשתמר דרך הדת, אסכולות אזוטריות וכתבים פילוסופיים מסוימים — הנבדל מכל מסורת כיתתית מסוימת."
+      },
+      {
+        "path": "/he/wiki/hanafiyya/",
+        "title": "חניפיה",
+        "category": "Theology & Traditions",
+        "description": "חניפיה (ערבית ٱلْحَنِيفِيَّة al-Ḥanīfiyyah, מן حَنِيف ḥanīf, »מי שנוטה הרחק מעבודת אלילים אל עבר הפולחן הקדמוני הישר«) הוא המונח הקוראני והאסלאמי-מוקדם למונותאי"
+      }
+    ],
+    "he/wiki/biglino-method": [
+      {
+        "path": "/he/wiki/archaeoastronomy/",
+        "title": "ארכיאואסטרונומיה",
+        "category": "Methodology",
+        "description": "ארכיאואסטרונומיה חוקרת את הידע והמנהגים האסטרונומיים החקוקים במונומנטים, במיתוסים ובלוחות השנה של חברות קדומות; במסגרת Wheel of Heaven היא מתחומי היסוד לזיהוי ה"
+      },
+      {
+        "path": "/he/wiki/ancient-astronaut-hypothesis/",
+        "title": "השערת האסטרונאוטים הקדמונים",
+        "category": "Methodology",
+        "description": "השערת האסטרונאוטים הקדמונים גורסת שתבונה לא-ארצית ביקרה בכדור הארץ בעת הפרהיסטורית והעתיקה והותירה חותם מכריע על התפתחות האנושות. קורפוס Wheel of Heaven הוא גרס"
+      },
+      {
+        "path": "/he/wiki/comparative-mythology/",
+        "title": "מיתולוגיה השוואתית",
+        "category": "Methodology",
+        "description": "מיתולוגיה השוואתית חוקרת באופן שיטתי את ההתאמות המבניות שבין מיתוסים של תרבויות שונות. במסגרת Wheel of Heaven היא כלי מרכזי לזיהוי אירועים היסטוריים שהועברו ממק"
+      },
+      {
+        "path": "/he/wiki/neo-euhemerism/",
+        "title": "נאו-אוהמריזם",
+        "category": "Methodology",
+        "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
+      }
+    ],
+    "he/wiki/chronology": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      }
+    ],
+    "he/wiki/comparative-mythology": [
+      {
+        "path": "/he/wiki/archaeoastronomy/",
+        "title": "ארכיאואסטרונומיה",
+        "category": "Methodology",
+        "description": "ארכיאואסטרונומיה חוקרת את הידע והמנהגים האסטרונומיים החקוקים במונומנטים, במיתוסים ובלוחות השנה של חברות קדומות; במסגרת Wheel of Heaven היא מתחומי היסוד לזיהוי ה"
+      },
+      {
+        "path": "/he/wiki/ancient-astronaut-hypothesis/",
+        "title": "השערת האסטרונאוטים הקדמונים",
+        "category": "Methodology",
+        "description": "השערת האסטרונאוטים הקדמונים גורסת שתבונה לא-ארצית ביקרה בכדור הארץ בעת הפרהיסטורית והעתיקה והותירה חותם מכריע על התפתחות האנושות. קורפוס Wheel of Heaven הוא גרס"
+      },
+      {
+        "path": "/he/wiki/neo-euhemerism/",
+        "title": "נאו-אוהמריזם",
+        "category": "Methodology",
+        "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
+      },
+      {
+        "path": "/he/wiki/biglino-method/",
+        "title": "שיטת ביגלינו",
+        "category": "Methodology",
+        "description": "שיטת ביגלינו, על שם המתרגם האיטלקי מאורו ביגלינו, מבקשת לשחזר את הממד המילולי והטכני של המקרא העברי מתוך הסרת ההנחות התאולוגיות שהצטברו עליו; Wheel of Heaven מא"
+      }
+    ],
+    "he/wiki/confusion-of-tongues": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      },
+      {
+        "path": "/he/wiki/great-flood/",
+        "title": "המבול",
+        "category": "Events & Narratives",
+        "description": "המבול (בעברית: הַמַּבּוּל, ha-mabbul) הוא האירוע הגלובלי הקטסטרופלי המתועד בבראשית פרקים ו'-ט' וביותר ממאתיים מסורות תרבותיות מקבילות, שבו הושמדה התרבות האנושית"
+      }
+    ],
+    "he/wiki/cosmic-chain": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/cosmic-competition": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/cosmic-evolution": [
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      },
+      {
+        "path": "/he/wiki/genetic-engineering/",
+        "title": "הנדסה גנטית",
+        "category": "Science & Technology",
+        "description": "הנדסה גנטית היא מכלול הטכנולוגיות לשינוי ממוקד של החומר הגנטי של אורגניזם. קורפוס Wheel of Heaven קורא אותה כמסלול הסינתזה שבו נקטו האלוהים ביצירת החיים עלי אדמ"
+      }
+    ],
+    "he/wiki/cosmic-pluralism": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/council-of-the-eternals": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/crop-circles": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/ufology/",
+        "title": "אופולוגיה",
+        "category": "Ufology",
+        "description": "אופולוגיה היא חקר העצמים המעופפים הבלתי מזוהים ותופעות המפגש הקשורות בהם. במסגרת Wheel of Heaven נדון ערכם התיעודי, תוך הבחנה בין מקרים שמישים למקרים חסרי הכרעה"
+      },
+      {
+        "path": "/he/wiki/military-cover-up-of-exobiology/",
+        "title": "הטיוח הצבאי של אקסוביולוגיה",
+        "category": "Ufology",
+        "description": "הטיוח הצבאי של אקסוביולוגיה מציין את מכלול המנגנונים הממלכתיים, בעיקר אמריקניים, המסווגים מידע על נוכחות ישויות לא-אנושיות על פני כדור הארץ; במסגרת Wheel of Hea"
+      },
+      {
+        "path": "/he/wiki/us-space-force/",
+        "title": "חיל החלל האמריקאי",
+        "category": "Ufology",
+        "description": "חיל החלל של ארצות הברית הוא זרוע החלל של הצבא האמריקני מאז 2019. במסגרת Wheel of Heaven הוא מוזכר כמדד מוסדי של הצבאת החלל בת-זמננו, בהקשר של ההסתרה הצבאית של ה"
+      }
+    ],
+    "he/wiki/cyberparadism": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה — המתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודש"
+      },
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      }
+    ],
+    "he/wiki/dhorme-bible-translation": [
+      {
+        "path": "/he/wiki/archaeoastronomy/",
+        "title": "ארכיאואסטרונומיה",
+        "category": "Methodology",
+        "description": "ארכיאואסטרונומיה חוקרת את הידע והמנהגים האסטרונומיים החקוקים במונומנטים, במיתוסים ובלוחות השנה של חברות קדומות; במסגרת Wheel of Heaven היא מתחומי היסוד לזיהוי ה"
+      },
+      {
+        "path": "/he/wiki/ancient-astronaut-hypothesis/",
+        "title": "השערת האסטרונאוטים הקדמונים",
+        "category": "Methodology",
+        "description": "השערת האסטרונאוטים הקדמונים גורסת שתבונה לא-ארצית ביקרה בכדור הארץ בעת הפרהיסטורית והעתיקה והותירה חותם מכריע על התפתחות האנושות. קורפוס Wheel of Heaven הוא גרס"
+      },
+      {
+        "path": "/he/wiki/comparative-mythology/",
+        "title": "מיתולוגיה השוואתית",
+        "category": "Methodology",
+        "description": "מיתולוגיה השוואתית חוקרת באופן שיטתי את ההתאמות המבניות שבין מיתוסים של תרבויות שונות. במסגרת Wheel of Heaven היא כלי מרכזי לזיהוי אירועים היסטוריים שהועברו ממק"
+      },
+      {
+        "path": "/he/wiki/neo-euhemerism/",
+        "title": "נאו-אוהמריזם",
+        "category": "Methodology",
+        "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
+      }
+    ],
+    "he/wiki/doubled-signature": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/dragons": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      },
+      {
+        "path": "/he/wiki/forerunners/",
+        "title": "מבשרים",
+        "category": "Symbolism & Motifs",
+        "description": "המבשרים, בקורפוס Wheel of Heaven, הם שושלת בני האדם או הנביאים המכינה את נקודות המפנה הגדולות בתולדות האלוהים על פני כדור הארץ — דמויות המשמשות כמתווכות בין המס"
+      }
+    ],
+    "he/wiki/drake-equation": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/eden": [
+      {
+        "path": "/he/wiki/third-temple/",
+        "title": "בית המקדש השלישי",
+        "category": "Places & Locations",
+        "description": "בית המקדש השלישי הוא באסכטולוגיה היהודית המקדש שעתיד להיבנות מחדש בירושלים באחרית הימים. בקורפוס Wheel of Heaven הוא נקרא כהיטל סמלי של השגרירות — תשתית ההיערכו"
+      },
+      {
+        "path": "/he/wiki/new-jerusalem/",
+        "title": "ירושלים החדשה",
+        "category": "Places & Locations",
+        "description": "ירושלים החדשה היא באפוקליפטיקה המקראית העיר המחודשת היורדת מן השמים באחרית הימים. בקורפוס Wheel of Heaven היא נקראת כהיטל סמלי של השגרירות והשיבה הגדולה — תשתית"
+      },
+      {
+        "path": "/he/wiki/petra/",
+        "title": "פטרה",
+        "category": "Places & Locations",
+        "description": "פטרה (יוונית Πέτρα 'סלע'; ארמית נבטית רקמו Raqmū; עברית רֶקֶם Reqem; ערבית ٱلْبَتْرَاء al-Batrāʾ) היא הבירה החצובה בסלע של ממלכת הנבטים בדרום ירדן של ימינו, והמ"
+      },
+      {
+        "path": "/he/wiki/pangaea/",
+        "title": "פנגיאה",
+        "category": "Places & Locations",
+        "description": "פנגיאה היא יבשת-העל האחת שתורת הלוחות הטקטוניים משחזרת לשלהי הפלאוזואיקון. במסגרת Wheel of Heaven היא תצורת הייחוס הגאולוגית של השלב המוקדם בסינתזת החיים בכדור "
+      }
+    ],
+    "he/wiki/elijah": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      },
+      {
+        "path": "/he/wiki/lucifer/",
+        "title": "לוציפר",
+        "category": "Biblical Figures",
+        "description": "לוציפר (לטינית: lūcifer, »מביא האור«; עברית: הֵילֵל בֶּן־שַׁחַר, »כוכב היום, בן השחר«) הוא הדמות הנקראת במסורת התיאולוגית הנוצרית כמנהיג המלאכים שנפלו מן השמיים"
+      }
+    ],
+    "he/wiki/elohim": [
+      {
+        "path": "/he/wiki/yahweh/",
+        "title": "יהוה",
+        "category": "Elohim",
+        "description": "יהוה (עברית: יהוה, YHWH) הוא שמו הפרטי של הדמות האלוהית המרכזית של המקרא העברי, הנקראת באופן מקובל במסורת המיינסטרים כאלוהי ישראל היחיד. על פי הקריאה שפותחה בחו"
+      },
+      {
+        "path": "/he/wiki/elohim-home-planet/",
+        "title": "כוכב־האם של האלוהים",
+        "category": "Elohim",
+        "description": "כוכב־האם של האלוהים הוא העולם שממנו מוצאם — כוכב עתיק מכדור הארץ, שציוויליזציתו הגיעה לסף הטכנולוגי המאפשר סינתזה של חיים בעולמות אחרים. Wheel of Heaven דן במקו"
+      },
+      {
+        "path": "/he/wiki/elohimian-space-wars/",
+        "title": "מלחמות החלל של האלוהים",
+        "category": "Elohim",
+        "description": "מלחמות החלל של האלוהים — העימות המזוין שלאחר המבול בין סיעת יהוה לבין הבוראים המוגלים; לערך הקנוני המאוחד של Wheel of Heaven ראו «תיאומכיה»."
+      },
+      {
+        "path": "/he/wiki/satan/",
+        "title": "שָׂטָן",
+        "category": "Elohim",
+        "description": "שָׂטָן (עברית: שָׂטָן, »יריב«, »מאשים«, »מתנגד«) הוא דמות אלוהה בעולם הביתי, מנהיג הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינ"
+      }
+    ],
+    "he/wiki/elohim-home-planet": [
+      {
+        "path": "/he/wiki/elohim/",
+        "title": "אלוהים",
+        "category": "Elohim",
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+      },
+      {
+        "path": "/he/wiki/yahweh/",
+        "title": "יהוה",
+        "category": "Elohim",
+        "description": "יהוה (עברית: יהוה, YHWH) הוא שמו הפרטי של הדמות האלוהית המרכזית של המקרא העברי, הנקראת באופן מקובל במסורת המיינסטרים כאלוהי ישראל היחיד. על פי הקריאה שפותחה בחו"
+      },
+      {
+        "path": "/he/wiki/elohimian-space-wars/",
+        "title": "מלחמות החלל של האלוהים",
+        "category": "Elohim",
+        "description": "מלחמות החלל של האלוהים — העימות המזוין שלאחר המבול בין סיעת יהוה לבין הבוראים המוגלים; לערך הקנוני המאוחד של Wheel of Heaven ראו «תיאומכיה»."
+      },
+      {
+        "path": "/he/wiki/satan/",
+        "title": "שָׂטָן",
+        "category": "Elohim",
+        "description": "שָׂטָן (עברית: שָׂטָן, »יריב«, »מאשים«, »מתנגד«) הוא דמות אלוהה בעולם הביתי, מנהיג הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינ"
+      }
+    ],
+    "he/wiki/elohimian-space-wars": [
+      {
+        "path": "/he/wiki/elohim/",
+        "title": "אלוהים",
+        "category": "Elohim",
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+      },
+      {
+        "path": "/he/wiki/yahweh/",
+        "title": "יהוה",
+        "category": "Elohim",
+        "description": "יהוה (עברית: יהוה, YHWH) הוא שמו הפרטי של הדמות האלוהית המרכזית של המקרא העברי, הנקראת באופן מקובל במסורת המיינסטרים כאלוהי ישראל היחיד. על פי הקריאה שפותחה בחו"
+      },
+      {
+        "path": "/he/wiki/elohim-home-planet/",
+        "title": "כוכב־האם של האלוהים",
+        "category": "Elohim",
+        "description": "כוכב־האם של האלוהים הוא העולם שממנו מוצאם — כוכב עתיק מכדור הארץ, שציוויליזציתו הגיעה לסף הטכנולוגי המאפשר סינתזה של חיים בעולמות אחרים. Wheel of Heaven דן במקו"
+      },
+      {
+        "path": "/he/wiki/satan/",
+        "title": "שָׂטָן",
+        "category": "Elohim",
+        "description": "שָׂטָן (עברית: שָׂטָן, »יריב«, »מאשים«, »מתנגד«) הוא דמות אלוהה בעולם הביתי, מנהיג הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינ"
+      }
+    ],
+    "he/wiki/embassy": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/forerunners": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/four-levels": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      },
+      {
+        "path": "/he/wiki/doubled-signature/",
+        "title": "החתימה הכפולה",
+        "category": "Cosmology & Framework",
+        "description": "החתימה הכפולה היא עיקרון פרשני שמקורו ב«טחנת האמלט», המיושם באופן שיטתי בקורפוס Wheel of Heaven: כל עידן מזלי מקודד את חתימתו האסטרונומית בצמד מזלות מנוגדים — ה"
+      }
+    ],
+    "he/wiki/fractal-cosmology": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/genesis": [
+      {
+        "path": "/he/wiki/hebrew-bible/",
+        "title": "המקרא העברי",
+        "category": "Texts & Sources",
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+      },
+      {
+        "path": "/he/wiki/hekhalot-literature/",
+        "title": "ספרות ההיכלות",
+        "category": "Texts & Sources",
+        "description": "ספרות ההיכלות (עברית הֵיכָלוֹת, 'היכלות') היא גוף הכתבים המיסטיים היהודיים משלהי העת העתיקה, המתארים את עליית הנשמה דרך שבעה היכלות שמימיים אל מרכבת הכיסא האלוה"
+      },
+      {
+        "path": "/he/wiki/kabbalah/",
+        "title": "קבלה",
+        "category": "Texts & Sources",
+        "description": "קבלה היא מסורת המיסטיקה היהודית שהתפתחה מימי הביניים ואילך, סביב קריאה אזוטרית של התורה. במסגרת Wheel of Heaven נדונים תרומתה ומגבלותיה כאחד הצינורות שדרכם השתמ"
+      },
+      {
+        "path": "/he/wiki/shiur-qomah/",
+        "title": "שיעור קומה",
+        "category": "Texts & Sources",
+        "description": "שיעור קומה (עברית שִׁעוּר קוֹמָה, 'מידת הקומה') הוא חיבור מספרות ההיכלות / המרכבה הקדם-קבלית, שבו המלאך Metatron מכתיב את ממדיו הקוסמיים של הגוף האלוהי, אבר אחר"
+      }
+    ],
+    "he/wiki/genetic-engineering": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/geniocracy": [
+      {
+        "path": "/he/wiki/humanitarianism/",
+        "title": "הומניטריזם",
+        "category": "Raëlism",
+        "description": "הומניטריזם, במסגרת הקורפוס הראליאני, מציין את מכלול העקרונות האתיים האוניברסליים — זכויות אדם, מיגור העוני וכבוד לחיים — המהווים את הכנת האנושות למגע פומבי עם ה"
+      },
+      {
+        "path": "/he/wiki/new-commandments/",
+        "title": "המצוות החדשות",
+        "category": "Raëlism",
+        "description": "המצוות החדשות, במסגרת הקורפוס הראליאני, הן מכלול המצוות האתיות והפוליטיות המחודשות שהעביר יהוה באמצעות ראל אל האנושות בת-זמננו. קורפוס Wheel of Heaven ממקם אותן"
+      },
+      {
+        "path": "/he/wiki/paradism/",
+        "title": "פרדיזם",
+        "category": "Raëlism",
+        "description": "פרדיזם הוא בקורפוס הראליאני מיזם חברתי־כלכלי של חברת שפע אוטומטית ללא כסף וללא עבודת כפייה. קורפוס Wheel of Heaven קורא בו את האופק המדיני של שלב ההכנה לשיבה הג"
+      },
+      {
+        "path": "/he/wiki/rael/",
+        "title": "ראל",
+        "category": "Raëlism",
+        "description": "ראל (קלוד וורילון, יליד 1946) הוא מייסד התנועה הראליאנית, המדווח כי קיבל מסירה ישירה מן האלוהים בשנים 1973 ו-1975. במסגרת Wheel of Heaven הוא נקרא כנביא האחרון "
+      }
+    ],
+    "he/wiki/golden-age": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      }
+    ],
+    "he/wiki/great-flood": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/great-month": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      },
+      {
+        "path": "/he/wiki/chronology/",
+        "title": "כרונולוגיה",
+        "category": "Cosmic Chronology",
+        "description": "כרונולוגיה — ציר הזמן הקוסמי של הקורפוס, המורכב משנים-עשר עידני המזלות המרכיבים את השנה הגדולה. הערך המהותי מצוי בעידן העולם."
+      }
+    ],
+    "he/wiki/great-return": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/great-year": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      },
+      {
+        "path": "/he/wiki/chronology/",
+        "title": "כרונולוגיה",
+        "category": "Cosmic Chronology",
+        "description": "כרונולוגיה — ציר הזמן הקוסמי של הקורפוס, המורכב משנים-עשר עידני המזלות המרכיבים את השנה הגדולה. הערך המהותי מצוי בעידן העולם."
+      }
+    ],
+    "he/wiki/hanafiyya": [
+      {
+        "path": "/he/wiki/religion/",
+        "title": "דת",
+        "category": "Theology & Traditions",
+        "description": "הדת נקראת, במסגרת Wheel of Heaven, כמנגנון לשימור ארוך-טווח של זיכרון האלוהים ובה בעת כשכבות עיוות שהצטברו במסירה. הפרויקט דן בתפקידה הארכיוני אך אינו מזהה עצמו"
+      },
+      {
+        "path": "/he/wiki/the-truth/",
+        "title": "האמת",
+        "category": "Theology & Traditions",
+        "description": "האמת מציינת, בחומר המקור הראליאני ובקורפוס Wheel of Heaven, את גוף המידע הקוהרנטי שהועבר מן האלוהים דרך שושלת הנביאים — בניגוד לשכבות העיוות שהצטברו במוסדות הדת"
+      },
+      {
+        "path": "/he/wiki/bible/",
+        "title": "הביבליה",
+        "category": "Theology & Traditions",
+        "description": "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
+      },
+      {
+        "path": "/he/wiki/the-tradition/",
+        "title": "המסורת",
+        "category": "Theology & Traditions",
+        "description": "המסורת, במסגרת Wheel of Heaven, היא המכלול המצטבר של מסירת האלוהים שנשתמר דרך הדת, אסכולות אזוטריות וכתבים פילוסופיים מסוימים — הנבדל מכל מסורת כיתתית מסוימת."
+      }
+    ],
+    "he/wiki/hebrew": [
+      {
+        "path": "/he/wiki/religion/",
+        "title": "דת",
+        "category": "Theology & Traditions",
+        "description": "הדת נקראת, במסגרת Wheel of Heaven, כמנגנון לשימור ארוך-טווח של זיכרון האלוהים ובה בעת כשכבות עיוות שהצטברו במסירה. הפרויקט דן בתפקידה הארכיוני אך אינו מזהה עצמו"
+      },
+      {
+        "path": "/he/wiki/the-truth/",
+        "title": "האמת",
+        "category": "Theology & Traditions",
+        "description": "האמת מציינת, בחומר המקור הראליאני ובקורפוס Wheel of Heaven, את גוף המידע הקוהרנטי שהועבר מן האלוהים דרך שושלת הנביאים — בניגוד לשכבות העיוות שהצטברו במוסדות הדת"
+      },
+      {
+        "path": "/he/wiki/bible/",
+        "title": "הביבליה",
+        "category": "Theology & Traditions",
+        "description": "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
+      },
+      {
+        "path": "/he/wiki/the-tradition/",
+        "title": "המסורת",
+        "category": "Theology & Traditions",
+        "description": "המסורת, במסגרת Wheel of Heaven, היא המכלול המצטבר של מסירת האלוהים שנשתמר דרך הדת, אסכולות אזוטריות וכתבים פילוסופיים מסוימים — הנבדל מכל מסורת כיתתית מסוימת."
+      }
+    ],
+    "he/wiki/hebrew-bible": [
+      {
+        "path": "/he/wiki/genesis/",
+        "title": "בראשית",
+        "category": "Texts & Sources",
+        "description": "בראשית (בְּרֵאשִׁית) הוא הספר הראשון של התורה והמקרא, ובו סיפורי הבריאה, גן עדן, המבול והאבות. במסגרת Wheel of Heaven הוא טקסט המקור הראשון במעלה שיש לקרוא מחדש"
+      },
+      {
+        "path": "/he/wiki/hekhalot-literature/",
+        "title": "ספרות ההיכלות",
+        "category": "Texts & Sources",
+        "description": "ספרות ההיכלות (עברית הֵיכָלוֹת, 'היכלות') היא גוף הכתבים המיסטיים היהודיים משלהי העת העתיקה, המתארים את עליית הנשמה דרך שבעה היכלות שמימיים אל מרכבת הכיסא האלוה"
+      },
+      {
+        "path": "/he/wiki/kabbalah/",
+        "title": "קבלה",
+        "category": "Texts & Sources",
+        "description": "קבלה היא מסורת המיסטיקה היהודית שהתפתחה מימי הביניים ואילך, סביב קריאה אזוטרית של התורה. במסגרת Wheel of Heaven נדונים תרומתה ומגבלותיה כאחד הצינורות שדרכם השתמ"
+      },
+      {
+        "path": "/he/wiki/shiur-qomah/",
+        "title": "שיעור קומה",
+        "category": "Texts & Sources",
+        "description": "שיעור קומה (עברית שִׁעוּר קוֹמָה, 'מידת הקומה') הוא חיבור מספרות ההיכלות / המרכבה הקדם-קבלית, שבו המלאך Metatron מכתיב את ממדיו הקוסמיים של הגוף האלוהי, אבר אחר"
+      }
+    ],
+    "he/wiki/hekhalot-literature": [
+      {
+        "path": "/he/wiki/genesis/",
+        "title": "בראשית",
+        "category": "Texts & Sources",
+        "description": "בראשית (בְּרֵאשִׁית) הוא הספר הראשון של התורה והמקרא, ובו סיפורי הבריאה, גן עדן, המבול והאבות. במסגרת Wheel of Heaven הוא טקסט המקור הראשון במעלה שיש לקרוא מחדש"
+      },
+      {
+        "path": "/he/wiki/hebrew-bible/",
+        "title": "המקרא העברי",
+        "category": "Texts & Sources",
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+      },
+      {
+        "path": "/he/wiki/kabbalah/",
+        "title": "קבלה",
+        "category": "Texts & Sources",
+        "description": "קבלה היא מסורת המיסטיקה היהודית שהתפתחה מימי הביניים ואילך, סביב קריאה אזוטרית של התורה. במסגרת Wheel of Heaven נדונים תרומתה ומגבלותיה כאחד הצינורות שדרכם השתמ"
+      },
+      {
+        "path": "/he/wiki/shiur-qomah/",
+        "title": "שיעור קומה",
+        "category": "Texts & Sources",
+        "description": "שיעור קומה (עברית שִׁעוּר קוֹמָה, 'מידת הקומה') הוא חיבור מספרות ההיכלות / המרכבה הקדם-קבלית, שבו המלאך Metatron מכתיב את ממדיו הקוסמיים של הגוף האלוהי, אבר אחר"
+      }
+    ],
+    "he/wiki/humanitarianism": [
+      {
+        "path": "/he/wiki/geniocracy/",
+        "title": "גניוקרטיה",
+        "category": "Raëlism",
+        "description": "גניוקרטיה היא בקורפוס הראליאני שיטת ממשל הבוחרת מנהיגים על בסיס יכולת קוגניטיבית נמדדת. קורפוס Wheel of Heaven מזכיר אותה כאחד המבנים המוסדיים שמציעה תנועת ראל."
+      },
+      {
+        "path": "/he/wiki/new-commandments/",
+        "title": "המצוות החדשות",
+        "category": "Raëlism",
+        "description": "המצוות החדשות, במסגרת הקורפוס הראליאני, הן מכלול המצוות האתיות והפוליטיות המחודשות שהעביר יהוה באמצעות ראל אל האנושות בת-זמננו. קורפוס Wheel of Heaven ממקם אותן"
+      },
+      {
+        "path": "/he/wiki/paradism/",
+        "title": "פרדיזם",
+        "category": "Raëlism",
+        "description": "פרדיזם הוא בקורפוס הראליאני מיזם חברתי־כלכלי של חברת שפע אוטומטית ללא כסף וללא עבודת כפייה. קורפוס Wheel of Heaven קורא בו את האופק המדיני של שלב ההכנה לשיבה הג"
+      },
+      {
+        "path": "/he/wiki/rael/",
+        "title": "ראל",
+        "category": "Raëlism",
+        "description": "ראל (קלוד וורילון, יליד 1946) הוא מייסד התנועה הראליאנית, המדווח כי קיבל מסירה ישירה מן האלוהים בשנים 1973 ו-1975. במסגרת Wheel of Heaven הוא נקרא כנביא האחרון "
+      }
+    ],
+    "he/wiki/infinity": [
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      },
+      {
+        "path": "/he/wiki/doubled-signature/",
+        "title": "החתימה הכפולה",
+        "category": "Cosmology & Framework",
+        "description": "החתימה הכפולה היא עיקרון פרשני שמקורו ב«טחנת האמלט», המיושם באופן שיטתי בקורפוס Wheel of Heaven: כל עידן מזלי מקודד את חתימתו האסטרונומית בצמד מזלות מנוגדים — ה"
+      }
+    ],
+    "he/wiki/intelligent-design": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/jesus": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/lucifer/",
+        "title": "לוציפר",
+        "category": "Biblical Figures",
+        "description": "לוציפר (לטינית: lūcifer, »מביא האור«; עברית: הֵילֵל בֶּן־שַׁחַר, »כוכב היום, בן השחר«) הוא הדמות הנקראת במסורת התיאולוגית הנוצרית כמנהיג המלאכים שנפלו מן השמיים"
+      }
+    ],
+    "he/wiki/kabbalah": [
+      {
+        "path": "/he/wiki/genesis/",
+        "title": "בראשית",
+        "category": "Texts & Sources",
+        "description": "בראשית (בְּרֵאשִׁית) הוא הספר הראשון של התורה והמקרא, ובו סיפורי הבריאה, גן עדן, המבול והאבות. במסגרת Wheel of Heaven הוא טקסט המקור הראשון במעלה שיש לקרוא מחדש"
+      },
+      {
+        "path": "/he/wiki/hebrew-bible/",
+        "title": "המקרא העברי",
+        "category": "Texts & Sources",
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+      },
+      {
+        "path": "/he/wiki/hekhalot-literature/",
+        "title": "ספרות ההיכלות",
+        "category": "Texts & Sources",
+        "description": "ספרות ההיכלות (עברית הֵיכָלוֹת, 'היכלות') היא גוף הכתבים המיסטיים היהודיים משלהי העת העתיקה, המתארים את עליית הנשמה דרך שבעה היכלות שמימיים אל מרכבת הכיסא האלוה"
+      },
+      {
+        "path": "/he/wiki/shiur-qomah/",
+        "title": "שיעור קומה",
+        "category": "Texts & Sources",
+        "description": "שיעור קומה (עברית שִׁעוּר קוֹמָה, 'מידת הקומה') הוא חיבור מספרות ההיכלות / המרכבה הקדם-קבלית, שבו המלאך Metatron מכתיב את ממדיו הקוסמיים של הגוף האלוהי, אבר אחר"
+      }
+    ],
+    "he/wiki/leviathan": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/forerunners/",
+        "title": "מבשרים",
+        "category": "Symbolism & Motifs",
+        "description": "המבשרים, בקורפוס Wheel of Heaven, הם שושלת בני האדם או הנביאים המכינה את נקודות המפנה הגדולות בתולדות האלוהים על פני כדור הארץ — דמויות המשמשות כמתווכות בין המס"
+      }
+    ],
+    "he/wiki/life-engineering": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/list-of-close-encounters": [
+      {
+        "path": "/he/wiki/list-of-megalithic-sites/",
+        "title": "רשימת אתרים מגליתיים",
+        "category": "Reference Lists",
+        "description": "רשימת אתרים מגליתיים שקורפוס Wheel of Heaven מתעניין בהם בשל דיוקם האסטרונומי, קדמותם, או הישנותם במסורות המסירה שלאחר האסון הגדול."
+      },
+      {
+        "path": "/he/wiki/list-of-prophets-and-religions/",
+        "title": "רשימת הנביאים והדתות",
+        "category": "Reference Lists",
+        "description": "רשימה של דמויות נביאים ומסורות דתיות שמסגרת Wheel of Heaven קוראת כאבני-דרך של מסירת האלוהים לאורך עידני הנקיפה."
+      },
+      {
+        "path": "/he/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "רשימת מיתמות ומוטיבים מיתולוגיים",
+        "category": "Reference Lists",
+        "description": "רשימת מיתמות ומוטיבים מיתולוגיים החוזרים ונשנים במסורות שונות ברחבי העולם. במסגרת Wheel of Heaven הם נשמרים כאינדיקציה למקור היסטורי-אירועי משותף."
+      },
+      {
+        "path": "/he/wiki/list-of-etymological-readings/",
+        "title": "רשימת קריאות אטימולוגיות",
+        "category": "Reference Lists",
+        "description": "רשימת קריאות אטימולוגיות של מונחי המפתח בקורפוס Wheel of Heaven — בעיקר עבריים ויווניים — המשלבת את התרגום המקובל, את השורש הפילולוגי ואת הפרשנות של האלוהים."
+      }
+    ],
+    "he/wiki/list-of-etymological-readings": [
+      {
+        "path": "/he/wiki/list-of-megalithic-sites/",
+        "title": "רשימת אתרים מגליתיים",
+        "category": "Reference Lists",
+        "description": "רשימת אתרים מגליתיים שקורפוס Wheel of Heaven מתעניין בהם בשל דיוקם האסטרונומי, קדמותם, או הישנותם במסורות המסירה שלאחר האסון הגדול."
+      },
+      {
+        "path": "/he/wiki/list-of-prophets-and-religions/",
+        "title": "רשימת הנביאים והדתות",
+        "category": "Reference Lists",
+        "description": "רשימה של דמויות נביאים ומסורות דתיות שמסגרת Wheel of Heaven קוראת כאבני-דרך של מסירת האלוהים לאורך עידני הנקיפה."
+      },
+      {
+        "path": "/he/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "רשימת מיתמות ומוטיבים מיתולוגיים",
+        "category": "Reference Lists",
+        "description": "רשימת מיתמות ומוטיבים מיתולוגיים החוזרים ונשנים במסורות שונות ברחבי העולם. במסגרת Wheel of Heaven הם נשמרים כאינדיקציה למקור היסטורי-אירועי משותף."
+      },
+      {
+        "path": "/he/wiki/list-of-close-encounters/",
+        "title": "רשימת מפגשים קרובים",
+        "category": "Reference Lists",
+        "description": "רשימה מרוכזת של מפגשים קרובים מתועדים בין בני האדם ובין ישויות המשוערות כאלוהים, ממוינת לפי סוג ותקופה היסטורית, עבור קורפוס Wheel of Heaven."
+      }
+    ],
+    "he/wiki/list-of-exegetic-readings": [
+      {
+        "path": "/he/wiki/list-of-megalithic-sites/",
+        "title": "רשימת אתרים מגליתיים",
+        "category": "Reference Lists",
+        "description": "רשימת אתרים מגליתיים שקורפוס Wheel of Heaven מתעניין בהם בשל דיוקם האסטרונומי, קדמותם, או הישנותם במסורות המסירה שלאחר האסון הגדול."
+      },
+      {
+        "path": "/he/wiki/list-of-prophets-and-religions/",
+        "title": "רשימת הנביאים והדתות",
+        "category": "Reference Lists",
+        "description": "רשימה של דמויות נביאים ומסורות דתיות שמסגרת Wheel of Heaven קוראת כאבני-דרך של מסירת האלוהים לאורך עידני הנקיפה."
+      },
+      {
+        "path": "/he/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "רשימת מיתמות ומוטיבים מיתולוגיים",
+        "category": "Reference Lists",
+        "description": "רשימת מיתמות ומוטיבים מיתולוגיים החוזרים ונשנים במסורות שונות ברחבי העולם. במסגרת Wheel of Heaven הם נשמרים כאינדיקציה למקור היסטורי-אירועי משותף."
+      },
+      {
+        "path": "/he/wiki/list-of-close-encounters/",
+        "title": "רשימת מפגשים קרובים",
+        "category": "Reference Lists",
+        "description": "רשימה מרוכזת של מפגשים קרובים מתועדים בין בני האדם ובין ישויות המשוערות כאלוהים, ממוינת לפי סוג ותקופה היסטורית, עבור קורפוס Wheel of Heaven."
+      }
+    ],
+    "he/wiki/list-of-megalithic-sites": [
+      {
+        "path": "/he/wiki/list-of-prophets-and-religions/",
+        "title": "רשימת הנביאים והדתות",
+        "category": "Reference Lists",
+        "description": "רשימה של דמויות נביאים ומסורות דתיות שמסגרת Wheel of Heaven קוראת כאבני-דרך של מסירת האלוהים לאורך עידני הנקיפה."
+      },
+      {
+        "path": "/he/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "רשימת מיתמות ומוטיבים מיתולוגיים",
+        "category": "Reference Lists",
+        "description": "רשימת מיתמות ומוטיבים מיתולוגיים החוזרים ונשנים במסורות שונות ברחבי העולם. במסגרת Wheel of Heaven הם נשמרים כאינדיקציה למקור היסטורי-אירועי משותף."
+      },
+      {
+        "path": "/he/wiki/list-of-close-encounters/",
+        "title": "רשימת מפגשים קרובים",
+        "category": "Reference Lists",
+        "description": "רשימה מרוכזת של מפגשים קרובים מתועדים בין בני האדם ובין ישויות המשוערות כאלוהים, ממוינת לפי סוג ותקופה היסטורית, עבור קורפוס Wheel of Heaven."
+      },
+      {
+        "path": "/he/wiki/list-of-etymological-readings/",
+        "title": "רשימת קריאות אטימולוגיות",
+        "category": "Reference Lists",
+        "description": "רשימת קריאות אטימולוגיות של מונחי המפתח בקורפוס Wheel of Heaven — בעיקר עבריים ויווניים — המשלבת את התרגום המקובל, את השורש הפילולוגי ואת הפרשנות של האלוהים."
+      }
+    ],
+    "he/wiki/list-of-mythemes-and-mythological-motifs": [
+      {
+        "path": "/he/wiki/list-of-megalithic-sites/",
+        "title": "רשימת אתרים מגליתיים",
+        "category": "Reference Lists",
+        "description": "רשימת אתרים מגליתיים שקורפוס Wheel of Heaven מתעניין בהם בשל דיוקם האסטרונומי, קדמותם, או הישנותם במסורות המסירה שלאחר האסון הגדול."
+      },
+      {
+        "path": "/he/wiki/list-of-prophets-and-religions/",
+        "title": "רשימת הנביאים והדתות",
+        "category": "Reference Lists",
+        "description": "רשימה של דמויות נביאים ומסורות דתיות שמסגרת Wheel of Heaven קוראת כאבני-דרך של מסירת האלוהים לאורך עידני הנקיפה."
+      },
+      {
+        "path": "/he/wiki/list-of-close-encounters/",
+        "title": "רשימת מפגשים קרובים",
+        "category": "Reference Lists",
+        "description": "רשימה מרוכזת של מפגשים קרובים מתועדים בין בני האדם ובין ישויות המשוערות כאלוהים, ממוינת לפי סוג ותקופה היסטורית, עבור קורפוס Wheel of Heaven."
+      },
+      {
+        "path": "/he/wiki/list-of-etymological-readings/",
+        "title": "רשימת קריאות אטימולוגיות",
+        "category": "Reference Lists",
+        "description": "רשימת קריאות אטימולוגיות של מונחי המפתח בקורפוס Wheel of Heaven — בעיקר עבריים ויווניים — המשלבת את התרגום המקובל, את השורש הפילולוגי ואת הפרשנות של האלוהים."
+      }
+    ],
+    "he/wiki/list-of-prophets-and-religions": [
+      {
+        "path": "/he/wiki/list-of-megalithic-sites/",
+        "title": "רשימת אתרים מגליתיים",
+        "category": "Reference Lists",
+        "description": "רשימת אתרים מגליתיים שקורפוס Wheel of Heaven מתעניין בהם בשל דיוקם האסטרונומי, קדמותם, או הישנותם במסורות המסירה שלאחר האסון הגדול."
+      },
+      {
+        "path": "/he/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "רשימת מיתמות ומוטיבים מיתולוגיים",
+        "category": "Reference Lists",
+        "description": "רשימת מיתמות ומוטיבים מיתולוגיים החוזרים ונשנים במסורות שונות ברחבי העולם. במסגרת Wheel of Heaven הם נשמרים כאינדיקציה למקור היסטורי-אירועי משותף."
+      },
+      {
+        "path": "/he/wiki/list-of-close-encounters/",
+        "title": "רשימת מפגשים קרובים",
+        "category": "Reference Lists",
+        "description": "רשימה מרוכזת של מפגשים קרובים מתועדים בין בני האדם ובין ישויות המשוערות כאלוהים, ממוינת לפי סוג ותקופה היסטורית, עבור קורפוס Wheel of Heaven."
+      },
+      {
+        "path": "/he/wiki/list-of-etymological-readings/",
+        "title": "רשימת קריאות אטימולוגיות",
+        "category": "Reference Lists",
+        "description": "רשימת קריאות אטימולוגיות של מונחי המפתח בקורפוס Wheel of Heaven — בעיקר עבריים ויווניים — המשלבת את התרגום המקובל, את השורש הפילולוגי ואת הפרשנות של האלוהים."
+      }
+    ],
+    "he/wiki/living-earth": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/lucifer": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      }
+    ],
+    "he/wiki/mass-effect": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      },
+      {
+        "path": "/he/wiki/doubled-signature/",
+        "title": "החתימה הכפולה",
+        "category": "Cosmology & Framework",
+        "description": "החתימה הכפולה היא עיקרון פרשני שמקורו ב«טחנת האמלט», המיושם באופן שיטתי בקורפוס Wheel of Heaven: כל עידן מזלי מקודד את חתימתו האסטרונומית בצמד מזלות מנוגדים — ה"
+      }
+    ],
+    "he/wiki/menorah": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/military-cover-up-of-exobiology": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/ufology/",
+        "title": "אופולוגיה",
+        "category": "Ufology",
+        "description": "אופולוגיה היא חקר העצמים המעופפים הבלתי מזוהים ותופעות המפגש הקשורות בהם. במסגרת Wheel of Heaven נדון ערכם התיעודי, תוך הבחנה בין מקרים שמישים למקרים חסרי הכרעה"
+      },
+      {
+        "path": "/he/wiki/us-space-force/",
+        "title": "חיל החלל האמריקאי",
+        "category": "Ufology",
+        "description": "חיל החלל של ארצות הברית הוא זרוע החלל של הצבא האמריקני מאז 2019. במסגרת Wheel of Heaven הוא מוזכר כמדד מוסדי של הצבאת החלל בת-זמננו, בהקשר של ההסתרה הצבאית של ה"
+      },
+      {
+        "path": "/he/wiki/crop-circles/",
+        "title": "מעגלי תבואה",
+        "category": "Ufology",
+        "description": "מעגלי תבואה, או תצורות תבואה, הם דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים (בעיקר חיטה, שעורה, לפתית, שיפון, תירס, פשתן וסויה) לעיצובים גיאומ"
+      }
+    ],
+    "he/wiki/moses": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      }
+    ],
+    "he/wiki/muhammad": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      }
+    ],
+    "he/wiki/mytheme": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/nabataeans": [
+      {
+        "path": "/he/wiki/ancient-builders/",
+        "title": "בונים קדומים",
+        "category": "Peoples & Groups",
+        "description": "»בונים קדומים« הוא, בשימוש פופולרי ובארכיאולוגיה חלופית, ההצעה שאחת או יותר ציוויליזציות אבודות או לא-ידועות היו אחראיות לבניית רבים מהמונומנטים הקדומים העיקריי"
+      },
+      {
+        "path": "/he/wiki/adamites/",
+        "title": "האדמיים",
+        "category": "Peoples & Groups",
+        "description": "האדמיים הם שושלת בני האדם הראשונה שסונתזה במלואה בידי האלוהים — צאצאיהם הישירים של אדם וחוה מגן-המעבדה; במסגרת Wheel of Heaven המונח מבחין אותה מענפים קדם-אנושי"
+      },
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה — המתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודש"
+      }
+    ],
+    "he/wiki/neo-euhemerism": [
+      {
+        "path": "/he/wiki/archaeoastronomy/",
+        "title": "ארכיאואסטרונומיה",
+        "category": "Methodology",
+        "description": "ארכיאואסטרונומיה חוקרת את הידע והמנהגים האסטרונומיים החקוקים במונומנטים, במיתוסים ובלוחות השנה של חברות קדומות; במסגרת Wheel of Heaven היא מתחומי היסוד לזיהוי ה"
+      },
+      {
+        "path": "/he/wiki/ancient-astronaut-hypothesis/",
+        "title": "השערת האסטרונאוטים הקדמונים",
+        "category": "Methodology",
+        "description": "השערת האסטרונאוטים הקדמונים גורסת שתבונה לא-ארצית ביקרה בכדור הארץ בעת הפרהיסטורית והעתיקה והותירה חותם מכריע על התפתחות האנושות. קורפוס Wheel of Heaven הוא גרס"
+      },
+      {
+        "path": "/he/wiki/comparative-mythology/",
+        "title": "מיתולוגיה השוואתית",
+        "category": "Methodology",
+        "description": "מיתולוגיה השוואתית חוקרת באופן שיטתי את ההתאמות המבניות שבין מיתוסים של תרבויות שונות. במסגרת Wheel of Heaven היא כלי מרכזי לזיהוי אירועים היסטוריים שהועברו ממק"
+      },
+      {
+        "path": "/he/wiki/biglino-method/",
+        "title": "שיטת ביגלינו",
+        "category": "Methodology",
+        "description": "שיטת ביגלינו, על שם המתרגם האיטלקי מאורו ביגלינו, מבקשת לשחזר את הממד המילולי והטכני של המקרא העברי מתוך הסרת ההנחות התאולוגיות שהצטברו עליו; Wheel of Heaven מא"
+      }
+    ],
+    "he/wiki/new-commandments": [
+      {
+        "path": "/he/wiki/geniocracy/",
+        "title": "גניוקרטיה",
+        "category": "Raëlism",
+        "description": "גניוקרטיה היא בקורפוס הראליאני שיטת ממשל הבוחרת מנהיגים על בסיס יכולת קוגניטיבית נמדדת. קורפוס Wheel of Heaven מזכיר אותה כאחד המבנים המוסדיים שמציעה תנועת ראל."
+      },
+      {
+        "path": "/he/wiki/humanitarianism/",
+        "title": "הומניטריזם",
+        "category": "Raëlism",
+        "description": "הומניטריזם, במסגרת הקורפוס הראליאני, מציין את מכלול העקרונות האתיים האוניברסליים — זכויות אדם, מיגור העוני וכבוד לחיים — המהווים את הכנת האנושות למגע פומבי עם ה"
+      },
+      {
+        "path": "/he/wiki/paradism/",
+        "title": "פרדיזם",
+        "category": "Raëlism",
+        "description": "פרדיזם הוא בקורפוס הראליאני מיזם חברתי־כלכלי של חברת שפע אוטומטית ללא כסף וללא עבודת כפייה. קורפוס Wheel of Heaven קורא בו את האופק המדיני של שלב ההכנה לשיבה הג"
+      },
+      {
+        "path": "/he/wiki/rael/",
+        "title": "ראל",
+        "category": "Raëlism",
+        "description": "ראל (קלוד וורילון, יליד 1946) הוא מייסד התנועה הראליאנית, המדווח כי קיבל מסירה ישירה מן האלוהים בשנים 1973 ו-1975. במסגרת Wheel of Heaven הוא נקרא כנביא האחרון "
+      }
+    ],
+    "he/wiki/new-jerusalem": [
+      {
+        "path": "/he/wiki/third-temple/",
+        "title": "בית המקדש השלישי",
+        "category": "Places & Locations",
+        "description": "בית המקדש השלישי הוא באסכטולוגיה היהודית המקדש שעתיד להיבנות מחדש בירושלים באחרית הימים. בקורפוס Wheel of Heaven הוא נקרא כהיטל סמלי של השגרירות — תשתית ההיערכו"
+      },
+      {
+        "path": "/he/wiki/eden/",
+        "title": "עדן",
+        "category": "Places & Locations",
+        "description": "עדן (עברית: עֵדֶן, ʿĒden) הוא האזור הנקרא במקרא העברי כמיקום הגן בו נבראו האנשים הראשונים וחיו לפני גירושם. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על י"
+      },
+      {
+        "path": "/he/wiki/petra/",
+        "title": "פטרה",
+        "category": "Places & Locations",
+        "description": "פטרה (יוונית Πέτρα 'סלע'; ארמית נבטית רקמו Raqmū; עברית רֶקֶם Reqem; ערבית ٱلْبَتْرَاء al-Batrāʾ) היא הבירה החצובה בסלע של ממלכת הנבטים בדרום ירדן של ימינו, והמ"
+      },
+      {
+        "path": "/he/wiki/pangaea/",
+        "title": "פנגיאה",
+        "category": "Places & Locations",
+        "description": "פנגיאה היא יבשת-העל האחת שתורת הלוחות הטקטוניים משחזרת לשלהי הפלאוזואיקון. במסגרת Wheel of Heaven היא תצורת הייחוס הגאולוגית של השלב המוקדם בסינתזת החיים בכדור "
+      }
+    ],
+    "he/wiki/noah": [
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      },
+      {
+        "path": "/he/wiki/elijah/",
+        "title": "אליהו",
+        "category": "Biblical Figures",
+        "description": "אליהו (עברית: אֵלִיָּהוּ) הוא נביא מקראי שהועלה השמימה במרכבת אש, ודמותו חוצה את היהדות, הנצרות והאסלאם. בקורפוס Wheel of Heaven עלייתו נקראת כמקרה מובהק של הרמ"
+      },
+      {
+        "path": "/he/wiki/jesus/",
+        "title": "ישוע",
+        "category": "Biblical Figures",
+        "description": "ישוע (עברית: יֵשׁוּעַ) הוא דמות המפתח של הנצרות ונביא משיחי יהודי. בקורפוס Wheel of Heaven הוא נקרא כאחד הנביאים שהאלוהים שלחו בהתאמה לעידנו, בתוך רצף שושלת הנב"
+      }
+    ],
+    "he/wiki/noahic-covenant": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/great-flood/",
+        "title": "המבול",
+        "category": "Events & Narratives",
+        "description": "המבול (בעברית: הַמַּבּוּל, ha-mabbul) הוא האירוע הגלובלי הקטסטרופלי המתועד בבראשית פרקים ו'-ט' וביותר ממאתיים מסורות תרבותיות מקבילות, שבו הושמדה התרבות האנושית"
+      }
+    ],
+    "he/wiki/noahs-ark": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/number-of-man": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/pangaea": [
+      {
+        "path": "/he/wiki/third-temple/",
+        "title": "בית המקדש השלישי",
+        "category": "Places & Locations",
+        "description": "בית המקדש השלישי הוא באסכטולוגיה היהודית המקדש שעתיד להיבנות מחדש בירושלים באחרית הימים. בקורפוס Wheel of Heaven הוא נקרא כהיטל סמלי של השגרירות — תשתית ההיערכו"
+      },
+      {
+        "path": "/he/wiki/new-jerusalem/",
+        "title": "ירושלים החדשה",
+        "category": "Places & Locations",
+        "description": "ירושלים החדשה היא באפוקליפטיקה המקראית העיר המחודשת היורדת מן השמים באחרית הימים. בקורפוס Wheel of Heaven היא נקראת כהיטל סמלי של השגרירות והשיבה הגדולה — תשתית"
+      },
+      {
+        "path": "/he/wiki/eden/",
+        "title": "עדן",
+        "category": "Places & Locations",
+        "description": "עדן (עברית: עֵדֶן, ʿĒden) הוא האזור הנקרא במקרא העברי כמיקום הגן בו נבראו האנשים הראשונים וחיו לפני גירושם. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על י"
+      },
+      {
+        "path": "/he/wiki/petra/",
+        "title": "פטרה",
+        "category": "Places & Locations",
+        "description": "פטרה (יוונית Πέτρα 'סלע'; ארמית נבטית רקמו Raqmū; עברית רֶקֶם Reqem; ערבית ٱلْبَتْرَاء al-Batrāʾ) היא הבירה החצובה בסלע של ממלכת הנבטים בדרום ירדן של ימינו, והמ"
+      }
+    ],
+    "he/wiki/pantropy": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/paradism": [
+      {
+        "path": "/he/wiki/geniocracy/",
+        "title": "גניוקרטיה",
+        "category": "Raëlism",
+        "description": "גניוקרטיה היא בקורפוס הראליאני שיטת ממשל הבוחרת מנהיגים על בסיס יכולת קוגניטיבית נמדדת. קורפוס Wheel of Heaven מזכיר אותה כאחד המבנים המוסדיים שמציעה תנועת ראל."
+      },
+      {
+        "path": "/he/wiki/humanitarianism/",
+        "title": "הומניטריזם",
+        "category": "Raëlism",
+        "description": "הומניטריזם, במסגרת הקורפוס הראליאני, מציין את מכלול העקרונות האתיים האוניברסליים — זכויות אדם, מיגור העוני וכבוד לחיים — המהווים את הכנת האנושות למגע פומבי עם ה"
+      },
+      {
+        "path": "/he/wiki/new-commandments/",
+        "title": "המצוות החדשות",
+        "category": "Raëlism",
+        "description": "המצוות החדשות, במסגרת הקורפוס הראליאני, הן מכלול המצוות האתיות והפוליטיות המחודשות שהעביר יהוה באמצעות ראל אל האנושות בת-זמננו. קורפוס Wheel of Heaven ממקם אותן"
+      },
+      {
+        "path": "/he/wiki/rael/",
+        "title": "ראל",
+        "category": "Raëlism",
+        "description": "ראל (קלוד וורילון, יליד 1946) הוא מייסד התנועה הראליאנית, המדווח כי קיבל מסירה ישירה מן האלוהים בשנים 1973 ו-1975. במסגרת Wheel of Heaven הוא נקרא כנביא האחרון "
+      }
+    ],
+    "he/wiki/petra": [
+      {
+        "path": "/he/wiki/third-temple/",
+        "title": "בית המקדש השלישי",
+        "category": "Places & Locations",
+        "description": "בית המקדש השלישי הוא באסכטולוגיה היהודית המקדש שעתיד להיבנות מחדש בירושלים באחרית הימים. בקורפוס Wheel of Heaven הוא נקרא כהיטל סמלי של השגרירות — תשתית ההיערכו"
+      },
+      {
+        "path": "/he/wiki/new-jerusalem/",
+        "title": "ירושלים החדשה",
+        "category": "Places & Locations",
+        "description": "ירושלים החדשה היא באפוקליפטיקה המקראית העיר המחודשת היורדת מן השמים באחרית הימים. בקורפוס Wheel of Heaven היא נקראת כהיטל סמלי של השגרירות והשיבה הגדולה — תשתית"
+      },
+      {
+        "path": "/he/wiki/eden/",
+        "title": "עדן",
+        "category": "Places & Locations",
+        "description": "עדן (עברית: עֵדֶן, ʿĒden) הוא האזור הנקרא במקרא העברי כמיקום הגן בו נבראו האנשים הראשונים וחיו לפני גירושם. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על י"
+      },
+      {
+        "path": "/he/wiki/pangaea/",
+        "title": "פנגיאה",
+        "category": "Places & Locations",
+        "description": "פנגיאה היא יבשת-העל האחת שתורת הלוחות הטקטוניים משחזרת לשלהי הפלאוזואיקון. במסגרת Wheel of Heaven היא תצורת הייחוס הגאולוגית של השלב המוקדם בסינתזת החיים בכדור "
+      }
+    ],
+    "he/wiki/plurality-of-gods": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/precession": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      }
+    ],
+    "he/wiki/prophet": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה — המתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודש"
+      },
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      }
+    ],
+    "he/wiki/pursue": [
+      {
+        "path": "/he/wiki/ufology/",
+        "title": "אופולוגיה",
+        "category": "Ufology",
+        "description": "אופולוגיה היא חקר העצמים המעופפים הבלתי מזוהים ותופעות המפגש הקשורות בהם. במסגרת Wheel of Heaven נדון ערכם התיעודי, תוך הבחנה בין מקרים שמישים למקרים חסרי הכרעה"
+      },
+      {
+        "path": "/he/wiki/military-cover-up-of-exobiology/",
+        "title": "הטיוח הצבאי של אקסוביולוגיה",
+        "category": "Ufology",
+        "description": "הטיוח הצבאי של אקסוביולוגיה מציין את מכלול המנגנונים הממלכתיים, בעיקר אמריקניים, המסווגים מידע על נוכחות ישויות לא-אנושיות על פני כדור הארץ; במסגרת Wheel of Hea"
+      },
+      {
+        "path": "/he/wiki/us-space-force/",
+        "title": "חיל החלל האמריקאי",
+        "category": "Ufology",
+        "description": "חיל החלל של ארצות הברית הוא זרוע החלל של הצבא האמריקני מאז 2019. במסגרת Wheel of Heaven הוא מוזכר כמדד מוסדי של הצבאת החלל בת-זמננו, בהקשר של ההסתרה הצבאית של ה"
+      },
+      {
+        "path": "/he/wiki/crop-circles/",
+        "title": "מעגלי תבואה",
+        "category": "Ufology",
+        "description": "מעגלי תבואה, או תצורות תבואה, הם דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים (בעיקר חיטה, שעורה, לפתית, שיפון, תירס, פשתן וסויה) לעיצובים גיאומ"
+      }
+    ],
+    "he/wiki/rael": [
+      {
+        "path": "/he/wiki/geniocracy/",
+        "title": "גניוקרטיה",
+        "category": "Raëlism",
+        "description": "גניוקרטיה היא בקורפוס הראליאני שיטת ממשל הבוחרת מנהיגים על בסיס יכולת קוגניטיבית נמדדת. קורפוס Wheel of Heaven מזכיר אותה כאחד המבנים המוסדיים שמציעה תנועת ראל."
+      },
+      {
+        "path": "/he/wiki/humanitarianism/",
+        "title": "הומניטריזם",
+        "category": "Raëlism",
+        "description": "הומניטריזם, במסגרת הקורפוס הראליאני, מציין את מכלול העקרונות האתיים האוניברסליים — זכויות אדם, מיגור העוני וכבוד לחיים — המהווים את הכנת האנושות למגע פומבי עם ה"
+      },
+      {
+        "path": "/he/wiki/new-commandments/",
+        "title": "המצוות החדשות",
+        "category": "Raëlism",
+        "description": "המצוות החדשות, במסגרת הקורפוס הראליאני, הן מכלול המצוות האתיות והפוליטיות המחודשות שהעביר יהוה באמצעות ראל אל האנושות בת-זמננו. קורפוס Wheel of Heaven ממקם אותן"
+      },
+      {
+        "path": "/he/wiki/paradism/",
+        "title": "פרדיזם",
+        "category": "Raëlism",
+        "description": "פרדיזם הוא בקורפוס הראליאני מיזם חברתי־כלכלי של חברת שפע אוטומטית ללא כסף וללא עבודת כפייה. קורפוס Wheel of Heaven קורא בו את האופק המדיני של שלב ההכנה לשיבה הג"
+      }
+    ],
+    "he/wiki/raelian-symbol-of-infinity": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/raelism": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/reference-corpus-of-the-raelian-canon": [
+      {
+        "path": "/he/wiki/religion/",
+        "title": "דת",
+        "category": "Theology & Traditions",
+        "description": "הדת נקראת, במסגרת Wheel of Heaven, כמנגנון לשימור ארוך-טווח של זיכרון האלוהים ובה בעת כשכבות עיוות שהצטברו במסירה. הפרויקט דן בתפקידה הארכיוני אך אינו מזהה עצמו"
+      },
+      {
+        "path": "/he/wiki/the-truth/",
+        "title": "האמת",
+        "category": "Theology & Traditions",
+        "description": "האמת מציינת, בחומר המקור הראליאני ובקורפוס Wheel of Heaven, את גוף המידע הקוהרנטי שהועבר מן האלוהים דרך שושלת הנביאים — בניגוד לשכבות העיוות שהצטברו במוסדות הדת"
+      },
+      {
+        "path": "/he/wiki/bible/",
+        "title": "הביבליה",
+        "category": "Theology & Traditions",
+        "description": "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
+      },
+      {
+        "path": "/he/wiki/the-tradition/",
+        "title": "המסורת",
+        "category": "Theology & Traditions",
+        "description": "המסורת, במסגרת Wheel of Heaven, היא המכלול המצטבר של מסירת האלוהים שנשתמר דרך הדת, אסכולות אזוטריות וכתבים פילוסופיים מסוימים — הנבדל מכל מסורת כיתתית מסוימת."
+      }
+    ],
+    "he/wiki/religion": [
+      {
+        "path": "/he/wiki/the-truth/",
+        "title": "האמת",
+        "category": "Theology & Traditions",
+        "description": "האמת מציינת, בחומר המקור הראליאני ובקורפוס Wheel of Heaven, את גוף המידע הקוהרנטי שהועבר מן האלוהים דרך שושלת הנביאים — בניגוד לשכבות העיוות שהצטברו במוסדות הדת"
+      },
+      {
+        "path": "/he/wiki/bible/",
+        "title": "הביבליה",
+        "category": "Theology & Traditions",
+        "description": "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
+      },
+      {
+        "path": "/he/wiki/the-tradition/",
+        "title": "המסורת",
+        "category": "Theology & Traditions",
+        "description": "המסורת, במסגרת Wheel of Heaven, היא המכלול המצטבר של מסירת האלוהים שנשתמר דרך הדת, אסכולות אזוטריות וכתבים פילוסופיים מסוימים — הנבדל מכל מסורת כיתתית מסוימת."
+      },
+      {
+        "path": "/he/wiki/hanafiyya/",
+        "title": "חניפיה",
+        "category": "Theology & Traditions",
+        "description": "חניפיה (ערבית ٱلْحَنِيفِيَّة al-Ḥanīfiyyah, מן حَنِيف ḥanīf, »מי שנוטה הרחק מעבודת אלילים אל עבר הפולחן הקדמוני הישר«) הוא המונח הקוראני והאסלאמי-מוקדם למונותאי"
+      }
+    ],
+    "he/wiki/sacred-geometry": [
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      },
+      {
+        "path": "/he/wiki/forerunners/",
+        "title": "מבשרים",
+        "category": "Symbolism & Motifs",
+        "description": "המבשרים, בקורפוס Wheel of Heaven, הם שושלת בני האדם או הנביאים המכינה את נקודות המפנה הגדולות בתולדות האלוהים על פני כדור הארץ — דמויות המשמשות כמתווכות בין המס"
+      }
+    ],
+    "he/wiki/samsara": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      }
+    ],
+    "he/wiki/satan": [
+      {
+        "path": "/he/wiki/elohim/",
+        "title": "אלוהים",
+        "category": "Elohim",
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+      },
+      {
+        "path": "/he/wiki/yahweh/",
+        "title": "יהוה",
+        "category": "Elohim",
+        "description": "יהוה (עברית: יהוה, YHWH) הוא שמו הפרטי של הדמות האלוהית המרכזית של המקרא העברי, הנקראת באופן מקובל במסורת המיינסטרים כאלוהי ישראל היחיד. על פי הקריאה שפותחה בחו"
+      },
+      {
+        "path": "/he/wiki/elohim-home-planet/",
+        "title": "כוכב־האם של האלוהים",
+        "category": "Elohim",
+        "description": "כוכב־האם של האלוהים הוא העולם שממנו מוצאם — כוכב עתיק מכדור הארץ, שציוויליזציתו הגיעה לסף הטכנולוגי המאפשר סינתזה של חיים בעולמות אחרים. Wheel of Heaven דן במקו"
+      },
+      {
+        "path": "/he/wiki/elohimian-space-wars/",
+        "title": "מלחמות החלל של האלוהים",
+        "category": "Elohim",
+        "description": "מלחמות החלל של האלוהים — העימות המזוין שלאחר המבול בין סיעת יהוה לבין הבוראים המוגלים; לערך הקנוני המאוחד של Wheel of Heaven ראו «תיאומכיה»."
+      }
+    ],
+    "he/wiki/sendys-conditions-of-coherence": [
+      {
+        "path": "/he/wiki/archaeoastronomy/",
+        "title": "ארכיאואסטרונומיה",
+        "category": "Methodology",
+        "description": "ארכיאואסטרונומיה חוקרת את הידע והמנהגים האסטרונומיים החקוקים במונומנטים, במיתוסים ובלוחות השנה של חברות קדומות; במסגרת Wheel of Heaven היא מתחומי היסוד לזיהוי ה"
+      },
+      {
+        "path": "/he/wiki/ancient-astronaut-hypothesis/",
+        "title": "השערת האסטרונאוטים הקדמונים",
+        "category": "Methodology",
+        "description": "השערת האסטרונאוטים הקדמונים גורסת שתבונה לא-ארצית ביקרה בכדור הארץ בעת הפרהיסטורית והעתיקה והותירה חותם מכריע על התפתחות האנושות. קורפוס Wheel of Heaven הוא גרס"
+      },
+      {
+        "path": "/he/wiki/comparative-mythology/",
+        "title": "מיתולוגיה השוואתית",
+        "category": "Methodology",
+        "description": "מיתולוגיה השוואתית חוקרת באופן שיטתי את ההתאמות המבניות שבין מיתוסים של תרבויות שונות. במסגרת Wheel of Heaven היא כלי מרכזי לזיהוי אירועים היסטוריים שהועברו ממק"
+      },
+      {
+        "path": "/he/wiki/neo-euhemerism/",
+        "title": "נאו-אוהמריזם",
+        "category": "Methodology",
+        "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
+      }
+    ],
+    "he/wiki/serpent": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      },
+      {
+        "path": "/he/wiki/forerunners/",
+        "title": "מבשרים",
+        "category": "Symbolism & Motifs",
+        "description": "המבשרים, בקורפוס Wheel of Heaven, הם שושלת בני האדם או הנביאים המכינה את נקודות המפנה הגדולות בתולדות האלוהים על פני כדור הארץ — דמויות המשמשות כמתווכות בין המס"
+      }
+    ],
+    "he/wiki/serpentine-rebellion": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/shiur-qomah": [
+      {
+        "path": "/he/wiki/genesis/",
+        "title": "בראשית",
+        "category": "Texts & Sources",
+        "description": "בראשית (בְּרֵאשִׁית) הוא הספר הראשון של התורה והמקרא, ובו סיפורי הבריאה, גן עדן, המבול והאבות. במסגרת Wheel of Heaven הוא טקסט המקור הראשון במעלה שיש לקרוא מחדש"
+      },
+      {
+        "path": "/he/wiki/hebrew-bible/",
+        "title": "המקרא העברי",
+        "category": "Texts & Sources",
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+      },
+      {
+        "path": "/he/wiki/hekhalot-literature/",
+        "title": "ספרות ההיכלות",
+        "category": "Texts & Sources",
+        "description": "ספרות ההיכלות (עברית הֵיכָלוֹת, 'היכלות') היא גוף הכתבים המיסטיים היהודיים משלהי העת העתיקה, המתארים את עליית הנשמה דרך שבעה היכלות שמימיים אל מרכבת הכיסא האלוה"
+      },
+      {
+        "path": "/he/wiki/kabbalah/",
+        "title": "קבלה",
+        "category": "Texts & Sources",
+        "description": "קבלה היא מסורת המיסטיקה היהודית שהתפתחה מימי הביניים ואילך, סביב קריאה אזוטרית של התורה. במסגרת Wheel of Heaven נדונים תרומתה ומגבלותיה כאחד הצינורות שדרכם השתמ"
+      }
+    ],
+    "he/wiki/sodom-and-gomorrah": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/star-of-david": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/swastika": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/synthetic-biology": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      },
+      {
+        "path": "/he/wiki/genetic-engineering/",
+        "title": "הנדסה גנטית",
+        "category": "Science & Technology",
+        "description": "הנדסה גנטית היא מכלול הטכנולוגיות לשינוי ממוקד של החומר הגנטי של אורגניזם. קורפוס Wheel of Heaven קורא אותה כמסלול הסינתזה שבו נקטו האלוהים ביצירת החיים עלי אדמ"
+      }
+    ],
+    "he/wiki/synthetic-genomics": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/genetic-engineering/",
+        "title": "הנדסה גנטית",
+        "category": "Science & Technology",
+        "description": "הנדסה גנטית היא מכלול הטכנולוגיות לשינוי ממוקד של החומר הגנטי של אורגניזם. קורפוס Wheel of Heaven קורא אותה כמסלול הסינתזה שבו נקטו האלוהים ביצירת החיים עלי אדמ"
+      }
+    ],
+    "he/wiki/terraforming": [
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/astrobiology/",
+        "title": "אסטרוביולוגיה",
+        "category": "Science & Technology",
+        "description": "אסטרוביולוגיה היא החקר המדעי של מוצא החיים ביקום, התפתחותם ותפוצתם. במסגרת Wheel of Heaven היא המקבילה המדעית בת-זמננו להשערת האלוהים, הבוחנת את התנאים להופעת ח"
+      },
+      {
+        "path": "/he/wiki/synthetic-biology/",
+        "title": "ביולוגיה סינתטית",
+        "category": "Science & Technology",
+        "description": "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם ש"
+      },
+      {
+        "path": "/he/wiki/synthetic-genomics/",
+        "title": "גנומיקה סינתטית",
+        "category": "Science & Technology",
+        "description": "גנומיקה סינתטית היא ענף של הנדסת החיים העוסק בתכנון, בכתיבה ובהרכבה של גנומים שלמים; בקורפוס Wheel of Heaven היא נקראת כסף הטכנולוגי המאפשר לציוויליזציה לזרוע ח"
+      }
+    ],
+    "he/wiki/the-alliance": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/doubled-signature/",
+        "title": "החתימה הכפולה",
+        "category": "Cosmology & Framework",
+        "description": "החתימה הכפולה היא עיקרון פרשני שמקורו ב«טחנת האמלט», המיושם באופן שיטתי בקורפוס Wheel of Heaven: כל עידן מזלי מקודד את חתימתו האסטרונומית בצמד מזלות מנוגדים — ה"
+      }
+    ],
+    "he/wiki/the-tradition": [
+      {
+        "path": "/he/wiki/religion/",
+        "title": "דת",
+        "category": "Theology & Traditions",
+        "description": "הדת נקראת, במסגרת Wheel of Heaven, כמנגנון לשימור ארוך-טווח של זיכרון האלוהים ובה בעת כשכבות עיוות שהצטברו במסירה. הפרויקט דן בתפקידה הארכיוני אך אינו מזהה עצמו"
+      },
+      {
+        "path": "/he/wiki/the-truth/",
+        "title": "האמת",
+        "category": "Theology & Traditions",
+        "description": "האמת מציינת, בחומר המקור הראליאני ובקורפוס Wheel of Heaven, את גוף המידע הקוהרנטי שהועבר מן האלוהים דרך שושלת הנביאים — בניגוד לשכבות העיוות שהצטברו במוסדות הדת"
+      },
+      {
+        "path": "/he/wiki/bible/",
+        "title": "הביבליה",
+        "category": "Theology & Traditions",
+        "description": "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
+      },
+      {
+        "path": "/he/wiki/hanafiyya/",
+        "title": "חניפיה",
+        "category": "Theology & Traditions",
+        "description": "חניפיה (ערבית ٱلْحَنِيفِيَّة al-Ḥanīfiyyah, מן حَنِيف ḥanīf, »מי שנוטה הרחק מעבודת אלילים אל עבר הפולחן הקדמוני הישר«) הוא המונח הקוראני והאסלאמי-מוקדם למונותאי"
+      }
+    ],
+    "he/wiki/the-truth": [
+      {
+        "path": "/he/wiki/religion/",
+        "title": "דת",
+        "category": "Theology & Traditions",
+        "description": "הדת נקראת, במסגרת Wheel of Heaven, כמנגנון לשימור ארוך-טווח של זיכרון האלוהים ובה בעת כשכבות עיוות שהצטברו במסירה. הפרויקט דן בתפקידה הארכיוני אך אינו מזהה עצמו"
+      },
+      {
+        "path": "/he/wiki/bible/",
+        "title": "הביבליה",
+        "category": "Theology & Traditions",
+        "description": "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
+      },
+      {
+        "path": "/he/wiki/the-tradition/",
+        "title": "המסורת",
+        "category": "Theology & Traditions",
+        "description": "המסורת, במסגרת Wheel of Heaven, היא המכלול המצטבר של מסירת האלוהים שנשתמר דרך הדת, אסכולות אזוטריות וכתבים פילוסופיים מסוימים — הנבדל מכל מסורת כיתתית מסוימת."
+      },
+      {
+        "path": "/he/wiki/hanafiyya/",
+        "title": "חניפיה",
+        "category": "Theology & Traditions",
+        "description": "חניפיה (ערבית ٱلْحَنِيفِيَّة al-Ḥanīfiyyah, מן حَنِيف ḥanīf, »מי שנוטה הרחק מעבודת אלילים אל עבר הפולחן הקדמוני הישר«) הוא המונח הקוראני והאסלאמי-מוקדם למונותאי"
+      }
+    ],
+    "he/wiki/theomachy": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/third-temple": [
+      {
+        "path": "/he/wiki/new-jerusalem/",
+        "title": "ירושלים החדשה",
+        "category": "Places & Locations",
+        "description": "ירושלים החדשה היא באפוקליפטיקה המקראית העיר המחודשת היורדת מן השמים באחרית הימים. בקורפוס Wheel of Heaven היא נקראת כהיטל סמלי של השגרירות והשיבה הגדולה — תשתית"
+      },
+      {
+        "path": "/he/wiki/eden/",
+        "title": "עדן",
+        "category": "Places & Locations",
+        "description": "עדן (עברית: עֵדֶן, ʿĒden) הוא האזור הנקרא במקרא העברי כמיקום הגן בו נבראו האנשים הראשונים וחיו לפני גירושם. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על י"
+      },
+      {
+        "path": "/he/wiki/petra/",
+        "title": "פטרה",
+        "category": "Places & Locations",
+        "description": "פטרה (יוונית Πέτρα 'סלע'; ארמית נבטית רקמו Raqmū; עברית רֶקֶם Reqem; ערבית ٱلْبَتْرَاء al-Batrāʾ) היא הבירה החצובה בסלע של ממלכת הנבטים בדרום ירדן של ימינו, והמ"
+      },
+      {
+        "path": "/he/wiki/pangaea/",
+        "title": "פנגיאה",
+        "category": "Places & Locations",
+        "description": "פנגיאה היא יבשת-העל האחת שתורת הלוחות הטקטוניים משחזרת לשלהי הפלאוזואיקון. במסגרת Wheel of Heaven היא תצורת הייחוס הגאולוגית של השלב המוקדם בסינתזת החיים בכדור "
+      }
+    ],
+    "he/wiki/tower-of-babel": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
+    "he/wiki/tree-of-life": [
+      {
+        "path": "/he/wiki/infinity/",
+        "title": "אינסוף",
+        "category": "Cosmology & Framework",
+        "description": "אינסוף הוא בקורפוס הראליאני מסגרת קוסמולוגית — מרחב וזמן אינסופיים, אין־ספור ציוויליזציות — ומושג מרכזי ברוחניות של האלוהים. Wheel of Heaven דן בתפקידו המבני בי"
+      },
+      {
+        "path": "/he/wiki/mass-effect/",
+        "title": "אפקט המסה",
+        "category": "Cosmology & Framework",
+        "description": "אפקט המסה (המכונה גם חוק מסה-זמן) הוא מושג במסגרת Wheel of Heaven המנסח את הקשר בין מסה או קנה-מידה ובין חוויית הזמן: ככל שהישות גדולה יותר, כל רגע סובייקטיבי ש"
+      },
+      {
+        "path": "/he/wiki/four-levels/",
+        "title": "ארבע הרמות",
+        "category": "Cosmology & Framework",
+        "description": "ארבע הרמות הן ארבע מסגרות ההתייחסות שיהוה מורה לשקול מולן כל מצב בו-זמנית במקורות הראליאניים — האינסוף, האלוהים שבראו אותנו, החברה האנושית והפרט עצמו."
+      },
+      {
+        "path": "/he/wiki/the-alliance/",
+        "title": "הברית",
+        "category": "Cosmology & Framework",
+        "description": "הברית — במסגרת Wheel of Heaven, לערך הקאנוני על הפרוטוקול היציב הראשון של יחסי הגומלין בין האלוהים לאנושות לאחר המבול, ראו «ברית נח»."
+      }
+    ],
+    "he/wiki/tree-of-the-knowledge-of-good-and-evil": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
+      }
+    ],
+    "he/wiki/ufology": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/military-cover-up-of-exobiology/",
+        "title": "הטיוח הצבאי של אקסוביולוגיה",
+        "category": "Ufology",
+        "description": "הטיוח הצבאי של אקסוביולוגיה מציין את מכלול המנגנונים הממלכתיים, בעיקר אמריקניים, המסווגים מידע על נוכחות ישויות לא-אנושיות על פני כדור הארץ; במסגרת Wheel of Hea"
+      },
+      {
+        "path": "/he/wiki/us-space-force/",
+        "title": "חיל החלל האמריקאי",
+        "category": "Ufology",
+        "description": "חיל החלל של ארצות הברית הוא זרוע החלל של הצבא האמריקני מאז 2019. במסגרת Wheel of Heaven הוא מוזכר כמדד מוסדי של הצבאת החלל בת-זמננו, בהקשר של ההסתרה הצבאית של ה"
+      },
+      {
+        "path": "/he/wiki/crop-circles/",
+        "title": "מעגלי תבואה",
+        "category": "Ufology",
+        "description": "מעגלי תבואה, או תצורות תבואה, הם דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים (בעיקר חיטה, שעורה, לפתית, שיפון, תירס, פשתן וסויה) לעיצובים גיאומ"
+      }
+    ],
+    "he/wiki/us-space-force": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/ufology/",
+        "title": "אופולוגיה",
+        "category": "Ufology",
+        "description": "אופולוגיה היא חקר העצמים המעופפים הבלתי מזוהים ותופעות המפגש הקשורות בהם. במסגרת Wheel of Heaven נדון ערכם התיעודי, תוך הבחנה בין מקרים שמישים למקרים חסרי הכרעה"
+      },
+      {
+        "path": "/he/wiki/military-cover-up-of-exobiology/",
+        "title": "הטיוח הצבאי של אקסוביולוגיה",
+        "category": "Ufology",
+        "description": "הטיוח הצבאי של אקסוביולוגיה מציין את מכלול המנגנונים הממלכתיים, בעיקר אמריקניים, המסווגים מידע על נוכחות ישויות לא-אנושיות על פני כדור הארץ; במסגרת Wheel of Hea"
+      },
+      {
+        "path": "/he/wiki/crop-circles/",
+        "title": "מעגלי תבואה",
+        "category": "Ufology",
+        "description": "מעגלי תבואה, או תצורות תבואה, הם דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים (בעיקר חיטה, שעורה, לפתית, שיפון, תירס, פשתן וסויה) לעיצובים גיאומ"
+      }
+    ],
+    "he/wiki/wheel-of-heaven": [
+      {
+        "path": "/he/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — המערכת הנשיאותית לחשיפה ולדיווח על מפגשי UAP (Presidential Unsealing and Reporting System for UAP Encounters) — היא תוכניתה של ממשלת ארצות הברית, שהושק"
+      },
+      {
+        "path": "/he/wiki/cosmic-evolution/",
+        "title": "אבולוציה קוסמית",
+        "category": "Science & Technology",
+        "description": "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
+      },
+      {
+        "path": "/he/wiki/abraham/",
+        "title": "אברהם",
+        "category": "Biblical Figures",
+        "description": "אברהם (עברית: אַבְרָהָם) הוא האב-המייסד של הדתות האברהמיות — יהדות, נצרות ואסלאם. במסגרת Wheel of Heaven הוא נקרא כמקבל של תקשורת אלוהים מאוחרת, צומת שבו שושלת "
+      },
+      {
+        "path": "/he/wiki/adam-and-eve/",
+        "title": "אדם וחוה",
+        "category": "Biblical Figures",
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+      }
+    ],
+    "he/wiki/world-age": [
+      {
+        "path": "/he/wiki/zodiac/",
+        "title": "גלגל המזלות",
+        "category": "Cosmic Chronology",
+        "description": "גלגל המזלות הוא רצועת השמיים המורכבת משנים-עשר מזלות שנקודת השוויון האביבי נעה דרכם עם התקדמות הנקיפה. בקורפוס Wheel of Heaven הוא מהווה את חוגת השנה הגדולה ואת"
+      },
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      }
+    ],
+    "he/wiki/yahweh": [
+      {
+        "path": "/he/wiki/elohim/",
+        "title": "אלוהים",
+        "category": "Elohim",
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+      },
+      {
+        "path": "/he/wiki/elohim-home-planet/",
+        "title": "כוכב־האם של האלוהים",
+        "category": "Elohim",
+        "description": "כוכב־האם של האלוהים הוא העולם שממנו מוצאם — כוכב עתיק מכדור הארץ, שציוויליזציתו הגיעה לסף הטכנולוגי המאפשר סינתזה של חיים בעולמות אחרים. Wheel of Heaven דן במקו"
+      },
+      {
+        "path": "/he/wiki/elohimian-space-wars/",
+        "title": "מלחמות החלל של האלוהים",
+        "category": "Elohim",
+        "description": "מלחמות החלל של האלוהים — העימות המזוין שלאחר המבול בין סיעת יהוה לבין הבוראים המוגלים; לערך הקנוני המאוחד של Wheel of Heaven ראו «תיאומכיה»."
+      },
+      {
+        "path": "/he/wiki/satan/",
+        "title": "שָׂטָן",
+        "category": "Elohim",
+        "description": "שָׂטָן (עברית: שָׂטָן, »יריב«, »מאשים«, »מתנגד«) הוא דמות אלוהה בעולם הביתי, מנהיג הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינ"
+      }
+    ],
+    "he/wiki/zodiac": [
+      {
+        "path": "/he/wiki/great-month/",
+        "title": "החודש הגדול",
+        "category": "Cosmic Chronology",
+        "description": "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורוא"
+      },
+      {
+        "path": "/he/wiki/great-year/",
+        "title": "השנה הגדולה",
+        "category": "Cosmic Chronology",
+        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+      },
+      {
+        "path": "/he/wiki/antediluvian/",
+        "title": "טרום-מבולי",
+        "category": "Cosmic Chronology",
+        "description": "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העול"
+      },
+      {
+        "path": "/he/wiki/chronology/",
+        "title": "כרונולוגיה",
+        "category": "Cosmic Chronology",
+        "description": "כרונולוגיה — ציר הזמן הקוסמי של הקורפוס, המורכב משנים-עשר עידני המזלות המרכיבים את השנה הגדולה. הערך המהותי מצוי בעידן העולם."
+      }
+    ]
+  }
+}

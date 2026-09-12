@@ -1,0 +1,26 @@
+{
+  "id": "journal-de-merer-tallet",
+  "title": "Les papyrus de la Mer Rouge I: Le “Journal de Merer”",
+  "authored_by": [
+    "Pierre Tallet"
+  ],
+  "publish_date": "2017",
+  "follow_url": "https://www.ifao.egnet.net/publications/catalogue/9782724707106/",
+  "description": "Pierre Tallet's 2017 critical edition (Institut français d'archéologie orientale) of the Wadi al-Jarf papyri discovered 2013 — the oldest known papyri in the world. The principal document, the *Journal de Merer*, is a foreman's logbook from year 27 of Khufu's reign documenting the limestone transport operation for the Great Pyramid's casing stones. Merer's daily entries record the team's movements between the Tura quarries across the Nile and the Giza pyramid site, providing the most direct contemporary documentation of Old Kingdom pyramid construction logistics yet discovered.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Egyptian Pyramids",
+    "Giza",
+    "Diary of Merer",
+    "Pyramid Construction"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

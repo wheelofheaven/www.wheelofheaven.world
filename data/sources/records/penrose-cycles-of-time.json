@@ -1,0 +1,26 @@
+{
+  "id": "penrose-cycles-of-time",
+  "title": "Cycles of Time: An Extraordinary New View of the Universe",
+  "authored_by": [
+    "Roger Penrose"
+  ],
+  "publish_date": "2011",
+  "follow_url": "https://www.penguinrandomhouse.com/",
+  "description": "Roger Penrose's 2011 Knopf articulation of conformal cyclic cosmology — the proposal that the universe undergoes endless successive aeons. A principal contemporary cyclic-cosmology framework the corpus reads alongside the Cosmic Chain.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Cosmology",
+    "Cyclic Universe",
+    "Penrose",
+    "Conformal Cyclic Cosmology"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

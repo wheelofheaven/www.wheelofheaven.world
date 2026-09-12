@@ -1,0 +1,31 @@
+{
+  "id": "von-rad-genesis",
+  "title": "Genesis: A Commentary",
+  "authored_by": [
+    "Gerhard von Rad"
+  ],
+  "publish_date": "1961",
+  "follow_url": "https://www.wjkbooks.com/Products/0664227457/genesis.aspx",
+  "description": "Gerhard von Rad's 1961 commentary (German 1949–53) — the principal form-critical and theological reading of Genesis in twentieth-century Protestant scholarship. Von Rad's treatment of the Yahwist's Eden narrative as a profound theological meditation on human disobedience is a standard reference point for the mainstream reading the corpus engages.",
+  "medium": "article",
+  "topics": [
+    "Genesis",
+    "Form Criticism",
+    "Hebrew Bible",
+    "Eden"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "licensed"
+}

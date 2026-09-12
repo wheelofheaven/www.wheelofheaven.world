@@ -1,0 +1,31 @@
+{
+  "id": "odyssey-greek-text",
+  "title": "Odyssey (Greek text)",
+  "authored_by": [
+    "Homer"
+  ],
+  "publish_date": "",
+  "follow_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0135",
+  "description": "",
+  "medium": "",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The East Face of Homer",
+      "path": "/articles/the-east-face-of-homer/"
+    },
+    {
+      "section": "articles",
+      "title": "The Rain Over Helicon",
+      "path": "/articles/the-rain-over-helicon/"
+    },
+    {
+      "section": "articles",
+      "title": "The World Behind the Odyssey",
+      "path": "/articles/the-world-behind-the-odyssey/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

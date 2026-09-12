@@ -1,0 +1,26 @@
+{
+  "id": "tomorrowland-film",
+  "title": "Tomorrowland",
+  "authored_by": [
+    "Brad Bird",
+    "Walt Disney Pictures"
+  ],
+  "publish_date": "2015",
+  "follow_url": "https://en.wikipedia.org/wiki/Tomorrowland_(film)",
+  "description": "Disney's articulation of the optimistic-technological-future cultural vision, drawing substantively on the broader 1960s Tomorrowland aesthetic. Registers substantial Cyberparadist content through specific harmonious-technology-and-nature visual articulation.",
+  "medium": "documentary",
+  "topics": [
+    "Cyberparadism",
+    "Fiction",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

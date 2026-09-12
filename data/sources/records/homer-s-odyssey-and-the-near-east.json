@@ -1,0 +1,31 @@
+{
+  "id": "homer-s-odyssey-and-the-near-east",
+  "title": "Homer’s Odyssey and the Near East",
+  "authored_by": [
+    "Bruce Louden"
+  ],
+  "publish_date": "2011",
+  "follow_url": "https://doi.org/10.1017/CBO9780511974830",
+  "description": "",
+  "medium": "",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The East Face of Homer",
+      "path": "/articles/the-east-face-of-homer/"
+    },
+    {
+      "section": "articles",
+      "title": "The Rain Over Helicon",
+      "path": "/articles/the-rain-over-helicon/"
+    },
+    {
+      "section": "articles",
+      "title": "The World Behind the Odyssey",
+      "path": "/articles/the-world-behind-the-odyssey/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

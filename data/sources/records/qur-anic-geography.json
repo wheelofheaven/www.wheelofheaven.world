@@ -1,0 +1,41 @@
+{
+  "id": "qur-anic-geography",
+  "title": "Qur’anic Geography",
+  "authored_by": [
+    "Dan Gibson"
+  ],
+  "publish_date": "2011",
+  "follow_url": "https://nabataea.net",
+  "description": "Gibson's archaeological re-examination of the early-Islamic qibla orientations, central to §V's argument about Petra rather than Mecca as the original Islamic centre.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Islamic Origins",
+    "Petra",
+    "Qur'an",
+    "Geography"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    },
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "timeline",
+      "title": "The Wheel Keeps Turning",
+      "path": "/timeline/the-wheel-keeps-turning/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

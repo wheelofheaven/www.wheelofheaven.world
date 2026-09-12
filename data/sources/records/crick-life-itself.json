@@ -1,0 +1,26 @@
+{
+  "id": "crick-life-itself",
+  "title": "Life Itself: Its Origin and Nature",
+  "authored_by": [
+    "Francis Crick"
+  ],
+  "publish_date": "1981",
+  "follow_url": "https://www.simonandschuster.com/",
+  "description": "Francis Crick's 1981 Simon and Schuster development of the directed-panspermia hypothesis and the broader origin-of-life problem. The corpus engages it as Crick's extended argument for cosmic seeding of terrestrial life.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Panspermia",
+    "Origin of Life",
+    "Crick",
+    "DNA"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

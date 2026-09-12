@@ -1,0 +1,29 @@
+{
+  "id": "day-adversary-heaven",
+  "title": "An Adversary in Heaven: Satan in the Hebrew Bible",
+  "authored_by": [
+    "Peggy L. Day"
+  ],
+  "publish_date": "1988",
+  "follow_url": "https://www.sbl-site.org/",
+  "description": "Day's foundational philological study of the Hebrew satan figure across the Hebrew Bible, distinguishing common-noun and definite-article usages.",
+  "medium": "academic-paper",
+  "topics": [
+    "Satan",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Satan",
+      "path": "/wiki/satan/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

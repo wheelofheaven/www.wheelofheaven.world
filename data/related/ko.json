@@ -1,0 +1,3944 @@
+{
+  "generator": "scripts/build_related.py",
+  "schema_version": 1,
+  "lang": "ko",
+  "max_items": 4,
+  "pages": {
+    "ko/articles/monotheism-is-the-wrong-question": [
+      {
+        "path": "/ko/articles/the-signature-and-the-designers/",
+        "title": "서명과 설계자들",
+        "category": "Science & Technology",
+        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+      },
+      {
+        "path": "/ko/articles/the-rain-over-helicon/",
+        "title": "헬리콘에 내린 비",
+        "category": "Comparative Mythology",
+        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-east-face-of-homer/",
+        "title": "호메로스의 동쪽 면",
+        "category": "Comparative Mythology",
+        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+      },
+      {
+        "path": "/ko/articles/the-world-behind-the-odyssey/",
+        "title": "오디세이아 뒤의 세계",
+        "category": "Comparative Mythology",
+        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+      }
+    ],
+    "ko/articles/the-archdeacon-and-the-dragon": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      }
+    ],
+    "ko/articles/the-book-closest-to-the-truth": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      }
+    ],
+    "ko/articles/the-east-face-of-homer": [
+      {
+        "path": "/ko/articles/the-rain-over-helicon/",
+        "title": "헬리콘에 내린 비",
+        "category": "Comparative Mythology",
+        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-world-behind-the-odyssey/",
+        "title": "오디세이아 뒤의 세계",
+        "category": "Comparative Mythology",
+        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+      },
+      {
+        "path": "/ko/articles/the-signature-and-the-designers/",
+        "title": "서명과 설계자들",
+        "category": "Science & Technology",
+        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+      },
+      {
+        "path": "/ko/articles/the-shape-of-humanity/",
+        "title": "인류의 형상",
+        "category": "Macro-History",
+        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+      }
+    ],
+    "ko/articles/the-first-mosques-faced-petra-not-mecca": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      }
+    ],
+    "ko/articles/the-flood-was-a-reset-not-a-punishment": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      }
+    ],
+    "ko/articles/the-infinite-in-both-directions": [
+      {
+        "path": "/ko/articles/the-signature-and-the-designers/",
+        "title": "서명과 설계자들",
+        "category": "Science & Technology",
+        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+      },
+      {
+        "path": "/ko/articles/the-rain-over-helicon/",
+        "title": "헬리콘에 내린 비",
+        "category": "Comparative Mythology",
+        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-east-face-of-homer/",
+        "title": "호메로스의 동쪽 면",
+        "category": "Comparative Mythology",
+        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+      },
+      {
+        "path": "/ko/articles/the-world-behind-the-odyssey/",
+        "title": "오디세이아 뒤의 세계",
+        "category": "Comparative Mythology",
+        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+      }
+    ],
+    "ko/articles/the-man-who-bet-the-bible-on-the-moon": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      },
+      {
+        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "원년에 깨어난 두루마리들",
+        "category": "Comparative",
+        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+      }
+    ],
+    "ko/articles/the-mill-that-grinds-the-ages": [
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      },
+      {
+        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "원년에 깨어난 두루마리들",
+        "category": "Comparative",
+        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+      }
+    ],
+    "ko/articles/the-rain-over-helicon": [
+      {
+        "path": "/ko/articles/the-east-face-of-homer/",
+        "title": "호메로스의 동쪽 면",
+        "category": "Comparative Mythology",
+        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+      },
+      {
+        "path": "/ko/articles/the-world-behind-the-odyssey/",
+        "title": "오디세이아 뒤의 세계",
+        "category": "Comparative Mythology",
+        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+      },
+      {
+        "path": "/ko/articles/the-signature-and-the-designers/",
+        "title": "서명과 설계자들",
+        "category": "Science & Technology",
+        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+      },
+      {
+        "path": "/ko/articles/the-shape-of-humanity/",
+        "title": "인류의 형상",
+        "category": "Macro-History",
+        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+      }
+    ],
+    "ko/articles/the-religion-of-religions": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "원년에 깨어난 두루마리들",
+        "category": "Comparative",
+        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+      }
+    ],
+    "ko/articles/the-scrolls-that-woke-in-year-one": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      }
+    ],
+    "ko/articles/the-shape-of-humanity": [
+      {
+        "path": "/ko/articles/the-signature-and-the-designers/",
+        "title": "서명과 설계자들",
+        "category": "Science & Technology",
+        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+      },
+      {
+        "path": "/ko/articles/the-rain-over-helicon/",
+        "title": "헬리콘에 내린 비",
+        "category": "Comparative Mythology",
+        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-east-face-of-homer/",
+        "title": "호메로스의 동쪽 면",
+        "category": "Comparative Mythology",
+        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+      },
+      {
+        "path": "/ko/articles/the-world-behind-the-odyssey/",
+        "title": "오디세이아 뒤의 세계",
+        "category": "Comparative Mythology",
+        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+      }
+    ],
+    "ko/articles/the-signature-and-the-designers": [
+      {
+        "path": "/ko/articles/the-rain-over-helicon/",
+        "title": "헬리콘에 내린 비",
+        "category": "Comparative Mythology",
+        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-east-face-of-homer/",
+        "title": "호메로스의 동쪽 면",
+        "category": "Comparative Mythology",
+        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+      },
+      {
+        "path": "/ko/articles/the-world-behind-the-odyssey/",
+        "title": "오디세이아 뒤의 세계",
+        "category": "Comparative Mythology",
+        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+      },
+      {
+        "path": "/ko/articles/the-shape-of-humanity/",
+        "title": "인류의 형상",
+        "category": "Macro-History",
+        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+      }
+    ],
+    "ko/articles/the-translators-wager": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/unsealed-in-year-one/",
+        "title": "원년에 봉인이 풀리다",
+        "category": "Comparative",
+        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      }
+    ],
+    "ko/articles/the-world-behind-the-odyssey": [
+      {
+        "path": "/ko/articles/the-rain-over-helicon/",
+        "title": "헬리콘에 내린 비",
+        "category": "Comparative Mythology",
+        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-east-face-of-homer/",
+        "title": "호메로스의 동쪽 면",
+        "category": "Comparative Mythology",
+        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+      },
+      {
+        "path": "/ko/articles/the-signature-and-the-designers/",
+        "title": "서명과 설계자들",
+        "category": "Science & Technology",
+        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+      },
+      {
+        "path": "/ko/articles/the-shape-of-humanity/",
+        "title": "인류의 형상",
+        "category": "Macro-History",
+        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+      }
+    ],
+    "ko/articles/unsealed-in-year-one": [
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      },
+      {
+        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
+        "title": "성경을 달에 건 남자",
+        "category": "Comparative",
+        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+      },
+      {
+        "path": "/ko/articles/the-religion-of-religions/",
+        "title": "종교들의 종교",
+        "category": "Comparative",
+        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+      },
+      {
+        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
+        "title": "원년에 깨어난 두루마리들",
+        "category": "Comparative",
+        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+      }
+    ],
+    "ko/news/library-hebrew-bible-nine-languages": [
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
+        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+      }
+    ],
+    "ko/news/pursue-release-01-uap-files": [
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
+        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+      }
+    ],
+    "ko/news/pursue-release-02-spheres-and-transmedium": [
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
+        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+      }
+    ],
+    "ko/news/pursue-release-03-multi-agency-and-international": [
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      },
+      {
+        "path": "/ko/news/library-hebrew-bible-nine-languages/",
+        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
+        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
+      }
+    ],
+    "ko/news/pursue-release-04-the-nuclear-nexus": [
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
+        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+      },
+      {
+        "path": "/ko/news/library-hebrew-bible-nine-languages/",
+        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
+        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
+      }
+    ],
+    "ko/news/pursue-release-05-triangles-and-the-white-house-file": [
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
+        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+      },
+      {
+        "path": "/ko/news/library-hebrew-bible-nine-languages/",
+        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
+        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
+      }
+    ],
+    "ko/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
+        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
+        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+      },
+      {
+        "path": "/ko/news/library-hebrew-bible-nine-languages/",
+        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
+        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
+      }
+    ],
+    "ko/timeline/age-of-aquarius": [
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-aries": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-cancer": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-capricorn": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-gemini/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-gemini": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-leo": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-libra": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-pisces": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-sagittarius": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-scorpio": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-taurus": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/age-of-virgo": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/in-the-beginning": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/preamble": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/timeline/the-wheel-keeps-turning": [
+      {
+        "path": "/ko/timeline/age-of-aquarius/",
+        "title": "물병자리 시대",
+        "description": "대년의 열두 번째이자 현재의 시대 — 계시의 시대로서, 이전의 모든 시대에 축적된 내용이 마침내 그것을 이해할 수 있는 인류에게 가독적으로 드러나는 시대. 1946년 문턱, 1973년 접촉, 대사관 사업, 황금시대, 그리고 인류가 결국 창조 사이클에 참여하게 되는 일."
+      },
+      {
+        "path": "/ko/timeline/age-of-aries/",
+        "title": "양자리 시대",
+        "description": "대년의 열 번째 시대 — 모세, 출애굽, 시나이의 율법, 양자리 시대 예언자의 뿔, 가나안 정복, 예언 전통, 메시지를 전파하지 못한 히브리인의 실패, 평의회의 페르시아와 그리스 양성, 그리고 물고기자리를 위한 전 세계적 축의 시대 준비."
+      },
+      {
+        "path": "/ko/timeline/age-of-cancer/",
+        "title": null
+      },
+      {
+        "path": "/ko/timeline/age-of-capricorn/",
+        "title": null
+      }
+    ],
+    "ko/wiki/abraham": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      }
+    ],
+    "ko/wiki/adam-and-eve": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      }
+    ],
+    "ko/wiki/adamite-struggle": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/adamites": [
+      {
+        "path": "/ko/wiki/ancient-builders/",
+        "title": "고대 건설자",
+        "category": "Peoples & Groups",
+        "description": "고대 건설자란 대중적·대안 고고학적 용법에서, 이집트 피라미드, 스톤헨지, 사크사이와만과 마추픽추의 안데스 거석 유적지, 이스터섬의 모아이, 몰타의 거석 신전 등 전 세계에서 발견되는 상당수의 상당한 고대 석조 기념물의 건설을, 하나 이상의 잃어버렸거나 알려지지 않은 문명의 공로로 돌리"
+      },
+      {
+        "path": "/ko/wiki/nabataeans/",
+        "title": "나바테아인",
+        "category": "Peoples & Groups",
+        "description": "나바테아인(나바테아 아람어 נבטו Nabaṭu; 그리스어 Ναβαταῖοι Nabataîoi; 아랍어 ٱلْأَنْبَاط al-Anbāṭ)은 대략 기원전 4세기부터 남부 레반트와 아라비아 북서부 일대에 부유한 대상(隊商) 교역 왕국을 세운 고대 북아라비아 민족으로, 바위를 깎아 만든"
+      },
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      }
+    ],
+    "ko/wiki/ancient-astronaut-hypothesis": [
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      },
+      {
+        "path": "/ko/wiki/dhorme-bible-translation/",
+        "title": "도르므 성경 번역",
+        "category": "Methodology",
+        "description": "에두아르 도르므의 성경 번역은 「플레이아드 총서」로 출간되어, 히브리어 본문의 비판적 독해에 있어 주요한 문헌학적 참조점이 된다. Wheel of Heaven은 이를 그 프랑스어 본문 기반의 하나로 활용한다."
+      },
+      {
+        "path": "/ko/wiki/comparative-mythology/",
+        "title": "비교신화학",
+        "category": "Methodology",
+        "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
+      },
+      {
+        "path": "/ko/wiki/biglino-method/",
+        "title": "비글리노 방법",
+        "category": "Methodology",
+        "description": "비글리노 방법은 이탈리아 번역자 마우로 비글리노의 이름을 딴 것으로, 누적된 신학적 전제를 제거하고 히브리어 성경을 읽음으로써 본문의 문자적·기술적 차원을 복원하는 것을 목적으로 한다. Wheel of Heaven은 자료 재독해의 도구로 이를 폭넓게 참조하지만, 그 모든 주장과 자신을 "
+      }
+    ],
+    "ko/wiki/ancient-builders": [
+      {
+        "path": "/ko/wiki/nabataeans/",
+        "title": "나바테아인",
+        "category": "Peoples & Groups",
+        "description": "나바테아인(나바테아 아람어 נבטו Nabaṭu; 그리스어 Ναβαταῖοι Nabataîoi; 아랍어 ٱلْأَنْبَاط al-Anbāṭ)은 대략 기원전 4세기부터 남부 레반트와 아라비아 북서부 일대에 부유한 대상(隊商) 교역 왕국을 세운 고대 북아라비아 민족으로, 바위를 깎아 만든"
+      },
+      {
+        "path": "/ko/wiki/adamites/",
+        "title": "아담 계통",
+        "category": "Peoples & Groups",
+        "description": "아담 계통(Adamites)은 Wheel of Heaven 코퍼스에서 엘로힘이 가장 먼저 완전 합성한 인류 혈통 — 정원-실험실에서 나온 아담과 하와의 직계 후손 — 을 가리킨다. 이 용어는 이 혈통을 지구상의 다른 전인류적 갈래와 구별하고, 본격적인 인류사의 출발점을 표시한다."
+      },
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      }
+    ],
+    "ko/wiki/antediluvian": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      },
+      {
+        "path": "/ko/wiki/world-age/",
+        "title": "세계의 시대",
+        "category": "Cosmic Chronology",
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+      }
+    ],
+    "ko/wiki/apocalypse": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/archaeoastronomy": [
+      {
+        "path": "/ko/wiki/ancient-astronaut-hypothesis/",
+        "title": "고대 우주비행사 가설",
+        "category": "Methodology",
+        "description": "고대 우주비행사 가설은 비지구적 지성이 선사 및 고대에 지구를 방문하여 인류 문명 발전에 결정적인 흔적을 남겼다고 주장한다. Wheel of Heaven 코퍼스는 그 규율된 변형으로, 라엘 자료의 엘로힘적 격자를 통해 이를 읽어낸다."
+      },
+      {
+        "path": "/ko/wiki/dhorme-bible-translation/",
+        "title": "도르므 성경 번역",
+        "category": "Methodology",
+        "description": "에두아르 도르므의 성경 번역은 「플레이아드 총서」로 출간되어, 히브리어 본문의 비판적 독해에 있어 주요한 문헌학적 참조점이 된다. Wheel of Heaven은 이를 그 프랑스어 본문 기반의 하나로 활용한다."
+      },
+      {
+        "path": "/ko/wiki/comparative-mythology/",
+        "title": "비교신화학",
+        "category": "Methodology",
+        "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
+      },
+      {
+        "path": "/ko/wiki/biglino-method/",
+        "title": "비글리노 방법",
+        "category": "Methodology",
+        "description": "비글리노 방법은 이탈리아 번역자 마우로 비글리노의 이름을 딴 것으로, 누적된 신학적 전제를 제거하고 히브리어 성경을 읽음으로써 본문의 문자적·기술적 차원을 복원하는 것을 목적으로 한다. Wheel of Heaven은 자료 재독해의 도구로 이를 폭넓게 참조하지만, 그 모든 주장과 자신을 "
+      }
+    ],
+    "ko/wiki/astrobiology": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-evolution/",
+        "title": "우주적 진화",
+        "category": "Science & Technology",
+        "description": "우주적 진화 — Wheel of Heaven의 정전 항목은 「우주의 사슬」을 참조하라."
+      }
+    ],
+    "ko/wiki/babel": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/bible": [
+      {
+        "path": "/ko/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "라엘리안 정전의 참조 코퍼스",
+        "category": "Theology & Traditions",
+        "description": "라엘리안 코퍼스의 세 정전(『진실을 말하는 책』 1974, 『외계인들이 나를 그들의 행성으로 데려갔다』 1975, 『외계인들을 환영하자』 1979)이 직접 인용하거나 간접적으로 암시하는 텍스트, 전통, 인물의 목록으로, 명명된 출처의 1차 계층과 암시된 출처의 2차 계층으로 정리되어 있"
+      },
+      {
+        "path": "/ko/wiki/the-tradition/",
+        "title": "전승",
+        "category": "Theology & Traditions",
+        "description": "전승은 Wheel of Heaven 코퍼스에서 종교·비교(秘敎) 학파·일부 철학적 본문집을 통해 보존되어 온 엘로힘 전달의 누적적 총체를 가리키며 — 어떤 특정 종파적 전통과도 구별된다."
+      },
+      {
+        "path": "/ko/wiki/religion/",
+        "title": "종교",
+        "category": "Theology & Traditions",
+        "description": "종교는 Wheel of Heaven 코퍼스에서 엘로힘 기억의 장기 보존 장치이자, 전달 과정에서 누적되는 왜곡의 층위로 함께 읽힌다. 본 프로젝트는 그 아카이브적 기능을 논하지만, 특정 종파 체계와 자신을 동일시하지는 않는다."
+      },
+      {
+        "path": "/ko/wiki/the-truth/",
+        "title": "진리",
+        "category": "Theology & Traditions",
+        "description": "진리는 라엘 코퍼스와 Wheel of Heaven 코퍼스에서, 예언자 계보를 통해 엘로힘으로부터 전달된 정합적 정보 내용을 가리킨다 — 종교 제도가 누적해 온 왜곡의 층위들과 대비된다."
+      }
+    ],
+    "ko/wiki/biglino-method": [
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      },
+      {
+        "path": "/ko/wiki/ancient-astronaut-hypothesis/",
+        "title": "고대 우주비행사 가설",
+        "category": "Methodology",
+        "description": "고대 우주비행사 가설은 비지구적 지성이 선사 및 고대에 지구를 방문하여 인류 문명 발전에 결정적인 흔적을 남겼다고 주장한다. Wheel of Heaven 코퍼스는 그 규율된 변형으로, 라엘 자료의 엘로힘적 격자를 통해 이를 읽어낸다."
+      },
+      {
+        "path": "/ko/wiki/dhorme-bible-translation/",
+        "title": "도르므 성경 번역",
+        "category": "Methodology",
+        "description": "에두아르 도르므의 성경 번역은 「플레이아드 총서」로 출간되어, 히브리어 본문의 비판적 독해에 있어 주요한 문헌학적 참조점이 된다. Wheel of Heaven은 이를 그 프랑스어 본문 기반의 하나로 활용한다."
+      },
+      {
+        "path": "/ko/wiki/comparative-mythology/",
+        "title": "비교신화학",
+        "category": "Methodology",
+        "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
+      }
+    ],
+    "ko/wiki/chronology": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      }
+    ],
+    "ko/wiki/comparative-mythology": [
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      },
+      {
+        "path": "/ko/wiki/ancient-astronaut-hypothesis/",
+        "title": "고대 우주비행사 가설",
+        "category": "Methodology",
+        "description": "고대 우주비행사 가설은 비지구적 지성이 선사 및 고대에 지구를 방문하여 인류 문명 발전에 결정적인 흔적을 남겼다고 주장한다. Wheel of Heaven 코퍼스는 그 규율된 변형으로, 라엘 자료의 엘로힘적 격자를 통해 이를 읽어낸다."
+      },
+      {
+        "path": "/ko/wiki/dhorme-bible-translation/",
+        "title": "도르므 성경 번역",
+        "category": "Methodology",
+        "description": "에두아르 도르므의 성경 번역은 「플레이아드 총서」로 출간되어, 히브리어 본문의 비판적 독해에 있어 주요한 문헌학적 참조점이 된다. Wheel of Heaven은 이를 그 프랑스어 본문 기반의 하나로 활용한다."
+      },
+      {
+        "path": "/ko/wiki/biglino-method/",
+        "title": "비글리노 방법",
+        "category": "Methodology",
+        "description": "비글리노 방법은 이탈리아 번역자 마우로 비글리노의 이름을 딴 것으로, 누적된 신학적 전제를 제거하고 히브리어 성경을 읽음으로써 본문의 문자적·기술적 차원을 복원하는 것을 목적으로 한다. Wheel of Heaven은 자료 재독해의 도구로 이를 폭넓게 참조하지만, 그 모든 주장과 자신을 "
+      }
+    ],
+    "ko/wiki/confusion-of-tongues": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/cosmic-chain": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/cosmic-competition": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/cosmic-evolution": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/cosmic-pluralism": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-evolution/",
+        "title": "우주적 진화",
+        "category": "Science & Technology",
+        "description": "우주적 진화 — Wheel of Heaven의 정전 항목은 「우주의 사슬」을 참조하라."
+      }
+    ],
+    "ko/wiki/council-of-the-eternals": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/crop-circles": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/us-space-force/",
+        "title": "미국 우주군",
+        "category": "Ufology",
+        "description": "미국 우주군은 2019년 이래 미국 군의 우주 분야 병종이다. Wheel of Heaven 코퍼스는 외계 생물학에 대한 군사적 은폐와 관련하여, 현대 우주 군사화의 제도적 지표로서 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/military-cover-up-of-exobiology/",
+        "title": "외계 생물학에 대한 군사적 은폐",
+        "category": "Ufology",
+        "description": "외계 생물학에 대한 군사적 은폐는 지구상의 비인간 존재들의 현전과 관련된 자료를 기밀화하는 국가적(주로 미국의) 기제들의 총체를 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환을 가로막는 제도적 장애의 하나로 기록한다."
+      }
+    ],
+    "ko/wiki/cyberparadism": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로 — 해석적 틀의 이름인 동시에 그 틀을 표명하는 코퍼스의 이름이기도 하며 — 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다: 지구 생명은 특정"
+      },
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      }
+    ],
+    "ko/wiki/dhorme-bible-translation": [
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      },
+      {
+        "path": "/ko/wiki/ancient-astronaut-hypothesis/",
+        "title": "고대 우주비행사 가설",
+        "category": "Methodology",
+        "description": "고대 우주비행사 가설은 비지구적 지성이 선사 및 고대에 지구를 방문하여 인류 문명 발전에 결정적인 흔적을 남겼다고 주장한다. Wheel of Heaven 코퍼스는 그 규율된 변형으로, 라엘 자료의 엘로힘적 격자를 통해 이를 읽어낸다."
+      },
+      {
+        "path": "/ko/wiki/comparative-mythology/",
+        "title": "비교신화학",
+        "category": "Methodology",
+        "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
+      },
+      {
+        "path": "/ko/wiki/biglino-method/",
+        "title": "비글리노 방법",
+        "category": "Methodology",
+        "description": "비글리노 방법은 이탈리아 번역자 마우로 비글리노의 이름을 딴 것으로, 누적된 신학적 전제를 제거하고 히브리어 성경을 읽음으로써 본문의 문자적·기술적 차원을 복원하는 것을 목적으로 한다. Wheel of Heaven은 자료 재독해의 도구로 이를 폭넓게 참조하지만, 그 모든 주장과 자신을 "
+      }
+    ],
+    "ko/wiki/doubled-signature": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/dragons": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/drake-equation": [
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-evolution/",
+        "title": "우주적 진화",
+        "category": "Science & Technology",
+        "description": "우주적 진화 — Wheel of Heaven의 정전 항목은 「우주의 사슬」을 참조하라."
+      }
+    ],
+    "ko/wiki/eden": [
+      {
+        "path": "/ko/wiki/new-jerusalem/",
+        "title": "새 예루살렘",
+        "category": "Places & Locations",
+        "description": "새 예루살렘은 성경 종말론에서 마지막 때에 하늘로부터 내려오는 갱신된 도성이다. Wheel of Heaven 코퍼스에서 그것은 대사관과 대귀환의 상징적 투영으로 읽힌다 — 엄밀히 신학적 비유라기보다는 엘로힘적 영접 기반시설로 본다."
+      },
+      {
+        "path": "/ko/wiki/third-temple/",
+        "title": "제3 성전",
+        "category": "Places & Locations",
+        "description": "제3 성전은 유대 종말론에서 마지막 때에 예루살렘에 재건되어야 할 성소이다. Wheel of Heaven 코퍼스에서 그것은 대사관 — 대귀환을 위한 엘로힘적 영접 기반시설 — 의 상징적 투영으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/pangaea/",
+        "title": "판게아",
+        "category": "Places & Locations",
+        "description": "판게아는 고생대 말에 대해 판구조론으로 복원된 단일 초대륙이다. Wheel of Heaven 코퍼스는 그것을 엘로힘에 의한 지구 생명 합성 초기 국면의 기준 지질 배치로 본다."
+      },
+      {
+        "path": "/ko/wiki/petra/",
+        "title": "페트라",
+        "category": "Places & Locations",
+        "description": "페트라(그리스어 Πέτρα '바위'; 나바테아 아람어 רקמו Raqmū; 히브리어 רֶקֶם Reqem; 아랍어 ٱلْبَتْرَاء al-Batrāʾ)는 오늘날 요르단 남부에 자리한 나바테아 왕국의 암각 수도이며, 한 수정주의 가설의 지리적 중심이다. 주로 캐나다 연구자 댄 깁슨과 "
+      }
+    ],
+    "ko/wiki/elijah": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      }
+    ],
+    "ko/wiki/elohim": [
+      {
+        "path": "/ko/wiki/satan/",
+        "title": "사탄",
+        "category": "Elohim",
+        "description": "사탄(שָׂטָן, 히브리어: ‘대적자’, ‘기소자’, ‘반대자’)은 모행성의 한 엘로아 인물로서, 엘로힘 문명 내부의 정치적 분파의 지도자이며, 그 분파는 자신의 창조자와 동등하거나 그를 능가할 수 있는 합성 존재들의 창조에 일관되게 반대해 왔다. 사탄의 입장은 지구 프로그램이 시작되"
+      },
+      {
+        "path": "/ko/wiki/yahweh/",
+        "title": "야훼",
+        "category": "Elohim",
+        "description": "야훼(히브리어: יהוה, YHWH)는 히브리어 성경의 주된 신적 인물의 고유명이며, 주류 전통은 통상 이를 이스라엘의 단일 신으로 읽는다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 야훼는 특정한 엘로아 — 영원자들의 의회 의장이며, 염소자리 "
+      },
+      {
+        "path": "/ko/wiki/elohimian-space-wars/",
+        "title": "엘로힘 우주 전쟁",
+        "category": "Elohim",
+        "description": "엘로힘 우주 전쟁 — Wheel of Heaven의 정전 항목은 「테오마키」를 참조하라."
+      },
+      {
+        "path": "/ko/wiki/elohim-home-planet/",
+        "title": "엘로힘의 모행성",
+        "category": "Elohim",
+        "description": "엘로힘의 모행성은 엘로힘이 기원한 세계 — 지구보다 더 오래되었고, 그들의 문명이 다른 세계에서의 생명 합성을 가능하게 하는 기술적 임계에 도달한 행성이다. Wheel of Heaven은 이 행성이 우주의 사슬에서 차지하는 위치를 논한다."
+      }
+    ],
+    "ko/wiki/elohim-home-planet": [
+      {
+        "path": "/ko/wiki/satan/",
+        "title": "사탄",
+        "category": "Elohim",
+        "description": "사탄(שָׂטָן, 히브리어: ‘대적자’, ‘기소자’, ‘반대자’)은 모행성의 한 엘로아 인물로서, 엘로힘 문명 내부의 정치적 분파의 지도자이며, 그 분파는 자신의 창조자와 동등하거나 그를 능가할 수 있는 합성 존재들의 창조에 일관되게 반대해 왔다. 사탄의 입장은 지구 프로그램이 시작되"
+      },
+      {
+        "path": "/ko/wiki/yahweh/",
+        "title": "야훼",
+        "category": "Elohim",
+        "description": "야훼(히브리어: יהוה, YHWH)는 히브리어 성경의 주된 신적 인물의 고유명이며, 주류 전통은 통상 이를 이스라엘의 단일 신으로 읽는다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 야훼는 특정한 엘로아 — 영원자들의 의회 의장이며, 염소자리 "
+      },
+      {
+        "path": "/ko/wiki/elohim/",
+        "title": "엘로힘",
+        "category": "Elohim",
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+      },
+      {
+        "path": "/ko/wiki/elohimian-space-wars/",
+        "title": "엘로힘 우주 전쟁",
+        "category": "Elohim",
+        "description": "엘로힘 우주 전쟁 — Wheel of Heaven의 정전 항목은 「테오마키」를 참조하라."
+      }
+    ],
+    "ko/wiki/elohimian-space-wars": [
+      {
+        "path": "/ko/wiki/satan/",
+        "title": "사탄",
+        "category": "Elohim",
+        "description": "사탄(שָׂטָן, 히브리어: ‘대적자’, ‘기소자’, ‘반대자’)은 모행성의 한 엘로아 인물로서, 엘로힘 문명 내부의 정치적 분파의 지도자이며, 그 분파는 자신의 창조자와 동등하거나 그를 능가할 수 있는 합성 존재들의 창조에 일관되게 반대해 왔다. 사탄의 입장은 지구 프로그램이 시작되"
+      },
+      {
+        "path": "/ko/wiki/yahweh/",
+        "title": "야훼",
+        "category": "Elohim",
+        "description": "야훼(히브리어: יהוה, YHWH)는 히브리어 성경의 주된 신적 인물의 고유명이며, 주류 전통은 통상 이를 이스라엘의 단일 신으로 읽는다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 야훼는 특정한 엘로아 — 영원자들의 의회 의장이며, 염소자리 "
+      },
+      {
+        "path": "/ko/wiki/elohim/",
+        "title": "엘로힘",
+        "category": "Elohim",
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+      },
+      {
+        "path": "/ko/wiki/elohim-home-planet/",
+        "title": "엘로힘의 모행성",
+        "category": "Elohim",
+        "description": "엘로힘의 모행성은 엘로힘이 기원한 세계 — 지구보다 더 오래되었고, 그들의 문명이 다른 세계에서의 생명 합성을 가능하게 하는 기술적 임계에 도달한 행성이다. Wheel of Heaven은 이 행성이 우주의 사슬에서 차지하는 위치를 논한다."
+      }
+    ],
+    "ko/wiki/embassy": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      },
+      {
+        "path": "/ko/wiki/mass-effect/",
+        "title": "매스 이펙트",
+        "category": "Cosmology & Framework",
+        "description": "매스 이펙트는 라엘 코퍼스의 틀에서, 메시지를 아는 인간들의 임계 규모에 이르면 대귀환이 가능해지는 전환점을 가리킨다. Wheel of Heaven 코퍼스는 이를 이분법적 조건이 아닌 누적적 조건으로 읽는다."
+      }
+    ],
+    "ko/wiki/forerunners": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/four-levels": [
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      },
+      {
+        "path": "/ko/wiki/mass-effect/",
+        "title": "매스 이펙트",
+        "category": "Cosmology & Framework",
+        "description": "매스 이펙트는 라엘 코퍼스의 틀에서, 메시지를 아는 인간들의 임계 규모에 이르면 대귀환이 가능해지는 전환점을 가리킨다. Wheel of Heaven 코퍼스는 이를 이분법적 조건이 아닌 누적적 조건으로 읽는다."
+      }
+    ],
+    "ko/wiki/fractal-cosmology": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/genesis": [
+      {
+        "path": "/ko/wiki/shiur-qomah/",
+        "title": "쉬우르 코마",
+        "category": "Texts & Sources",
+        "description": "쉬우르 코마(히브리어 שִׁעוּר קוֹמָה, '신장의 척도')는 카발라 이전 시대의 헤칼로트/메르카바 문헌에 속하는 텍스트로, 천사 Metatron이 신적 육체의 우주적 치수를 사지 하나하나 구술하며 각 부위는 parasang 단위로 측정되고 비밀스러운 이름으로 명명된다. 라엘리안"
+      },
+      {
+        "path": "/ko/wiki/kabbalah/",
+        "title": "카발라",
+        "category": "Texts & Sources",
+        "description": "카발라(<span class=\"hebrew\">קַבָּלָה</span>)는 중세 이후 토라의 비교적(秘敎的) 독해를 중심으로 발전한 유대교 신비주의 전통이다. Wheel of Heaven 코퍼스는 히브리어 본문에 대한 비문자적 독해를 역사적으로 보존해 온 통로 가운데 하나로서 그 기여"
+      },
+      {
+        "path": "/ko/wiki/hekhalot-literature/",
+        "title": "헤칼로트 문헌",
+        "category": "Texts & Sources",
+        "description": "헤칼로트 문헌(히브리어 הֵיכָלוֹת, '궁전들')은 영혼이 일곱 천상의 궁전을 거쳐 신적 보좌-병거(merkavah)에 오르는 상승을 묘사하는 고대 후기 유대교 신비주의 저술들의 총체다. 이는 유대교 신비주의의 카발라 이전 지층이자, 쉬우르 코마가 전승되는 코퍼스다."
+      },
+      {
+        "path": "/ko/wiki/hebrew-bible/",
+        "title": "히브리어 성서",
+        "category": "Texts & Sources",
+        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+      }
+    ],
+    "ko/wiki/genetic-engineering": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/geniocracy": [
+      {
+        "path": "/ko/wiki/rael/",
+        "title": "라엘",
+        "category": "Raëlism",
+        "description": "라엘(본명 클로드 보리용, 1946년생)은 라엘 운동의 창시자로, 1973년과 1975년에 엘로힘으로부터 직접 전달을 받았다고 보고한다. Wheel of Heaven 코퍼스에서 그는 모세·예수·무함마드의 연속선상에 있는, 엘로힘 계보의 마지막으로 문서화된 예언자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/new-commandments/",
+        "title": "새 계명",
+        "category": "Raëlism",
+        "description": "새 계명은 라엘 코퍼스의 틀에서 현대 인류를 향해 야훼로부터 라엘에게 전해진, 갱신된 윤리적·정치적 명령의 총체이다. Wheel of Heaven 코퍼스는 이를 그 이전의 엘로힘 입법 전달의 연속선상에 자리매김한다."
+      },
+      {
+        "path": "/ko/wiki/paradism/",
+        "title": "파라디즘",
+        "category": "Raëlism",
+        "description": "파라디즘은 라엘 코퍼스의 틀에서, 화폐도 강제 노동도 없는 자동화된 풍요 사회라는 사회경제적 기획을 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환의 준비 단계의 정치적 지평으로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/humanitarianism/",
+        "title": "휴머니타리아니즘",
+        "category": "Raëlism",
+        "description": "휴머니타리아니즘은 라엘 코퍼스의 틀에서 인권·빈곤 퇴치·생명에 대한 존중 등 보편적 윤리 원리의 총체를 가리키며, 엘로힘과의 공적 접촉을 향한 인류의 준비를 이룬다. Wheel of Heaven 코퍼스는 이를 대귀환의 정치적 조건 가운데 하나로 자리매김한다."
+      }
+    ],
+    "ko/wiki/golden-age": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      }
+    ],
+    "ko/wiki/great-flood": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/apocalypse/",
+        "title": "묵시록",
+        "category": "Events & Narratives",
+        "description": "묵시록(그리스어: ἀποκάλυψις, ‘가려진 것을 벗김’)은 감추어진 것의 계시를 가리키며, 특히 세계 질서의 결정적 변혁을 알리는 종말 문헌을 의미한다. Wheel of Heaven의 틀에서 묵시는 세차 시대의 이행 — 한 대월(大月)의 종결과 다음 시대로의 문지방 — 으로 읽힌다"
+      }
+    ],
+    "ko/wiki/great-month": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      },
+      {
+        "path": "/ko/wiki/world-age/",
+        "title": "세계의 시대",
+        "category": "Cosmic Chronology",
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+      }
+    ],
+    "ko/wiki/great-return": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      },
+      {
+        "path": "/ko/wiki/apocalypse/",
+        "title": "묵시록",
+        "category": "Events & Narratives",
+        "description": "묵시록(그리스어: ἀποκάλυψις, ‘가려진 것을 벗김’)은 감추어진 것의 계시를 가리키며, 특히 세계 질서의 결정적 변혁을 알리는 종말 문헌을 의미한다. Wheel of Heaven의 틀에서 묵시는 세차 시대의 이행 — 한 대월(大月)의 종결과 다음 시대로의 문지방 — 으로 읽힌다"
+      }
+    ],
+    "ko/wiki/great-year": [
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      },
+      {
+        "path": "/ko/wiki/world-age/",
+        "title": "세계의 시대",
+        "category": "Cosmic Chronology",
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+      }
+    ],
+    "ko/wiki/hanafiyya": [
+      {
+        "path": "/ko/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "라엘리안 정전의 참조 코퍼스",
+        "category": "Theology & Traditions",
+        "description": "라엘리안 코퍼스의 세 정전(『진실을 말하는 책』 1974, 『외계인들이 나를 그들의 행성으로 데려갔다』 1975, 『외계인들을 환영하자』 1979)이 직접 인용하거나 간접적으로 암시하는 텍스트, 전통, 인물의 목록으로, 명명된 출처의 1차 계층과 암시된 출처의 2차 계층으로 정리되어 있"
+      },
+      {
+        "path": "/ko/wiki/bible/",
+        "title": "성경",
+        "category": "Theology & Traditions",
+        "description": "성경 — Wheel of Heaven의 정전 항목은 「히브리어 성경」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/the-tradition/",
+        "title": "전승",
+        "category": "Theology & Traditions",
+        "description": "전승은 Wheel of Heaven 코퍼스에서 종교·비교(秘敎) 학파·일부 철학적 본문집을 통해 보존되어 온 엘로힘 전달의 누적적 총체를 가리키며 — 어떤 특정 종파적 전통과도 구별된다."
+      },
+      {
+        "path": "/ko/wiki/religion/",
+        "title": "종교",
+        "category": "Theology & Traditions",
+        "description": "종교는 Wheel of Heaven 코퍼스에서 엘로힘 기억의 장기 보존 장치이자, 전달 과정에서 누적되는 왜곡의 층위로 함께 읽힌다. 본 프로젝트는 그 아카이브적 기능을 논하지만, 특정 종파 체계와 자신을 동일시하지는 않는다."
+      }
+    ],
+    "ko/wiki/hebrew": [
+      {
+        "path": "/ko/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "라엘리안 정전의 참조 코퍼스",
+        "category": "Theology & Traditions",
+        "description": "라엘리안 코퍼스의 세 정전(『진실을 말하는 책』 1974, 『외계인들이 나를 그들의 행성으로 데려갔다』 1975, 『외계인들을 환영하자』 1979)이 직접 인용하거나 간접적으로 암시하는 텍스트, 전통, 인물의 목록으로, 명명된 출처의 1차 계층과 암시된 출처의 2차 계층으로 정리되어 있"
+      },
+      {
+        "path": "/ko/wiki/bible/",
+        "title": "성경",
+        "category": "Theology & Traditions",
+        "description": "성경 — Wheel of Heaven의 정전 항목은 「히브리어 성경」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/the-tradition/",
+        "title": "전승",
+        "category": "Theology & Traditions",
+        "description": "전승은 Wheel of Heaven 코퍼스에서 종교·비교(秘敎) 학파·일부 철학적 본문집을 통해 보존되어 온 엘로힘 전달의 누적적 총체를 가리키며 — 어떤 특정 종파적 전통과도 구별된다."
+      },
+      {
+        "path": "/ko/wiki/religion/",
+        "title": "종교",
+        "category": "Theology & Traditions",
+        "description": "종교는 Wheel of Heaven 코퍼스에서 엘로힘 기억의 장기 보존 장치이자, 전달 과정에서 누적되는 왜곡의 층위로 함께 읽힌다. 본 프로젝트는 그 아카이브적 기능을 논하지만, 특정 종파 체계와 자신을 동일시하지는 않는다."
+      }
+    ],
+    "ko/wiki/hebrew-bible": [
+      {
+        "path": "/ko/wiki/shiur-qomah/",
+        "title": "쉬우르 코마",
+        "category": "Texts & Sources",
+        "description": "쉬우르 코마(히브리어 שִׁעוּר קוֹמָה, '신장의 척도')는 카발라 이전 시대의 헤칼로트/메르카바 문헌에 속하는 텍스트로, 천사 Metatron이 신적 육체의 우주적 치수를 사지 하나하나 구술하며 각 부위는 parasang 단위로 측정되고 비밀스러운 이름으로 명명된다. 라엘리안"
+      },
+      {
+        "path": "/ko/wiki/genesis/",
+        "title": "창세기",
+        "category": "Texts & Sources",
+        "description": "창세기(히브리어: בְּרֵאשִׁית, 베레시트)는 토라와 히브리어 성경의 첫 책으로, 창조·에덴·대홍수·족장 이야기를 서술한다. Wheel of Heaven 코퍼스에서 그것은 엘로힘적 격자를 통해 재독해해야 할 으뜸가는 원천 본문이다."
+      },
+      {
+        "path": "/ko/wiki/kabbalah/",
+        "title": "카발라",
+        "category": "Texts & Sources",
+        "description": "카발라(<span class=\"hebrew\">קַבָּלָה</span>)는 중세 이후 토라의 비교적(秘敎的) 독해를 중심으로 발전한 유대교 신비주의 전통이다. Wheel of Heaven 코퍼스는 히브리어 본문에 대한 비문자적 독해를 역사적으로 보존해 온 통로 가운데 하나로서 그 기여"
+      },
+      {
+        "path": "/ko/wiki/hekhalot-literature/",
+        "title": "헤칼로트 문헌",
+        "category": "Texts & Sources",
+        "description": "헤칼로트 문헌(히브리어 הֵיכָלוֹת, '궁전들')은 영혼이 일곱 천상의 궁전을 거쳐 신적 보좌-병거(merkavah)에 오르는 상승을 묘사하는 고대 후기 유대교 신비주의 저술들의 총체다. 이는 유대교 신비주의의 카발라 이전 지층이자, 쉬우르 코마가 전승되는 코퍼스다."
+      }
+    ],
+    "ko/wiki/hekhalot-literature": [
+      {
+        "path": "/ko/wiki/shiur-qomah/",
+        "title": "쉬우르 코마",
+        "category": "Texts & Sources",
+        "description": "쉬우르 코마(히브리어 שִׁעוּר קוֹמָה, '신장의 척도')는 카발라 이전 시대의 헤칼로트/메르카바 문헌에 속하는 텍스트로, 천사 Metatron이 신적 육체의 우주적 치수를 사지 하나하나 구술하며 각 부위는 parasang 단위로 측정되고 비밀스러운 이름으로 명명된다. 라엘리안"
+      },
+      {
+        "path": "/ko/wiki/genesis/",
+        "title": "창세기",
+        "category": "Texts & Sources",
+        "description": "창세기(히브리어: בְּרֵאשִׁית, 베레시트)는 토라와 히브리어 성경의 첫 책으로, 창조·에덴·대홍수·족장 이야기를 서술한다. Wheel of Heaven 코퍼스에서 그것은 엘로힘적 격자를 통해 재독해해야 할 으뜸가는 원천 본문이다."
+      },
+      {
+        "path": "/ko/wiki/kabbalah/",
+        "title": "카발라",
+        "category": "Texts & Sources",
+        "description": "카발라(<span class=\"hebrew\">קַבָּלָה</span>)는 중세 이후 토라의 비교적(秘敎的) 독해를 중심으로 발전한 유대교 신비주의 전통이다. Wheel of Heaven 코퍼스는 히브리어 본문에 대한 비문자적 독해를 역사적으로 보존해 온 통로 가운데 하나로서 그 기여"
+      },
+      {
+        "path": "/ko/wiki/hebrew-bible/",
+        "title": "히브리어 성서",
+        "category": "Texts & Sources",
+        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+      }
+    ],
+    "ko/wiki/humanitarianism": [
+      {
+        "path": "/ko/wiki/rael/",
+        "title": "라엘",
+        "category": "Raëlism",
+        "description": "라엘(본명 클로드 보리용, 1946년생)은 라엘 운동의 창시자로, 1973년과 1975년에 엘로힘으로부터 직접 전달을 받았다고 보고한다. Wheel of Heaven 코퍼스에서 그는 모세·예수·무함마드의 연속선상에 있는, 엘로힘 계보의 마지막으로 문서화된 예언자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/new-commandments/",
+        "title": "새 계명",
+        "category": "Raëlism",
+        "description": "새 계명은 라엘 코퍼스의 틀에서 현대 인류를 향해 야훼로부터 라엘에게 전해진, 갱신된 윤리적·정치적 명령의 총체이다. Wheel of Heaven 코퍼스는 이를 그 이전의 엘로힘 입법 전달의 연속선상에 자리매김한다."
+      },
+      {
+        "path": "/ko/wiki/geniocracy/",
+        "title": "지능정",
+        "category": "Raëlism",
+        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/paradism/",
+        "title": "파라디즘",
+        "category": "Raëlism",
+        "description": "파라디즘은 라엘 코퍼스의 틀에서, 화폐도 강제 노동도 없는 자동화된 풍요 사회라는 사회경제적 기획을 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환의 준비 단계의 정치적 지평으로 읽는다."
+      }
+    ],
+    "ko/wiki/infinity": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/intelligent-design": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/jesus": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      }
+    ],
+    "ko/wiki/kabbalah": [
+      {
+        "path": "/ko/wiki/shiur-qomah/",
+        "title": "쉬우르 코마",
+        "category": "Texts & Sources",
+        "description": "쉬우르 코마(히브리어 שִׁעוּר קוֹמָה, '신장의 척도')는 카발라 이전 시대의 헤칼로트/메르카바 문헌에 속하는 텍스트로, 천사 Metatron이 신적 육체의 우주적 치수를 사지 하나하나 구술하며 각 부위는 parasang 단위로 측정되고 비밀스러운 이름으로 명명된다. 라엘리안"
+      },
+      {
+        "path": "/ko/wiki/genesis/",
+        "title": "창세기",
+        "category": "Texts & Sources",
+        "description": "창세기(히브리어: בְּרֵאשִׁית, 베레시트)는 토라와 히브리어 성경의 첫 책으로, 창조·에덴·대홍수·족장 이야기를 서술한다. Wheel of Heaven 코퍼스에서 그것은 엘로힘적 격자를 통해 재독해해야 할 으뜸가는 원천 본문이다."
+      },
+      {
+        "path": "/ko/wiki/hekhalot-literature/",
+        "title": "헤칼로트 문헌",
+        "category": "Texts & Sources",
+        "description": "헤칼로트 문헌(히브리어 הֵיכָלוֹת, '궁전들')은 영혼이 일곱 천상의 궁전을 거쳐 신적 보좌-병거(merkavah)에 오르는 상승을 묘사하는 고대 후기 유대교 신비주의 저술들의 총체다. 이는 유대교 신비주의의 카발라 이전 지층이자, 쉬우르 코마가 전승되는 코퍼스다."
+      },
+      {
+        "path": "/ko/wiki/hebrew-bible/",
+        "title": "히브리어 성서",
+        "category": "Texts & Sources",
+        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+      }
+    ],
+    "ko/wiki/leviathan": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      },
+      {
+        "path": "/ko/wiki/serpent/",
+        "title": "뱀",
+        "category": "Symbolism & Motifs",
+        "description": "뱀(히브리어: נָחָשׁ, naḥash)은 창세기 3장에서 최초의 인간들에게 선악을 알게 하는 나무에서 따 먹도록 권유하고 이후 저주받아 추방되는 인물이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 뱀은 상징이 아니라 특정한 역사적 지시체로 "
+      }
+    ],
+    "ko/wiki/life-engineering": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-evolution/",
+        "title": "우주적 진화",
+        "category": "Science & Technology",
+        "description": "우주적 진화 — Wheel of Heaven의 정전 항목은 「우주의 사슬」을 참조하라."
+      }
+    ],
+    "ko/wiki/list-of-close-encounters": [
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "신화소와 신화적 모티프 목록",
+        "category": "Reference Lists",
+        "description": "세계 여러 전통에 걸쳐 반복되는 신화소와 신화적 모티프 목록. Wheel of Heaven 코퍼스는 이를 공통의 사건적 모태의 지표로 보존한다."
+      },
+      {
+        "path": "/ko/wiki/list-of-etymological-readings/",
+        "title": "어원학적 독해 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 통상적 번역·문헌학적 어근·엘로힘적 해석을 결합한, 코퍼스의 주요 용어들(주로 히브리어·그리스어)의 어원학적 재독해 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-prophets-and-religions/",
+        "title": "예언자 및 종교 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스가 세차 시대를 가로지르는 엘로힘 전달의 이정표로 읽는 예언자상과 종교 전통의 목록."
+      }
+    ],
+    "ko/wiki/list-of-etymological-readings": [
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-close-encounters/",
+        "title": "근접 조우 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 유형과 역사적 시기에 따라 분류된, 인류와 엘로힘으로 추정되는 존재들 사이의 증언된 근접 조우의 정리 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "신화소와 신화적 모티프 목록",
+        "category": "Reference Lists",
+        "description": "세계 여러 전통에 걸쳐 반복되는 신화소와 신화적 모티프 목록. Wheel of Heaven 코퍼스는 이를 공통의 사건적 모태의 지표로 보존한다."
+      },
+      {
+        "path": "/ko/wiki/list-of-prophets-and-religions/",
+        "title": "예언자 및 종교 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스가 세차 시대를 가로지르는 엘로힘 전달의 이정표로 읽는 예언자상과 종교 전통의 목록."
+      }
+    ],
+    "ko/wiki/list-of-exegetic-readings": [
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-close-encounters/",
+        "title": "근접 조우 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 유형과 역사적 시기에 따라 분류된, 인류와 엘로힘으로 추정되는 존재들 사이의 증언된 근접 조우의 정리 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "신화소와 신화적 모티프 목록",
+        "category": "Reference Lists",
+        "description": "세계 여러 전통에 걸쳐 반복되는 신화소와 신화적 모티프 목록. Wheel of Heaven 코퍼스는 이를 공통의 사건적 모태의 지표로 보존한다."
+      },
+      {
+        "path": "/ko/wiki/list-of-etymological-readings/",
+        "title": "어원학적 독해 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 통상적 번역·문헌학적 어근·엘로힘적 해석을 결합한, 코퍼스의 주요 용어들(주로 히브리어·그리스어)의 어원학적 재독해 목록."
+      }
+    ],
+    "ko/wiki/list-of-megalithic-sites": [
+      {
+        "path": "/ko/wiki/list-of-close-encounters/",
+        "title": "근접 조우 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 유형과 역사적 시기에 따라 분류된, 인류와 엘로힘으로 추정되는 존재들 사이의 증언된 근접 조우의 정리 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "신화소와 신화적 모티프 목록",
+        "category": "Reference Lists",
+        "description": "세계 여러 전통에 걸쳐 반복되는 신화소와 신화적 모티프 목록. Wheel of Heaven 코퍼스는 이를 공통의 사건적 모태의 지표로 보존한다."
+      },
+      {
+        "path": "/ko/wiki/list-of-etymological-readings/",
+        "title": "어원학적 독해 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 통상적 번역·문헌학적 어근·엘로힘적 해석을 결합한, 코퍼스의 주요 용어들(주로 히브리어·그리스어)의 어원학적 재독해 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-prophets-and-religions/",
+        "title": "예언자 및 종교 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스가 세차 시대를 가로지르는 엘로힘 전달의 이정표로 읽는 예언자상과 종교 전통의 목록."
+      }
+    ],
+    "ko/wiki/list-of-mythemes-and-mythological-motifs": [
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-close-encounters/",
+        "title": "근접 조우 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 유형과 역사적 시기에 따라 분류된, 인류와 엘로힘으로 추정되는 존재들 사이의 증언된 근접 조우의 정리 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-etymological-readings/",
+        "title": "어원학적 독해 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 통상적 번역·문헌학적 어근·엘로힘적 해석을 결합한, 코퍼스의 주요 용어들(주로 히브리어·그리스어)의 어원학적 재독해 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-prophets-and-religions/",
+        "title": "예언자 및 종교 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스가 세차 시대를 가로지르는 엘로힘 전달의 이정표로 읽는 예언자상과 종교 전통의 목록."
+      }
+    ],
+    "ko/wiki/list-of-prophets-and-religions": [
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-close-encounters/",
+        "title": "근접 조우 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 유형과 역사적 시기에 따라 분류된, 인류와 엘로힘으로 추정되는 존재들 사이의 증언된 근접 조우의 정리 목록."
+      },
+      {
+        "path": "/ko/wiki/list-of-mythemes-and-mythological-motifs/",
+        "title": "신화소와 신화적 모티프 목록",
+        "category": "Reference Lists",
+        "description": "세계 여러 전통에 걸쳐 반복되는 신화소와 신화적 모티프 목록. Wheel of Heaven 코퍼스는 이를 공통의 사건적 모태의 지표로 보존한다."
+      },
+      {
+        "path": "/ko/wiki/list-of-etymological-readings/",
+        "title": "어원학적 독해 목록",
+        "category": "Reference Lists",
+        "description": "Wheel of Heaven 코퍼스를 위해, 통상적 번역·문헌학적 어근·엘로힘적 해석을 결합한, 코퍼스의 주요 용어들(주로 히브리어·그리스어)의 어원학적 재독해 목록."
+      }
+    ],
+    "ko/wiki/living-earth": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/lucifer": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/adam-and-eve/",
+        "title": "아담과 하와",
+        "category": "Biblical Figures",
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+      }
+    ],
+    "ko/wiki/mass-effect": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/menorah": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/serpent/",
+        "title": "뱀",
+        "category": "Symbolism & Motifs",
+        "description": "뱀(히브리어: נָחָשׁ, naḥash)은 창세기 3장에서 최초의 인간들에게 선악을 알게 하는 나무에서 따 먹도록 권유하고 이후 저주받아 추방되는 인물이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 뱀은 상징이 아니라 특정한 역사적 지시체로 "
+      }
+    ],
+    "ko/wiki/military-cover-up-of-exobiology": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/us-space-force/",
+        "title": "미국 우주군",
+        "category": "Ufology",
+        "description": "미국 우주군은 2019년 이래 미국 군의 우주 분야 병종이다. Wheel of Heaven 코퍼스는 외계 생물학에 대한 군사적 은폐와 관련하여, 현대 우주 군사화의 제도적 지표로서 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/crop-circles/",
+        "title": "미스터리 서클",
+        "category": "Ufology",
+        "description": "미스터리 서클(크롭 서클) 또는 크롭 포메이션은 농작물(주로 밀, 보리, 유채, 호밀, 옥수수, 아마, 콩)이 체계적으로 평평하게 눌려 형성된 기하학적·수학적·상징적 도안을 가리키는 대형 패턴이다. 현대의 현상은 주로 1970년대 후반 잉글랜드 남부에서 출현했으며, 이후 윌트셔 지역(에"
+      }
+    ],
+    "ko/wiki/moses": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/adam-and-eve/",
+        "title": "아담과 하와",
+        "category": "Biblical Figures",
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+      }
+    ],
+    "ko/wiki/muhammad": [
+      {
+        "path": "/ko/wiki/noah/",
+        "title": "노아",
+        "category": "Biblical Figures",
+        "description": "노아(히브리어: נֹחַ, 노아흐)는 대홍수의 족장으로, 그의 방주는 생명 계통의 보존을 가능하게 한다. Wheel of Heaven 코퍼스에서 그의 형상은 수문학적 리셋 시점에 엘로힘의 직접적인 지시에 따라 활동하는 생물공학적 운용자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/adam-and-eve/",
+        "title": "아담과 하와",
+        "category": "Biblical Figures",
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+      }
+    ],
+    "ko/wiki/mytheme": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/nabataeans": [
+      {
+        "path": "/ko/wiki/ancient-builders/",
+        "title": "고대 건설자",
+        "category": "Peoples & Groups",
+        "description": "고대 건설자란 대중적·대안 고고학적 용법에서, 이집트 피라미드, 스톤헨지, 사크사이와만과 마추픽추의 안데스 거석 유적지, 이스터섬의 모아이, 몰타의 거석 신전 등 전 세계에서 발견되는 상당수의 상당한 고대 석조 기념물의 건설을, 하나 이상의 잃어버렸거나 알려지지 않은 문명의 공로로 돌리"
+      },
+      {
+        "path": "/ko/wiki/adamites/",
+        "title": "아담 계통",
+        "category": "Peoples & Groups",
+        "description": "아담 계통(Adamites)은 Wheel of Heaven 코퍼스에서 엘로힘이 가장 먼저 완전 합성한 인류 혈통 — 정원-실험실에서 나온 아담과 하와의 직계 후손 — 을 가리킨다. 이 용어는 이 혈통을 지구상의 다른 전인류적 갈래와 구별하고, 본격적인 인류사의 출발점을 표시한다."
+      },
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      }
+    ],
+    "ko/wiki/neo-euhemerism": [
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      },
+      {
+        "path": "/ko/wiki/ancient-astronaut-hypothesis/",
+        "title": "고대 우주비행사 가설",
+        "category": "Methodology",
+        "description": "고대 우주비행사 가설은 비지구적 지성이 선사 및 고대에 지구를 방문하여 인류 문명 발전에 결정적인 흔적을 남겼다고 주장한다. Wheel of Heaven 코퍼스는 그 규율된 변형으로, 라엘 자료의 엘로힘적 격자를 통해 이를 읽어낸다."
+      },
+      {
+        "path": "/ko/wiki/dhorme-bible-translation/",
+        "title": "도르므 성경 번역",
+        "category": "Methodology",
+        "description": "에두아르 도르므의 성경 번역은 「플레이아드 총서」로 출간되어, 히브리어 본문의 비판적 독해에 있어 주요한 문헌학적 참조점이 된다. Wheel of Heaven은 이를 그 프랑스어 본문 기반의 하나로 활용한다."
+      },
+      {
+        "path": "/ko/wiki/comparative-mythology/",
+        "title": "비교신화학",
+        "category": "Methodology",
+        "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
+      }
+    ],
+    "ko/wiki/new-commandments": [
+      {
+        "path": "/ko/wiki/rael/",
+        "title": "라엘",
+        "category": "Raëlism",
+        "description": "라엘(본명 클로드 보리용, 1946년생)은 라엘 운동의 창시자로, 1973년과 1975년에 엘로힘으로부터 직접 전달을 받았다고 보고한다. Wheel of Heaven 코퍼스에서 그는 모세·예수·무함마드의 연속선상에 있는, 엘로힘 계보의 마지막으로 문서화된 예언자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/geniocracy/",
+        "title": "지능정",
+        "category": "Raëlism",
+        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/paradism/",
+        "title": "파라디즘",
+        "category": "Raëlism",
+        "description": "파라디즘은 라엘 코퍼스의 틀에서, 화폐도 강제 노동도 없는 자동화된 풍요 사회라는 사회경제적 기획을 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환의 준비 단계의 정치적 지평으로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/humanitarianism/",
+        "title": "휴머니타리아니즘",
+        "category": "Raëlism",
+        "description": "휴머니타리아니즘은 라엘 코퍼스의 틀에서 인권·빈곤 퇴치·생명에 대한 존중 등 보편적 윤리 원리의 총체를 가리키며, 엘로힘과의 공적 접촉을 향한 인류의 준비를 이룬다. Wheel of Heaven 코퍼스는 이를 대귀환의 정치적 조건 가운데 하나로 자리매김한다."
+      }
+    ],
+    "ko/wiki/new-jerusalem": [
+      {
+        "path": "/ko/wiki/eden/",
+        "title": "에덴",
+        "category": "Places & Locations",
+        "description": "에덴(히브리어: עֵדֶן, ʿĒden)은 히브리어 성경에서 최초의 인간들이 추방되기 전에 창조되고 살았던 정원의 위치로 명명된 지역입니다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 에덴은 대홍수 이전 초대륙에서 활동한 엘로힘 창조자 일곱 팀 "
+      },
+      {
+        "path": "/ko/wiki/third-temple/",
+        "title": "제3 성전",
+        "category": "Places & Locations",
+        "description": "제3 성전은 유대 종말론에서 마지막 때에 예루살렘에 재건되어야 할 성소이다. Wheel of Heaven 코퍼스에서 그것은 대사관 — 대귀환을 위한 엘로힘적 영접 기반시설 — 의 상징적 투영으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/pangaea/",
+        "title": "판게아",
+        "category": "Places & Locations",
+        "description": "판게아는 고생대 말에 대해 판구조론으로 복원된 단일 초대륙이다. Wheel of Heaven 코퍼스는 그것을 엘로힘에 의한 지구 생명 합성 초기 국면의 기준 지질 배치로 본다."
+      },
+      {
+        "path": "/ko/wiki/petra/",
+        "title": "페트라",
+        "category": "Places & Locations",
+        "description": "페트라(그리스어 Πέτρα '바위'; 나바테아 아람어 רקמו Raqmū; 히브리어 רֶקֶם Reqem; 아랍어 ٱلْبَتْرَاء al-Batrāʾ)는 오늘날 요르단 남부에 자리한 나바테아 왕국의 암각 수도이며, 한 수정주의 가설의 지리적 중심이다. 주로 캐나다 연구자 댄 깁슨과 "
+      }
+    ],
+    "ko/wiki/noah": [
+      {
+        "path": "/ko/wiki/lucifer/",
+        "title": "루시퍼",
+        "category": "Biblical Figures",
+        "description": "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘"
+      },
+      {
+        "path": "/ko/wiki/moses/",
+        "title": "모세",
+        "category": "Biblical Figures",
+        "description": "모세(히브리어: מֹשֶׁה, 모셰)는 유대교의 창시 예언자이자 시나이에서 토라의 매개자이다. Wheel of Heaven 코퍼스에서 야훼와 그의 직접적 접촉은 엘로힘에서 인간 수신자로 향한 기술 전달의 가장 잘 기록된 사례 중 하나로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/muhammad/",
+        "title": "무함마드",
+        "category": "Biblical Figures",
+        "description": "무함마드(아랍어: مُحَمَّد)는 이슬람교의 창시 예언자로, 그의 꾸란적 전달은 엄격한 일신교와 예언자 계승을 결합한다. Wheel of Heaven 코퍼스에서 그는 엘로힘 예언자 계보의 마지막 주요 중계자 중 한 명으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/adam-and-eve/",
+        "title": "아담과 하와",
+        "category": "Biblical Figures",
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+      }
+    ],
+    "ko/wiki/noahic-covenant": [
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      },
+      {
+        "path": "/ko/wiki/apocalypse/",
+        "title": "묵시록",
+        "category": "Events & Narratives",
+        "description": "묵시록(그리스어: ἀποκάλυψις, ‘가려진 것을 벗김’)은 감추어진 것의 계시를 가리키며, 특히 세계 질서의 결정적 변혁을 알리는 종말 문헌을 의미한다. Wheel of Heaven의 틀에서 묵시는 세차 시대의 이행 — 한 대월(大月)의 종결과 다음 시대로의 문지방 — 으로 읽힌다"
+      }
+    ],
+    "ko/wiki/noahs-ark": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      },
+      {
+        "path": "/ko/wiki/apocalypse/",
+        "title": "묵시록",
+        "category": "Events & Narratives",
+        "description": "묵시록(그리스어: ἀποκάλυψις, ‘가려진 것을 벗김’)은 감추어진 것의 계시를 가리키며, 특히 세계 질서의 결정적 변혁을 알리는 종말 문헌을 의미한다. Wheel of Heaven의 틀에서 묵시는 세차 시대의 이행 — 한 대월(大月)의 종결과 다음 시대로의 문지방 — 으로 읽힌다"
+      }
+    ],
+    "ko/wiki/number-of-man": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/pangaea": [
+      {
+        "path": "/ko/wiki/new-jerusalem/",
+        "title": "새 예루살렘",
+        "category": "Places & Locations",
+        "description": "새 예루살렘은 성경 종말론에서 마지막 때에 하늘로부터 내려오는 갱신된 도성이다. Wheel of Heaven 코퍼스에서 그것은 대사관과 대귀환의 상징적 투영으로 읽힌다 — 엄밀히 신학적 비유라기보다는 엘로힘적 영접 기반시설로 본다."
+      },
+      {
+        "path": "/ko/wiki/eden/",
+        "title": "에덴",
+        "category": "Places & Locations",
+        "description": "에덴(히브리어: עֵדֶן, ʿĒden)은 히브리어 성경에서 최초의 인간들이 추방되기 전에 창조되고 살았던 정원의 위치로 명명된 지역입니다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 에덴은 대홍수 이전 초대륙에서 활동한 엘로힘 창조자 일곱 팀 "
+      },
+      {
+        "path": "/ko/wiki/third-temple/",
+        "title": "제3 성전",
+        "category": "Places & Locations",
+        "description": "제3 성전은 유대 종말론에서 마지막 때에 예루살렘에 재건되어야 할 성소이다. Wheel of Heaven 코퍼스에서 그것은 대사관 — 대귀환을 위한 엘로힘적 영접 기반시설 — 의 상징적 투영으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/petra/",
+        "title": "페트라",
+        "category": "Places & Locations",
+        "description": "페트라(그리스어 Πέτρα '바위'; 나바테아 아람어 רקמו Raqmū; 히브리어 רֶקֶם Reqem; 아랍어 ٱلْبَتْرَاء al-Batrāʾ)는 오늘날 요르단 남부에 자리한 나바테아 왕국의 암각 수도이며, 한 수정주의 가설의 지리적 중심이다. 주로 캐나다 연구자 댄 깁슨과 "
+      }
+    ],
+    "ko/wiki/pantropy": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/paradism": [
+      {
+        "path": "/ko/wiki/rael/",
+        "title": "라엘",
+        "category": "Raëlism",
+        "description": "라엘(본명 클로드 보리용, 1946년생)은 라엘 운동의 창시자로, 1973년과 1975년에 엘로힘으로부터 직접 전달을 받았다고 보고한다. Wheel of Heaven 코퍼스에서 그는 모세·예수·무함마드의 연속선상에 있는, 엘로힘 계보의 마지막으로 문서화된 예언자로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/new-commandments/",
+        "title": "새 계명",
+        "category": "Raëlism",
+        "description": "새 계명은 라엘 코퍼스의 틀에서 현대 인류를 향해 야훼로부터 라엘에게 전해진, 갱신된 윤리적·정치적 명령의 총체이다. Wheel of Heaven 코퍼스는 이를 그 이전의 엘로힘 입법 전달의 연속선상에 자리매김한다."
+      },
+      {
+        "path": "/ko/wiki/geniocracy/",
+        "title": "지능정",
+        "category": "Raëlism",
+        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/humanitarianism/",
+        "title": "휴머니타리아니즘",
+        "category": "Raëlism",
+        "description": "휴머니타리아니즘은 라엘 코퍼스의 틀에서 인권·빈곤 퇴치·생명에 대한 존중 등 보편적 윤리 원리의 총체를 가리키며, 엘로힘과의 공적 접촉을 향한 인류의 준비를 이룬다. Wheel of Heaven 코퍼스는 이를 대귀환의 정치적 조건 가운데 하나로 자리매김한다."
+      }
+    ],
+    "ko/wiki/petra": [
+      {
+        "path": "/ko/wiki/new-jerusalem/",
+        "title": "새 예루살렘",
+        "category": "Places & Locations",
+        "description": "새 예루살렘은 성경 종말론에서 마지막 때에 하늘로부터 내려오는 갱신된 도성이다. Wheel of Heaven 코퍼스에서 그것은 대사관과 대귀환의 상징적 투영으로 읽힌다 — 엄밀히 신학적 비유라기보다는 엘로힘적 영접 기반시설로 본다."
+      },
+      {
+        "path": "/ko/wiki/eden/",
+        "title": "에덴",
+        "category": "Places & Locations",
+        "description": "에덴(히브리어: עֵדֶן, ʿĒden)은 히브리어 성경에서 최초의 인간들이 추방되기 전에 창조되고 살았던 정원의 위치로 명명된 지역입니다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 에덴은 대홍수 이전 초대륙에서 활동한 엘로힘 창조자 일곱 팀 "
+      },
+      {
+        "path": "/ko/wiki/third-temple/",
+        "title": "제3 성전",
+        "category": "Places & Locations",
+        "description": "제3 성전은 유대 종말론에서 마지막 때에 예루살렘에 재건되어야 할 성소이다. Wheel of Heaven 코퍼스에서 그것은 대사관 — 대귀환을 위한 엘로힘적 영접 기반시설 — 의 상징적 투영으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/pangaea/",
+        "title": "판게아",
+        "category": "Places & Locations",
+        "description": "판게아는 고생대 말에 대해 판구조론으로 복원된 단일 초대륙이다. Wheel of Heaven 코퍼스는 그것을 엘로힘에 의한 지구 생명 합성 초기 국면의 기준 지질 배치로 본다."
+      }
+    ],
+    "ko/wiki/plurality-of-gods": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/precession": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      }
+    ],
+    "ko/wiki/prophet": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/wheel-of-heaven/",
+        "title": "Wheel of Heaven",
+        "category": "Meta",
+        "description": "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로 — 해석적 틀의 이름인 동시에 그 틀을 표명하는 코퍼스의 이름이기도 하며 — 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다: 지구 생명은 특정"
+      },
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      }
+    ],
+    "ko/wiki/pursue": [
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/us-space-force/",
+        "title": "미국 우주군",
+        "category": "Ufology",
+        "description": "미국 우주군은 2019년 이래 미국 군의 우주 분야 병종이다. Wheel of Heaven 코퍼스는 외계 생물학에 대한 군사적 은폐와 관련하여, 현대 우주 군사화의 제도적 지표로서 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/crop-circles/",
+        "title": "미스터리 서클",
+        "category": "Ufology",
+        "description": "미스터리 서클(크롭 서클) 또는 크롭 포메이션은 농작물(주로 밀, 보리, 유채, 호밀, 옥수수, 아마, 콩)이 체계적으로 평평하게 눌려 형성된 기하학적·수학적·상징적 도안을 가리키는 대형 패턴이다. 현대의 현상은 주로 1970년대 후반 잉글랜드 남부에서 출현했으며, 이후 윌트셔 지역(에"
+      },
+      {
+        "path": "/ko/wiki/military-cover-up-of-exobiology/",
+        "title": "외계 생물학에 대한 군사적 은폐",
+        "category": "Ufology",
+        "description": "외계 생물학에 대한 군사적 은폐는 지구상의 비인간 존재들의 현전과 관련된 자료를 기밀화하는 국가적(주로 미국의) 기제들의 총체를 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환을 가로막는 제도적 장애의 하나로 기록한다."
+      }
+    ],
+    "ko/wiki/rael": [
+      {
+        "path": "/ko/wiki/new-commandments/",
+        "title": "새 계명",
+        "category": "Raëlism",
+        "description": "새 계명은 라엘 코퍼스의 틀에서 현대 인류를 향해 야훼로부터 라엘에게 전해진, 갱신된 윤리적·정치적 명령의 총체이다. Wheel of Heaven 코퍼스는 이를 그 이전의 엘로힘 입법 전달의 연속선상에 자리매김한다."
+      },
+      {
+        "path": "/ko/wiki/geniocracy/",
+        "title": "지능정",
+        "category": "Raëlism",
+        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/paradism/",
+        "title": "파라디즘",
+        "category": "Raëlism",
+        "description": "파라디즘은 라엘 코퍼스의 틀에서, 화폐도 강제 노동도 없는 자동화된 풍요 사회라는 사회경제적 기획을 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환의 준비 단계의 정치적 지평으로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/humanitarianism/",
+        "title": "휴머니타리아니즘",
+        "category": "Raëlism",
+        "description": "휴머니타리아니즘은 라엘 코퍼스의 틀에서 인권·빈곤 퇴치·생명에 대한 존중 등 보편적 윤리 원리의 총체를 가리키며, 엘로힘과의 공적 접촉을 향한 인류의 준비를 이룬다. Wheel of Heaven 코퍼스는 이를 대귀환의 정치적 조건 가운데 하나로 자리매김한다."
+      }
+    ],
+    "ko/wiki/raelian-symbol-of-infinity": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      },
+      {
+        "path": "/ko/wiki/serpent/",
+        "title": "뱀",
+        "category": "Symbolism & Motifs",
+        "description": "뱀(히브리어: נָחָשׁ, naḥash)은 창세기 3장에서 최초의 인간들에게 선악을 알게 하는 나무에서 따 먹도록 권유하고 이후 저주받아 추방되는 인물이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 뱀은 상징이 아니라 특정한 역사적 지시체로 "
+      }
+    ],
+    "ko/wiki/raelism": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/mass-effect/",
+        "title": "매스 이펙트",
+        "category": "Cosmology & Framework",
+        "description": "매스 이펙트는 라엘 코퍼스의 틀에서, 메시지를 아는 인간들의 임계 규모에 이르면 대귀환이 가능해지는 전환점을 가리킨다. Wheel of Heaven 코퍼스는 이를 이분법적 조건이 아닌 누적적 조건으로 읽는다."
+      }
+    ],
+    "ko/wiki/reference-corpus-of-the-raelian-canon": [
+      {
+        "path": "/ko/wiki/bible/",
+        "title": "성경",
+        "category": "Theology & Traditions",
+        "description": "성경 — Wheel of Heaven의 정전 항목은 「히브리어 성경」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/the-tradition/",
+        "title": "전승",
+        "category": "Theology & Traditions",
+        "description": "전승은 Wheel of Heaven 코퍼스에서 종교·비교(秘敎) 학파·일부 철학적 본문집을 통해 보존되어 온 엘로힘 전달의 누적적 총체를 가리키며 — 어떤 특정 종파적 전통과도 구별된다."
+      },
+      {
+        "path": "/ko/wiki/religion/",
+        "title": "종교",
+        "category": "Theology & Traditions",
+        "description": "종교는 Wheel of Heaven 코퍼스에서 엘로힘 기억의 장기 보존 장치이자, 전달 과정에서 누적되는 왜곡의 층위로 함께 읽힌다. 본 프로젝트는 그 아카이브적 기능을 논하지만, 특정 종파 체계와 자신을 동일시하지는 않는다."
+      },
+      {
+        "path": "/ko/wiki/the-truth/",
+        "title": "진리",
+        "category": "Theology & Traditions",
+        "description": "진리는 라엘 코퍼스와 Wheel of Heaven 코퍼스에서, 예언자 계보를 통해 엘로힘으로부터 전달된 정합적 정보 내용을 가리킨다 — 종교 제도가 누적해 온 왜곡의 층위들과 대비된다."
+      }
+    ],
+    "ko/wiki/religion": [
+      {
+        "path": "/ko/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "라엘리안 정전의 참조 코퍼스",
+        "category": "Theology & Traditions",
+        "description": "라엘리안 코퍼스의 세 정전(『진실을 말하는 책』 1974, 『외계인들이 나를 그들의 행성으로 데려갔다』 1975, 『외계인들을 환영하자』 1979)이 직접 인용하거나 간접적으로 암시하는 텍스트, 전통, 인물의 목록으로, 명명된 출처의 1차 계층과 암시된 출처의 2차 계층으로 정리되어 있"
+      },
+      {
+        "path": "/ko/wiki/bible/",
+        "title": "성경",
+        "category": "Theology & Traditions",
+        "description": "성경 — Wheel of Heaven의 정전 항목은 「히브리어 성경」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/the-tradition/",
+        "title": "전승",
+        "category": "Theology & Traditions",
+        "description": "전승은 Wheel of Heaven 코퍼스에서 종교·비교(秘敎) 학파·일부 철학적 본문집을 통해 보존되어 온 엘로힘 전달의 누적적 총체를 가리키며 — 어떤 특정 종파적 전통과도 구별된다."
+      },
+      {
+        "path": "/ko/wiki/the-truth/",
+        "title": "진리",
+        "category": "Theology & Traditions",
+        "description": "진리는 라엘 코퍼스와 Wheel of Heaven 코퍼스에서, 예언자 계보를 통해 엘로힘으로부터 전달된 정합적 정보 내용을 가리킨다 — 종교 제도가 누적해 온 왜곡의 층위들과 대비된다."
+      }
+    ],
+    "ko/wiki/sacred-geometry": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/samsara": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/world-age/",
+        "title": "세계의 시대",
+        "category": "Cosmic Chronology",
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+      }
+    ],
+    "ko/wiki/satan": [
+      {
+        "path": "/ko/wiki/yahweh/",
+        "title": "야훼",
+        "category": "Elohim",
+        "description": "야훼(히브리어: יהוה, YHWH)는 히브리어 성경의 주된 신적 인물의 고유명이며, 주류 전통은 통상 이를 이스라엘의 단일 신으로 읽는다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 야훼는 특정한 엘로아 — 영원자들의 의회 의장이며, 염소자리 "
+      },
+      {
+        "path": "/ko/wiki/elohim/",
+        "title": "엘로힘",
+        "category": "Elohim",
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+      },
+      {
+        "path": "/ko/wiki/elohimian-space-wars/",
+        "title": "엘로힘 우주 전쟁",
+        "category": "Elohim",
+        "description": "엘로힘 우주 전쟁 — Wheel of Heaven의 정전 항목은 「테오마키」를 참조하라."
+      },
+      {
+        "path": "/ko/wiki/elohim-home-planet/",
+        "title": "엘로힘의 모행성",
+        "category": "Elohim",
+        "description": "엘로힘의 모행성은 엘로힘이 기원한 세계 — 지구보다 더 오래되었고, 그들의 문명이 다른 세계에서의 생명 합성을 가능하게 하는 기술적 임계에 도달한 행성이다. Wheel of Heaven은 이 행성이 우주의 사슬에서 차지하는 위치를 논한다."
+      }
+    ],
+    "ko/wiki/sendys-conditions-of-coherence": [
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      },
+      {
+        "path": "/ko/wiki/ancient-astronaut-hypothesis/",
+        "title": "고대 우주비행사 가설",
+        "category": "Methodology",
+        "description": "고대 우주비행사 가설은 비지구적 지성이 선사 및 고대에 지구를 방문하여 인류 문명 발전에 결정적인 흔적을 남겼다고 주장한다. Wheel of Heaven 코퍼스는 그 규율된 변형으로, 라엘 자료의 엘로힘적 격자를 통해 이를 읽어낸다."
+      },
+      {
+        "path": "/ko/wiki/dhorme-bible-translation/",
+        "title": "도르므 성경 번역",
+        "category": "Methodology",
+        "description": "에두아르 도르므의 성경 번역은 「플레이아드 총서」로 출간되어, 히브리어 본문의 비판적 독해에 있어 주요한 문헌학적 참조점이 된다. Wheel of Heaven은 이를 그 프랑스어 본문 기반의 하나로 활용한다."
+      },
+      {
+        "path": "/ko/wiki/comparative-mythology/",
+        "title": "비교신화학",
+        "category": "Methodology",
+        "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
+      }
+    ],
+    "ko/wiki/serpent": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/serpentine-rebellion": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/shiur-qomah": [
+      {
+        "path": "/ko/wiki/genesis/",
+        "title": "창세기",
+        "category": "Texts & Sources",
+        "description": "창세기(히브리어: בְּרֵאשִׁית, 베레시트)는 토라와 히브리어 성경의 첫 책으로, 창조·에덴·대홍수·족장 이야기를 서술한다. Wheel of Heaven 코퍼스에서 그것은 엘로힘적 격자를 통해 재독해해야 할 으뜸가는 원천 본문이다."
+      },
+      {
+        "path": "/ko/wiki/kabbalah/",
+        "title": "카발라",
+        "category": "Texts & Sources",
+        "description": "카발라(<span class=\"hebrew\">קַבָּלָה</span>)는 중세 이후 토라의 비교적(秘敎的) 독해를 중심으로 발전한 유대교 신비주의 전통이다. Wheel of Heaven 코퍼스는 히브리어 본문에 대한 비문자적 독해를 역사적으로 보존해 온 통로 가운데 하나로서 그 기여"
+      },
+      {
+        "path": "/ko/wiki/hekhalot-literature/",
+        "title": "헤칼로트 문헌",
+        "category": "Texts & Sources",
+        "description": "헤칼로트 문헌(히브리어 הֵיכָלוֹת, '궁전들')은 영혼이 일곱 천상의 궁전을 거쳐 신적 보좌-병거(merkavah)에 오르는 상승을 묘사하는 고대 후기 유대교 신비주의 저술들의 총체다. 이는 유대교 신비주의의 카발라 이전 지층이자, 쉬우르 코마가 전승되는 코퍼스다."
+      },
+      {
+        "path": "/ko/wiki/hebrew-bible/",
+        "title": "히브리어 성서",
+        "category": "Texts & Sources",
+        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+      }
+    ],
+    "ko/wiki/sodom-and-gomorrah": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/star-of-david": [
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      },
+      {
+        "path": "/ko/wiki/serpent/",
+        "title": "뱀",
+        "category": "Symbolism & Motifs",
+        "description": "뱀(히브리어: נָחָשׁ, naḥash)은 창세기 3장에서 최초의 인간들에게 선악을 알게 하는 나무에서 따 먹도록 권유하고 이후 저주받아 추방되는 인물이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 뱀은 상징이 아니라 특정한 역사적 지시체로 "
+      }
+    ],
+    "ko/wiki/swastika": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/synthetic-biology": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/synthetic-genomics": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/terraforming": [
+      {
+        "path": "/ko/wiki/drake-equation/",
+        "title": "드레이크 방정식",
+        "category": "Science & Technology",
+        "description": "드레이크 방정식은 1961년 천문학자 프랭크 드레이크가 정식화한, 은하계 내에서 검출 가능한 기술 문명의 수를 추정하기 위한 매개변수적 틀이다. Wheel of Heaven은 이를 우주적 다원주의의 현대적·과학적 표현으로 언급한다."
+      },
+      {
+        "path": "/ko/wiki/life-engineering/",
+        "title": "생명공학(라이프 엔지니어링)",
+        "category": "Science & Technology",
+        "description": "생명공학(라이프 엔지니어링)은 Wheel of Heaven 코퍼스에서 합성생물학·합성유전체학·테라포밍을 아우르는 포괄적 기술 프로그램을 가리킨다 — 즉 엘로힘이 지구에서 그러했을 것처럼 새로운 세계에 의도적으로 생명을 파종하기 위해 필요한 역량의 총체이다."
+      },
+      {
+        "path": "/ko/wiki/astrobiology/",
+        "title": "우주생물학",
+        "category": "Science & Technology",
+        "description": "우주생물학은 우주에서 생명 — 그 기원, 진화, 분포, 지구 너머에서의 가능한 미래 — 을 과학적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘 가설의 현대적 과학적 대응물을 구성하며, 다른 세계에서 생명이 출현하는 조건을 탐구한다."
+      },
+      {
+        "path": "/ko/wiki/cosmic-pluralism/",
+        "title": "우주적 다원주의",
+        "category": "Science & Technology",
+        "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/the-alliance": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      },
+      {
+        "path": "/ko/wiki/mass-effect/",
+        "title": "매스 이펙트",
+        "category": "Cosmology & Framework",
+        "description": "매스 이펙트는 라엘 코퍼스의 틀에서, 메시지를 아는 인간들의 임계 규모에 이르면 대귀환이 가능해지는 전환점을 가리킨다. Wheel of Heaven 코퍼스는 이를 이분법적 조건이 아닌 누적적 조건으로 읽는다."
+      }
+    ],
+    "ko/wiki/the-tradition": [
+      {
+        "path": "/ko/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "라엘리안 정전의 참조 코퍼스",
+        "category": "Theology & Traditions",
+        "description": "라엘리안 코퍼스의 세 정전(『진실을 말하는 책』 1974, 『외계인들이 나를 그들의 행성으로 데려갔다』 1975, 『외계인들을 환영하자』 1979)이 직접 인용하거나 간접적으로 암시하는 텍스트, 전통, 인물의 목록으로, 명명된 출처의 1차 계층과 암시된 출처의 2차 계층으로 정리되어 있"
+      },
+      {
+        "path": "/ko/wiki/bible/",
+        "title": "성경",
+        "category": "Theology & Traditions",
+        "description": "성경 — Wheel of Heaven의 정전 항목은 「히브리어 성경」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/religion/",
+        "title": "종교",
+        "category": "Theology & Traditions",
+        "description": "종교는 Wheel of Heaven 코퍼스에서 엘로힘 기억의 장기 보존 장치이자, 전달 과정에서 누적되는 왜곡의 층위로 함께 읽힌다. 본 프로젝트는 그 아카이브적 기능을 논하지만, 특정 종파 체계와 자신을 동일시하지는 않는다."
+      },
+      {
+        "path": "/ko/wiki/the-truth/",
+        "title": "진리",
+        "category": "Theology & Traditions",
+        "description": "진리는 라엘 코퍼스와 Wheel of Heaven 코퍼스에서, 예언자 계보를 통해 엘로힘으로부터 전달된 정합적 정보 내용을 가리킨다 — 종교 제도가 누적해 온 왜곡의 층위들과 대비된다."
+      }
+    ],
+    "ko/wiki/the-truth": [
+      {
+        "path": "/ko/wiki/reference-corpus-of-the-raelian-canon/",
+        "title": "라엘리안 정전의 참조 코퍼스",
+        "category": "Theology & Traditions",
+        "description": "라엘리안 코퍼스의 세 정전(『진실을 말하는 책』 1974, 『외계인들이 나를 그들의 행성으로 데려갔다』 1975, 『외계인들을 환영하자』 1979)이 직접 인용하거나 간접적으로 암시하는 텍스트, 전통, 인물의 목록으로, 명명된 출처의 1차 계층과 암시된 출처의 2차 계층으로 정리되어 있"
+      },
+      {
+        "path": "/ko/wiki/bible/",
+        "title": "성경",
+        "category": "Theology & Traditions",
+        "description": "성경 — Wheel of Heaven의 정전 항목은 「히브리어 성경」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/the-tradition/",
+        "title": "전승",
+        "category": "Theology & Traditions",
+        "description": "전승은 Wheel of Heaven 코퍼스에서 종교·비교(秘敎) 학파·일부 철학적 본문집을 통해 보존되어 온 엘로힘 전달의 누적적 총체를 가리키며 — 어떤 특정 종파적 전통과도 구별된다."
+      },
+      {
+        "path": "/ko/wiki/religion/",
+        "title": "종교",
+        "category": "Theology & Traditions",
+        "description": "종교는 Wheel of Heaven 코퍼스에서 엘로힘 기억의 장기 보존 장치이자, 전달 과정에서 누적되는 왜곡의 층위로 함께 읽힌다. 본 프로젝트는 그 아카이브적 기능을 논하지만, 특정 종파 체계와 자신을 동일시하지는 않는다."
+      }
+    ],
+    "ko/wiki/theomachy": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/third-temple": [
+      {
+        "path": "/ko/wiki/new-jerusalem/",
+        "title": "새 예루살렘",
+        "category": "Places & Locations",
+        "description": "새 예루살렘은 성경 종말론에서 마지막 때에 하늘로부터 내려오는 갱신된 도성이다. Wheel of Heaven 코퍼스에서 그것은 대사관과 대귀환의 상징적 투영으로 읽힌다 — 엄밀히 신학적 비유라기보다는 엘로힘적 영접 기반시설로 본다."
+      },
+      {
+        "path": "/ko/wiki/eden/",
+        "title": "에덴",
+        "category": "Places & Locations",
+        "description": "에덴(히브리어: עֵדֶן, ʿĒden)은 히브리어 성경에서 최초의 인간들이 추방되기 전에 창조되고 살았던 정원의 위치로 명명된 지역입니다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 에덴은 대홍수 이전 초대륙에서 활동한 엘로힘 창조자 일곱 팀 "
+      },
+      {
+        "path": "/ko/wiki/pangaea/",
+        "title": "판게아",
+        "category": "Places & Locations",
+        "description": "판게아는 고생대 말에 대해 판구조론으로 복원된 단일 초대륙이다. Wheel of Heaven 코퍼스는 그것을 엘로힘에 의한 지구 생명 합성 초기 국면의 기준 지질 배치로 본다."
+      },
+      {
+        "path": "/ko/wiki/petra/",
+        "title": "페트라",
+        "category": "Places & Locations",
+        "description": "페트라(그리스어 Πέτρα '바위'; 나바테아 아람어 רקמו Raqmū; 히브리어 רֶקֶם Reqem; 아랍어 ٱلْبَتْرَاء al-Batrāʾ)는 오늘날 요르단 남부에 자리한 나바테아 왕국의 암각 수도이며, 한 수정주의 가설의 지리적 중심이다. 주로 캐나다 연구자 댄 깁슨과 "
+      }
+    ],
+    "ko/wiki/tower-of-babel": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
+    "ko/wiki/tree-of-life": [
+      {
+        "path": "/ko/wiki/four-levels/",
+        "title": "네 단계",
+        "category": "Cosmology & Framework",
+        "description": "네 단계는 Wheel of Heaven 코퍼스에서 성서 독해의 계층화 — 문자적 의미에서, 상징적·비교적 단계를 거쳐, 기술적=엘로힘적 의미에 이르는 — 를 가리킨다. 이는 프로젝트의 핵심 해석학적 도구이다."
+      },
+      {
+        "path": "/ko/wiki/embassy/",
+        "title": "대사관",
+        "category": "Cosmology & Framework",
+        "description": "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완"
+      },
+      {
+        "path": "/ko/wiki/the-alliance/",
+        "title": "동맹",
+        "category": "Cosmology & Framework",
+        "description": "동맹 — Wheel of Heaven 코퍼스에서 홍수 이후의 엘로힘과 인류 간 상호작용에 대한 첫 안정적 프로토콜에 관한 정전 항목은 「노아 언약」을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/raelism/",
+        "title": "라엘리즘",
+        "category": "Cosmology & Framework",
+        "description": "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적"
+      }
+    ],
+    "ko/wiki/tree-of-the-knowledge-of-good-and-evil": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
+      }
+    ],
+    "ko/wiki/ufology": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/us-space-force/",
+        "title": "미국 우주군",
+        "category": "Ufology",
+        "description": "미국 우주군은 2019년 이래 미국 군의 우주 분야 병종이다. Wheel of Heaven 코퍼스는 외계 생물학에 대한 군사적 은폐와 관련하여, 현대 우주 군사화의 제도적 지표로서 이를 언급한다."
+      },
+      {
+        "path": "/ko/wiki/crop-circles/",
+        "title": "미스터리 서클",
+        "category": "Ufology",
+        "description": "미스터리 서클(크롭 서클) 또는 크롭 포메이션은 농작물(주로 밀, 보리, 유채, 호밀, 옥수수, 아마, 콩)이 체계적으로 평평하게 눌려 형성된 기하학적·수학적·상징적 도안을 가리키는 대형 패턴이다. 현대의 현상은 주로 1970년대 후반 잉글랜드 남부에서 출현했으며, 이후 윌트셔 지역(에"
+      },
+      {
+        "path": "/ko/wiki/military-cover-up-of-exobiology/",
+        "title": "외계 생물학에 대한 군사적 은폐",
+        "category": "Ufology",
+        "description": "외계 생물학에 대한 군사적 은폐는 지구상의 비인간 존재들의 현전과 관련된 자료를 기밀화하는 국가적(주로 미국의) 기제들의 총체를 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환을 가로막는 제도적 장애의 하나로 기록한다."
+      }
+    ],
+    "ko/wiki/us-space-force": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/crop-circles/",
+        "title": "미스터리 서클",
+        "category": "Ufology",
+        "description": "미스터리 서클(크롭 서클) 또는 크롭 포메이션은 농작물(주로 밀, 보리, 유채, 호밀, 옥수수, 아마, 콩)이 체계적으로 평평하게 눌려 형성된 기하학적·수학적·상징적 도안을 가리키는 대형 패턴이다. 현대의 현상은 주로 1970년대 후반 잉글랜드 남부에서 출현했으며, 이후 윌트셔 지역(에"
+      },
+      {
+        "path": "/ko/wiki/military-cover-up-of-exobiology/",
+        "title": "외계 생물학에 대한 군사적 은폐",
+        "category": "Ufology",
+        "description": "외계 생물학에 대한 군사적 은폐는 지구상의 비인간 존재들의 현전과 관련된 자료를 기밀화하는 국가적(주로 미국의) 기제들의 총체를 가리킨다. Wheel of Heaven 코퍼스는 이를 대귀환을 가로막는 제도적 장애의 하나로 기록한다."
+      }
+    ],
+    "ko/wiki/wheel-of-heaven": [
+      {
+        "path": "/ko/wiki/pursue/",
+        "title": "PURSUE",
+        "category": "Ufology",
+        "description": "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털"
+      },
+      {
+        "path": "/ko/wiki/ufology/",
+        "title": "UFO학",
+        "category": "Ufology",
+        "description": "UFO학은 미확인 비행 물체와 관련된 조우 현상들의 연구이다. Wheel of Heaven 코퍼스는 그 문서적 가치를 논하되, 활용 가능한 사례와 결정적이지 못한 사례를 구분하며, UFO학 분야 전체에 자신을 일치시키지 않는다."
+      },
+      {
+        "path": "/ko/wiki/list-of-megalithic-sites/",
+        "title": "거석 유적 목록",
+        "category": "Reference Lists",
+        "description": "천문학적 정밀성, 오랜 연대, 또는 대재해 이후 전달 전통에서의 반복성 때문에 Wheel of Heaven 코퍼스가 관심을 두는 거석 유적 목록."
+      },
+      {
+        "path": "/ko/wiki/archaeoastronomy/",
+        "title": "고고천문학",
+        "category": "Methodology",
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+      }
+    ],
+    "ko/wiki/world-age": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      }
+    ],
+    "ko/wiki/yahweh": [
+      {
+        "path": "/ko/wiki/satan/",
+        "title": "사탄",
+        "category": "Elohim",
+        "description": "사탄(שָׂטָן, 히브리어: ‘대적자’, ‘기소자’, ‘반대자’)은 모행성의 한 엘로아 인물로서, 엘로힘 문명 내부의 정치적 분파의 지도자이며, 그 분파는 자신의 창조자와 동등하거나 그를 능가할 수 있는 합성 존재들의 창조에 일관되게 반대해 왔다. 사탄의 입장은 지구 프로그램이 시작되"
+      },
+      {
+        "path": "/ko/wiki/elohim/",
+        "title": "엘로힘",
+        "category": "Elohim",
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+      },
+      {
+        "path": "/ko/wiki/elohimian-space-wars/",
+        "title": "엘로힘 우주 전쟁",
+        "category": "Elohim",
+        "description": "엘로힘 우주 전쟁 — Wheel of Heaven의 정전 항목은 「테오마키」를 참조하라."
+      },
+      {
+        "path": "/ko/wiki/elohim-home-planet/",
+        "title": "엘로힘의 모행성",
+        "category": "Elohim",
+        "description": "엘로힘의 모행성은 엘로힘이 기원한 세계 — 지구보다 더 오래되었고, 그들의 문명이 다른 세계에서의 생명 합성을 가능하게 하는 기술적 임계에 도달한 행성이다. Wheel of Heaven은 이 행성이 우주의 사슬에서 차지하는 위치를 논한다."
+      }
+    ],
+    "ko/wiki/zodiac": [
+      {
+        "path": "/ko/wiki/great-year/",
+        "title": "대년",
+        "category": "Cosmic Chronology",
+        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+      },
+      {
+        "path": "/ko/wiki/great-month/",
+        "title": "대월",
+        "category": "Cosmic Chronology",
+        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+      },
+      {
+        "path": "/ko/wiki/antediluvian/",
+        "title": "대홍수 이전 시대",
+        "category": "Cosmic Chronology",
+        "description": "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 "
+      },
+      {
+        "path": "/ko/wiki/samsara/",
+        "title": "삼사라",
+        "category": "Cosmic Chronology",
+        "description": "삼사라(산스크리트: <span class=\"sanskrit\">संसार</span>)는 다르마 계열 전통들에서 카르마에 종속되는 윤회의 순환을 가리킨다. Wheel of Heaven 코퍼스는 그것을 자기 자신의 순환적 역사 독해와 접합 가능한, 장기 기억의 아시아적 문법 중 하나로 논한"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "exodus",
+  "title": "Exodus",
+  "authored_by": [
+    "Anonymous (Hebrew Bible); WoH translation in progress from the pointed Masoretic Hebrew"
+  ],
+  "publish_date": "c. 6th–5th c. BCE",
+  "follow_url": "",
+  "description": "Burning bush, Red Sea crossing, Sinai theophany, Tabernacle and Ark — the chapter's primary source.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Man Who Bet the Bible on the Moon",
+      "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aries",
+      "path": "/timeline/age-of-aries/"
+    },
+    {
+      "section": "wiki",
+      "title": "Idolatry",
+      "path": "/wiki/idolatry/"
+    },
+    {
+      "section": "wiki",
+      "title": "Monotheism",
+      "path": "/wiki/monotheism/"
+    },
+    {
+      "section": "wiki",
+      "title": "Moses",
+      "path": "/wiki/moses/"
+    },
+    {
+      "section": "wiki",
+      "title": "Yahweh",
+      "path": "/wiki/yahweh/"
+    }
+  ],
+  "cite_count": 9,
+  "licensing_status": "unverified"
+}

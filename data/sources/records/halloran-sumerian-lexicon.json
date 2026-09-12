@@ -1,0 +1,39 @@
+{
+  "id": "halloran-sumerian-lexicon",
+  "title": "Sumerian Lexicon",
+  "authored_by": [
+    "John A. Halloran"
+  ],
+  "publish_date": "2006",
+  "follow_url": "https://www.sumerian.org/",
+  "description": "Halloran's accessible Sumerian lexicon, principal contemporary reference for Sumerian etymology behind the Eden / Edin material.",
+  "medium": "academic-paper",
+  "topics": [
+    "Eden",
+    "Sumerian"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are the Anunnaki the Elohim?",
+      "path": "/articles/anunnaki-and-the-elohim/"
+    },
+    {
+      "section": "wiki",
+      "title": "Anunnaki",
+      "path": "/wiki/anunnaki/"
+    },
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Sumerian King List",
+      "path": "/wiki/sumerian-king-list/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

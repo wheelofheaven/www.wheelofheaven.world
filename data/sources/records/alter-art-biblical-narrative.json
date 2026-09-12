@@ -1,0 +1,24 @@
+{
+  "id": "alter-art-biblical-narrative",
+  "title": "The Art of Biblical Narrative",
+  "authored_by": [
+    "Robert Alter"
+  ],
+  "publish_date": "1981",
+  "follow_url": "https://www.basicbooks.com/",
+  "description": "Alter's principal articulation of the literary-critical reading of biblical narrative, foundational for the contemporary literary approach.",
+  "medium": "academic-paper",
+  "topics": [
+    "Hebrew Bible",
+    "Literary Criticism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

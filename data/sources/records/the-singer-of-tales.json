@@ -1,0 +1,26 @@
+{
+  "id": "the-singer-of-tales",
+  "title": "The Singer of Tales",
+  "authored_by": [
+    "Albert B. Lord"
+  ],
+  "publish_date": "1960",
+  "follow_url": "",
+  "description": "",
+  "medium": "",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Rain Over Helicon",
+      "path": "/articles/the-rain-over-helicon/"
+    },
+    {
+      "section": "articles",
+      "title": "The World Behind the Odyssey",
+      "path": "/articles/the-world-behind-the-odyssey/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

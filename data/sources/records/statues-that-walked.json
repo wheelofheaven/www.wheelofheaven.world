@@ -1,0 +1,27 @@
+{
+  "id": "statues-that-walked",
+  "title": "The Statues That Walked: Unraveling the Mystery of Easter Island",
+  "authored_by": [
+    "Terry Hunt",
+    "Carl Lipo"
+  ],
+  "publish_date": "2011",
+  "follow_url": "https://www.simonandschuster.com/books/The-Statues-that-Walked/Terry-Hunt/9781439150313",
+  "description": "Terry Hunt and Carl Lipo's 2011 Free Press work — the principal contemporary scholarly engagement with Easter Island (Rapa Nui) archaeology. The authors propose and experimentally demonstrate the \"walking\" hypothesis for moai transport: that the statues were moved upright across the island using ropes that rocked them side-to-side. Their 2012 documented experimental demonstration substantively confirmed the method's feasibility and is the principal mainstream account of how the moai were transported from the Rano Raraku quarry to the coastal ahu platforms.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Easter Island",
+    "Moai",
+    "Rapa Nui",
+    "Ancient Builders"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

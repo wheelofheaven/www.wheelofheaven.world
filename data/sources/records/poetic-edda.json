@@ -1,0 +1,36 @@
+{
+  "id": "poetic-edda",
+  "title": "The Poetic Edda",
+  "authored_by": [
+    "Carolyne Larrington (trans.)"
+  ],
+  "publish_date": "2014",
+  "follow_url": "https://global.oup.com/academic/",
+  "description": "The principal collection of Old Norse mythological and heroic poems (Carolyne Larrington's revised 2014 Oxford translation), including the *Völuspá* and *Grímnismál* that describe Yggdrasil, the Norse cosmic tree. The standard primary source for the Yggdrasil tradition the corpus reads comparatively against the Tree of Life.",
+  "medium": "religious-text",
+  "topics": [
+    "Norse Mythology",
+    "Yggdrasil",
+    "Cosmic Tree",
+    "Poetic Edda"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Mill That Grinds the Ages",
+      "path": "/articles/the-mill-that-grinds-the-ages/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hamlet's Mill",
+      "path": "/wiki/hamlets-mill/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "licensed"
+}

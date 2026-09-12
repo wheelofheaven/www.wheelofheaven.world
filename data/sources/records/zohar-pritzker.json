@@ -1,0 +1,37 @@
+{
+  "id": "zohar-pritzker",
+  "title": "The Zohar (Pritzker Edition)",
+  "authored_by": [
+    "Daniel C. Matt (trans.)"
+  ],
+  "publish_date": "2003",
+  "follow_url": "https://www.sup.org/zohar/",
+  "description": "The Pritzker Edition (Daniel Matt et al., Stanford University Press, 2003–2017) — the standard scholarly English translation of the Zohar, the principal text of Kabbalah (composed in preserved form c. late 13th century). Develops the Sammael-on-the-Serpent narrative and the Lilith and Adam Kadmon traditions the corpus engages comparatively.",
+  "medium": "religious-text",
+  "topics": [
+    "Kabbalah",
+    "Zohar",
+    "Serpent",
+    "Lilith",
+    "Adam Kadmon"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "licensed"
+}

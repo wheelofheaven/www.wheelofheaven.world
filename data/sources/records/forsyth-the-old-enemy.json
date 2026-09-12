@@ -1,0 +1,36 @@
+{
+  "id": "forsyth-the-old-enemy",
+  "title": "The Old Enemy: Satan and the Combat Myth",
+  "authored_by": [
+    "Neil Forsyth"
+  ],
+  "publish_date": "1987",
+  "follow_url": "https://press.princeton.edu/books/paperback/9780691014746/the-old-enemy",
+  "description": "Neil Forsyth's 1987 Princeton University Press study tracing the cosmic-adversary tradition from ancient Near Eastern combat-myth sources through the developed Christian Satan figure. The standard scholarly treatment of how the combat-myth structure shaped the biblical and post-biblical adversary, providing comparative-mythological context for the corpus's reading.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Satan",
+    "Combat Myth",
+    "Comparative Mythology",
+    "Devil"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    },
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "licensed"
+}

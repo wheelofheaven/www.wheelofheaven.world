@@ -1,0 +1,57 @@
+{
+  "id": "magicians-of-the-gods",
+  "title": "Magicians of the Gods: The Forgotten Wisdom of Earth’s Lost Civilisation",
+  "authored_by": [
+    "Graham Hancock"
+  ],
+  "publish_date": "2015",
+  "follow_url": "https://grahamhancock.com/magicians-of-the-gods/",
+  "description": "Graham Hancock's 2015 sequel to *Fingerprints of the Gods* (1995). The work converges on the Younger Dryas impact hypothesis — the proposal that a comet-fragment impact at approximately 12,800 years before present produced the Younger Dryas climate event and destroyed an advanced civilization that had existed during the preceding warm period. Hancock marshals the Göbekli Tepe evidence, the Younger Dryas Boundary research of Firestone, Kennett, and others, and the global pre-Flood traditions to argue for a coherent catastrophist reconstruction of late-Pleistocene civilization. The corpus shares Hancock's broad direction without endorsing the comet-impact mechanism as the Flood event itself.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Antediluvian",
+    "Flood",
+    "Younger Dryas",
+    "Lost Civilization",
+    "Göbekli Tepe"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Mill That Grinds the Ages",
+      "path": "/articles/the-mill-that-grinds-the-ages/"
+    },
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    },
+    {
+      "section": "wiki",
+      "title": "Antediluvian",
+      "path": "/wiki/antediluvian/"
+    },
+    {
+      "section": "wiki",
+      "title": "Göbekli Tepe",
+      "path": "/wiki/gobekli-tepe/"
+    },
+    {
+      "section": "wiki",
+      "title": "Graham Hancock",
+      "path": "/wiki/graham-hancock/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Sphinx",
+      "path": "/wiki/great-sphinx/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hamlet's Mill",
+      "path": "/wiki/hamlets-mill/"
+    }
+  ],
+  "cite_count": 7,
+  "licensing_status": "licensed"
+}

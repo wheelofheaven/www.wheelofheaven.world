@@ -1,0 +1,35 @@
+{
+  "id": "ptolemy-almagest",
+  "title": "Almagest",
+  "authored_by": [
+    "Claudius Ptolemy"
+  ],
+  "publish_date": "c. 150 CE",
+  "follow_url": "https://press.princeton.edu/",
+  "description": "Ptolemy's principal astronomical-mathematical synthesis; the principal ancient source for the Greek-mathematical articulation of precession.",
+  "medium": "academic-paper",
+  "topics": [
+    "Precession",
+    "Astronomy",
+    "Ancient"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Mill That Grinds the Ages",
+      "path": "/articles/the-mill-that-grinds-the-ages/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hamlet's Mill",
+      "path": "/wiki/hamlets-mill/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tauroctony",
+      "path": "/wiki/tauroctony/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

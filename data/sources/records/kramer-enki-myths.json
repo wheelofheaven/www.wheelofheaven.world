@@ -1,0 +1,41 @@
+{
+  "id": "kramer-enki-myths",
+  "title": "Myths of Enki, the Crafty God",
+  "authored_by": [
+    "Samuel Noah Kramer",
+    "John Maier"
+  ],
+  "publish_date": "1989",
+  "follow_url": "https://global.oup.com/academic/",
+  "description": "Kramer and Maier's principal accessible English collection of the Enki mythological corpus from Sumerian sources.",
+  "medium": "religious-text",
+  "topics": [
+    "Sumerian",
+    "Comparative Religion",
+    "Eden"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are the Anunnaki the Elohim?",
+      "path": "/articles/anunnaki-and-the-elohim/"
+    },
+    {
+      "section": "wiki",
+      "title": "Anunnaki",
+      "path": "/wiki/anunnaki/"
+    },
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

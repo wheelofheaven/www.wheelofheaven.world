@@ -1,0 +1,31 @@
+{
+  "id": "gospel-of-john",
+  "title": "Gospel of John",
+  "authored_by": [
+    "Anonymous (Johannine community)"
+  ],
+  "publish_date": "c. 90–110 CE",
+  "follow_url": "",
+  "description": "Source of the 'living water' passages cited in §VII.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

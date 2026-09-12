@@ -1,0 +1,26 @@
+{
+  "id": "arrhenius-worlds-in-the-making",
+  "title": "Worlds in the Making: The Evolution of the Universe",
+  "authored_by": [
+    "Svante Arrhenius"
+  ],
+  "publish_date": "1908",
+  "follow_url": "https://archive.org/details/worldsinmakingev00arrh",
+  "description": "Svante Arrhenius's 1908 work proposing classical panspermia — the transmission of microbial life across cosmic distances on dust and meteoric material. The foundational early-20th-century panspermia statement the corpus engages historically.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Panspermia",
+    "Cosmology",
+    "Arrhenius",
+    "Origin of Life"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cosmic Chain",
+      "path": "/wiki/cosmic-chain/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

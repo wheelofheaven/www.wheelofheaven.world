@@ -1,0 +1,69 @@
+{
+  "id": "sitchin-12th-planet",
+  "title": "The 12th Planet",
+  "authored_by": [
+    "Zecharia Sitchin"
+  ],
+  "publish_date": "1976",
+  "follow_url": "https://www.sitchin.com/",
+  "description": "Sitchin's foundational articulation of the ancient-astronaut reading of Mesopotamian-biblical material; the principal popular-cultural anchor for the broader Elohim-as-ET reading.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Ancient Astronaut Theory",
+    "Mesopotamian"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are the Anunnaki the Elohim?",
+      "path": "/articles/anunnaki-and-the-elohim/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Man Who Bet the Bible on the Moon",
+      "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "wiki",
+      "title": "Anunnaki",
+      "path": "/wiki/anunnaki/"
+    },
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Sumerian King List",
+      "path": "/wiki/sumerian-king-list/"
+    },
+    {
+      "section": "wiki",
+      "title": "Zecharia Sitchin",
+      "path": "/wiki/zecharia-sitchin/"
+    }
+  ],
+  "cite_count": 10,
+  "licensing_status": "unverified"
+}

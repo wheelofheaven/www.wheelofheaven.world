@@ -1,0 +1,36 @@
+{
+  "id": "pagels-origin-of-satan",
+  "title": "The Origin of Satan",
+  "authored_by": [
+    "Elaine Pagels"
+  ],
+  "publish_date": "1995",
+  "follow_url": "https://www.penguinrandomhouse.com/books/167764/the-origin-of-satan-by-elaine-pagels/",
+  "description": "Elaine Pagels's 1995 Random House study of how the Satan figure developed in early Christianity and the social-political contexts that shaped it. Pagels argues the cosmic Satan was constructed to demonize religious opponents. Standard scholarly treatment supporting the corpus's reading of the Devil as a post-biblical synthesis.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Satan",
+    "Early Christianity",
+    "Devil",
+    "Hebrew Bible"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    },
+    {
+      "section": "wiki",
+      "title": "Serpent",
+      "path": "/wiki/serpent/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "licensed"
+}

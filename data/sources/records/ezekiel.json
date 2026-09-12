@@ -1,0 +1,61 @@
+{
+  "id": "ezekiel",
+  "title": "Ezekiel",
+  "authored_by": [
+    "Ezekiel ben-Buzi"
+  ],
+  "publish_date": "c. 593–571 BCE",
+  "follow_url": "",
+  "description": "The Ezekiel-1 chariot-vision passage cited in §II and re-read at length in §V.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Book Closest to the Truth",
+      "path": "/articles/the-book-closest-to-the-truth/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aries",
+      "path": "/timeline/age-of-aries/"
+    },
+    {
+      "section": "wiki",
+      "title": "Ezekiel",
+      "path": "/wiki/ezekiel/"
+    },
+    {
+      "section": "wiki",
+      "title": "Wheel of Heaven",
+      "path": "/wiki/wheel-of-heaven/"
+    },
+    {
+      "section": "wiki",
+      "title": "Yahweh",
+      "path": "/wiki/yahweh/"
+    }
+  ],
+  "cite_count": 9,
+  "licensing_status": "unverified"
+}

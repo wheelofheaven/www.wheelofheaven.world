@@ -1,0 +1,26 @@
+{
+  "id": "prometheus-unbound",
+  "title": "Prometheus Unbound",
+  "authored_by": [
+    "Percy Bysshe Shelley"
+  ],
+  "publish_date": "1820",
+  "follow_url": "https://www.gutenberg.org/ebooks/4800",
+  "description": "Percy Bysshe Shelley's 1820 lyrical drama developing the Prometheus figure as the moral hero of resistance to tyrannical authority, with the Lucifer-Prometheus parallel made explicit in Shelley's preface. The most thorough Romantic-era development of the light-bringer figure as positive moral exemplar.",
+  "medium": "fiction-book",
+  "topics": [
+    "Prometheus",
+    "Lucifer",
+    "Romanticism",
+    "English Literature"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "public_domain"
+}

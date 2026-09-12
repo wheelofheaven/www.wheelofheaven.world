@@ -1,0 +1,31 @@
+{
+  "id": "birrell-chinese-mythology",
+  "title": "Chinese Mythology: An Introduction",
+  "authored_by": [
+    "Anne Birrell"
+  ],
+  "publish_date": "1993",
+  "follow_url": "https://www.press.jhu.edu/books/title/2096/chinese-mythology",
+  "description": "Anne Birrell's 1993 Johns Hopkins University Press study and translation of early Chinese mythology, including the Pangu cosmogony and the Nüwa clay-formation narrative the corpus reads comparatively against the Genesis creation material.",
+  "medium": "religious-text",
+  "topics": [
+    "Chinese Mythology",
+    "Pangu",
+    "Nüwa",
+    "Comparative Mythology"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "licensed"
+}

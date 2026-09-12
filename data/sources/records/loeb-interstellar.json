@@ -1,0 +1,26 @@
+{
+  "id": "loeb-interstellar",
+  "title": "Interstellar: The Search for Extraterrestrial Life and Our Future Beyond Earth",
+  "authored_by": [
+    "Avi Loeb"
+  ],
+  "publish_date": "2023",
+  "follow_url": "https://www.harpercollins.com/",
+  "description": "Avi Loeb's 2023 Mariner work extending the search-for-extraterrestrial-artifacts argument, including the Galileo Project's observational program. The corpus engages it alongside *Extraterrestrial* as contemporary scientific context for the embassy.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Extraterrestrial Life",
+    "Galileo Project",
+    "SETI",
+    "Astrophysics"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Embassy",
+      "path": "/wiki/embassy/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

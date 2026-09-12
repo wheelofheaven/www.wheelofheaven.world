@@ -1,0 +1,41 @@
+{
+  "id": "city-of-god",
+  "title": "The City of God",
+  "authored_by": [
+    "Augustine of Hippo"
+  ],
+  "publish_date": "426",
+  "follow_url": "https://www.newadvent.org/fathers/1201.htm",
+  "description": "Augustine of Hippo's early-fifth-century work, a principal source of the patristic synthesis of the Lucifer-fall and original-sin doctrines. The corpus reads Augustine's reading of Genesis 3 as the specific theological development — not a textual given — that fixed the Western original-sin doctrine the framework rejects.",
+  "medium": "article",
+  "topics": [
+    "Augustine",
+    "Original Sin",
+    "Lucifer",
+    "Patristics"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Lucifer",
+      "path": "/wiki/lucifer/"
+    },
+    {
+      "section": "wiki",
+      "title": "Nephilim",
+      "path": "/wiki/nephilim/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "public_domain"
+}

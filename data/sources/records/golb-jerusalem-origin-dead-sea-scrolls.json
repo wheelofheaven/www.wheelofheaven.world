@@ -1,0 +1,30 @@
+{
+  "id": "golb-jerusalem-origin-dead-sea-scrolls",
+  "title": "On the Jerusalem Origin of the Dead Sea Scrolls",
+  "authored_by": [
+    "Norman Golb"
+  ],
+  "publish_date": "2009",
+  "follow_url": "http://oi.uchicago.edu/pdf/jerusalem_origin_dss.pdf",
+  "description": "Norman Golb's statement of the Jerusalem (non-Qumranic) provenance hypothesis: that the scrolls are salvaged libraries of Jerusalem hidden in the desert before the Roman siege, rather than a single sectarian library at Qumran.",
+  "medium": "academic-paper",
+  "topics": [
+    "dead-sea-scrolls",
+    "qumran",
+    "provenance-debate"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

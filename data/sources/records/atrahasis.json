@@ -1,0 +1,46 @@
+{
+  "id": "atrahasis",
+  "title": "Atrahasis",
+  "authored_by": [
+    "Anonymous (Akkadian)"
+  ],
+  "publish_date": "c. 17th c. BCE",
+  "follow_url": "",
+  "description": "",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Flood Was a Reset, Not a Punishment",
+      "path": "/articles/the-flood-was-a-reset-not-a-punishment/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "timeline",
+      "title": "Preamble",
+      "path": "/timeline/preamble/"
+    },
+    {
+      "section": "wiki",
+      "title": "Council of the Eternals",
+      "path": "/wiki/council-of-eternals/"
+    },
+    {
+      "section": "wiki",
+      "title": "Genesis",
+      "path": "/wiki/genesis/"
+    }
+  ],
+  "cite_count": 6,
+  "licensing_status": "unverified"
+}

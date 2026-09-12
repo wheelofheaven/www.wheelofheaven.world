@@ -1,0 +1,26 @@
+{
+  "id": "a-hebrew-and-english-lexicon-of-the-old-testament",
+  "title": "A Hebrew and English Lexicon of the Old Testament",
+  "authored_by": [
+    "Francis Brown, S. R. Driver, and Charles A. Briggs"
+  ],
+  "publish_date": "1906",
+  "follow_url": "",
+  "description": "The BDB lexicon. Source for the entries on tannin / taninim discussed in §V.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Virgo",
+      "path": "/timeline/age-of-virgo/"
+    },
+    {
+      "section": "wiki",
+      "title": "Yahweh",
+      "path": "/wiki/yahweh/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "joshua",
+  "title": "Joshua",
+  "authored_by": [
+    "Anonymous (Hebrew Bible)"
+  ],
+  "publish_date": "c. 6th c. BCE (Deuteronomistic History)",
+  "follow_url": "",
+  "description": "Jericho assault, Beth-Horon battle, and the 'long day' incident cited in §III.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aries",
+      "path": "/timeline/age-of-aries/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

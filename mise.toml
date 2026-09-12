@@ -27,6 +27,10 @@ run = "python3 scripts/build_relatedness_layout.py"
 description = "Rebuild data/translations.json (canonical-path -> [languages] manifest for hreflang)"
 run = "python3 scripts/build_translations_manifest.py"
 
+[tasks.related]
+description = "Rebuild data/related/*.json (precomputed Read-next cards for wiki and article pages)"
+run = "python3 scripts/build_related.py"
+
 [tasks.broadcast]
 description = "Post newly published content to enabled social channels"
 run = "python3 -m scripts.broadcast"
@@ -37,7 +41,7 @@ run = "python3 -m scripts.broadcast --dry-run"
 
 [tasks.build]
 description = "Compile site statically with Zola"
-depends = ["bundle", "sources", "translations", "relatedness"]
+depends = ["bundle", "sources", "translations", "relatedness", "related"]
 run = "zola build"
 
 [tasks.purgecss]
@@ -50,10 +54,12 @@ description = "Production build with CSS purging"
 run = "mise run build && mise run purgecss"
 
 [tasks.serve]
-description = "Run dev server against the full site — all 10 locales, ~3 min per rebuild"
+description = "Run dev server against the full site — all 10 locales, ~70s per rebuild"
 run = """
 port=${ZOLA_PORT:-1111}
 while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+# Zola's rayon pool takes every core by default; leave some for the editor.
+export RAYON_NUM_THREADS="${RAYON_NUM_THREADS:-4}"
 echo "Serving on http://127.0.0.1:$port"
 zola serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
 """
@@ -64,40 +70,49 @@ raw = true
 # themes/ logs "Themes changed" and re-renders the whole site, so a one-line
 # SCSS tweak costs a full build. The nine translated locales are ~90% of the
 # pages and ~92% of the output bytes, so building without them is the lever.
-# Measured on this corpus: 189s full, 19s dev, 10s lean.
+# Measured on this corpus on 2026-09-12: 67s full, 9s dev, 6s lean, 4s min
+# (before the template work of that day: 189s / 19s / 10s / 8s — the cost was
+# get_section() scans in related-content.html and per-page loads of the full
+# sources manifest; see scripts/build_related.py and build_sources.py).
 
 [tasks.dev-config]
 description = "Regenerate config.dev.toml and config.lean.toml from config.toml"
 run = "python3 scripts/build_dev_config.py"
 
 [tasks.dev]
-description = "Dev server, English only (~19s per rebuild instead of ~189s)"
+description = "Dev server, English only (~9s per rebuild instead of ~67s)"
 depends = ["dev-config"]
 run = """
 port=${ZOLA_PORT:-1111}
 while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+# Zola's rayon pool takes every core by default; leave some for the editor.
+export RAYON_NUM_THREADS="${RAYON_NUM_THREADS:-4}"
 echo "Serving English-only site on http://127.0.0.1:$port"
 zola -c config.dev.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
 """
 raw = true
 
 [tasks.dev-lean]
-description = "Dev server, English minus the generated /sources/ records (~10s per rebuild)"
+description = "Dev server, English minus the generated /sources/ records (~6s per rebuild)"
 depends = ["dev-config"]
 run = """
 port=${ZOLA_PORT:-1111}
 while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+# Zola's rayon pool takes every core by default; leave some for the editor.
+export RAYON_NUM_THREADS="${RAYON_NUM_THREADS:-4}"
 echo "Serving lean site on http://127.0.0.1:$port"
 zola -c config.lean.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
 """
 raw = true
 
 [tasks.dev-min]
-description = "Dev server, representative slice of the corpus (~8s per rebuild)"
+description = "Dev server, representative slice of the corpus (~4s per rebuild)"
 depends = ["dev-config"]
 run = """
 port=${ZOLA_PORT:-1111}
 while lsof -Pi :$port -sTCP:LISTEN -t >/dev/null 2>&1; do port=$((port + 1)); done
+# Zola's rayon pool takes every core by default; leave some for the editor.
+export RAYON_NUM_THREADS="${RAYON_NUM_THREADS:-4}"
 echo "Serving minimal slice on http://127.0.0.1:$port"
 echo "  wiki + timeline are complete; other sections keep 5 pages each."
 zola -c config.min.toml serve --port $port --interface 0.0.0.0 --base-url http://127.0.0.1
@@ -105,7 +120,7 @@ zola -c config.min.toml serve --port $port --interface 0.0.0.0 --base-url http:/
 raw = true
 
 [tasks.build-dev]
-description = "One-off English-only build into public-dev/ — a sanity check without the 3-minute wait"
+description = "One-off English-only build into public-dev/ — a sanity check without the full-site wait"
 depends = ["dev-config"]
 run = "zola -c config.dev.toml build -o public-dev --force"
 
@@ -115,7 +130,7 @@ depends = ["dev-config"]
 run = """
 out=${WOH_PREVIEW_DIR:-public-dev}
 if [ ! -f "$out/index.html" ]; then
-    echo "No preview in $out yet — building it once (~10s)…"
+    echo "No preview in $out yet — building it once (~6s)…"
     zola -c config.lean.toml build -o "$out" --force
 fi
 port=${ZOLA_PORT:-1111}

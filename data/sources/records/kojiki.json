@@ -1,0 +1,24 @@
+{
+  "id": "kojiki",
+  "title": "Kojiki (古事記)",
+  "authored_by": [
+    "Ō no Yasumaro (compiled 712 CE)"
+  ],
+  "publish_date": "712",
+  "follow_url": "https://en.wikipedia.org/wiki/Kojiki",
+  "description": "The oldest extant Japanese chronicle, a record of myths, legends, hymns, songs, and oral traditions including the Shinto cosmogony. Listed in the *Yes... I am Raelian* commentary among traditions carrying 'traces' of the Elohim contact.",
+  "medium": "religious-text",
+  "topics": [
+    "Japanese Tradition",
+    "Comparative Religion"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Reference corpus of the Raëlian canon",
+      "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

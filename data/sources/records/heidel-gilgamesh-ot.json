@@ -1,0 +1,25 @@
+{
+  "id": "heidel-gilgamesh-ot",
+  "title": "The Gilgamesh Epic and Old Testament Parallels",
+  "authored_by": [
+    "Alexander Heidel"
+  ],
+  "publish_date": "1949",
+  "follow_url": "https://press.uchicago.edu/",
+  "description": "Heidel's foundational comparative articulation of the Gilgamesh-Genesis parallel structure, including the flood narratives.",
+  "medium": "academic-paper",
+  "topics": [
+    "Great Flood",
+    "Mesopotamian",
+    "Genesis"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

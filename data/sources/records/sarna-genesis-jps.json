@@ -1,0 +1,46 @@
+{
+  "id": "sarna-genesis-jps",
+  "title": "Genesis: The JPS Torah Commentary",
+  "authored_by": [
+    "Nahum M. Sarna"
+  ],
+  "publish_date": "1989",
+  "follow_url": "https://jps.org/books/genesis/",
+  "description": "Nahum Sarna's 1989 Jewish Publication Society commentary on Genesis — a standard scholarly reference combining philological rigour with traditional Jewish exegesis. Sarna's treatment of the Eden narrative, the patriarchal genealogies, and the Hebrew of Genesis 1–11 is a principal mainstream reference point against which the corpus positions its reading of the creation and Eden material.",
+  "medium": "article",
+  "topics": [
+    "Genesis",
+    "Hebrew Bible",
+    "Jewish Exegesis",
+    "Eden"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Adam and Eve",
+      "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "licensed"
+}

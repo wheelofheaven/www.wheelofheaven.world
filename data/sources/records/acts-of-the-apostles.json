@@ -1,0 +1,26 @@
+{
+  "id": "acts-of-the-apostles",
+  "title": "Acts of the Apostles",
+  "authored_by": [
+    "Anonymous (attributed to Luke)"
+  ],
+  "publish_date": "c. 80–90 CE",
+  "follow_url": "",
+  "description": "Pentecost narrative and Acts 15:16 'rebuilt tabernacle of David' passage cited in §II.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

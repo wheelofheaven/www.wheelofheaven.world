@@ -1,0 +1,44 @@
+{
+  "id": "sendy-ere-du-verseau",
+  "title": "L’ère du Verseau",
+  "authored_by": [
+    "Jean Sendy"
+  ],
+  "publish_date": "1970",
+  "follow_url": "https://www.editionsrobertlaffont.com/",
+  "description": "Sendy's articulation of the Aquarian-age inheritance threshold and the broader precessional framework. Foundational text for the corpus's Aquarian-age reading.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Age of Aquarius",
+    "Precession"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Man Who Bet the Bible on the Moon",
+      "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Mill That Grinds the Ages",
+      "path": "/articles/the-mill-that-grinds-the-ages/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hamlet's Mill",
+      "path": "/wiki/hamlets-mill/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jean Sendy",
+      "path": "/wiki/jean-sendy/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "unverified"
+}

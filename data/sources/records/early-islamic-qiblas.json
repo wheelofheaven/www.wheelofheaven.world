@@ -1,0 +1,46 @@
+{
+  "id": "early-islamic-qiblas",
+  "title": "Early Islamic Qiblas",
+  "authored_by": [
+    "Dan Gibson"
+  ],
+  "publish_date": "2017",
+  "follow_url": "https://nabataea.net",
+  "description": "Gibson's catalogue and statistical analysis of early-mosque qibla orientations across the first two centuries of Islam.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Qibla",
+    "Petra",
+    "Islamic Origins",
+    "Archaeology"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The First Mosques Faced Petra, Not Mecca",
+      "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+    },
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "timeline",
+      "title": "The Wheel Keeps Turning",
+      "path": "/timeline/the-wheel-keeps-turning/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "unverified"
+}

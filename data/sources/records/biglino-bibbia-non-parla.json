@@ -1,0 +1,39 @@
+{
+  "id": "biglino-bibbia-non-parla",
+  "title": "La Bibbia non parla di Dio",
+  "authored_by": [
+    "Mauro Biglino"
+  ],
+  "publish_date": "2015",
+  "follow_url": "https://www.librimondadori.it/",
+  "description": "Biglino's articulation of the argument that mainstream translation traditions obscure the Hebrew Bible's original content about the Elohim.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Hebrew Bible",
+    "Elohim"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "wiki",
+      "title": "Eden",
+      "path": "/wiki/eden/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Mauro Biglino",
+      "path": "/wiki/mauro-biglino/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "unverified"
+}

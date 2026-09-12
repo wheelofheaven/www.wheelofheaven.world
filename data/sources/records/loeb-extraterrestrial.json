@@ -1,0 +1,26 @@
+{
+  "id": "loeb-extraterrestrial",
+  "title": "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth",
+  "authored_by": [
+    "Avi Loeb"
+  ],
+  "publish_date": "2021",
+  "follow_url": "https://www.hmhbooks.com/",
+  "description": "Avi Loeb's 2021 Houghton Mifflin Harcourt argument that the interstellar object ʻOumuamua may have been an artifact of extraterrestrial technology — by the Harvard astrophysicist who founded the Galileo Project. The corpus engages it as a contemporary scientific entry into the extraterrestrial-contact question framing the embassy.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Extraterrestrial Life",
+    "Oumuamua",
+    "SETI",
+    "Astrophysics"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Embassy",
+      "path": "/wiki/embassy/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

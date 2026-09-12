@@ -1,0 +1,31 @@
+{
+  "id": "gospel-of-matthew",
+  "title": "Gospel of Matthew",
+  "authored_by": [
+    "Anonymous (attributed to Matthew the apostle)"
+  ],
+  "publish_date": "c. 80–90 CE",
+  "follow_url": "",
+  "description": "Source of the 'gospel of the kingdom preached in all the world' passage at Matthew 24:14, cited in §II.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Pisces",
+      "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    }
+  ],
+  "cite_count": 3,
+  "licensing_status": "unverified"
+}

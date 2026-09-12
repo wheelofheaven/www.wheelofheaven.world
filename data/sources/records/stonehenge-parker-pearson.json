@@ -1,0 +1,26 @@
+{
+  "id": "stonehenge-parker-pearson",
+  "title": "Stonehenge: Exploring the Greatest Stone Age Mystery",
+  "authored_by": [
+    "Mike Parker Pearson"
+  ],
+  "publish_date": "2012",
+  "follow_url": "https://www.simonandschuster.com/books/Stonehenge/Mike-Parker-Pearson/9781439140451",
+  "description": "Mike Parker Pearson's 2012 Simon & Schuster monograph — the principal contemporary scholarly synthesis of Stonehenge archaeology, written by the lead investigator of the Stonehenge Riverside Project (2003–2009). The work synthesises Parker Pearson's discovery of the Bluestonehenge monument, the documentation of the Durrington Walls Neolithic village (the principal builders' settlement), the bluestone quarrying at Craig Rhos-y-felin and Carn Goedog in Wales, and the substantial reinterpretation of Stonehenge as part of a larger Late Neolithic ceremonial landscape on the Salisbury Plain.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Stonehenge",
+    "British Prehistory",
+    "Neolithic",
+    "Ancient Builders"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Ancient Builders",
+      "path": "/wiki/ancient-builders/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "licensed"
+}

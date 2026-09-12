@@ -1,0 +1,44 @@
+{
+  "id": "tov-textual-criticism",
+  "title": "Textual Criticism of the Hebrew Bible",
+  "authored_by": [
+    "Emanuel Tov"
+  ],
+  "publish_date": "2012",
+  "follow_url": "https://fortresspress.com/",
+  "description": "Tov's principal contemporary reference for the textual criticism of the Hebrew Bible.",
+  "medium": "academic-paper",
+  "topics": [
+    "Hebrew Bible",
+    "Textual Criticism"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "wiki",
+      "title": "Dead Sea Scrolls",
+      "path": "/wiki/dead-sea-scrolls/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrew Bible",
+      "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Masoretic Text",
+      "path": "/wiki/masoretic-text/"
+    },
+    {
+      "section": "wiki",
+      "title": "Septuagint",
+      "path": "/wiki/septuagint/"
+    }
+  ],
+  "cite_count": 5,
+  "licensing_status": "unverified"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "wall-e",
+  "title": "WALL-E",
+  "authored_by": [
+    "Andrew Stanton",
+    "Pixar Animation Studios"
+  ],
+  "publish_date": "2008",
+  "follow_url": "https://movies.disney.com/wall-e",
+  "description": "Pixar's post-apocalyptic-recovery articulation, with the substantial closing-sequence registration of post-recovery Cyberparadist harmonious-technology-and-restored-nature integration.",
+  "medium": "documentary",
+  "topics": [
+    "Cyberparadism",
+    "Fiction",
+    "Futurism"
+  ],
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Cyberparadism",
+      "path": "/wiki/cyberparadism/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

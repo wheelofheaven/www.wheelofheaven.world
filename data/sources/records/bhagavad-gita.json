@@ -1,0 +1,41 @@
+{
+  "id": "bhagavad-gita",
+  "title": "The Bhagavad Gita",
+  "authored_by": [
+    "Eknath Easwaran (trans.)"
+  ],
+  "publish_date": "2007",
+  "follow_url": "https://www.bmcm.org/",
+  "description": "The principal Hindu philosophical-religious poem (Eknath Easwaran's translation), including the cosmic Ashvattha (sacred fig) tree of chapter 15 with roots in heaven and branches in earth. A primary source for the Hindu cosmic-tree tradition the corpus reads comparatively.",
+  "medium": "religious-text",
+  "topics": [
+    "Hindu Scripture",
+    "Ashvattha",
+    "Cosmic Tree",
+    "Bhagavad Gita"
+  ],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "The Wheel Keeps Turning",
+      "path": "/timeline/the-wheel-keeps-turning/"
+    },
+    {
+      "section": "wiki",
+      "title": "Golden Age",
+      "path": "/wiki/golden-age/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tree of Life",
+      "path": "/wiki/tree-of-life/"
+    },
+    {
+      "section": "wiki",
+      "title": "World Age",
+      "path": "/wiki/world-age/"
+    }
+  ],
+  "cite_count": 4,
+  "licensing_status": "licensed"
+}

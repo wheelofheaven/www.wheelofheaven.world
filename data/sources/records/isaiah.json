@@ -1,0 +1,81 @@
+{
+  "id": "isaiah",
+  "title": "Isaiah",
+  "authored_by": [
+    "Isaiah ben-Amoz and the post-exilic Isaiah school"
+  ],
+  "publish_date": "c. 8th–6th c. BCE",
+  "follow_url": "",
+  "description": "Source of the 'mountain of YHWH's house' and 'swords into plowshares' passages cited in §II.",
+  "medium": "religious-text",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Are Lucifer and Satan the Same?",
+      "path": "/articles/lucifer-and-satan/"
+    },
+    {
+      "section": "articles",
+      "title": "Monotheism Is the Wrong Question",
+      "path": "/articles/monotheism-is-the-wrong-question/"
+    },
+    {
+      "section": "articles",
+      "title": "The Archdeacon and the Dragon",
+      "path": "/articles/the-archdeacon-and-the-dragon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Man Who Bet the Bible on the Moon",
+      "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
+    },
+    {
+      "section": "articles",
+      "title": "The Scrolls That Woke in Year One",
+      "path": "/articles/the-scrolls-that-woke-in-year-one/"
+    },
+    {
+      "section": "articles",
+      "title": "The Translator's Wager",
+      "path": "/articles/the-translators-wager/"
+    },
+    {
+      "section": "articles",
+      "title": "Unsealed in Year One",
+      "path": "/articles/unsealed-in-year-one/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Aquarius",
+      "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "wiki",
+      "title": "Golden Age",
+      "path": "/wiki/golden-age/"
+    },
+    {
+      "section": "wiki",
+      "title": "Idolatry",
+      "path": "/wiki/idolatry/"
+    },
+    {
+      "section": "wiki",
+      "title": "Jesus",
+      "path": "/wiki/jesus/"
+    },
+    {
+      "section": "wiki",
+      "title": "Monotheism",
+      "path": "/wiki/monotheism/"
+    },
+    {
+      "section": "wiki",
+      "title": "Yahweh",
+      "path": "/wiki/yahweh/"
+    }
+  ],
+  "cite_count": 13,
+  "licensing_status": "unverified"
+}
