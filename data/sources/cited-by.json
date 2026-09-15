@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:03:08+00:00",
+  "generated_at": "2026-09-15T11:55:50+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -3372,6 +3372,11 @@
       "cite_count": 1
     },
     {
+      "id": "nehring-giant-oil-fields-1978",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "yates-giordano-bruno-hermetic",
       "cited_by": [
         {
@@ -5414,6 +5419,11 @@
         },
         {
           "section": "wiki",
+          "title": "Great Flood",
+          "path": "/wiki/great-flood/"
+        },
+        {
+          "section": "wiki",
           "title": "Hebrew Bible",
           "path": "/wiki/hebrew-bible/"
         },
@@ -5458,7 +5468,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 17
+      "cite_count": 18
     },
     {
       "id": "nickell-levengood-skeptical-inquirer-1996",

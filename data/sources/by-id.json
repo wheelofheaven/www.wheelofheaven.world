@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T20:03:08+00:00",
+  "generated_at": "2026-09-15T11:55:50+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 800,
+  "total": 801,
   "sources": {
     "1-chronicles": {
       "id": "1-chronicles",
@@ -1699,6 +1699,14 @@
         "He Jiankui (case discussion); cf. National Academies report"
       ],
       "publish_date": "2018"
+    },
+    "nehring-giant-oil-fields-1978": {
+      "id": "nehring-giant-oil-fields-1978",
+      "title": "Giant Oil Fields and World Oil Resources",
+      "authored_by": [
+        "Richard Nehring"
+      ],
+      "publish_date": "1978"
     },
     "yates-giordano-bruno-hermetic": {
       "id": "yates-giordano-bruno-hermetic",

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T20:03:08+00:00",
+  "generated_at": "2026-09-15T11:55:50+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 800,
-  "total_cites": 1450,
+  "total": 801,
+  "total_cites": 1451,
   "media_counts": {
     "religious-text": 95,
-    "academic-paper": 76,
+    "academic-paper": 77,
     "unknown": 379,
     "nonfiction-book": 181,
     "article": 22,
@@ -5938,6 +5938,26 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "nehring-giant-oil-fields-1978",
+      "title": "Giant Oil Fields and World Oil Resources",
+      "authored_by": [
+        "Richard Nehring"
+      ],
+      "publish_date": "1978",
+      "follow_url": "https://www.rand.org/pubs/reports/R2284.html",
+      "description": "RAND report R-2284-CIA (June 1978), prepared for the Central Intelligence Agency: an assessment of world crude-oil resources through the giant (500-million-barrel-plus) fields. Its p. 39 and Fig. 3.1 describe a 'ring of oil', an oval band roughly 800 to 1,000 miles wide holding nearly 85% of known petroleum resources when plotted on Dietz and Holden's reconstruction of the continental plates at the end of the Triassic, which Nehring leaves as 'a most interesting problem for geologic speculation'. It is the study Marcel Terrusse's essay in Let's Welcome the Extraterrestrials cites, as a 'Hudson Institute' study by 'Professor Nehring', for the petroleum ring.",
+      "medium": "academic-paper",
+      "topics": [
+        "Great Flood",
+        "Pangaea",
+        "Petroleum Geology",
+        "Catastrophism"
+      ],
+      "cited_by": [],
+      "cite_count": 0,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "yates-giordano-bruno-hermetic",
       "title": "Giordano Bruno and the Hermetic Tradition",
       "authored_by": [
@@ -9482,6 +9502,11 @@
         },
         {
           "section": "wiki",
+          "title": "Great Flood",
+          "path": "/wiki/great-flood/"
+        },
+        {
+          "section": "wiki",
           "title": "Hebrew Bible",
           "path": "/wiki/hebrew-bible/"
         },
@@ -9526,7 +9551,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 17,
+      "cite_count": 18,
       "licensing_status": "licensed"
     },
     {
