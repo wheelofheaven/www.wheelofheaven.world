@@ -1,0 +1,21 @@
+{
+  "id": "demets-gordon-argus-2010-morvel",
+  "title": "Geologically current plate motions",
+  "authored_by": [
+    "Charles DeMets",
+    "Richard G. Gordon",
+    "Donald F. Argus"
+  ],
+  "publish_date": "2010",
+  "follow_url": "https://doi.org/10.1111/j.1365-246X.2009.04491.x",
+  "description": "Geophysical Journal International 181: 1–80. The MORVEL model of the geologically current motions of 25 tectonic plates, built from seafloor-spreading rates averaged over 0.78–3.16 million years and fault azimuths, and compared with decadal GPS station velocities: the two agree to within a few millimetres per year for most plate pairs (Pacific–North America differ by only 2.6 ± 1.7 mm/yr). The standard reference that present-day drift is the same motion the ocean floor records over the past few million years, not a decaying tail.",
+  "medium": "academic-paper",
+  "topics": [
+    "Plate Tectonics",
+    "Pangaea",
+    "Geodesy"
+  ],
+  "cited_by": [],
+  "cite_count": 0,
+  "licensing_status": "unverified"
+}

@@ -14,7 +14,13 @@
     "Petroleum Geology",
     "Catastrophism"
   ],
-  "cited_by": [],
-  "cite_count": 0,
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Great Flood",
+      "path": "/wiki/great-flood/"
+    }
+  ],
+  "cite_count": 1,
   "licensing_status": "unverified"
 }

@@ -1,0 +1,20 @@
+{
+  "id": "this-dynamic-earth-usgs",
+  "title": "This Dynamic Earth: The Story of Plate Tectonics",
+  "authored_by": [
+    "W. Jacquelyne Kious",
+    "Robert I. Tilling"
+  ],
+  "publish_date": "1996",
+  "follow_url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html",
+  "description": "U.S. Geological Survey general-interest publication (public domain; online edition). The standard primer on plate tectonics: Wegener's Pangaea 'began to split apart' about 200 million years ago; seafloor spreading over the past 100–200 million years grew the Atlantic from an inlet; the Mid-Atlantic Ridge spreads about 2.5 cm/yr; magnetic striping records the field's reversals and yields average past rates; GPS, VLBI and SLR track present motion directly.",
+  "medium": "website",
+  "topics": [
+    "Plate Tectonics",
+    "Pangaea",
+    "Continental Drift"
+  ],
+  "cited_by": [],
+  "cite_count": 0,
+  "licensing_status": "unverified"
+}

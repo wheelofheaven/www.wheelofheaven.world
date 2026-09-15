@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:55:50+00:00",
+  "generated_at": "2026-09-15T12:31:17+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -2212,6 +2212,11 @@
       "cite_count": 1
     },
     {
+      "id": "klemme-ulmishek-1991-source-rocks",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "elysium-film",
       "cited_by": [
         {
@@ -3372,9 +3377,20 @@
       "cite_count": 1
     },
     {
-      "id": "nehring-giant-oil-fields-1978",
+      "id": "demets-gordon-argus-2010-morvel",
       "cited_by": [],
       "cite_count": 0
+    },
+    {
+      "id": "nehring-giant-oil-fields-1978",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Great Flood",
+          "path": "/wiki/great-flood/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "yates-giordano-bruno-hermetic",
@@ -7047,6 +7063,11 @@
       "cite_count": 1
     },
     {
+      "id": "dietz-holden-1970-pangaea",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "redating-the-great-sphinx-of-giza",
       "cited_by": [
         {
@@ -7726,6 +7747,11 @@
         }
       ],
       "cite_count": 2
+    },
+    {
+      "id": "mann-gahagan-gordon-2003-giant-fields",
+      "cited_by": [],
+      "cite_count": 0
     },
     {
       "id": "telluris-theoria-sacra",
@@ -11246,6 +11272,11 @@
         }
       ],
       "cite_count": 1
+    },
+    {
+      "id": "this-dynamic-earth-usgs",
+      "cited_by": [],
+      "cite_count": 0
     },
     {
       "id": "those-gods-who-made-heaven-and-earth",

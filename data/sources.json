@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-15T11:55:50+00:00",
+  "generated_at": "2026-09-15T12:31:17+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 801,
-  "total_cites": 1451,
+  "total": 806,
+  "total_cites": 1452,
   "media_counts": {
     "religious-text": 95,
-    "academic-paper": 77,
+    "academic-paper": 81,
     "unknown": 379,
     "nonfiction-book": 181,
     "article": 22,
     "documentary": 17,
     "wiki": 13,
     "fiction-book": 15,
-    "website": 1,
+    "website": 2,
     "lecture": 1
   },
   "sources": [
@@ -4243,6 +4243,26 @@
       "licensing_status": "licensed"
     },
     {
+      "id": "klemme-ulmishek-1991-source-rocks",
+      "title": "Effective Petroleum Source Rocks of the World: Stratigraphic Distribution and Controlling Depositional Factors",
+      "authored_by": [
+        "H. D. Klemme",
+        "G. F. Ulmishek"
+      ],
+      "publish_date": "1991",
+      "follow_url": "https://doi.org/10.1306/0C9B2A47-1710-11D7-8645000102C1865D",
+      "description": "AAPG Bulletin 75(12): 1809–1851. Six stratigraphic intervals, together one-third of Phanerozoic time (Silurian, Upper Devonian–Tournaisian, Pennsylvanian–Lower Permian, Upper Jurassic, middle Cretaceous, Oligocene–Miocene), contain the source rocks that generated more than 90% of the world's discovered oil and gas; the distribution shows no cyclicity, is controlled by geologic age, paleolatitude, structural setting and the evolution of biota, and almost 70% of reserves were generated since the Coniacian. The mainstream stratigraphic account of where the world's petroleum comes from.",
+      "medium": "academic-paper",
+      "topics": [
+        "Petroleum Geology",
+        "Stratigraphy",
+        "Great Flood"
+      ],
+      "cited_by": [],
+      "cite_count": 0,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "elysium-film",
       "title": "Elysium",
       "authored_by": [
@@ -5938,6 +5958,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "demets-gordon-argus-2010-morvel",
+      "title": "Geologically current plate motions",
+      "authored_by": [
+        "Charles DeMets",
+        "Richard G. Gordon",
+        "Donald F. Argus"
+      ],
+      "publish_date": "2010",
+      "follow_url": "https://doi.org/10.1111/j.1365-246X.2009.04491.x",
+      "description": "Geophysical Journal International 181: 1–80. The MORVEL model of the geologically current motions of 25 tectonic plates, built from seafloor-spreading rates averaged over 0.78–3.16 million years and fault azimuths, and compared with decadal GPS station velocities: the two agree to within a few millimetres per year for most plate pairs (Pacific–North America differ by only 2.6 ± 1.7 mm/yr). The standard reference that present-day drift is the same motion the ocean floor records over the past few million years, not a decaying tail.",
+      "medium": "academic-paper",
+      "topics": [
+        "Plate Tectonics",
+        "Pangaea",
+        "Geodesy"
+      ],
+      "cited_by": [],
+      "cite_count": 0,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "nehring-giant-oil-fields-1978",
       "title": "Giant Oil Fields and World Oil Resources",
       "authored_by": [
@@ -5953,8 +5994,14 @@
         "Petroleum Geology",
         "Catastrophism"
       ],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Great Flood",
+          "path": "/wiki/great-flood/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -12673,6 +12720,26 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "dietz-holden-1970-pangaea",
+      "title": "Reconstruction of Pangaea: Breakup and Dispersion of Continents, Permian to Present",
+      "authored_by": [
+        "Robert S. Dietz",
+        "John C. Holden"
+      ],
+      "publish_date": "1970",
+      "follow_url": "https://doi.org/10.1029/JB075i026p04939",
+      "description": "Journal of Geophysical Research 75(26): 4939–4956. The classic plate-tectonic reconstruction of Pangaea in the Permian and its staged dispersal, period by period: the breakup commencing in the Triassic with separate rifts (the southwest Indian Ocean rift splitting West from East Gondwana, a North Atlantic–Caribbean rift lifting Laurasia off South America and Africa), continuing through the Jurassic, Cretaceous and Cenozoic. Its Scientific American version (November 1970) supplied the end-Triassic plate map on which Nehring drew the 'ring of oil'.",
+      "medium": "academic-paper",
+      "topics": [
+        "Plate Tectonics",
+        "Pangaea",
+        "Continental Drift"
+      ],
+      "cited_by": [],
+      "cite_count": 0,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "redating-the-great-sphinx-of-giza",
       "title": "Redating the Great Sphinx of Giza",
       "authored_by": [
@@ -14039,6 +14106,27 @@
       ],
       "cite_count": 2,
       "licensing_status": "public_domain"
+    },
+    {
+      "id": "mann-gahagan-gordon-2003-giant-fields",
+      "title": "Tectonic Setting of the World’s Giant Oil and Gas Fields",
+      "authored_by": [
+        "Paul Mann",
+        "Lisa M. Gahagan",
+        "Mark B. Gordon"
+      ],
+      "publish_date": "2003",
+      "follow_url": "https://doi.org/10.1306/M78834C2",
+      "description": "In Halbouty (ed.), Giant Oil and Gas Fields of the Decade 1990–1999, AAPG Memoir 78, pp. 15–105. The world's 877 giant fields cluster in 27 regions, about 30% of the land surface, and sort into six tectonic settings: continental passive margins fronting major ocean basins (304 giants), continental rifts and sag basins (271), terminal continental collisions (173), accretion-related collisions (71), strike-slip margins (50), and plain subduction margins (8). The mainstream tectonic account of the concentration Nehring mapped as the 'ring of oil'.",
+      "medium": "academic-paper",
+      "topics": [
+        "Petroleum Geology",
+        "Plate Tectonics",
+        "Pangaea"
+      ],
+      "cited_by": [],
+      "cite_count": 0,
+      "licensing_status": "unverified"
     },
     {
       "id": "telluris-theoria-sacra",
@@ -20415,6 +20503,26 @@
       ],
       "cite_count": 1,
       "licensing_status": "public_domain"
+    },
+    {
+      "id": "this-dynamic-earth-usgs",
+      "title": "This Dynamic Earth: The Story of Plate Tectonics",
+      "authored_by": [
+        "W. Jacquelyne Kious",
+        "Robert I. Tilling"
+      ],
+      "publish_date": "1996",
+      "follow_url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html",
+      "description": "U.S. Geological Survey general-interest publication (public domain; online edition). The standard primer on plate tectonics: Wegener's Pangaea 'began to split apart' about 200 million years ago; seafloor spreading over the past 100–200 million years grew the Atlantic from an inlet; the Mid-Atlantic Ridge spreads about 2.5 cm/yr; magnetic striping records the field's reversals and yields average past rates; GPS, VLBI and SLR track present motion directly.",
+      "medium": "website",
+      "topics": [
+        "Plate Tectonics",
+        "Pangaea",
+        "Continental Drift"
+      ],
+      "cited_by": [],
+      "cite_count": 0,
+      "licensing_status": "unverified"
     },
     {
       "id": "those-gods-who-made-heaven-and-earth",
