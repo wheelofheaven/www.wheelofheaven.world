@@ -83,6 +83,18 @@
         }
       }
     },
+    "articles/six-mornings-six-years": {
+      "title": "Six Mornings, Six Years",
+      "permalink": "https://www.wheelofheaven.world/articles/six-mornings-six-years/",
+      "first_eligible_at": "2026-09-15T16:31:15Z",
+      "channels": {
+        "telegram": {
+          "post_id": "@wheelofheaven/52",
+          "url": "https://t.me/wheelofheaven/52",
+          "posted_at": "2026-09-15T16:31:15Z"
+        }
+      }
+    },
     "articles/the-archdeacon-and-the-dragon": {
       "title": "The Archdeacon and the Dragon",
       "permalink": "https://www.wheelofheaven.world/articles/the-archdeacon-and-the-dragon/",
