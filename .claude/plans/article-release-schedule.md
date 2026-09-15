@@ -25,7 +25,7 @@ the stagger.
 | # | Target | Article | Words | Claim type | Binds | Status |
 |---|---|---|---|---|---|---|
 | 1 | 2026-09-01 | The Signature and the Designers | 7,834 | speculative | 0036, 0030 | **published** — live in 10 langs, Telegram 51 |
-| 2 | 2026-09-15 | Six Mornings, Six Years | 6,725 | inferred | 0035 | queued |
+| 2 | 2026-09-15 | Six Mornings, Six Years | 8,180 | inferred | 0035 | **published** — live in 10 langs |
 | 3 | 2026-09-29 | Made from the Ground to Bear the Labor | 4,796 | inferred | 0034 | queued |
 | 4 | 2026-10-13 | The Filing Cabinet of the Gods | 7,394 | speculative | 0056 | queued |
 | 5 | 2026-10-27 | The Forty Chairs | 10,162 | inferred | 0054 | queued |
@@ -84,6 +84,76 @@ they render the date, so a stale one is baked into ten images.
 - The seven articles cite many works by annotated inline title rather than by
   stable id, which mints slugified source records. This is corpus-wide and
   predates them; see the bibliography pipeline notes. Not a release blocker.
+
+## Findings from release 2 (not blockers)
+
+**The `council-of-the-eternals` false positive is now at six reports.**
+Release 1 drew four; release 2 drew two more (fr, ja, he — the Hebrew
+agent phrased it as a "PRE-EXISTING SOURCE BUG" and recommended fixing
+the English source). All were filename-existence checks. Verified again
+this release: `wiki/council-of-eternals.md` carries
+`slug = "council-of-the-eternals"`, and **all nine translated copies
+carry the same override** — checked mechanically, not by eye. Still do
+not "fix" it. Consider adding a note to the translator agent brief so
+the seventh report never gets written.
+
+**LWTE French/English paragraph misalignment — four new anchor pairs.**
+Release 1 established the defect but not its scope. The French
+translator independently surfaced four more correspondences:
+
+- FR 1:12 ↔ EN 1:9   (−3)
+- FR 2:88 ↔ EN 2:92  (+4)
+- FR 2:90 ↔ EN 2:95  (+5)
+- FR 2:128 ↔ EN 2:134 (+6)
+
+Combined with release 1's two points (both +8), the offset is clearly
+**not constant** — it drifts across the chapter rather than sitting at a
+fixed shift. That kills the "one global offset" repair and confirms the
+release-1 instruction: scope needs a real aligner or a human read, and
+nobody should "fix" it by editing verse arguments in article files.
+
+The French translator also rendered two LWTE quotations from the French
+edition's own wording, where it cites different page numbers than the
+English (LWTE 2:75 → `Premier message, page 21`; LWTE 1:31 → `page 28`).
+Both arguments still land; noted so a future collation is not surprised.
+
+**German `Yahweh` vs `Jahwe` — resolved per-article, not corpus-wide.**
+Release 1 used `Yahweh`; release 2 used `Jahwe`, because all three German
+articles this piece hands off to use `Jahwe`, as does `de/wiki/yahweh.md`.
+Both calls are locally right and the corpus split is now visible in two
+adjacent releases. **This still wants one founder decision.**
+
+**`The Forty Chairs` (#5) will need a title sync on publication.** This
+article cites it twice as unlinked italics, and all nine translators
+coined a local title (*Die vierzig Stühle*, *Las cuarenta sillas*,
+*Les Quarante Chaises*, *Сорок кресел*, 四十把椅子, 《四十張椅子》,
+마흔 개의 의자, 四十の椅子, *ארבעים הכיסאות*). When #5 ships, reconcile
+those against its actual translated titles and consider linking them.
+
+**Smaller pre-existing gaps surfaced, none touched:**
+
+- `ru/library/extraterrestrials-took-me-to-their-planet.md` and
+  `ru/library/lets-welcome-the-extraterrestrials.md` still carry English
+  `title =` values.
+- `ja/wiki/elohim-home-planet.md` is titled エロヒムの母**星** while the
+  glossary says エロヒムの母**惑星**.
+- LWTE has no Spanish text in `data/library/` (all `i18n.es` empty), so
+  its 13 quoted fragments in the ES file were translated fresh.
+- The two published FR articles disagree on sigla: this one and
+  `the-religion-of-religions` use `TBWTT`, while
+  `the-book-closest-to-the-truth` localises it to `LLQDV`.
+- Hand-written markdown links keep English paths in every locale and do
+  **not** language-route (unlike shortcodes), so a translated reader
+  clicking `/library/...` lands on the English page. Corpus-wide.
+
+**The OG venv is not durable.** `data-images/og/venv` was absent at
+release 2 (a `clean-all` removes it). `mise run setup` rebuilds it in
+~2 min including the Playwright Chromium download. Budget for it.
+
+**Verify parity only after the agents report.** Checking translation
+files mid-write shows falsely low shortcode counts — three languages
+looked "truncated" here and were simply still being written. Wait for
+the completion notification, then assert parity.
 
 ## Open defects found during release 1 (not blockers)
 
