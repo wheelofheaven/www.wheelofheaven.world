@@ -27,6 +27,25 @@ credential.
 The MCP server is read-only. It exposes nine tools, all of which fetch from
 the public JSON API; none of them write, mutate, or accept user data.
 
+## Agent registration
+
+**Audience:** any agent, acting for any user or for no user at all.
+
+**Registration methods supported:** none are needed, and none exist. There
+is no `agent_auth` metadata block, no `/.well-known/oauth-authorization-server`,
+no identity or claim endpoint, and no `register_uri`, because there is
+nothing to register for — every surface answers anonymous, unauthenticated
+requests in full. An agent following the auth.md protocol should treat this
+service as *open*: skip `identity_assertion`, `service_auth`, and
+`anonymous` registration alike and make the request directly.
+
+**Provisioning endpoints:** none.
+
+**Credentials:** none are issued and none are accepted. Send no
+`Authorization` header. There are no scopes, no token to exchange, and
+nothing to revoke. A `401` or `403` from any host is an infrastructure
+fault, not a request for credentials.
+
 ## Rate limits
 
 None enforced. The API and reading site are statically generated and served
