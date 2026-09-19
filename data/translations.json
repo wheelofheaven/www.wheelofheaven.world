@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-09-01T20:03:08+00:00",
-    "count": 1167
+    "generated_at": "2026-09-19T06:50:25+00:00",
+    "count": 1174
   },
   "paths": {
     "AGENTS": [
@@ -71,7 +71,16 @@
       "zh-Hant"
     ],
     "articles/six-mornings-six-years": [
-      "en"
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "articles/the-archdeacon-and-the-dragon": [
       "de",
@@ -1746,6 +1755,18 @@
       "zh-Hant"
     ],
     "news/pursue-release-05-triangles-and-the-white-house-file": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "news/pursue-release-06-warp-drives-and-the-tremonton-film": [
       "de",
       "en",
       "es",
@@ -3653,6 +3674,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/demets-gordon-argus-2010-morvel": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/der-judenstaat-the-preface-pages-that-measure-the-project-against-hertzka-s-frei": [
       "de",
       "en",
@@ -3822,6 +3855,18 @@
       "zh-Hant"
     ],
     "sources/dietrich-gobekli-antiquity-2012": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/dietz-holden-1970-pangaea": [
       "de",
       "en",
       "es",
@@ -5753,6 +5798,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/klemme-ulmishek-1991-source-rocks": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/kojiki": [
       "de",
       "en",
@@ -6377,6 +6434,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/mann-gahagan-gordon-2003-giant-fields": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/marc-andreessen-s-techno-optimist-manifesto-is-just-old-school-reactionary-eliti": [
       "de",
       "en",
@@ -6906,6 +6975,18 @@
       "zh-Hant"
     ],
     "sources/naturales-quaestiones-3-29-1-berossus-s-doctrine-the-world-burns-when-the-planet": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/nehring-giant-oil-fields-1978": [
       "de",
       "en",
       "es",
@@ -10842,6 +10923,18 @@
       "zh-Hant"
     ],
     "sources/theory-of-the-earth": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/this-dynamic-earth-usgs": [
       "de",
       "en",
       "es",
