@@ -11,7 +11,7 @@
 
 Contact: https://github.com/wheelofheaven/www.wheelofheaven.world/security/advisories/new
 Contact: https://www.wheelofheaven.world/contact/
-Expires: 2027-09-01T09:27:47Z
+Expires: 2027-10-01T11:00:41Z
 Policy: https://github.com/wheelofheaven/.github/blob/main/SECURITY.md
 Preferred-Languages: en
 Canonical: https://www.wheelofheaven.world/.well-known/security.txt
