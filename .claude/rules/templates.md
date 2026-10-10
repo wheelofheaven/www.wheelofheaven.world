@@ -32,9 +32,18 @@ The base template includes:
 Always use the `detected_lang` variable (set in base.html):
 
 ```tera
-{{ get_url(path="wiki/", lang=detected_lang) }}
+{{ get_url(path="wiki/", lang=detected_lang, trailing_slash=true) }}
 {{ trans(key="navbarWiki", lang=detected_lang) }}
 ```
+
+**Every page link passes `trailing_slash=true`.** Zola's `get_url` drops
+the trailing slash even when the path literal has one, and Cloudflare
+Pages answers the slash-less URL with a `308` redirect — in one week of
+2026-10 that was 6,240 of 35k AI-crawler requests. Never start the path
+with `/` when `lang` is passed (`/articles/` + `lang=zh` rendered
+`/zh//articles`); use `path=""` for the home link. Only file paths
+(`site.webmanifest`, `.xml`, images, bundles with `cachebust=true`) go
+without the flag.
 
 ## Template Patterns
 
