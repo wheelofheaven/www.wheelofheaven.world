@@ -2,7 +2,7 @@
   "generated_at": "2026-09-15T12:31:17+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 806,
+  "total": 809,
   "total_cites": 1452,
   "media_counts": {
     "religious-text": 95,
@@ -21749,6 +21749,81 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "testimony-of-marie-helene-parent",
+      "title": "Testimony of Marie-Hélène Parent",
+      "authored_by": [
+        "Marie-Hélène Parent"
+      ],
+      "publish_date": "2019-07-05 (repost)",
+      "follow_url": "https://raelian.home.blog/2019/07/05/testimony-of-marie-helene-parent-ex-raelian-priest-raelian-for-25-years/",
+      "description": "The author reports hearing Raël say he knew Sendy and drank with him in Clermont-Ferrand. This is a retrospective report of an alleged admission; the passage does not date the alleged acquaintance or demonstrate access before composition. Other personal allegations are outside this article.",
+      "medium": "article",
+      "topics": [
+        "Jean Sendy",
+        "Raëlian Messages",
+        "Literary Dependence"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "testimony-of-mark-woodgate",
+      "title": "Testimony of Mark Woodgate",
+      "authored_by": [
+        "Mark Woodgate"
+      ],
+      "publish_date": "2019-07-05 (repost)",
+      "follow_url": "https://raelian.home.blog/2019/07/05/testimony-of-mark-woodgate-ex-raelian-and-national-guide-of-new-zealand-for-16-years/",
+      "description": "A former national guide reports that reading Sendy contributed to his rejection of the encounter account. His comparisons depend on Sendy and on other testimonials; these are not independent documentary evidence of composition.",
+      "medium": "article",
+      "topics": [
+        "Jean Sendy",
+        "Raëlian Messages",
+        "Literary Dependence"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "testimony-of-sage-ali",
+      "title": "Testimony of Sage Ali",
+      "authored_by": [
+        "Sage Ali"
+      ],
+      "publish_date": "2010-08-06",
+      "follow_url": "https://raelian.org/testimony-of-sage-ali/",
+      "description": "Former Raëlian guide’s retrospective testimony and Sendy comparison. Letter dated 6 August 2010; inspected through a 5 July 2019 repost because the linked page was unavailable. Reports and allegations require attribution.",
+      "medium": "article",
+      "topics": [
+        "Jean Sendy",
+        "Raëlian Messages",
+        "Literary Dependence"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
         }
       ],
       "cite_count": 1,
