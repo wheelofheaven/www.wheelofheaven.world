@@ -83,6 +83,18 @@
         }
       }
     },
+    "articles/sendy-and-the-raelian-messages": {
+      "title": "Sendy and the Raëlian Messages",
+      "permalink": "https://www.wheelofheaven.world/articles/sendy-and-the-raelian-messages/",
+      "first_eligible_at": "2026-10-14T18:42:10Z",
+      "channels": {
+        "telegram": {
+          "post_id": "@wheelofheaven/55",
+          "url": "https://t.me/wheelofheaven/55",
+          "posted_at": "2026-10-14T18:42:10Z"
+        }
+      }
+    },
     "articles/six-mornings-six-years": {
       "title": "Six Mornings, Six Years",
       "permalink": "https://www.wheelofheaven.world/articles/six-mornings-six-years/",
