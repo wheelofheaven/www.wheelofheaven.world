@@ -10,6 +10,9 @@
 # cutoff. Long term, the legacy /intro/* block (~100 rules) should
 # probably be condensed.
 
+# Browsers and crawlers also request the conventional root icon directly.
+/favicon.ico                        /brand/favicon.ico                   301
+
 # =============================================================================
 # 2026-05 — Search Console stale-path 404s (kept near top so they
 # don't get clipped by Cloudflare Pages's de-facto rule-count cap)
