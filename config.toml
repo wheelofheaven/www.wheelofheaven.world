@@ -7,11 +7,9 @@ compile_sass = true
 build_search_index = true
 generate_feeds = true
 
-taxonomies = [
-    { name = "tags", feed = true },
-    { name = "topics", feed = false },
-    { name = "authors", feed = false },
-]
+# Content uses extra.category/keywords and dedicated author pages, not Zola
+# taxonomies. Empty declarations advertise unrendered (404) taxonomy roots.
+taxonomies = []
 feed_filenames = ["atom.xml", "rss.xml"]
 feed_limit = 20
 

@@ -13,6 +13,9 @@
 # Browsers and crawlers also request the conventional root icon directly.
 /favicon.ico                        /brand/favicon.ico                   301
 
+# The first pagination page is the Newsroom root; redirect at the HTTP layer.
+/news/page/1/                       /news/                               301
+
 # =============================================================================
 # 2026-05 — Search Console stale-path 404s (kept near top so they
 # don't get clipped by Cloudflare Pages's de-facto rule-count cap)

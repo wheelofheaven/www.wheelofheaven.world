@@ -124,6 +124,10 @@ description = "One-off English-only build into public-dev/ — a sanity check wi
 depends = ["dev-config"]
 run = "zola -c config.dev.toml build -o public-dev --force"
 
+[tasks.audit-sitemap]
+description = "Check the current production sitemap and all its destinations; write JSON to /tmp"
+run = "python3 scripts/audit_sitemap.py --output /tmp/woh-sitemap-audit.json"
+
 [tasks.css]
 description = "SCSS-only loop (~1s): static-serves the last dev build and recompiles main.css on save"
 depends = ["dev-config"]
