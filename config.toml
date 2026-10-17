@@ -107,22 +107,22 @@ footerPreamble = "Preamble"
 footerPreamble_url = "/timeline/preamble/"
 # Navbar translations
 navbarRead = "Read"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Explore ancient texts through the Wheel of Heaven hypothesis. Follow the Timeline, browse the Wiki, or read a source in the Library."
+navbarReadBook = "Timeline"
+navbarReadBookDesc = "Follow the reading through twelve precessional ages."
 navbarReadingListDesc = "What you're part-way through, and what you saved for later."
 navbarTimelineDesc = "The precessional World Ages, age by age."
 readWoHEyebrow = "The Timeline"
 readWoHSubtitle = "The narrative spine — twelve precessional ages of human history"
-readWoHDesc = "The project's central reading — life on Earth across the Great Year."
+readWoHDesc = "Follow the reading through twelve precessional ages."
 readListenEyebrow = "Audio plays"
-readListenDesc = "Library books produced as immersive audio plays — word-level highlighting, per-character voice treatment, and ambient bedding under select scenes."
+readListenDesc = "Listen to source texts as narrated audio plays."
 readWikiEyebrow = "The Encyclopedia"
 readFeaturedLabel = "Browse featured entries"
 readRailTitle = "Browse the canon by tradition"
 readRailLede = "Ten currents feed the corpus — each a doorway into a different reading line."
-navbarReadSources = "Source Material"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "Library"
+navbarReadSourcesDesc = "Read the primary texts behind the interpretation."
 navbarTimeline = "Timeline"
 navbarNews = "Newsroom"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -200,7 +200,7 @@ resourcesLink = "/resources/"
 
 # Navbar URLs
 navbarReadWiki = "Wiki"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "Look up terms, figures, and concepts."
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "Precession"
 navbarTimelineLink = "/timeline/"
@@ -699,7 +699,7 @@ landingS5Body = "The Age of Aquarius opened in the mid-twentieth century. On the
 # Landing page — §6 The Method
 landingS6Eyebrow = "The method"
 landingS6Heading = "A working hypothesis, not a creed."
-landingS6Body = "The reading is a hypothesis to be tried, not a doctrine to be defended. The corpus reads close to its sources &mdash; Raëlian, biblical, Mesopotamian, Vedic, and others &mdash; with translations named, parallels labeled, and differences preserved. Every page marks its main claim as direct, inferred, or speculative. Where the evidence shifts, the reading shifts."
+landingS6Body = "The reading is a hypothesis to be tried, not a doctrine to be defended. The corpus reads close to its sources &mdash; Raëlian, biblical, Mesopotamian, Vedic, and others &mdash; with translations named, parallels labeled, and differences preserved. Every page marks its main claim as direct, framework, inferred, or speculative. Where the evidence shifts, the reading shifts."
 landingS6Link = "Read the full method"
 landingMethodKeyAria = "Claim type key"
 landingBadgeDirectChar = "D"
@@ -734,6 +734,16 @@ landingCodaGitHub = "GitHub"
 landingCodaAbout = "About"
 
 
+
+readDiscoverAges = "Explore the ages"
+
+readDiscoverEntries = "Explore entries"
+
+readDiscoverTraditions = "Explore traditions"
+
+footerMoreLinks = "More links"
+
+footerSummary = "Ancient texts, the Elohim hypothesis, and the twelve ages of the Great Year. Read the sources and follow the argument."
 [languages.de]
 generate_feeds = true
 build_search_index = false
@@ -778,22 +788,22 @@ footerPreamble = "Einleitung"
 footerPreambleLink = "/de/intro/einleitung/"
 # Navbar translations
 navbarRead = "Lesen"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Entdecken Sie alte Texte aus der Perspektive der Wheel-of-Heaven-Hypothese: Folgen Sie der Zeitleiste, stöbern Sie im Wiki oder lesen Sie eine Quelle in der Bibliothek."
+navbarReadBook = "Zeitleiste"
+navbarReadBookDesc = "Folgen Sie der Lesart durch zwölf Präzessionszeitalter."
 navbarReadingListDesc = "Was Sie gerade lesen und was Sie für später gespeichert haben."
 navbarTimelineDesc = "Die präzessionalen Weltzeitalter, Zeitalter für Zeitalter."
 readWoHEyebrow = "Die Zeitlinie"
 readWoHSubtitle = "Das narrative Rückgrat – zwölf präzessionelle Zeitalter der Menschheitsgeschichte"
-readWoHDesc = "Die zentrale Lesart des Projekts: das Leben auf der Erde im Verlauf des Großen Jahres und die Grundlage für das kommende Buch gleichen Namens."
+readWoHDesc = "Folgen Sie der Lesart durch zwölf Präzessionszeitalter."
 readListenEyebrow = "Hörspiele"
-readListenDesc = "Bibliotheksbücher als immersive Hörspiele produziert — mit Worthervorhebung, Stimm-Behandlung pro Sprecher und Ambient-Klangkulisse unter ausgewählten Szenen."
+readListenDesc = "Hören Sie Quellentexte als erzählte Hörspiele."
 readWikiEyebrow = "Die Enzyklopädie"
 readFeaturedLabel = "Empfohlene Einträge"
 readRailTitle = "Den Kanon nach Tradition erkunden"
 readRailLede = "Zehn Strömungen speisen den Korpus — jede eine Tür zu einer eigenen Leselinie."
-navbarReadSources = "Quellenmaterial"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "Bibliothek"
+navbarReadSourcesDesc = "Lesen Sie die Primärtexte hinter der Interpretation."
 navbarTimeline = "Zeitleiste"
 navbarNews = "Newsroom"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -871,7 +881,7 @@ resourcesLink = "/de/resources/"
 
 # Navbar URLs
 navbarReadWiki = "Wiki"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "Schlagen Sie Begriffe, Personen und Konzepte nach."
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "Präzession"
 navbarTimelineLink = "/de/timeline/"
@@ -1339,7 +1349,7 @@ landingS5Heading = "Sie befinden sich im zwölften Zeitalter."
 landingS5Body = "Das Wassermannzeitalter begann in der Mitte des zwanzigsten Jahrhunderts. Nach der Lesart des Korpus ist dies das Zeitalter, in dem ausgegossen wird, was eingeschlossen war &mdash; das Zeitalter, in dem die lange Erinnerung an das Projekt lesbar wird, das Zeitalter, in dem die Menschheit wissenschaftlich fähig wird, ihren eigenen Ursprung zu beurteilen. Die Offenbarung ist im Gange."
 landingS6Eyebrow = "Die Methode"
 landingS6Heading = "Eine Arbeitshypothese, kein Glaubensbekenntnis."
-landingS6Body = "Die Lesart ist eine Hypothese, die zu prüfen, kein Lehrsatz, der zu verteidigen ist. Das Korpus liest nahe an seinen Quellen &mdash; raëlianisch, biblisch, mesopotamisch, vedisch und andere &mdash; mit benannten Übersetzungen, gekennzeichneten Parallelen und gewahrten Unterschieden. Jede Seite kennzeichnet ihre Hauptaussage als direkt, abgeleitet oder spekulativ. Wo sich die Belege verschieben, verschiebt sich die Lesart."
+landingS6Body = "Die Lesart ist eine Hypothese, die zu prüfen, kein Lehrsatz, der zu verteidigen ist. Das Korpus liest nahe an seinen Quellen &mdash; raëlianisch, biblisch, mesopotamisch, vedisch und andere &mdash; mit benannten Übersetzungen, gekennzeichneten Parallelen und gewahrten Unterschieden. Jede Seite kennzeichnet ihre Hauptaussage als direkt, Rahmen, abgeleitet oder spekulativ. Wo sich die Belege verschieben, verschiebt sich die Lesart."
 landingS6Link = "Die vollständige Methode lesen"
 landingMethodKeyAria = "Schlüssel der Aussagetypen"
 landingBadgeDirectChar = "D"
@@ -1386,6 +1396,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "Zeitalter entdecken"
+
+readDiscoverEntries = "Einträge entdecken"
+
+readDiscoverTraditions = "Traditionen entdecken"
+
+footerMoreLinks = "Weitere Links"
+
+footerSummary = "Alte Texte, die Elohim-Hypothese und die zwölf Zeitalter des Großen Jahres. Lesen Sie die Quellen und folgen Sie der Argumentation."
 [languages.fr]
 generate_feeds = true
 build_search_index = false
@@ -1430,22 +1450,22 @@ footerPreamble = "Préambule"
 footerPreambleLink = "/fr/intro/préambule/"
 # Navbar translations
 navbarRead = "Lire"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Explorez les textes anciens à travers l’hypothèse de Wheel of Heaven : suivez la Chronologie, parcourez le Wiki ou lisez une source dans la Bibliothèque."
+navbarReadBook = "Chronologie"
+navbarReadBookDesc = "Suivez cette lecture à travers douze âges précessionnels."
 navbarReadingListDesc = "Vos lectures en cours et ce que vous avez enregistré pour plus tard."
 navbarTimelineDesc = "Les Âges du Monde précessionnels, âge par âge."
 readWoHEyebrow = "La chronologie"
 readWoHSubtitle = "L'épine dorsale narrative — douze âges précessionnels de l'histoire humaine"
-readWoHDesc = "La lecture centrale du projet : la vie sur Terre à travers la Grande Année, et la base du livre à venir du même nom."
+readWoHDesc = "Suivez cette lecture à travers douze âges précessionnels."
 readListenEyebrow = "Pièces sonores"
-readListenDesc = "Livres de la bibliothèque produits en pièces sonores immersives — mise en évidence mot par mot, traitement vocal par personnage et nappe ambiante sous certaines scènes."
+readListenDesc = "Écoutez les textes sources sous forme de récits audio."
 readWikiEyebrow = "L'Encyclopédie"
 readFeaturedLabel = "Entrées en vedette"
 readRailTitle = "Parcourir le canon par tradition"
 readRailLede = "Dix courants nourrissent le corpus — chacun une porte vers une lecture différente."
-navbarReadSources = "Sources"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "Bibliothèque"
+navbarReadSourcesDesc = "Lisez les textes primaires qui fondent l’interprétation."
 navbarTimeline = "Chronologie"
 navbarNews = "Salle de presse"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -1523,7 +1543,7 @@ resourcesLink = "/fr/resources/"
 
 # Navbar URLs
 navbarReadWiki = "Wiki"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "Retrouvez les termes, personnages et concepts."
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "Précession"
 navbarTimelineLink = "/fr/timeline/"
@@ -1992,7 +2012,7 @@ landingS5Heading = "Vous êtes à l'intérieur du douzième âge."
 landingS5Body = "L'âge du Verseau s'est ouvert au milieu du vingtième siècle. Selon la lecture du corpus, c'est l'âge où ce qui était contenu est répandu &mdash; l'âge où la longue mémoire du projet devient lisible, l'âge où l'humanité devient scientifiquement capable d'évaluer sa propre origine. La révélation est en cours."
 landingS6Eyebrow = "La méthode"
 landingS6Heading = "Une hypothèse de travail, et non un credo."
-landingS6Body = "La lecture est une hypothèse à éprouver, non une doctrine à défendre. Le corpus lit au plus près de ses sources &mdash; raëliennes, bibliques, mésopotamiennes, védiques et autres &mdash; avec les traductions nommées, les parallèles signalés et les différences préservées. Chaque page marque son affirmation principale comme directe, déduite ou spéculative. Là où les preuves changent, la lecture change."
+landingS6Body = "La lecture est une hypothèse à éprouver, non une doctrine à défendre. Le corpus lit au plus près de ses sources &mdash; raëliennes, bibliques, mésopotamiennes, védiques et autres &mdash; avec les traductions nommées, les parallèles signalés et les différences préservées. Chaque page marque son affirmation principale comme directe, cadre, déduite ou spéculative. Là où les preuves changent, la lecture change."
 landingS6Link = "Lire la méthode complète"
 landingMethodKeyAria = "Légende des types d'affirmation"
 landingBadgeDirectChar = "D"
@@ -2039,6 +2059,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "Explorer les âges"
+
+readDiscoverEntries = "Explorer les entrées"
+
+readDiscoverTraditions = "Explorer les traditions"
+
+footerMoreLinks = "Autres liens"
+
+footerSummary = "Textes anciens, hypothèse des Élohim et douze âges de la Grande Année. Lisez les sources et suivez le raisonnement."
 [languages.es]
 generate_feeds = true
 build_search_index = false
@@ -2083,22 +2113,22 @@ footerPreamble = "Preámbulo"
 footerPreambleLink = "/es/intro/preámbulo/"
 # Navbar translations
 navbarRead = "Leer"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Explore textos antiguos desde la hipótesis de Wheel of Heaven: siga la Cronología, consulte la Wiki o lea una fuente en la Biblioteca."
+navbarReadBook = "Cronología"
+navbarReadBookDesc = "Siga esta lectura a través de doce eras precesionales."
 navbarReadingListDesc = "Lo que estás leyendo y lo que guardaste para más tarde."
 navbarTimelineDesc = "Las Edades del Mundo precesionales, una por una."
 readWoHEyebrow = "La cronología"
 readWoHSubtitle = "La columna vertebral narrativa — doce edades precesionales de la historia humana"
-readWoHDesc = "La lectura central del proyecto: la vida en la Tierra a lo largo del Gran Año, y la base del próximo libro homónimo."
+readWoHDesc = "Siga esta lectura a través de doce eras precesionales."
 readListenEyebrow = "Audiodramas"
-readListenDesc = "Libros de la biblioteca producidos como audiodramas inmersivos — resaltado palabra por palabra, tratamiento de voz por personaje y ambientación sonora bajo escenas selectas."
+readListenDesc = "Escuche los textos fuente como relatos dramatizados."
 readWikiEyebrow = "La Enciclopedia"
 readFeaturedLabel = "Entradas destacadas"
 readRailTitle = "Explorar el canon por tradición"
 readRailLede = "Diez corrientes nutren el corpus — cada una es una puerta a una línea de lectura distinta."
-navbarReadSources = "Material original"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "Biblioteca"
+navbarReadSourcesDesc = "Lea los textos primarios que sustentan la interpretación."
 navbarTimeline = "Cronología"
 navbarNews = "Sala de prensa"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -2176,7 +2206,7 @@ resourcesLink = "/es/resources/"
 
 # Navbar URLs
 navbarReadWiki = "Wiki"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "Consulte términos, personajes y conceptos."
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "Precesión"
 navbarTimelineLink = "/es/timeline/"
@@ -2644,7 +2674,7 @@ landingS5Heading = "Estás dentro de la duodécima era."
 landingS5Body = "La Era de Acuario se abrió a mediados del siglo veinte. Según la lectura del corpus, esta es la era en la que se derrama lo que había sido contenido &mdash; la era en la que la larga memoria del proyecto se vuelve legible, la era en la que la humanidad se vuelve científicamente capaz de evaluar su propio origen. La revelación está en marcha."
 landingS6Eyebrow = "El método"
 landingS6Heading = "Una hipótesis de trabajo, no un credo."
-landingS6Body = "La lectura es una hipótesis para ser puesta a prueba, no una doctrina para ser defendida. El corpus lee cerca de sus fuentes &mdash; raelianas, bíblicas, mesopotámicas, védicas y otras &mdash; con traducciones nombradas, paralelos señalados y diferencias preservadas. Cada página marca su afirmación principal como directa, inferida o especulativa. Donde la evidencia cambia, la lectura cambia."
+landingS6Body = "La lectura es una hipótesis para ser puesta a prueba, no una doctrina para ser defendida. El corpus lee cerca de sus fuentes &mdash; raelianas, bíblicas, mesopotámicas, védicas y otras &mdash; con traducciones nombradas, paralelos señalados y diferencias preservadas. Cada página marca su afirmación principal como directa, marco, inferida o especulativa. Donde la evidencia cambia, la lectura cambia."
 landingS6Link = "Leer el método completo"
 landingMethodKeyAria = "Leyenda de tipos de afirmación"
 landingBadgeDirectChar = "D"
@@ -2691,6 +2721,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "Explorar las eras"
+
+readDiscoverEntries = "Explorar entradas"
+
+readDiscoverTraditions = "Explorar tradiciones"
+
+footerMoreLinks = "Más enlaces"
+
+footerSummary = "Textos antiguos, la hipótesis de los Elohim y las doce eras del Gran Año. Lea las fuentes y siga el razonamiento."
 [languages.ru]
 generate_feeds = true
 build_search_index = false
@@ -3147,22 +3187,22 @@ remove = "Удалить"
 
 # Navbar translations
 navbarRead = "Читать"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Исследуйте древние тексты через гипотезу Wheel of Heaven: следуйте Хронологии, находите понятия в Вики или читайте источники в Библиотеке."
+navbarReadBook = "Хронология"
+navbarReadBookDesc = "Проследите эту интерпретацию через двенадцать прецессионных эпох."
 navbarReadingListDesc = "Начатое чтение и сохранённое на потом."
 navbarTimelineDesc = "Прецессионные Мировые Эпохи, эпоха за эпохой."
 readWoHEyebrow = "Хронология"
 readWoHSubtitle = "Повествовательный стержень — двенадцать прецессионных эпох истории человечества"
-readWoHDesc = "Центральное прочтение проекта: жизнь на Земле в течение Великого Года и основа готовящейся книги под тем же названием."
+readWoHDesc = "Проследите эту интерпретацию через двенадцать прецессионных эпох."
 readListenEyebrow = "Аудиоспектакли"
-readListenDesc = "Книги библиотеки в формате иммерсивных аудиоспектаклей — с подсветкой слов, обработкой голоса по персонажам и фоновыми сценами."
+readListenDesc = "Слушайте исходные тексты в формате аудиоспектаклей."
 readWikiEyebrow = "Энциклопедия"
 readFeaturedLabel = "Избранные статьи"
 readRailTitle = "Просмотр канона по традициям"
 readRailLede = "Десять течений питают корпус — каждое открывает свою линию чтения."
-navbarReadSources = "Первоисточники"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "Библиотека"
+navbarReadSourcesDesc = "Читайте первоисточники, лежащие в основе интерпретации."
 navbarTimeline = "Хронология"
 navbarNews = "Новости"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -3240,7 +3280,7 @@ resourcesLink = "/ru/resources/"
 
 # Navbar URLs
 navbarReadWiki = "Вики"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "Находите термины, персонажей и понятия."
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "Прецессия"
 navbarTimelineLink = "/ru/timeline/"
@@ -3297,7 +3337,7 @@ landingS5Heading = "Вы внутри двенадцатой эпохи."
 landingS5Body = "Эпоха Водолея началась в середине двадцатого века. По прочтению корпуса, это эпоха, в которой выливается то, что было удержано &mdash; эпоха, в которой долгая память проекта становится читаемой, эпоха, в которой человечество становится научно способным оценить собственное происхождение. Раскрытие в процессе."
 landingS6Eyebrow = "Метод"
 landingS6Heading = "Рабочая гипотеза, а не догма."
-landingS6Body = "Это прочтение &mdash; гипотеза, которую следует проверять, а не доктрина, которую следует защищать. Корпус читает близко к своим источникам &mdash; раэлианским, библейским, месопотамским, ведическим и иным &mdash; с обозначенными переводами, помеченными параллелями и сохранёнными различиями. Каждая страница помечает своё основное утверждение как прямое, выводное или умозрительное. Там, где сдвигаются свидетельства, сдвигается прочтение."
+landingS6Body = "Это прочтение &mdash; гипотеза, которую следует проверять, а не доктрина, которую следует защищать. Корпус читает близко к своим источникам &mdash; раэлианским, библейским, месопотамским, ведическим и иным &mdash; с обозначенными переводами, помеченными параллелями и сохранёнными различиями. Каждая страница помечает своё основное утверждение как прямое, рамочное, выводное или умозрительное. Там, где сдвигаются свидетельства, сдвигается прочтение."
 landingS6Link = "Читать методологию полностью"
 landingMethodKeyAria = "Условные обозначения типов утверждений"
 landingBadgeDirectChar = "П"
@@ -3344,6 +3384,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "Обзор эпох"
+
+readDiscoverEntries = "Обзор статей"
+
+readDiscoverTraditions = "Обзор традиций"
+
+footerMoreLinks = "Другие ссылки"
+
+footerSummary = "Древние тексты, гипотеза Элохим и двенадцать эпох Великого года. Читайте источники и следите за ходом рассуждений."
 [languages.ja]
 generate_feeds = true
 build_search_index = false
@@ -3799,22 +3849,22 @@ remove = "削除"
 
 # Navbar translations
 navbarRead = "読む"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Wheel of Heavenの仮説を通して古代の文献を読み解きます。タイムラインをたどり、ウィキで用語を調べ、図書館で原典を読んでみてください。"
+navbarReadBook = "タイムライン"
+navbarReadBookDesc = "十二の歳差時代をたどりながら、この解釈を読み進めます。"
 navbarReadingListDesc = "読みかけのページと、後で読むために保存したページ。"
 navbarTimelineDesc = "歳差による世界の時代を、ひとつずつ。"
 readWoHEyebrow = "タイムライン"
 readWoHSubtitle = "物語の背骨 — 人類史の十二の歳差時代"
-readWoHDesc = "プロジェクトの中心的読解 — 大年を通じた地球上の生命の物語であり、同名で刊行予定の書籍の基礎です。"
+readWoHDesc = "十二の歳差時代をたどりながら、この解釈を読み進めます。"
 readListenEyebrow = "オーディオドラマ"
-readListenDesc = "ライブラリの書籍を没入型オーディオドラマとして制作 — 単語レベルのハイライト、キャラクターごとの音声処理、選ばれたシーンの環境音背景。"
+readListenDesc = "原典を音声劇として聴きます。"
 readWikiEyebrow = "百科事典"
 readFeaturedLabel = "おすすめの項目"
 readRailTitle = "伝統別に正典を見る"
 readRailLede = "十の流れがコーパスを形作る——それぞれが異なる読みへの入口。"
-navbarReadSources = "原典"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "図書館"
+navbarReadSourcesDesc = "解釈の基礎となる原典を読みます。"
 navbarTimeline = "タイムライン"
 navbarNews = "ニュースルーム"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -3892,7 +3942,7 @@ resourcesLink = "/ja/resources/"
 
 # Navbar URLs
 navbarReadWiki = "ウィキ"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "用語、人物、概念について調べます。"
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "歳差"
 navbarTimelineLink = "/ja/timeline/"
@@ -3949,7 +3999,7 @@ landingS5Heading = "あなたは十二番目の時代の中にいる。"
 landingS5Body = "水瓶座の時代は二十世紀半ばに開かれた。本コーパスの読みでは、これは抑え込まれていたものが注ぎ出される時代 &mdash; 計画の長い記憶が読みうるものとなる時代、人類が自らの起源を科学的に評価しうるものとなる時代である。開示は進行中である。"
 landingS6Eyebrow = "方法"
 landingS6Heading = "信条ではなく、作業仮説。"
-landingS6Body = "この読みは、擁護すべき教義ではなく、試されるべき仮説である。本コーパスは、ラエル派、聖書、メソポタミア、ヴェーダ、その他の典拠に密着して読む &mdash; 翻訳を明示し、並行関係に名を与え、相違を保ったままで。各ページは、その主要な主張を「直接的」「推論的」「思弁的」のいずれかとして示す。証拠が動けば、読みも動く。"
+landingS6Body = "この読みは、擁護すべき教義ではなく、試されるべき仮説である。本コーパスは、ラエル派、聖書、メソポタミア、ヴェーダ、その他の典拠に密着して読む &mdash; 翻訳を明示し、並行関係に名を与え、相違を保ったままで。各ページは、その主要な主張を「直接的」「枠組み」「推論的」「思弁的」のいずれかとして示す。証拠が動けば、読みも動く。"
 landingS6Link = "方法論の全文を読む"
 landingMethodKeyAria = "主張タイプの凡例"
 landingBadgeDirectChar = "直"
@@ -3996,6 +4046,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "時代を探す"
+
+readDiscoverEntries = "項目を探す"
+
+readDiscoverTraditions = "伝統を探す"
+
+footerMoreLinks = "その他のリンク"
+
+footerSummary = "古代の文献、エロヒム仮説、大年の十二の時代。原典を読み、議論の筋道をたどってください。"
 [languages.zh]
 generate_feeds = true
 build_search_index = false
@@ -4452,22 +4512,22 @@ remove = "移除"
 
 # Navbar translations
 navbarRead = "阅读"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "通过Wheel of Heaven的假说探索古代文献：沿时间线阅读，在百科中查阅概念，或到图书馆阅读原典。"
+navbarReadBook = "时间线"
+navbarReadBookDesc = "沿十二个岁差时代阅读这一诠释。"
 navbarReadingListDesc = "正在阅读的内容，以及稍后阅读的收藏。"
 navbarTimelineDesc = "岁差运动的世界纪元，逐一展开。"
 readWoHEyebrow = "时间线"
 readWoHSubtitle = "叙事主线 — 人类历史的十二个岁差时代"
-readWoHDesc = "项目的核心解读：贯穿岁差大年的地球生命史,也是即将出版的同名书籍的基础。"
+readWoHDesc = "沿十二个岁差时代阅读这一诠释。"
 readListenEyebrow = "有声剧"
-readListenDesc = "文库书籍以沉浸式有声剧形式呈现 — 逐词高亮、按角色的音频处理与选定场景下的环境音底色。"
+readListenDesc = "以有声剧的形式聆听原典。"
 readWikiEyebrow = "百科全书"
 readFeaturedLabel = "精选条目"
 readRailTitle = "按传统浏览正典"
 readRailLede = "十种传承汇成典藏——每一种皆为不同读法的入口。"
-navbarReadSources = "原始资料"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "图书馆"
+navbarReadSourcesDesc = "阅读这一诠释所依据的原典。"
 navbarTimeline = "时间线"
 navbarNews = "新闻室"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -4545,7 +4605,7 @@ resourcesLink = "/zh/resources/"
 
 # Navbar URLs
 navbarReadWiki = "百科"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "查阅术语、人物与概念。"
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "岁差"
 navbarTimelineLink = "/zh/timeline/"
@@ -4602,7 +4662,7 @@ landingS5Heading = "你正身处第十二个时代之中。"
 landingS5Body = "水瓶座时代于二十世纪中叶开启。在本语料库的阅读中，这是被收容之物得以倾倒的时代 &mdash; 是这项工程的悠长记忆变得可读的时代，是人类在科学上有能力评估自身起源的时代。揭示正在进行。"
 landingS6Eyebrow = "方法"
 landingS6Heading = "一份工作假设，而非教义。"
-landingS6Body = "这一阅读是有待检验的假设，而非有待捍卫的教条。本语料库贴近其来源 &mdash; 雷利安、圣经、美索不达米亚、吠陀及其他 &mdash; 明示译本、标注平行、保存差异。每一页都将其主要主张标注为「直接」、「推论」或「臆测」。证据变化时，阅读随之变化。"
+landingS6Body = "这一阅读是有待检验的假设，而非有待捍卫的教条。本语料库贴近其来源 &mdash; 雷利安、圣经、美索不达米亚、吠陀及其他 &mdash; 明示译本、标注平行、保存差异。每一页都将其主要主张标注为「直接」、「框架」、「推论」或「臆测」。证据变化时，阅读随之变化。"
 landingS6Link = "阅读完整方法论"
 landingMethodKeyAria = "主张类型图例"
 landingBadgeDirectChar = "直"
@@ -4649,6 +4709,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "探索各个时代"
+
+readDiscoverEntries = "探索词条"
+
+readDiscoverTraditions = "探索传统"
+
+footerMoreLinks = "更多链接"
+
+footerSummary = "古代文献、埃洛希姆假说与大年的十二个时代。阅读原典，了解论证的脉络。"
 [languages.zh-Hant]
 generate_feeds = true
 build_search_index = false
@@ -5076,22 +5146,22 @@ remove = "移除"
 
 # Navbar translations
 navbarRead = "閱讀"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "透過Wheel of Heaven的假說探索古代文獻：沿時間線閱讀，在百科中查閱概念，或到圖書館閱讀原典。"
+navbarReadBook = "時間線"
+navbarReadBookDesc = "沿十二個歲差時代閱讀這一詮釋。"
 navbarReadingListDesc = "正在閱讀的內容，以及稍後閱讀的收藏。"
 navbarTimelineDesc = "歲差運動的世界紀元，逐一展開。"
 readWoHEyebrow = "時間線"
 readWoHSubtitle = "敘事主線 — 人類歷史的十二個歲差時代"
-readWoHDesc = "計劃的核心解讀:貫穿歲差大年的地球生命史,也是即將出版的同名書籍的基礎。"
+readWoHDesc = "沿十二個歲差時代閱讀這一詮釋。"
 readListenEyebrow = "有聲劇"
-readListenDesc = "文庫書籍以沉浸式有聲劇形式呈現 — 逐詞高亮、按角色的音訊處理與選定場景下的環境音底色。"
+readListenDesc = "以有聲劇的形式聆聽原典。"
 readWikiEyebrow = "百科全書"
 readFeaturedLabel = "精選條目"
 readRailTitle = "按傳統瀏覽正典"
 readRailLede = "十種傳承匯成典藏——每一種皆為不同讀法的入口。"
-navbarReadSources = "原始資料"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "圖書館"
+navbarReadSourcesDesc = "閱讀這一詮釋所依據的原典。"
 navbarTimeline = "時間線"
 navbarNews = "新聞室"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -5169,7 +5239,7 @@ resourcesLink = "/zh-Hant/resources/"
 
 # Navbar URLs
 navbarReadWiki = "百科"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "查閱術語、人物與概念。"
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "歲差"
 navbarTimelineLink = "/zh-Hant/timeline/"
@@ -5226,7 +5296,7 @@ landingS5Heading = "你正身處第十二個時代之中。"
 landingS5Body = "水瓶座時代於二十世紀中葉開啟。在本語料庫的閱讀中，這是被收容之物得以傾倒的時代 &mdash; 是這項工程的悠長記憶變得可讀的時代，是人類在科學上有能力評估自身起源的時代。揭示正在進行。"
 landingS6Eyebrow = "方法"
 landingS6Heading = "一份工作假設，而非教義。"
-landingS6Body = "這一閱讀是有待檢驗的假設，而非有待捍衛的教條。本語料庫貼近其來源 &mdash; 雷利安、聖經、美索不達米亞、吠陀及其他 &mdash; 明示譯本、標註平行、保存差異。每一頁都將其主要主張標註為「直接」、「推論」或「臆測」。證據變化時，閱讀隨之變化。"
+landingS6Body = "這一閱讀是有待檢驗的假設，而非有待捍衛的教條。本語料庫貼近其來源 &mdash; 雷利安、聖經、美索不達米亞、吠陀及其他 &mdash; 明示譯本、標註平行、保存差異。每一頁都將其主要主張標註為「直接」、「框架」、「推論」或「臆測」。證據變化時，閱讀隨之變化。"
 landingS6Link = "閱讀完整方法論"
 landingMethodKeyAria = "主張類型圖例"
 landingBadgeDirectChar = "直"
@@ -5280,6 +5350,16 @@ footerContact_url = "/contact/"
 
 
 
+
+readDiscoverAges = "探索各個時代"
+
+readDiscoverEntries = "探索詞條"
+
+readDiscoverTraditions = "探索傳統"
+
+footerMoreLinks = "更多連結"
+
+footerSummary = "古代文獻、埃洛希姆假說與大年的十二個時代。閱讀原典，了解論證的脈絡。"
 [languages.ko]
 generate_feeds = true
 build_search_index = false
@@ -5707,22 +5787,22 @@ remove = "삭제"
 
 # Navbar translations
 navbarRead = "읽기"
-navbarReadDesc = "Three ways into the corpus: the book, the wiki, and the source texts."
-navbarReadBook = "Wheel of Heaven"
-navbarReadBookDesc = "The long-form reading, in twelve precessional ages."
+navbarReadDesc = "Wheel of Heaven의 가설을 통해 고대 문헌을 살펴보세요. 타임라인을 따라 읽거나, 위키에서 개념을 찾거나, 도서관에서 원전을 읽을 수 있습니다."
+navbarReadBook = "타임라인"
+navbarReadBookDesc = "열두 세차 시대를 따라 이 해석을 읽어 보세요."
 navbarReadingListDesc = "읽던 페이지와 나중에 읽으려고 저장한 페이지."
 navbarTimelineDesc = "세차운동의 세계 시대를 하나씩."
 readWoHEyebrow = "타임라인"
 readWoHSubtitle = "서사의 중추 — 인류사의 열두 세차 시대"
-readWoHDesc = "프로젝트의 핵심 읽기: 대년에 걸친 지구 생명의 이야기이며, 같은 이름으로 출간 예정인 책의 토대입니다."
+readWoHDesc = "열두 세차 시대를 따라 이 해석을 읽어 보세요."
 readListenEyebrow = "오디오드라마"
-readListenDesc = "라이브러리의 책을 몰입형 오디오드라마로 제작 — 단어 단위 하이라이트, 인물별 음성 처리, 선택된 장면의 앰비언트 배경음을 제공합니다."
+readListenDesc = "원전을 오디오 드라마로 들어 보세요."
 readWikiEyebrow = "백과사전"
 readFeaturedLabel = "주요 항목"
 readRailTitle = "전통별로 정전 탐색"
 readRailLede = "열 갈래의 흐름이 코퍼스를 이룬다 — 각자 다른 독해로 통하는 입구."
-navbarReadSources = "원문 자료"
-navbarReadSourcesDesc = "The primary texts the corpus reads from."
+navbarReadSources = "도서관"
+navbarReadSourcesDesc = "해석의 바탕이 되는 원전을 읽어 보세요."
 navbarTimeline = "타임라인"
 navbarNews = "뉴스룸"
 navbarNewsDesc = "Current events read through the corpus's framework."
@@ -5800,7 +5880,7 @@ resourcesLink = "/ko/resources/"
 
 # Navbar URLs
 navbarReadWiki = "위키"
-navbarReadWikiDesc = "Reference entries for terms, figures, and concepts."
+navbarReadWikiDesc = "용어, 인물, 개념을 찾아보세요."
 footerHypothesis = "The Working Hypothesis"
 footerPrecession = "세차"
 navbarTimelineLink = "/ko/timeline/"
@@ -5857,7 +5937,7 @@ landingS5Heading = "당신은 열두 번째 시대 안에 있다."
 landingS5Body = "물병자리 시대는 이십 세기 중반에 열렸다. 본 코퍼스의 읽기에서, 이는 담겼던 것이 부어지는 시대이다 &mdash; 프로젝트의 긴 기억이 읽힐 수 있게 되는 시대, 인류가 자신의 기원을 과학적으로 평가할 수 있게 되는 시대이다. 드러남은 진행 중이다."
 landingS6Eyebrow = "방법"
 landingS6Heading = "신조가 아닌, 작업 가설."
-landingS6Body = "이 읽기는 옹호되어야 할 교리가 아니라 시험되어야 할 가설이다. 본 코퍼스는 출처에 가까이 다가가 읽는다 &mdash; 라엘리안, 성경, 메소포타미아, 베다, 그 외 &mdash; 번역을 명시하고, 평행을 표시하며, 차이를 보존한다. 모든 페이지는 그 주요 주장을 직접적, 추론적, 사변적 가운데 하나로 표시한다. 증거가 움직이면, 읽기도 움직인다."
+landingS6Body = "이 읽기는 옹호되어야 할 교리가 아니라 시험되어야 할 가설이다. 본 코퍼스는 출처에 가까이 다가가 읽는다 &mdash; 라엘리안, 성경, 메소포타미아, 베다, 그 외 &mdash; 번역을 명시하고, 평행을 표시하며, 차이를 보존한다. 모든 페이지는 그 주요 주장을 직접적, 틀, 추론적, 사변적 가운데 하나로 표시한다. 증거가 움직이면, 읽기도 움직인다."
 landingS6Link = "전체 방법론 읽기"
 landingMethodKeyAria = "주장 유형 범례"
 landingBadgeDirectChar = "직"
@@ -5909,6 +5989,16 @@ footerCommunity_url = "/intro/community/"
 footerDevelopment = "개발"
 footerContact_url = "/contact/"
 
+
+readDiscoverAges = "시대 둘러보기"
+
+readDiscoverEntries = "항목 둘러보기"
+
+readDiscoverTraditions = "전통 둘러보기"
+
+footerMoreLinks = "더 많은 링크"
+
+footerSummary = "고대 문헌, 엘로힘 가설, 대년의 열두 시대. 원전을 읽고 논거를 따라가 보세요."
 [languages.he]
 generate_feeds = true
 build_search_index = false
@@ -5953,22 +6043,22 @@ footerPreamble = "פתח דבר"
 footerPreambleLink = "/he/timeline/preamble/"
 # Navbar translations
 navbarRead = "קריאה"
-navbarReadDesc = "שלוש דרכי כניסה לקורפוס: הספר, הוויקי וטקסטי המקור."
-navbarReadBook = "גלגל השמיים"
-navbarReadBookDesc = "הקריאה הארוכה, בשנים‑עשר עידני נקיפה."
+navbarReadDesc = "גלו טקסטים עתיקים דרך ההשערה של Wheel of Heaven: עקבו אחר ציר הזמן, עיינו בוויקי או קראו מקור בספרייה."
+navbarReadBook = "ציר זמן"
+navbarReadBookDesc = "עקבו אחר הפרשנות לאורך שנים־עשר עידני נקיפת ציר כדור הארץ."
 navbarReadingListDesc = "מה שהתחלת לקרוא ומה ששמרת להמשך."
 navbarTimelineDesc = "עידני העולם המחזוריים, עידן אחר עידן."
 readWoHEyebrow = "ציר הזמן"
 readWoHSubtitle = "עמוד השדרה הנרטיבי — שנים‑עשר עידני נקיפה של תולדות האנושות"
-readWoHDesc = "הקריאה המרכזית של הפרויקט: החיים על פני כדור הארץ לאורך השנה הגדולה, והבסיס לספר הקרוב באותו השם."
+readWoHDesc = "עקבו אחר הפרשנות לאורך שנים־עשר עידני נקיפת ציר כדור הארץ."
 readListenEyebrow = "תסכיתים"
-readListenDesc = "ספרים מהספרייה המופקים כתסכיתים סוחפים — עם הדגשת מילים, טיפול קולי לכל דמות וריפוד אמביינטי תחת סצנות נבחרות."
+readListenDesc = "האזינו לטקסטי המקור כתסכיתים."
 readWikiEyebrow = "האנציקלופדיה"
 readFeaturedLabel = "ערכים מובחרים"
 readRailTitle = "עיון בקאנון לפי מסורת"
 readRailLede = "עשרה זרמים מזינים את הקובץ — כל אחד שער לקריאה אחרת."
-navbarReadSources = "טקסטי המקור"
-navbarReadSourcesDesc = "הטקסטים הראשוניים שמהם הקורפוס קורא."
+navbarReadSources = "ספרייה"
+navbarReadSourcesDesc = "קראו את טקסטי המקור שעליהם מבוססת הפרשנות."
 navbarTimeline = "ציר זמן"
 navbarNews = "חדר חדשות"
 navbarNewsDesc = "אירועי השעה הנקראים דרך מסגרת הקורפוס."
@@ -6046,7 +6136,7 @@ resourcesLink = "/he/resources/"
 
 # Navbar URLs
 navbarReadWiki = "ויקי"
-navbarReadWikiDesc = "ערכי ייחוס למונחים, דמויות ומושגים."
+navbarReadWikiDesc = "חפשו מונחים, דמויות ומושגים."
 footerHypothesis = "השערת העבודה"
 footerPrecession = "נקיפה"
 navbarTimelineLink = "/he/timeline/"
@@ -6514,7 +6604,7 @@ landingS5Heading = "אתם נמצאים בעידן השנים‑עשר."
 landingS5Body = "עידן הדלי החל באמצע המאה העשרים. על־פי קריאת הקורפוס, זהו העידן שבו נשפך החוצה מה שהיה כלוא &mdash; העידן שבו הזיכרון הארוך של הפרויקט נעשה קריא, העידן שבו האנושות נעשית מוכשרת מדעית לשפוט את מקורה. ההתגלות מתרחשת."
 landingS6Eyebrow = "השיטה"
 landingS6Heading = "השערת עבודה, לא עיקר אמונה."
-landingS6Body = "הקריאה היא השערה שיש לבחון, לא דוקטרינה שיש להגן עליה. הקורפוס קורא קרוב למקורותיו &mdash; ראליאניים, מקראיים, מסופוטמיים, וֵדִיים ואחרים &mdash; עם תרגומים מצוינים, מקבילות מסומנות והבדלים שמורים. כל דף מסמן את טענתו המרכזית כישירה, נגזרת או ספקולטיבית. כאשר הראיות זזות, הקריאה זזה."
+landingS6Body = "הקריאה היא השערה שיש לבחון, לא דוקטרינה שיש להגן עליה. הקורפוס קורא קרוב למקורותיו &mdash; ראליאניים, מקראיים, מסופוטמיים, וֵדִיים ואחרים &mdash; עם תרגומים מצוינים, מקבילות מסומנות והבדלים שמורים. כל דף מסמן את טענתו המרכזית כישירה, מסגרת, נגזרת או ספקולטיבית. כאשר הראיות זזות, הקריאה זזה."
 landingS6Link = "לקריאת המתודולוגיה המלאה"
 landingMethodKeyAria = "מפתח סוגי טענה"
 landingBadgeDirectChar = "י"
@@ -6558,3 +6648,13 @@ footerRssFeed_url = "/articles/index.xml"
 footerCommunity_url = "/intro/community/"
 footerDevelopment = "פיתוח"
 footerContact_url = "/contact/"
+
+readDiscoverAges = "גלו את העידנים"
+
+readDiscoverEntries = "גלו ערכים"
+
+readDiscoverTraditions = "גלו מסורות"
+
+footerMoreLinks = "קישורים נוספים"
+
+footerSummary = "טקסטים עתיקים, השערת האלוהים ושנים־עשר עידני השנה הגדולה. קראו את המקורות ועקבו אחר הטיעון."
