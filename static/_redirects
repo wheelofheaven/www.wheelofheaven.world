@@ -16,6 +16,38 @@
 # The first pagination page is the Newsroom root; redirect at the HTTP layer.
 /news/page/1/                       /news/                               301
 
+# 2026-10 — observed legacy feed URLs and the obsolete English prefix.
+# Use real translated Articles feeds; locale-root feeds are empty or absent.
+/index.xml /rss.xml 301
+/en/ / 301
+/de/index.xml /de/articles/rss.xml 301
+/de/rss.xml /de/articles/rss.xml 301
+/de/atom.xml /de/articles/atom.xml 301
+/fr/index.xml /fr/articles/rss.xml 301
+/fr/rss.xml /fr/articles/rss.xml 301
+/fr/atom.xml /fr/articles/atom.xml 301
+/es/index.xml /es/articles/rss.xml 301
+/es/rss.xml /es/articles/rss.xml 301
+/es/atom.xml /es/articles/atom.xml 301
+/ru/index.xml /ru/articles/rss.xml 301
+/ru/rss.xml /ru/articles/rss.xml 301
+/ru/atom.xml /ru/articles/atom.xml 301
+/ja/index.xml /ja/articles/rss.xml 301
+/ja/rss.xml /ja/articles/rss.xml 301
+/ja/atom.xml /ja/articles/atom.xml 301
+/zh/index.xml /zh/articles/rss.xml 301
+/zh/rss.xml /zh/articles/rss.xml 301
+/zh/atom.xml /zh/articles/atom.xml 301
+/zh-Hant/index.xml /zh-Hant/articles/rss.xml 301
+/zh-Hant/rss.xml /zh-Hant/articles/rss.xml 301
+/zh-Hant/atom.xml /zh-Hant/articles/atom.xml 301
+/ko/index.xml /ko/articles/rss.xml 301
+/ko/rss.xml /ko/articles/rss.xml 301
+/ko/atom.xml /ko/articles/atom.xml 301
+/he/index.xml /he/articles/rss.xml 301
+/he/rss.xml /he/articles/rss.xml 301
+/he/atom.xml /he/articles/atom.xml 301
+
 # =============================================================================
 # 2026-05 — Search Console stale-path 404s (kept near top so they
 # don't get clipped by Cloudflare Pages's de-facto rule-count cap)
