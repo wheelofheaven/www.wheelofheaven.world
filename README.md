@@ -121,6 +121,15 @@ Keep up with the latest developments in our project:
 - [GitHub | wheelofheaven](https://github.com/wheelofheaven)
 
 
+## Typography
+
+Latin and Cyrillic body text uses [Firmament Sans](https://firmament.wheelofheaven.world/),
+the project's scholarly extension of Jost, in regular, italic, bold, and bold italic.
+Versioned WOFF2 files, provenance, checksums, and the OFL license live in
+[`static/fonts/vendor/firmament-sans/`](static/fonts/vendor/firmament-sans/).
+Bifrost keeps the existing display, quotation, metadata, and source-script font roles.
+See the [typography guide](https://docs.wheelofheaven.world/components/tokens/typography/).
+
 ## Attribution
 
 This website is powered by [Zola](https://www.getzola.org/), a static site generator written in Rust.

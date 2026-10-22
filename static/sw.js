@@ -1,7 +1,7 @@
 // Service Worker for Wheel of Heaven
 // Provides offline support and caching
 
-const CACHE_VERSION = 'v21';
+const CACHE_VERSION = 'v22';
 const STATIC_CACHE = `woh-static-${CACHE_VERSION}`;
 const PAGES_CACHE = `woh-pages-${CACHE_VERSION}`;
 const IMAGES_CACHE = `woh-images-${CACHE_VERSION}`;
@@ -22,7 +22,7 @@ const STATIC_ASSETS = [
     '/main.css',
     '/js/dist/core.bundle.js',
     // Fonts (most important)
-    '/fonts/vendor/jost/jost-v19-cyrillic_latin-regular.woff2',
+    '/fonts/vendor/firmament-sans/0.1/FirmamentSans-Regular.woff2',
     '/fonts/vendor/space-grotesk/space-grotesk-v21-latin-regular.woff2'
 ];
 
