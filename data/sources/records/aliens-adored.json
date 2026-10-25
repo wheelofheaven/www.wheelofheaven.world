@@ -21,6 +21,11 @@
     },
     {
       "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
       "title": "The East Face of Homer",
       "path": "/articles/the-east-face-of-homer/"
     },
@@ -45,6 +50,6 @@
       "path": "/articles/the-world-behind-the-odyssey/"
     }
   ],
-  "cite_count": 6,
+  "cite_count": 7,
   "licensing_status": "unverified"
 }

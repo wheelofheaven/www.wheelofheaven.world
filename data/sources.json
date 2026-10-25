@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-15T12:31:17+00:00",
+  "generated_at": "2026-10-25T19:40:48+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 820,
-  "total_cites": 1481,
+  "total": 840,
+  "total_cites": 1544,
   "media_counts": {
-    "religious-text": 95,
-    "academic-paper": 86,
+    "religious-text": 98,
+    "academic-paper": 95,
     "unknown": 379,
-    "nonfiction-book": 186,
-    "article": 23,
+    "nonfiction-book": 190,
+    "article": 26,
     "documentary": 17,
     "wiki": 13,
+    "website": 6,
     "fiction-book": 15,
-    "website": 2,
     "lecture": 1
   },
   "sources": [
@@ -96,6 +96,27 @@
         }
       ],
       "cite_count": 9,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "1-enoch-the-book-of-the-watchers-book-of-parables-astronomical-book",
+      "title": "1 Enoch (The Book of the Watchers, Book of Parables, Astronomical Book)",
+      "authored_by": [
+        "Anonymous (Second Temple Judaism)"
+      ],
+      "publish_date": "c. 3rd c. BCE – 1st c. BCE",
+      "follow_url": "",
+      "description": "Most explicit ancient record of the Watchers descending, mating with human women, and producing the Nephilim. Source for the names of the chief Watchers cited in §VII.",
+      "medium": "religious-text",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -416,14 +437,14 @@
       "topics": [],
       "cited_by": [
         {
-          "section": "timeline",
-          "title": "Age of Virgo",
-          "path": "/timeline/age-of-virgo/"
-        },
-        {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Virgo",
+          "path": "/timeline/age-of-virgo/"
         }
       ],
       "cite_count": 2,
@@ -528,6 +549,16 @@
       ],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
           "section": "wiki",
           "title": "Council of the Eternals",
           "path": "/wiki/council-of-eternals/"
@@ -548,7 +579,7 @@
           "path": "/wiki/jean-sendy/"
         }
       ],
-      "cite_count": 4,
+      "cite_count": 6,
       "licensing_status": "unknown"
     },
     {
@@ -711,6 +742,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "a-production-of-amino-acids-under-possible-primitive-earth-conditions",
+      "title": "A Production of Amino Acids Under Possible Primitive Earth Conditions",
+      "authored_by": [
+        "Stanley L. Miller"
+      ],
+      "publish_date": "1953",
+      "follow_url": "https://www.science.org/doi/10.1126/science.117.3046.528",
+      "description": "The Miller–Urey experiment demonstrating that simple amino acids form spontaneously in simulated early-atmosphere chemistry.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "a-programmable-dual-rna-guided-dna-endonuclease-in-adaptive-bacterial-immunity",
       "title": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
       "authored_by": [
@@ -747,6 +799,33 @@
           "section": "articles",
           "title": "The Scrolls That Woke in Year One",
           "path": "/articles/the-scrolls-that-woke-in-year-one/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "tschopp-diplodocidae-revision-2015",
+      "title": "A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda)",
+      "authored_by": [
+        "Emanuel Tschopp",
+        "Octávio Mateus",
+        "Roger B. J. Benson"
+      ],
+      "publish_date": "2015",
+      "follow_url": "https://doi.org/10.7717/peerj.857",
+      "description": "PeerJ 3:e857 (2015): the phylogenetic revision that restored Brontosaurus as a genus distinct from Apatosaurus, more than a century after the name was sunk.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs",
+        "Taxonomy"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1,
@@ -982,6 +1061,11 @@
         },
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The East Face of Homer",
           "path": "/articles/the-east-face-of-homer/"
         },
@@ -1006,7 +1090,7 @@
           "path": "/articles/the-world-behind-the-odyssey/"
         }
       ],
-      "cite_count": 6,
+      "cite_count": 7,
       "licensing_status": "unverified"
     },
     {
@@ -1188,17 +1272,42 @@
       "topics": [],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
-        },
+        }
+      ],
+      "cite_count": 2,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "jones-instinct-for-dragons",
+      "title": "An Instinct for Dragons",
+      "authored_by": [
+        "David E. Jones"
+      ],
+      "publish_date": "2000",
+      "follow_url": "",
+      "description": "The anthropologist David E. Jones's argument that the dragon is a cognitive composite of the primate brain's oldest predator alarms — snake, raptor, big cat. One of the three mainstream explanations of the worldwide dragon motif.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Mythology",
+        "Dragons",
+        "Anthropology"
+      ],
+      "cited_by": [
         {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -2188,6 +2297,27 @@
       "licensing_status": "public_domain"
     },
     {
+      "id": "book-of-jubilees",
+      "title": "Book of Jubilees",
+      "authored_by": [
+        "Anonymous (Second Temple Judaism)"
+      ],
+      "publish_date": "c. 2nd c. BCE",
+      "follow_url": "",
+      "description": "Parallel pre-rabbinic source for the Watchers and Nephilim cycle.",
+      "medium": "religious-text",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "book-of-mormon",
       "title": "Book of Mormon",
       "authored_by": [
@@ -2237,6 +2367,27 @@
         }
       ],
       "cite_count": 2,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "breakthrough-starshot",
+      "title": "Breakthrough Starshot",
+      "authored_by": [
+        "Breakthrough Initiatives"
+      ],
+      "publish_date": "announced 2016",
+      "follow_url": "https://breakthroughinitiatives.org/initiative/3",
+      "description": "Directed-energy interstellar-probe research program referenced in the closing section on emerging interstellar capability.",
+      "medium": "website",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -2374,6 +2525,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "carbon-bearing-molecules-in-a-possible-hycean-atmosphere",
+      "title": "Carbon-bearing molecules in a possible Hycean atmosphere",
+      "authored_by": [
+        "Nikku Madhusudhan, Subhajit Sarkar, Savvas Constantinou, Måns Holmberg, et al."
+      ],
+      "publish_date": "2023",
+      "follow_url": "https://iopscience.iop.org/article/10.3847/2041-8213/acf577",
+      "description": "JWST first detection of CH4 and CO2 in K2-18b's atmosphere, with a tentative DMS biosignature signal.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "miyazaki-castle-in-the-sky",
       "title": "Castle in the Sky",
       "authored_by": [
@@ -2442,8 +2614,18 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
           "title": "The Book Closest to the Truth",
           "path": "/articles/the-book-closest-to-the-truth/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -2474,14 +2656,9 @@
           "section": "wiki",
           "title": "Satan",
           "path": "/wiki/satan/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 8,
+      "cite_count": 9,
       "licensing_status": "unverified"
     },
     {
@@ -2498,6 +2675,11 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -2505,11 +2687,6 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 3,
@@ -2868,6 +3045,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-daniel-g-gibson-j-cr",
+      "title": "Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome",
+      "authored_by": [
+        "Daniel G. Gibson, J. Craig Venter et al."
+      ],
+      "publish_date": "2010",
+      "follow_url": "https://www.science.org/doi/10.1126/science.1190719",
+      "description": "The first living cell with a fully synthetic genome — Mycoplasma mycoides JCVI-syn1.0.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-scien",
       "title": "Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome (Science 329)",
       "authored_by": [
@@ -3080,13 +3278,13 @@
     },
     {
       "id": "aesthetics-wiki-cyberparadism",
-      "title": "Cyberparadism (Aesthetics Wiki)",
+      "title": "Cyberparadism (Personal Aesthetics Wiki)",
       "authored_by": [
         "Aesthetics Wiki community"
       ],
       "publish_date": "2023",
-      "follow_url": "https://aesthetics.fandom.com/wiki/Cyberparadism",
-      "description": "The Aesthetics Wiki entry on Cyberparadism. Aesthetics Wiki, hosted on Fandom, is the principal contemporary online platform for the systematic articulation of internet-cultural aesthetics. The Cyberparadism entry there was the origin venue of the aesthetic's formalization.",
+      "follow_url": "https://personal-aesthetics.fandom.com/wiki/Cyberparadism",
+      "description": "The Personal Aesthetics Wiki entry on Cyberparadism, the venue where the aesthetic was first formalised. The wiki, hosted on Fandom, catalogues internet-cultural aesthetics through community editing; its Cyberparadism entry files the aesthetic as a subset of Cyberprep and traces its optimism to the early twentieth-century avant-garde. The entry was previously hosted on the main Aesthetics Wiki (aesthetics.fandom.com), where the page no longer exists.",
       "medium": "wiki",
       "topics": [
         "Cyberparadism",
@@ -3101,7 +3299,7 @@
         }
       ],
       "cite_count": 1,
-      "licensing_status": "unverified"
+      "licensing_status": "licensed"
     },
     {
       "id": "cyberparadism-manifesto",
@@ -3111,7 +3309,7 @@
       ],
       "publish_date": "2023",
       "follow_url": "https://github.com/zarazinsfuss/cyberparadism-manifesto",
-      "description": "The Cyberparadism Manifesto, found on GitHub, outlines a vision for a future shaped by the positive potential of technology and scientific progress. At its core, Cyberparadism focuses on using technology to enhance the human experience, promote sustainability, and foster a collective sense of purpose and responsibility. It is not a political or economic manifesto, but rather an aesthetic declaration that seeks to inspire and stimulate imagination. The manifesto embraces the idea that technology can create a world of abundance, equity, and harmony with nature. It promotes values such as ingenuity, continuity, and siblinghood and emphasizes the responsible use of technology to create a better world. Cyberparadism is seen as a pathway to a future where technology and nature coexist harmoniously, enhancing rather than detracting from the natural world​​.\n\n### External links\n\n- [Cyberparadism Manifesto | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto)\n- [Cyberparadism | Breezewiki](https://breezewiki.com/aesthetics/wiki/Cyberparadism)",
+      "description": "The Cyberparadism Manifesto, first published on GitHub in April 2023 (Laws and Signs added in May 2023, resources section in November 2023) and maintained since 2026 in a lightly copyedited edition on the aesthetic's website, outlines a vision for a future shaped by the positive potential of technology and scientific progress. At its core, Cyberparadism focuses on using technology to enhance the human experience, promote sustainability, and foster a collective sense of purpose and responsibility. It is not a political or economic manifesto, but rather an aesthetic declaration that seeks to inspire and stimulate imagination. The manifesto embraces the idea that technology can create a world of abundance, equity, and harmony with nature. It promotes values such as ingenuity, continuity, and siblinghood and emphasizes the responsible use of technology to create a better world. Cyberparadism is seen as a pathway to a future where technology and nature coexist harmoniously, enhancing rather than detracting from the natural world​​.\n\n### External links\n\n- [Cyberparadism Manifesto | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto)\n- [Cyberparadism Manifesto, 2026 edition | cyberparadism website](https://zarazinsfuss.github.io/cyberparadism/manifesto/)\n- [Cyberparadism | Personal Aesthetics Wiki](https://personal-aesthetics.fandom.com/wiki/Cyberparadism)",
       "medium": "article",
       "topics": [
         "Age of Aquarius",
@@ -3131,7 +3329,33 @@
         }
       ],
       "cite_count": 2,
-      "licensing_status": "unknown"
+      "licensing_status": "public_domain"
+    },
+    {
+      "id": "cyberparadism-field-guide",
+      "title": "Cyberparadism: Field Guide",
+      "authored_by": [
+        "Zara Zinsfuss"
+      ],
+      "publish_date": "2026",
+      "follow_url": "https://zarazinsfuss.github.io/cyberparadism/field-guide/",
+      "description": "The reference site of the Cyberparadism aesthetic, relaunched in October 2026. It carries the maintained edition of the Cyberparadism Manifesto, a nine-chapter field guide (overview, settings and tropes, visual language, shape language, palette, distinctions, related aesthetics, checklist, glossary) and a gallery of pieces filed by setting and motif with stated provenance. All text and images are dedicated to the public domain under CC0 1.0.\n\n### External links\n\n- [Field Guide](https://zarazinsfuss.github.io/cyberparadism/field-guide/)\n- [Manifesto, 2026 edition](https://zarazinsfuss.github.io/cyberparadism/manifesto/)\n- [Gallery](https://zarazinsfuss.github.io/cyberparadism/gallery/)\n- [Source repository](https://github.com/zarazinsfuss/cyberparadism)",
+      "medium": "website",
+      "topics": [
+        "Cyberparadism",
+        "Age of Aquarius",
+        "Futurism",
+        "Aesthetics"
+      ],
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Cyberparadism",
+          "path": "/wiki/cyberparadism/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "public_domain"
     },
     {
       "id": "penrose-cycles-of-time",
@@ -3504,6 +3728,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "design-and-synthesis-of-a-minimal-bacterial-genome-clyde-a-hutchison-ii",
+      "title": "Design and Synthesis of a Minimal Bacterial Genome",
+      "authored_by": [
+        "Clyde A. Hutchison III, J. Craig Venter et al."
+      ],
+      "publish_date": "2016",
+      "follow_url": "https://www.science.org/doi/10.1126/science.aad6253",
+      "description": "Mycoplasma mycoides JCVI-syn3.0 — 473 genes, the smallest known free-living genome.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "deterministic-nonperiodic-flow",
       "title": "Deterministic Nonperiodic Flow",
       "authored_by": [
@@ -3793,6 +4038,31 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "bakker-dinosaur-renaissance-1975",
+      "title": "Dinosaur Renaissance",
+      "authored_by": [
+        "Robert T. Bakker"
+      ],
+      "publish_date": "1975",
+      "follow_url": "https://doi.org/10.1038/scientificamerican0475-58",
+      "description": "Robert Bakker's Scientific American manifesto (vol. 232, no. 4, April 1975) for active, warm-blooded dinosaurs and their kinship with birds — the popular launch of the 'Dinosaur Renaissance'.",
+      "medium": "article",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs",
+        "Birds"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "crick-orgel-directed-panspermia",
       "title": "Directed Panspermia",
       "authored_by": [
@@ -4067,6 +4337,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "earth-and-mars-evolution-of-atmospheres-and-surface-temperatures",
+      "title": "Earth and Mars: Evolution of Atmospheres and Surface Temperatures",
+      "authored_by": [
+        "Carl Sagan and George Mullen"
+      ],
+      "publish_date": "1972",
+      "follow_url": "https://www.science.org/doi/10.1126/science.177.4043.52",
+      "description": "First identification of the faint young Sun paradox.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "ecclesiastical-history-book-6-chapter-38",
       "title": "Ecclesiastical History, Book 6, chapter 38",
       "authored_by": [
@@ -4206,8 +4497,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -4446,6 +4743,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Rain Over Helicon",
           "path": "/articles/the-rain-over-helicon/"
         },
@@ -4478,11 +4780,6 @@
           "section": "wiki",
           "title": "Genesis",
           "path": "/wiki/genesis/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 10,
@@ -4962,6 +5259,16 @@
         },
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -5106,7 +5413,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 31,
+      "cite_count": 33,
       "licensing_status": "licensed"
     },
     {
@@ -5385,6 +5692,35 @@
       "licensing_status": "unknown"
     },
     {
+      "id": "zhang-fossilized-melanosomes-2010",
+      "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
+      "authored_by": [
+        "Fucheng Zhang",
+        "Stuart L. Kearns",
+        "Patrick J. Orr",
+        "Michael J. Benton",
+        "et al."
+      ],
+      "publish_date": "2010",
+      "follow_url": "https://doi.org/10.1038/nature08740",
+      "description": "Nature 463 (2010): the identification of preserved melanosomes in the filaments of Sinosauropteryx, giving the first evidence-based colour pattern (a ginger-and-white banded tail) for a non-avian dinosaur.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs",
+        "Feathers"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "foundational-text-on-complex-topics",
       "title": "Foundational Text on Complex Topics",
       "authored_by": [
@@ -5628,6 +5964,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Flood Was a Reset, Not a Punishment",
           "path": "/articles/the-flood-was-a-reset-not-a-punishment/"
         },
@@ -5663,6 +6004,16 @@
         },
         {
           "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
           "title": "Age of Leo",
           "path": "/timeline/age-of-leo/"
         },
@@ -5670,6 +6021,16 @@
           "section": "timeline",
           "title": "Age of Libra",
           "path": "/timeline/age-of-libra/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -5740,14 +6101,9 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 28,
+      "cite_count": 32,
       "licensing_status": "unverified"
     },
     {
@@ -5795,6 +6151,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "Are the Watchers and the Nephilim the Same?",
           "path": "/articles/watchers-and-the-nephilim/"
         },
@@ -5837,11 +6198,6 @@
           "section": "wiki",
           "title": "Tree of Life",
           "path": "/wiki/tree-of-life/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 11,
@@ -6578,6 +6934,32 @@
       "licensing_status": "licensed"
     },
     {
+      "id": "habitable-worlds-observatory",
+      "title": "Habitable Worlds Observatory",
+      "authored_by": [
+        "NASA Astrophysics Division"
+      ],
+      "publish_date": "2024 (concept)",
+      "follow_url": "https://habitableworldsobservatory.org/",
+      "description": "Mission concept for the first instrument specifically designed to search for Earth analogs around Sun-like stars.",
+      "medium": "website",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 2,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm",
       "title": "Hadith: Muhammad’s Legacy in the Medieval and Modern World — the isnād sciences, ʿilm al-rijāl, and the grading vocabulary (ṣaḥīḥ, ḥasan, ḍaʿīf, mawḍūʿ)",
       "authored_by": [
@@ -6656,6 +7038,11 @@
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
         },
         {
           "section": "timeline",
@@ -6768,7 +7155,7 @@
           "path": "/wiki/zodiac/"
         }
       ],
-      "cite_count": 26,
+      "cite_count": 27,
       "licensing_status": "unknown"
     },
     {
@@ -6785,11 +7172,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -7171,6 +7563,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "how-life-works-a-user-s-guide-to-the-new-biology",
+      "title": "How Life Works: A User’s Guide to the New Biology",
+      "authored_by": [
+        "Philip Ball"
+      ],
+      "publish_date": "2023",
+      "follow_url": "",
+      "description": "Source of the 'packed nightclub' framing for cellular interior dynamics quoted in §III.",
+      "medium": "nonfiction-book",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "how-to-kill-a-dragon-aspects-of-indo-european-poetics-the-reconstructed-formula-",
       "title": "How to Kill a Dragon: Aspects of Indo-European Poetics (the reconstructed formula *’hero SLAY serpent’ — the strongest case that some motif recurrence is genetic inheritance within a language family)",
       "authored_by": [
@@ -7534,6 +7947,11 @@
         },
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -7591,6 +8009,11 @@
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -7688,7 +8111,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 33,
+      "cite_count": 35,
       "licensing_status": "unverified"
     },
     {
@@ -8326,6 +8749,11 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -8333,11 +8761,6 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 3,
@@ -8707,6 +9130,16 @@
       ],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
           "section": "wiki",
           "title": "Ezekiel",
           "path": "/wiki/ezekiel/"
@@ -8720,14 +9153,9 @@
           "section": "wiki",
           "title": "Reference corpus of the Raëlian canon",
           "path": "/wiki/reference-corpus-of-the-raelian-canon/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 4,
+      "cite_count": 5,
       "licensing_status": "unverified"
     },
     {
@@ -8903,6 +9331,11 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -8910,6 +9343,11 @@
           "section": "articles",
           "title": "The Book Closest to the Truth",
           "path": "/articles/the-book-closest-to-the-truth/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -8935,14 +9373,9 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 8,
+      "cite_count": 9,
       "licensing_status": "unverified"
     },
     {
@@ -9038,6 +9471,16 @@
         },
         {
           "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
           "title": "Age of Leo",
           "path": "/timeline/age-of-leo/"
         },
@@ -9050,6 +9493,16 @@
           "section": "timeline",
           "title": "Age of Pisces",
           "path": "/timeline/age-of-pisces/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -9072,7 +9525,7 @@
           "path": "/timeline/the-wheel-keeps-turning/"
         }
       ],
-      "cite_count": 9,
+      "cite_count": 13,
       "licensing_status": "unverified"
     },
     {
@@ -9200,6 +9653,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Man Who Bet the Bible on the Moon",
           "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
         },
@@ -9227,11 +9685,6 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 8,
@@ -9313,6 +9766,16 @@
         },
         {
           "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
           "title": "Age of Leo",
           "path": "/timeline/age-of-leo/"
         },
@@ -9325,6 +9788,16 @@
           "section": "timeline",
           "title": "Age of Pisces",
           "path": "/timeline/age-of-pisces/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -9352,7 +9825,7 @@
           "path": "/wiki/cyberparadism/"
         }
       ],
-      "cite_count": 10,
+      "cite_count": 14,
       "licensing_status": "unverified"
     },
     {
@@ -9415,12 +9888,17 @@
       "topics": [],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -9576,6 +10054,11 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         },
@@ -9665,7 +10148,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 18,
+      "cite_count": 19,
       "licensing_status": "licensed"
     },
     {
@@ -9883,6 +10366,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Man Who Bet the Bible on the Moon",
           "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
         },
@@ -9905,14 +10398,9 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 6,
+      "cite_count": 7,
       "licensing_status": "unverified"
     },
     {
@@ -10114,6 +10602,27 @@
       "licensing_status": "licensed"
     },
     {
+      "id": "making-mars-habitable",
+      "title": "Making Mars Habitable",
+      "authored_by": [
+        "Christopher P. McKay, Owen B. Toon, and James F. Kasting"
+      ],
+      "publish_date": "1991",
+      "follow_url": "https://www.nature.com/articles/352489a0",
+      "description": "The foundational technical proposal for Mars terraforming via greenhouse gas warming and atmospheric thickening.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "vilenkin-many-worlds-in-one",
       "title": "Many Worlds in One: The Search for Other Universes",
       "authored_by": [
@@ -10165,8 +10674,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -10676,6 +11191,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "molecular-structure-of-nucleic-acids-a-structure-for-deoxyribose-nucleic-acid",
+      "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+      "authored_by": [
+        "James D. Watson and Francis H. C. Crick"
+      ],
+      "publish_date": "1953",
+      "follow_url": "https://www.nature.com/articles/171737a0",
+      "description": "The double-helix paper underpinning modern molecular biology.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "monotheism",
       "title": "Monotheism",
       "authored_by": [
@@ -10943,6 +11479,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "nasa-exoplanet-archive",
+      "title": "NASA Exoplanet Archive",
+      "authored_by": [
+        "NASA Exoplanet Science Institute / Caltech"
+      ],
+      "publish_date": "ongoing",
+      "follow_url": "https://exoplanetarchive.ipac.caltech.edu/",
+      "description": "Catalog of confirmed exoplanets cited in the chapter (>5,800 as of early 2026).",
+      "medium": "website",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "natural-history-5-73-the-essenes-west-of-the-dead-sea-without-women-having-for-c",
       "title": "Natural History 5.73 (the Essenes west of the Dead Sea, ‘without women… having for company only the palm trees,’ self-renewing ‘for thousands of centuries’)",
       "authored_by": [
@@ -11055,6 +11612,27 @@
           "section": "wiki",
           "title": "Cyberparadism",
           "path": "/wiki/cyberparadism/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "new-insights-from-a-reanalysis-of-the-k2-18b-atmosphere",
+      "title": "New Insights From a Reanalysis of the K2-18b Atmosphere",
+      "authored_by": [
+        "Renyu Hu, Karan Molaverdikhani, and the JPL Atmospheres Group"
+      ],
+      "publish_date": "2025",
+      "follow_url": "",
+      "description": "JPL-led reanalysis that tempered the initial DMS biosignature interpretation.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
         }
       ],
       "cite_count": 1,
@@ -11228,12 +11806,17 @@
       "topics": [],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -11595,6 +12178,32 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "on-the-origin-of-species",
+      "title": "On the Origin of Species",
+      "authored_by": [
+        "Charles Darwin"
+      ],
+      "publish_date": "1859",
+      "follow_url": "",
+      "description": "Cited here for the explicit borrowing of Lyell's uniformitarianism as a foundational assumption of evolutionary biology.",
+      "medium": "nonfiction-book",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 2,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "on-the-origin-of-watchers-a-comparative-study-of-the-antediluvian-wisdom-in-meso",
       "title": "On the Origin of Watchers: A Comparative Study of the Antediluvian Wisdom in Mesopotamian and Jewish Traditions (Journal for the Study of the Pseudepigrapha 19.4 — the Apkallu ↔ Watchers demonstration)",
       "authored_by": [
@@ -11859,14 +12468,14 @@
       "topics": [],
       "cited_by": [
         {
-          "section": "timeline",
-          "title": "Age of Virgo",
-          "path": "/timeline/age-of-virgo/"
-        },
-        {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Virgo",
+          "path": "/timeline/age-of-virgo/"
         }
       ],
       "cite_count": 2,
@@ -12241,12 +12850,17 @@
       ],
       "cited_by": [
         {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
           "section": "wiki",
           "title": "Antediluvian",
           "path": "/wiki/antediluvian/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "public_domain"
     },
     {
@@ -12952,6 +13566,11 @@
       ],
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
           "section": "wiki",
           "title": "Message from the Designers",
           "path": "/wiki/message-from-the-designers/"
@@ -12962,7 +13581,7 @@
           "path": "/wiki/reference-corpus-of-the-raelian-canon/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unverified"
     },
     {
@@ -13336,6 +13955,32 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "gauthier-saurischian-monophyly-1986",
+      "title": "Saurischian Monophyly and the Origin of Birds",
+      "authored_by": [
+        "Jacques Gauthier"
+      ],
+      "publish_date": "1986",
+      "follow_url": "",
+      "description": "Jacques Gauthier's cladistic analysis in Memoirs of the California Academy of Sciences 8 (1986), which placed birds within the theropod dinosaurs and consolidated Ostrom's revival into the modern consensus.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Birds",
+        "Dinosaurs",
+        "Cladistics"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "sa-s-ra-wheel-of-heaven-wiki-the-civilizational-rereading-of-the-cycle-rise-to-s",
       "title": "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)",
       "authored_by": [
@@ -13613,6 +14258,27 @@
       "licensing_status": "licensed"
     },
     {
+      "id": "septuagint-greek-translation-of-the-hebrew-bible",
+      "title": "Septuagint (Greek translation of the Hebrew Bible)",
+      "authored_by": [
+        "Jewish translators in Alexandria"
+      ],
+      "publish_date": "c. 3rd–2nd c. BCE",
+      "follow_url": "",
+      "description": "Source of the gigantes rendering for Nephilim that the chapter discusses in §VII.",
+      "medium": "religious-text",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "septuaginta-editio-altera-the-standard-critical-edition",
       "title": "Septuaginta: Editio altera (the standard critical edition)",
       "authored_by": [
@@ -13625,14 +14291,14 @@
       "topics": [],
       "cited_by": [
         {
-          "section": "wiki",
-          "title": "Septuagint",
-          "path": "/wiki/septuagint/"
-        },
-        {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "wiki",
+          "title": "Septuagint",
+          "path": "/wiki/septuagint/"
         }
       ],
       "cite_count": 2,
@@ -14166,6 +14832,33 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "ibrahim-spinosaurus-aquatic-2020",
+      "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
+      "authored_by": [
+        "Nizar Ibrahim",
+        "Simone Maganuco",
+        "Cristiano Dal Sasso",
+        "et al."
+      ],
+      "publish_date": "2020",
+      "follow_url": "https://doi.org/10.1038/s41586-020-2190-3",
+      "description": "Nature 581 (2020): the description of Spinosaurus's paddle-like tail, the principal evidence for a semiaquatic, river-hunting giant theropod. Its aquatic interpretation remains debated within paleontology.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "tanakh",
       "title": "Tanakh",
       "authored_by": [
@@ -14280,6 +14973,81 @@
       "cited_by": [],
       "cite_count": 0,
       "licensing_status": "unknown"
+    },
+    {
+      "id": "testimony-of-marie-helene-parent",
+      "title": "Testimony of Marie-Hélène Parent",
+      "authored_by": [
+        "Marie-Hélène Parent"
+      ],
+      "publish_date": "2019-07-05 (repost)",
+      "follow_url": "https://raelian.home.blog/2019/07/05/testimony-of-marie-helene-parent-ex-raelian-priest-raelian-for-25-years/",
+      "description": "The author reports hearing Raël say he knew Sendy and drank with him in Clermont-Ferrand. This is a retrospective report of an alleged admission; the passage does not date the alleged acquaintance or demonstrate access before composition. Other personal allegations are outside this article.",
+      "medium": "article",
+      "topics": [
+        "Jean Sendy",
+        "Raëlian Messages",
+        "Literary Dependence"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "testimony-of-mark-woodgate",
+      "title": "Testimony of Mark Woodgate",
+      "authored_by": [
+        "Mark Woodgate"
+      ],
+      "publish_date": "2019-07-05 (repost)",
+      "follow_url": "https://raelian.home.blog/2019/07/05/testimony-of-mark-woodgate-ex-raelian-and-national-guide-of-new-zealand-for-16-years/",
+      "description": "A former national guide reports that reading Sendy contributed to his rejection of the encounter account. His comparisons depend on Sendy and on other testimonials; these are not independent documentary evidence of composition.",
+      "medium": "article",
+      "topics": [
+        "Jean Sendy",
+        "Raëlian Messages",
+        "Literary Dependence"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "testimony-of-sage-ali",
+      "title": "Testimony of Sage Ali",
+      "authored_by": [
+        "Sage Ali"
+      ],
+      "publish_date": "2010-08-06",
+      "follow_url": "https://raelian.org/testimony-of-sage-ali/",
+      "description": "Former Raëlian guide’s retrospective testimony and Sendy comparison. Letter dated 6 August 2010; inspected through a 5 July 2019 repost because the linked page was unavailable. Reports and allegations require attribution.",
+      "medium": "article",
+      "topics": [
+        "Jean Sendy",
+        "Raëlian Messages",
+        "Literary Dependence"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
     },
     {
       "id": "grusch-congressional-testimony",
@@ -14507,6 +15275,32 @@
       ],
       "cite_count": 1,
       "licensing_status": "public_domain"
+    },
+    {
+      "id": "ostrom-ancestry-of-birds",
+      "title": "The Ancestry of Birds",
+      "authored_by": [
+        "John H. Ostrom"
+      ],
+      "publish_date": "1973",
+      "follow_url": "https://doi.org/10.1038/242136a0",
+      "description": "John Ostrom's one-page Nature paper (vol. 242, p. 136, March 1973) that revived Huxley's theropod hypothesis of bird origins against the half-century Heilmann consensus — published nine months before the composition window of the first Raëlian Message. The hinge document for the article's history-of-science layer: what the dinosaur–bird connection looked like in 1973, and to whom it was visible.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Birds",
+        "Dinosaurs",
+        "History of Science"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
     },
     {
       "id": "charles-apocrypha-pseudepigrapha",
@@ -15119,6 +15913,16 @@
         },
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -15126,6 +15930,11 @@
           "section": "articles",
           "title": "The Book Closest to the Truth",
           "path": "/articles/the-book-closest-to-the-truth/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -15461,14 +16270,9 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 73,
+      "cite_count": 75,
       "licensing_status": "licensed"
     },
     {
@@ -15515,6 +16319,27 @@
       "topics": [],
       "cited_by": [],
       "cite_count": 0,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must",
+      "title": "The Case for Mars: The Plan to Settle the Red Planet and Why We Must",
+      "authored_by": [
+        "Robert Zubrin (with Richard Wagner)"
+      ],
+      "publish_date": "1996",
+      "follow_url": "",
+      "description": "The most influential modern brief for Mars colonization, including the terraforming arguments referenced in §V.",
+      "medium": "nonfiction-book",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -16370,6 +17195,32 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "sagan-dragons-of-eden",
+      "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+      "authored_by": [
+        "Carl Sagan"
+      ],
+      "publish_date": "1977",
+      "follow_url": "",
+      "description": "Carl Sagan's Pulitzer-winning essay on the evolution of the brain, which speculates that dragon myths may preserve an inherited mammalian fear from the Mesozoic. Published three years after the first Raëlian Message.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Mythology",
+        "Dragons",
+        "Evolution",
+        "Neuroscience"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "the-early-development-of-the-quranic-hanif",
       "title": "The Early Development of the Quranic Hanif",
       "authored_by": [
@@ -16866,6 +17717,31 @@
       "licensing_status": "licensed"
     },
     {
+      "id": "prum-evolution-of-beauty",
+      "title": "The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World",
+      "authored_by": [
+        "Richard O. Prum"
+      ],
+      "publish_date": "2017",
+      "follow_url": "",
+      "description": "The Yale ornithologist Richard Prum's case for aesthetic mate choice as a driver of avian ornament, display and courtship — the body of work that puts display before aerodynamics in the history of plumage.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Birds",
+        "Evolution",
+        "Sexual Selection"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "the-evolution-of-the-gilgamesh-epic",
       "title": "The Evolution of the Gilgamesh Epic",
       "authored_by": [
@@ -16991,6 +17867,32 @@
           "section": "articles",
           "title": "Monotheism Is the Wrong Question",
           "path": "/articles/monotheism-is-the-wrong-question/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "mayor-first-fossil-hunters",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authored_by": [
+        "Adrienne Mayor"
+      ],
+      "publish_date": "2000",
+      "follow_url": "",
+      "description": "Adrienne Mayor's Princeton study of how classical antiquity read large fossil bones as the remains of giants, heroes and monsters (griffins, the monster of Troy). The standard scholarly statement of the fossil-inspiration account of monster and dragon lore.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Paleontology",
+        "Mythology",
+        "Dragons",
+        "History of Science"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1,
@@ -17875,8 +18777,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -18822,6 +19730,53 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "heilmann-origin-of-birds",
+      "title": "The Origin of Birds",
+      "authored_by": [
+        "Gerhard Heilmann"
+      ],
+      "publish_date": "1926",
+      "follow_url": "https://www.biodiversitylibrary.org/bibliography/44249",
+      "description": "Gerhard Heilmann's 1926 monograph arguing that birds descend from 'thecodont' archosaurs rather than dinosaurs — on the strength of the theropods' apparently missing clavicles. The book settled the question for nearly fifty years: from 1926 into the 1970s the governing consensus in ornithology and vertebrate paleontology held that birds were not dinosaur descendants. The baseline against which the first Message's dragons-at-the-bird-stage placement is measured.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Paleontology",
+        "Birds",
+        "Dinosaurs",
+        "History of Science"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "the-origin-of-life",
+      "title": "The Origin of Life",
+      "authored_by": [
+        "Alexander I. Oparin"
+      ],
+      "publish_date": "1924 (Russian); 1938 English translation",
+      "follow_url": "",
+      "description": "The foundational primordial-soup hypothesis of abiogenesis.",
+      "medium": "nonfiction-book",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "pagels-origin-of-satan",
       "title": "The Origin of Satan",
       "authored_by": [
@@ -19090,6 +20045,27 @@
       "cited_by": [],
       "cite_count": 0,
       "licensing_status": "unknown"
+    },
+    {
+      "id": "the-planet-venus",
+      "title": "The Planet Venus",
+      "authored_by": [
+        "Carl Sagan"
+      ],
+      "publish_date": "1961",
+      "follow_url": "https://www.science.org/doi/10.1126/science.133.3456.849",
+      "description": "Sagan's early proposal for cyanobacterial terraforming of Venus — the seed paper for the modern terraforming literature.",
+      "medium": "academic-paper",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
     },
     {
       "id": "poetic-edda",
@@ -19989,8 +20965,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -20589,12 +21571,17 @@
       ],
       "cited_by": [
         {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
           "section": "wiki",
           "title": "Antediluvian",
           "path": "/wiki/antediluvian/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "public_domain"
     },
     {
@@ -21690,11 +22677,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -21842,369 +22834,6 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "testimony-of-marie-helene-parent",
-      "title": "Testimony of Marie-Hélène Parent",
-      "authored_by": [
-        "Marie-Hélène Parent"
-      ],
-      "publish_date": "2019-07-05 (repost)",
-      "follow_url": "https://raelian.home.blog/2019/07/05/testimony-of-marie-helene-parent-ex-raelian-priest-raelian-for-25-years/",
-      "description": "The author reports hearing Raël say he knew Sendy and drank with him in Clermont-Ferrand. This is a retrospective report of an alleged admission; the passage does not date the alleged acquaintance or demonstrate access before composition. Other personal allegations are outside this article.",
-      "medium": "article",
-      "topics": [
-        "Jean Sendy",
-        "Raëlian Messages",
-        "Literary Dependence"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "Sendy and the Raëlian Messages",
-          "path": "/articles/sendy-and-the-raelian-messages/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "testimony-of-mark-woodgate",
-      "title": "Testimony of Mark Woodgate",
-      "authored_by": [
-        "Mark Woodgate"
-      ],
-      "publish_date": "2019-07-05 (repost)",
-      "follow_url": "https://raelian.home.blog/2019/07/05/testimony-of-mark-woodgate-ex-raelian-and-national-guide-of-new-zealand-for-16-years/",
-      "description": "A former national guide reports that reading Sendy contributed to his rejection of the encounter account. His comparisons depend on Sendy and on other testimonials; these are not independent documentary evidence of composition.",
-      "medium": "article",
-      "topics": [
-        "Jean Sendy",
-        "Raëlian Messages",
-        "Literary Dependence"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "Sendy and the Raëlian Messages",
-          "path": "/articles/sendy-and-the-raelian-messages/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "testimony-of-sage-ali",
-      "title": "Testimony of Sage Ali",
-      "authored_by": [
-        "Sage Ali"
-      ],
-      "publish_date": "2010-08-06",
-      "follow_url": "https://raelian.org/testimony-of-sage-ali/",
-      "description": "Former Raëlian guide’s retrospective testimony and Sendy comparison. Letter dated 6 August 2010; inspected through a 5 July 2019 repost because the linked page was unavailable. Reports and allegations require attribution.",
-      "medium": "article",
-      "topics": [
-        "Jean Sendy",
-        "Raëlian Messages",
-        "Literary Dependence"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "Sendy and the Raëlian Messages",
-          "path": "/articles/sendy-and-the-raelian-messages/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "ostrom-ancestry-of-birds",
-      "title": "The Ancestry of Birds",
-      "authored_by": [
-        "John H. Ostrom"
-      ],
-      "publish_date": "1973",
-      "follow_url": "https://doi.org/10.1038/242136a0",
-      "description": "John Ostrom's one-page Nature paper (vol. 242, p. 136, March 1973) that revived Huxley's theropod hypothesis of bird origins against the half-century Heilmann consensus — published nine months before the composition window of the first Raëlian Message. The hinge document for the article's history-of-science layer: what the dinosaur–bird connection looked like in 1973, and to whom it was visible.",
-      "medium": "academic-paper",
-      "topics": [
-        "Paleontology",
-        "Birds",
-        "Dinosaurs",
-        "History of Science"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "heilmann-origin-of-birds",
-      "title": "The Origin of Birds",
-      "authored_by": [
-        "Gerhard Heilmann"
-      ],
-      "publish_date": "1926",
-      "follow_url": "https://www.biodiversitylibrary.org/bibliography/44249",
-      "description": "Gerhard Heilmann's 1926 monograph arguing that birds descend from 'thecodont' archosaurs rather than dinosaurs — on the strength of the theropods' apparently missing clavicles. The book settled the question for nearly fifty years: from 1926 into the 1970s the governing consensus in ornithology and vertebrate paleontology held that birds were not dinosaur descendants. The baseline against which the first Message's dragons-at-the-bird-stage placement is measured.",
-      "medium": "nonfiction-book",
-      "topics": [
-        "Paleontology",
-        "Birds",
-        "Dinosaurs",
-        "History of Science"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "mayor-first-fossil-hunters",
-      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
-      "authored_by": [
-        "Adrienne Mayor"
-      ],
-      "publish_date": "2000",
-      "follow_url": "",
-      "description": "Adrienne Mayor's Princeton study of how classical antiquity read large fossil bones as the remains of giants, heroes and monsters (griffins, the monster of Troy). The standard scholarly statement of the fossil-inspiration account of monster and dragon lore.",
-      "medium": "nonfiction-book",
-      "topics": [
-        "Paleontology",
-        "Mythology",
-        "Dragons",
-        "History of Science"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "jones-instinct-for-dragons",
-      "title": "An Instinct for Dragons",
-      "authored_by": [
-        "David E. Jones"
-      ],
-      "publish_date": "2000",
-      "follow_url": "",
-      "description": "The anthropologist David E. Jones's argument that the dragon is a cognitive composite of the primate brain's oldest predator alarms — snake, raptor, big cat. One of the three mainstream explanations of the worldwide dragon motif.",
-      "medium": "nonfiction-book",
-      "topics": [
-        "Mythology",
-        "Dragons",
-        "Anthropology"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "sagan-dragons-of-eden",
-      "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
-      "authored_by": [
-        "Carl Sagan"
-      ],
-      "publish_date": "1977",
-      "follow_url": "",
-      "description": "Carl Sagan's Pulitzer-winning essay on the evolution of the brain, which speculates that dragon myths may preserve an inherited mammalian fear from the Mesozoic. Published three years after the first Raëlian Message.",
-      "medium": "nonfiction-book",
-      "topics": [
-        "Mythology",
-        "Dragons",
-        "Evolution",
-        "Neuroscience"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "prum-evolution-of-beauty",
-      "title": "The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World",
-      "authored_by": [
-        "Richard O. Prum"
-      ],
-      "publish_date": "2017",
-      "follow_url": "",
-      "description": "The Yale ornithologist Richard Prum's case for aesthetic mate choice as a driver of avian ornament, display and courtship — the body of work that puts display before aerodynamics in the history of plumage.",
-      "medium": "nonfiction-book",
-      "topics": [
-        "Birds",
-        "Evolution",
-        "Sexual Selection"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "gauthier-saurischian-monophyly-1986",
-      "title": "Saurischian Monophyly and the Origin of Birds",
-      "authored_by": [
-        "Jacques Gauthier"
-      ],
-      "publish_date": "1986",
-      "follow_url": "",
-      "description": "Jacques Gauthier's cladistic analysis in Memoirs of the California Academy of Sciences 8 (1986), which placed birds within the theropod dinosaurs and consolidated Ostrom's revival into the modern consensus.",
-      "medium": "academic-paper",
-      "topics": [
-        "Paleontology",
-        "Birds",
-        "Dinosaurs",
-        "Cladistics"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "bakker-dinosaur-renaissance-1975",
-      "title": "Dinosaur Renaissance",
-      "authored_by": [
-        "Robert T. Bakker"
-      ],
-      "publish_date": "1975",
-      "follow_url": "https://doi.org/10.1038/scientificamerican0475-58",
-      "description": "Robert Bakker's Scientific American manifesto (vol. 232, no. 4, April 1975) for active, warm-blooded dinosaurs and their kinship with birds — the popular launch of the 'Dinosaur Renaissance'.",
-      "medium": "article",
-      "topics": [
-        "Paleontology",
-        "Dinosaurs",
-        "Birds"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "zhang-fossilized-melanosomes-2010",
-      "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
-      "authored_by": [
-        "Fucheng Zhang",
-        "Stuart L. Kearns",
-        "Patrick J. Orr",
-        "Michael J. Benton",
-        "et al."
-      ],
-      "publish_date": "2010",
-      "follow_url": "https://doi.org/10.1038/nature08740",
-      "description": "Nature 463 (2010): the identification of preserved melanosomes in the filaments of Sinosauropteryx, giving the first evidence-based colour pattern (a ginger-and-white banded tail) for a non-avian dinosaur.",
-      "medium": "academic-paper",
-      "topics": [
-        "Paleontology",
-        "Dinosaurs",
-        "Feathers"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "tschopp-diplodocidae-revision-2015",
-      "title": "A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda)",
-      "authored_by": [
-        "Emanuel Tschopp",
-        "Octávio Mateus",
-        "Roger B. J. Benson"
-      ],
-      "publish_date": "2015",
-      "follow_url": "https://doi.org/10.7717/peerj.857",
-      "description": "PeerJ 3:e857 (2015): the phylogenetic revision that restored Brontosaurus as a genus distinct from Apatosaurus, more than a century after the name was sunk.",
-      "medium": "academic-paper",
-      "topics": [
-        "Paleontology",
-        "Dinosaurs",
-        "Taxonomy"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1,
-      "licensing_status": "unverified"
-    },
-    {
-      "id": "ibrahim-spinosaurus-aquatic-2020",
-      "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
-      "authored_by": [
-        "Nizar Ibrahim",
-        "Simone Maganuco",
-        "Cristiano Dal Sasso",
-        "et al."
-      ],
-      "publish_date": "2020",
-      "follow_url": "https://doi.org/10.1038/s41586-020-2190-3",
-      "description": "Nature 581 (2020): the description of Spinosaurus's paddle-like tail, the principal evidence for a semiaquatic, river-hunting giant theropod. Its aquatic interpretation remains debated within paleontology.",
-      "medium": "academic-paper",
-      "topics": [
-        "Paleontology",
-        "Dinosaurs"
-      ],
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1,

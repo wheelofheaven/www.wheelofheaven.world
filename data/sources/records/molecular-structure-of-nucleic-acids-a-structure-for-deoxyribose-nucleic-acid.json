@@ -1,0 +1,21 @@
+{
+  "id": "molecular-structure-of-nucleic-acids-a-structure-for-deoxyribose-nucleic-acid",
+  "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+  "authored_by": [
+    "James D. Watson and Francis H. C. Crick"
+  ],
+  "publish_date": "1953",
+  "follow_url": "https://www.nature.com/articles/171737a0",
+  "description": "The double-helix paper underpinning modern molecular biology.",
+  "medium": "academic-paper",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

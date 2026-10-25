@@ -18,6 +18,16 @@
   ],
   "cited_by": [
     {
+      "section": "articles",
+      "title": "Sendy and the Raëlian Messages",
+      "path": "/articles/sendy-and-the-raelian-messages/"
+    },
+    {
+      "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
       "section": "wiki",
       "title": "Council of the Eternals",
       "path": "/wiki/council-of-eternals/"
@@ -38,6 +48,6 @@
       "path": "/wiki/jean-sendy/"
     }
   ],
-  "cite_count": 4,
+  "cite_count": 6,
   "licensing_status": "unknown"
 }

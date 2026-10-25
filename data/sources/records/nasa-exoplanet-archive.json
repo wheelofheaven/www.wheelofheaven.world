@@ -1,0 +1,21 @@
+{
+  "id": "nasa-exoplanet-archive",
+  "title": "NASA Exoplanet Archive",
+  "authored_by": [
+    "NASA Exoplanet Science Institute / Caltech"
+  ],
+  "publish_date": "ongoing",
+  "follow_url": "https://exoplanetarchive.ipac.caltech.edu/",
+  "description": "Catalog of confirmed exoplanets cited in the chapter (>5,800 as of early 2026).",
+  "medium": "website",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Capricorn",
+      "path": "/timeline/age-of-capricorn/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

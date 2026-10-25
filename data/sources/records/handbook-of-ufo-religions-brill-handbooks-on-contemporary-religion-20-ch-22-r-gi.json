@@ -12,10 +12,15 @@
   "cited_by": [
     {
       "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
       "title": "The Religion of Religions",
       "path": "/articles/the-religion-of-religions/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "unverified"
 }

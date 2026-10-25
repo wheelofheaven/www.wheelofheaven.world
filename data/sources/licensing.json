@@ -41,7 +41,7 @@
     "crick-life-itself": "licensed",
     "crick-orgel-directed-panspermia": "licensed",
     "crop-circles-signs-of-contact": "licensed",
-    "cyberparadism-manifesto": "unknown",
+    "cyberparadism-manifesto": "public_domain",
     "de-principiis": "public_domain",
     "deadly-voyager": "licensed",
     "debate-between-sheep-and-grain": "public_domain",
@@ -215,6 +215,8 @@
     "wonders-in-the-sky": "unknown",
     "wright-resurrection-son-of-god": "licensed",
     "yates-giordano-bruno-hermetic": "licensed",
-    "zohar-pritzker": "licensed"
+    "zohar-pritzker": "licensed",
+    "cyberparadism-field-guide": "public_domain",
+    "aesthetics-wiki-cyberparadism": "licensed"
   }
 }

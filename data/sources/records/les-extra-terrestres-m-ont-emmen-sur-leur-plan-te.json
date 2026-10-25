@@ -22,6 +22,16 @@
     },
     {
       "section": "timeline",
+      "title": "Age of Cancer",
+      "path": "/timeline/age-of-cancer/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Capricorn",
+      "path": "/timeline/age-of-capricorn/"
+    },
+    {
+      "section": "timeline",
       "title": "Age of Leo",
       "path": "/timeline/age-of-leo/"
     },
@@ -34,6 +44,16 @@
       "section": "timeline",
       "title": "Age of Pisces",
       "path": "/timeline/age-of-pisces/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
     },
     {
       "section": "timeline",
@@ -61,6 +81,6 @@
       "path": "/wiki/cyberparadism/"
     }
   ],
-  "cite_count": 10,
+  "cite_count": 14,
   "licensing_status": "unverified"
 }

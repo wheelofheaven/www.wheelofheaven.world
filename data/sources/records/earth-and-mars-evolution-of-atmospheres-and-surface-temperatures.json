@@ -1,0 +1,21 @@
+{
+  "id": "earth-and-mars-evolution-of-atmospheres-and-surface-temperatures",
+  "title": "Earth and Mars: Evolution of Atmospheres and Surface Temperatures",
+  "authored_by": [
+    "Carl Sagan and George Mullen"
+  ],
+  "publish_date": "1972",
+  "follow_url": "https://www.science.org/doi/10.1126/science.177.4043.52",
+  "description": "First identification of the faint young Sun paradox.",
+  "medium": "academic-paper",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

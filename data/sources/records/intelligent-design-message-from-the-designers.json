@@ -22,6 +22,11 @@
     },
     {
       "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
       "title": "The Archdeacon and the Dragon",
       "path": "/articles/the-archdeacon-and-the-dragon/"
     },
@@ -79,6 +84,11 @@
       "section": "timeline",
       "title": "Age of Aquarius",
       "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
     },
     {
       "section": "timeline",
@@ -176,6 +186,6 @@
       "path": "/wiki/zecharia-sitchin/"
     }
   ],
-  "cite_count": 33,
+  "cite_count": 35,
   "licensing_status": "unverified"
 }

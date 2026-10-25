@@ -1,12 +1,12 @@
 {
   "id": "aesthetics-wiki-cyberparadism",
-  "title": "Cyberparadism (Aesthetics Wiki)",
+  "title": "Cyberparadism (Personal Aesthetics Wiki)",
   "authored_by": [
     "Aesthetics Wiki community"
   ],
   "publish_date": "2023",
-  "follow_url": "https://aesthetics.fandom.com/wiki/Cyberparadism",
-  "description": "The Aesthetics Wiki entry on Cyberparadism. Aesthetics Wiki, hosted on Fandom, is the principal contemporary online platform for the systematic articulation of internet-cultural aesthetics. The Cyberparadism entry there was the origin venue of the aesthetic's formalization.",
+  "follow_url": "https://personal-aesthetics.fandom.com/wiki/Cyberparadism",
+  "description": "The Personal Aesthetics Wiki entry on Cyberparadism, the venue where the aesthetic was first formalised. The wiki, hosted on Fandom, catalogues internet-cultural aesthetics through community editing; its Cyberparadism entry files the aesthetic as a subset of Cyberprep and traces its optimism to the early twentieth-century avant-garde. The entry was previously hosted on the main Aesthetics Wiki (aesthetics.fandom.com), where the page no longer exists.",
   "medium": "wiki",
   "topics": [
     "Cyberparadism",
@@ -21,5 +21,5 @@
     }
   ],
   "cite_count": 1,
-  "licensing_status": "unverified"
+  "licensing_status": "licensed"
 }

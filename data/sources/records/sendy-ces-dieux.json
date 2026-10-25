@@ -15,8 +15,18 @@
   "cited_by": [
     {
       "section": "articles",
+      "title": "Sendy and the Raëlian Messages",
+      "path": "/articles/sendy-and-the-raelian-messages/"
+    },
+    {
+      "section": "articles",
       "title": "The Book Closest to the Truth",
       "path": "/articles/the-book-closest-to-the-truth/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     },
     {
       "section": "articles",
@@ -47,13 +57,8 @@
       "section": "wiki",
       "title": "Satan",
       "path": "/wiki/satan/"
-    },
-    {
-      "section": "articles",
-      "title": "The Dragon Curve",
-      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 8,
+  "cite_count": 9,
   "licensing_status": "unverified"
 }

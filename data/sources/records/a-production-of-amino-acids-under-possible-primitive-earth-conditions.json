@@ -1,0 +1,21 @@
+{
+  "id": "a-production-of-amino-acids-under-possible-primitive-earth-conditions",
+  "title": "A Production of Amino Acids Under Possible Primitive Earth Conditions",
+  "authored_by": [
+    "Stanley L. Miller"
+  ],
+  "publish_date": "1953",
+  "follow_url": "https://www.science.org/doi/10.1126/science.117.3046.528",
+  "description": "The Miller–Urey experiment demonstrating that simple amino acids form spontaneously in simulated early-atmosphere chemistry.",
+  "medium": "academic-paper",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

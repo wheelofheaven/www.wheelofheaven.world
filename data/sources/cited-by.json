@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:31:17+00:00",
+  "generated_at": "2026-10-25T19:40:48+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -58,6 +58,17 @@
         }
       ],
       "cite_count": 9
+    },
+    {
+      "id": "1-enoch-the-book-of-the-watchers-book-of-parables-astronomical-book",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "nickelsburg-enoch-1",
@@ -215,14 +226,14 @@
       "id": "a-concise-dictionary-of-the-words-in-the-hebrew-bible-strong-s",
       "cited_by": [
         {
-          "section": "timeline",
-          "title": "Age of Virgo",
-          "path": "/timeline/age-of-virgo/"
-        },
-        {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Virgo",
+          "path": "/timeline/age-of-virgo/"
         }
       ],
       "cite_count": 2
@@ -269,6 +280,16 @@
       "id": "a-gentlemans-joyous-esotericism",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
           "section": "wiki",
           "title": "Council of the Eternals",
           "path": "/wiki/council-of-eternals/"
@@ -289,7 +310,7 @@
           "path": "/wiki/jean-sendy/"
         }
       ],
-      "cite_count": 4
+      "cite_count": 6
     },
     {
       "id": "a-gentleman-s-joyous-esotericism-jean-sendy-above-and-beyond-the-ancient-aliens-",
@@ -355,6 +376,17 @@
       "cite_count": 0
     },
     {
+      "id": "a-production-of-amino-acids-under-possible-primitive-earth-conditions",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "a-programmable-dual-rna-guided-dna-endonuclease-in-adaptive-bacterial-immunity",
       "cited_by": [
         {
@@ -372,6 +404,17 @@
           "section": "articles",
           "title": "The Scrolls That Woke in Year One",
           "path": "/articles/the-scrolls-that-woke-in-year-one/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "tschopp-diplodocidae-revision-2015",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1
@@ -488,6 +531,11 @@
         },
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The East Face of Homer",
           "path": "/articles/the-east-face-of-homer/"
         },
@@ -512,7 +560,7 @@
           "path": "/articles/the-world-behind-the-odyssey/"
         }
       ],
-      "cite_count": 6
+      "cite_count": 7
     },
     {
       "id": "ptolemy-almagest",
@@ -596,17 +644,28 @@
       "id": "an-exceptionally-well-preserved-theropod-dinosaur-from-the-yixian-formation-of-c",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
-        },
+        }
+      ],
+      "cite_count": 2
+    },
+    {
+      "id": "jones-instinct-for-dragons",
+      "cited_by": [
         {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 1
     },
     {
       "id": "levengood-physiologia-plantarum-1994",
@@ -1149,6 +1208,17 @@
       "cite_count": 12
     },
     {
+      "id": "book-of-jubilees",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "book-of-mormon",
       "cited_by": [
         {
@@ -1174,6 +1244,17 @@
         }
       ],
       "cite_count": 2
+    },
+    {
+      "id": "breakthrough-starshot",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "broca-s-brain-reflections-on-the-romance-of-science",
@@ -1235,6 +1316,17 @@
       "cite_count": 0
     },
     {
+      "id": "carbon-bearing-molecules-in-a-possible-hycean-atmosphere",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "miyazaki-castle-in-the-sky",
       "cited_by": [
         {
@@ -1261,8 +1353,18 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
           "title": "The Book Closest to the Truth",
           "path": "/articles/the-book-closest-to-the-truth/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -1293,18 +1395,18 @@
           "section": "wiki",
           "title": "Satan",
           "path": "/wiki/satan/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 8
+      "cite_count": 9
     },
     {
       "id": "chaos-making-a-new-science",
       "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
         {
           "section": "articles",
           "title": "The Infinite in Both Directions",
@@ -1314,11 +1416,6 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 3
@@ -1498,6 +1595,17 @@
       "cite_count": 1
     },
     {
+      "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-daniel-g-gibson-j-cr",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-scien",
       "cited_by": [],
       "cite_count": 0
@@ -1615,6 +1723,17 @@
         }
       ],
       "cite_count": 2
+    },
+    {
+      "id": "cyberparadism-field-guide",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Cyberparadism",
+          "path": "/wiki/cyberparadism/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "penrose-cycles-of-time",
@@ -1814,6 +1933,17 @@
       "cite_count": 2
     },
     {
+      "id": "design-and-synthesis-of-a-minimal-bacterial-genome-clyde-a-hutchison-ii",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "deterministic-nonperiodic-flow",
       "cited_by": [
         {
@@ -1992,6 +2122,17 @@
       "cite_count": 0
     },
     {
+      "id": "bakker-dinosaur-renaissance-1975",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "crick-orgel-directed-panspermia",
       "cited_by": [
         {
@@ -2131,6 +2272,17 @@
       "cite_count": 0
     },
     {
+      "id": "earth-and-mars-evolution-of-atmospheres-and-surface-temperatures",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "ecclesiastical-history-book-6-chapter-38",
       "cited_by": [
         {
@@ -2206,8 +2358,14 @@
     },
     {
       "id": "economy-and-society-part-i-ch-iii-and-part-ii-ch-xiv-xv-the-routinization-of-cha",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "oppenheimer-eden-east",
@@ -2320,6 +2478,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Rain Over Helicon",
           "path": "/articles/the-rain-over-helicon/"
         },
@@ -2352,11 +2515,6 @@
           "section": "wiki",
           "title": "Genesis",
           "path": "/wiki/genesis/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 10
@@ -2668,6 +2826,16 @@
         },
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -2812,7 +2980,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 31
+      "cite_count": 33
     },
     {
       "id": "ezekiel",
@@ -3007,6 +3175,17 @@
       "cite_count": 11
     },
     {
+      "id": "zhang-fossilized-melanosomes-2010",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "foundational-text-on-complex-topics",
       "cited_by": [],
       "cite_count": 0
@@ -3138,6 +3317,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Flood Was a Reset, Not a Punishment",
           "path": "/articles/the-flood-was-a-reset-not-a-punishment/"
         },
@@ -3173,6 +3357,16 @@
         },
         {
           "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
           "title": "Age of Leo",
           "path": "/timeline/age-of-leo/"
         },
@@ -3180,6 +3374,16 @@
           "section": "timeline",
           "title": "Age of Libra",
           "path": "/timeline/age-of-libra/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -3250,14 +3454,9 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 28
+      "cite_count": 32
     },
     {
       "id": "genesis-1-11-a-continental-commentary",
@@ -3277,6 +3476,11 @@
           "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -3322,11 +3526,6 @@
           "section": "wiki",
           "title": "Tree of Life",
           "path": "/wiki/tree-of-life/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 11
@@ -3701,6 +3900,22 @@
       "cite_count": 3
     },
     {
+      "id": "habitable-worlds-observatory",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 2
+    },
+    {
       "id": "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm",
       "cited_by": [],
       "cite_count": 0
@@ -3738,6 +3953,11 @@
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
         },
         {
           "section": "timeline",
@@ -3850,18 +4070,23 @@
           "path": "/wiki/zodiac/"
         }
       ],
-      "cite_count": 26
+      "cite_count": 27
     },
     {
       "id": "handbook-of-ufo-religions-brill-handbooks-on-contemporary-religion-20-ch-22-r-gi",
       "cited_by": [
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "hard-to-be-a-god",
@@ -4067,6 +4292,17 @@
       "cite_count": 1
     },
     {
+      "id": "how-life-works-a-user-s-guide-to-the-new-biology",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "how-to-kill-a-dragon-aspects-of-indo-european-poetics-the-reconstructed-formula-",
       "cited_by": [
         {
@@ -4258,6 +4494,11 @@
         },
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -4315,6 +4556,11 @@
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -4412,7 +4658,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 33
+      "cite_count": 35
     },
     {
       "id": "intelligent-life-in-the-universe-the-sagan-shklovsky-survey-that-gave-sendy-his-",
@@ -4758,6 +5004,11 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -4765,11 +5016,6 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 3
@@ -4954,6 +5200,16 @@
       "id": "dhorme-bible",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
           "section": "wiki",
           "title": "Ezekiel",
           "path": "/wiki/ezekiel/"
@@ -4967,14 +5223,9 @@
           "section": "wiki",
           "title": "Reference corpus of the Raëlian canon",
           "path": "/wiki/reference-corpus-of-the-raelian-canon/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 4
+      "cite_count": 5
     },
     {
       "id": "la-cabale",
@@ -5057,6 +5308,11 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -5064,6 +5320,11 @@
           "section": "articles",
           "title": "The Book Closest to the Truth",
           "path": "/articles/the-book-closest-to-the-truth/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -5089,14 +5350,9 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 8
+      "cite_count": 9
     },
     {
       "id": "late-antique-allah-ancestral-arabian-religion-and-the-monotheistic-zeitgeist",
@@ -5146,6 +5402,16 @@
         },
         {
           "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
           "title": "Age of Leo",
           "path": "/timeline/age-of-leo/"
         },
@@ -5158,6 +5424,16 @@
           "section": "timeline",
           "title": "Age of Pisces",
           "path": "/timeline/age-of-pisces/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -5180,7 +5456,7 @@
           "path": "/timeline/the-wheel-keeps-turning/"
         }
       ],
-      "cite_count": 9
+      "cite_count": 13
     },
     {
       "id": "le-racisme-religieux-financ-par-le-gouvernement-socialiste-the-anticult-polemic-",
@@ -5241,6 +5517,11 @@
         },
         {
           "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Man Who Bet the Bible on the Moon",
           "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
         },
@@ -5268,11 +5549,6 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 8
@@ -5324,6 +5600,16 @@
         },
         {
           "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        },
+        {
+          "section": "timeline",
           "title": "Age of Leo",
           "path": "/timeline/age-of-leo/"
         },
@@ -5336,6 +5622,16 @@
           "section": "timeline",
           "title": "Age of Pisces",
           "path": "/timeline/age-of-pisces/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
         },
         {
           "section": "timeline",
@@ -5363,7 +5659,7 @@
           "path": "/wiki/cyberparadism/"
         }
       ],
-      "cite_count": 10
+      "cite_count": 14
     },
     {
       "id": "journal-de-merer-tallet",
@@ -5391,12 +5687,17 @@
       "id": "les-temps-messianiques-ouverture-sur-le-cosmos",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "les-temps-messianiques-ouverture-sur-le-cosmos-the-last-book-the-four-converging",
@@ -5460,6 +5761,11 @@
     {
       "id": "lets-welcome-the-extraterrestrials",
       "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
         {
           "section": "articles",
           "title": "The Religion of Religions",
@@ -5551,7 +5857,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 18
+      "cite_count": 19
     },
     {
       "id": "nickell-levengood-skeptical-inquirer-1996",
@@ -5644,6 +5950,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "articles",
           "title": "The Man Who Bet the Bible on the Moon",
           "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
         },
@@ -5666,14 +5982,9 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 6
+      "cite_count": 7
     },
     {
       "id": "magicians-of-the-gods",
@@ -5792,6 +6103,17 @@
       "cite_count": 4
     },
     {
+      "id": "making-mars-habitable",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "vilenkin-many-worlds-in-one",
       "cited_by": [
         {
@@ -5809,8 +6131,14 @@
     },
     {
       "id": "mark-the-evangelist-studies-on-the-redaction-history-of-the-gospel-the-founding-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "mass-effect-wheel-of-heaven-wiki-the-law-of-masstime-the-scale-dependence-of-bio",
@@ -6061,6 +6389,17 @@
       "cite_count": 0
     },
     {
+      "id": "molecular-structure-of-nucleic-acids-a-structure-for-deoxyribose-nucleic-acid",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "monotheism",
       "cited_by": [
         {
@@ -6204,6 +6543,17 @@
       "cite_count": 4
     },
     {
+      "id": "nasa-exoplanet-archive",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "natural-history-5-73-the-essenes-west-of-the-dead-sea-without-women-having-for-c",
       "cited_by": [
         {
@@ -6259,6 +6609,17 @@
           "section": "wiki",
           "title": "Cyberparadism",
           "path": "/wiki/cyberparadism/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "new-insights-from-a-reanalysis-of-the-k2-18b-atmosphere",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Capricorn",
+          "path": "/timeline/age-of-capricorn/"
         }
       ],
       "cite_count": 1
@@ -6353,12 +6714,17 @@
       "id": "nous-autres-gens-du-moyen-ge",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "nous-autres-gens-du-moyen-ge-the-historiographical-thesis-concessionaires-versus",
@@ -6536,6 +6902,22 @@
       "cite_count": 0
     },
     {
+      "id": "on-the-origin-of-species",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 2
+    },
+    {
       "id": "on-the-origin-of-watchers-a-comparative-study-of-the-antediluvian-wisdom-in-meso",
       "cited_by": [
         {
@@ -6663,14 +7045,14 @@
       "id": "osteology-of-deinonychus-antirrhopus-an-unusual-theropod-from-the-lower-cretaceo",
       "cited_by": [
         {
-          "section": "timeline",
-          "title": "Age of Virgo",
-          "path": "/timeline/age-of-virgo/"
-        },
-        {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "timeline",
+          "title": "Age of Virgo",
+          "path": "/timeline/age-of-virgo/"
         }
       ],
       "cite_count": 2
@@ -6849,12 +7231,17 @@
       "id": "principles-of-geology",
       "cited_by": [
         {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
           "section": "wiki",
           "title": "Antediluvian",
           "path": "/wiki/antediluvian/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "progress-and-poverty-an-inquiry-into-the-cause-of-industrial-depressions-and-of-",
@@ -7207,6 +7594,11 @@
       "id": "rnkjv",
       "cited_by": [
         {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
           "section": "wiki",
           "title": "Message from the Designers",
           "path": "/wiki/message-from-the-designers/"
@@ -7217,7 +7609,7 @@
           "path": "/wiki/reference-corpus-of-the-raelian-canon/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "retracted-article-a-tunguska-sized-airburst-destroyed-tall-el-hammam-a-middle-br",
@@ -7412,6 +7804,17 @@
       "cite_count": 1
     },
     {
+      "id": "gauthier-saurischian-monophyly-1986",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "sa-s-ra-wheel-of-heaven-wiki-the-civilizational-rereading-of-the-cycle-rise-to-s",
       "cited_by": [
         {
@@ -7562,17 +7965,28 @@
       "cite_count": 4
     },
     {
-      "id": "septuaginta-editio-altera-the-standard-critical-edition",
+      "id": "septuagint-greek-translation-of-the-hebrew-bible",
       "cited_by": [
         {
-          "section": "wiki",
-          "title": "Septuagint",
-          "path": "/wiki/septuagint/"
-        },
+          "section": "timeline",
+          "title": "Age of Cancer",
+          "path": "/timeline/age-of-cancer/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "septuaginta-editio-altera-the-standard-critical-edition",
+      "cited_by": [
         {
           "section": "articles",
           "title": "The Dragon Curve",
           "path": "/articles/the-dragon-curve/"
+        },
+        {
+          "section": "wiki",
+          "title": "Septuagint",
+          "path": "/wiki/septuagint/"
         }
       ],
       "cite_count": 2
@@ -7821,6 +8235,17 @@
       "cite_count": 1
     },
     {
+      "id": "ibrahim-spinosaurus-aquatic-2020",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "tanakh",
       "cited_by": [
         {
@@ -7861,6 +8286,39 @@
       "id": "terranigma",
       "cited_by": [],
       "cite_count": 0
+    },
+    {
+      "id": "testimony-of-marie-helene-parent",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "testimony-of-mark-woodgate",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "testimony-of-sage-ali",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "grusch-congressional-testimony",
@@ -8004,6 +8462,17 @@
           "section": "wiki",
           "title": "Adam and Eve",
           "path": "/wiki/adam-and-eve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "ostrom-ancestry-of-birds",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1
@@ -8323,6 +8792,16 @@
         },
         {
           "section": "articles",
+          "title": "Sendy and the Raëlian Messages",
+          "path": "/articles/sendy-and-the-raelian-messages/"
+        },
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Archdeacon and the Dragon",
           "path": "/articles/the-archdeacon-and-the-dragon/"
         },
@@ -8330,6 +8809,11 @@
           "section": "articles",
           "title": "The Book Closest to the Truth",
           "path": "/articles/the-book-closest-to-the-truth/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         },
         {
           "section": "articles",
@@ -8665,14 +9149,9 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
-        },
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 73
+      "cite_count": 75
     },
     {
       "id": "the-books-of-enoch-aramaic-fragments-of-qumr-n-cave-4-the-edition-that-proved-1-",
@@ -8699,6 +9178,17 @@
       "id": "the-canon-of-the-new-testament-its-origin-development-and-significance-marcion-t",
       "cited_by": [],
       "cite_count": 0
+    },
+    {
+      "id": "the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-chaldean-account-of-genesis",
@@ -9133,6 +9623,17 @@
       "cite_count": 0
     },
     {
+      "id": "sagan-dragons-of-eden",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "the-early-development-of-the-quranic-hanif",
       "cited_by": [
         {
@@ -9423,6 +9924,17 @@
       "cite_count": 1
     },
     {
+      "id": "prum-evolution-of-beauty",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "the-evolution-of-the-gilgamesh-epic",
       "cited_by": [
         {
@@ -9483,6 +9995,17 @@
           "section": "articles",
           "title": "Monotheism Is the Wrong Question",
           "path": "/articles/monotheism-is-the-wrong-question/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "mayor-first-fossil-hunters",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1
@@ -9908,8 +10431,14 @@
     },
     {
       "id": "the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-jubilee-from-leviticus-to-qumran-vtsup-115-the-jubilee-as-eschatological-cou",
@@ -10434,6 +10963,28 @@
       "cite_count": 3
     },
     {
+      "id": "heilmann-origin-of-birds",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "the-origin-of-life",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Scorpio",
+          "path": "/timeline/age-of-scorpio/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "pagels-origin-of-satan",
       "cited_by": [
         {
@@ -10569,6 +11120,17 @@
       "id": "pillar-of-enoch-dot-com",
       "cited_by": [],
       "cite_count": 0
+    },
+    {
+      "id": "the-planet-venus",
+      "cited_by": [
+        {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "poetic-edda",
@@ -11038,8 +11600,14 @@
     },
     {
       "id": "the-text-of-the-new-testament-its-transmission-corruption-and-restoration-the-wo",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-three-dimensional-power-spectrum-of-galaxies-from-the-sloan-digital-sky-surv",
@@ -11359,12 +11927,17 @@
       "id": "theory-of-the-earth",
       "cited_by": [
         {
+          "section": "timeline",
+          "title": "Age of Sagittarius",
+          "path": "/timeline/age-of-sagittarius/"
+        },
+        {
           "section": "wiki",
           "title": "Antediluvian",
           "path": "/wiki/antediluvian/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "this-dynamic-earth-usgs",
@@ -11949,11 +12522,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "Six Mornings, Six Years",
+          "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "presumed-immanent-the-ra-lians-ufo-religions-and-the-postmodern-condition-nova-r",
@@ -12028,127 +12606,6 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "ostrom-ancestry-of-birds",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "heilmann-origin-of-birds",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "mayor-first-fossil-hunters",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "jones-instinct-for-dragons",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "sagan-dragons-of-eden",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "prum-evolution-of-beauty",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "gauthier-saurischian-monophyly-1986",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "bakker-dinosaur-renaissance-1975",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "zhang-fossilized-melanosomes-2010",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "tschopp-diplodocidae-revision-2015",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
-        }
-      ],
-      "cite_count": 1
-    },
-    {
-      "id": "ibrahim-spinosaurus-aquatic-2020",
-      "cited_by": [
-        {
-          "section": "articles",
-          "title": "The Dragon Curve",
-          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1

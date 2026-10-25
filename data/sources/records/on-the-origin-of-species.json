@@ -1,0 +1,26 @@
+{
+  "id": "on-the-origin-of-species",
+  "title": "On the Origin of Species",
+  "authored_by": [
+    "Charles Darwin"
+  ],
+  "publish_date": "1859",
+  "follow_url": "",
+  "description": "Cited here for the explicit borrowing of Lyell's uniformitarianism as a foundational assumption of evolutionary biology.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

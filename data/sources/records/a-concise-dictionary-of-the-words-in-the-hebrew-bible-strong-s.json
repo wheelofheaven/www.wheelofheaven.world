@@ -11,14 +11,14 @@
   "topics": [],
   "cited_by": [
     {
-      "section": "timeline",
-      "title": "Age of Virgo",
-      "path": "/timeline/age-of-virgo/"
-    },
-    {
       "section": "articles",
       "title": "The Dragon Curve",
       "path": "/articles/the-dragon-curve/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Virgo",
+      "path": "/timeline/age-of-virgo/"
     }
   ],
   "cite_count": 2,

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T12:31:17+00:00",
+  "generated_at": "2026-10-25T19:40:48+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 817,
+  "total": 840,
   "sources": {
     "1-chronicles": {
       "id": "1-chronicles",
@@ -19,6 +19,14 @@
         "Anonymous (Second Temple Judaism)"
       ],
       "publish_date": "c. 3rd c. BCE"
+    },
+    "1-enoch-the-book-of-the-watchers-book-of-parables-astronomical-book": {
+      "id": "1-enoch-the-book-of-the-watchers-book-of-parables-astronomical-book",
+      "title": "1 Enoch (The Book of the Watchers, Book of Parables, Astronomical Book)",
+      "authored_by": [
+        "Anonymous (Second Temple Judaism)"
+      ],
+      "publish_date": "c. 3rd c. BCE – 1st c. BCE"
     },
     "nickelsburg-enoch-1": {
       "id": "nickelsburg-enoch-1",
@@ -221,6 +229,14 @@
       ],
       "publish_date": "1965"
     },
+    "a-production-of-amino-acids-under-possible-primitive-earth-conditions": {
+      "id": "a-production-of-amino-acids-under-possible-primitive-earth-conditions",
+      "title": "A Production of Amino Acids Under Possible Primitive Earth Conditions",
+      "authored_by": [
+        "Stanley L. Miller"
+      ],
+      "publish_date": "1953"
+    },
     "a-programmable-dual-rna-guided-dna-endonuclease-in-adaptive-bacterial-immunity": {
       "id": "a-programmable-dual-rna-guided-dna-endonuclease-in-adaptive-bacterial-immunity",
       "title": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
@@ -236,6 +252,16 @@
         "Neil Asher Silberman"
       ],
       "publish_date": "1993"
+    },
+    "tschopp-diplodocidae-revision-2015": {
+      "id": "tschopp-diplodocidae-revision-2015",
+      "title": "A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda)",
+      "authored_by": [
+        "Emanuel Tschopp",
+        "Octávio Mateus",
+        "Roger B. J. Benson"
+      ],
+      "publish_date": "2015"
     },
     "a-study-of-history-abridgement-of-vols-i-vi-by-d-c-somervell-challenge-and-respo": {
       "id": "a-study-of-history-abridgement-of-vols-i-vi-by-d-c-somervell-challenge-and-respo",
@@ -381,6 +407,14 @@
         "Pei-ji Chen, Zhi-ming Dong, and Shuo-nan Zhen"
       ],
       "publish_date": "1998"
+    },
+    "jones-instinct-for-dragons": {
+      "id": "jones-instinct-for-dragons",
+      "title": "An Instinct for Dragons",
+      "authored_by": [
+        "David E. Jones"
+      ],
+      "publish_date": "2000"
     },
     "levengood-physiologia-plantarum-1994": {
       "id": "levengood-physiologia-plantarum-1994",
@@ -679,6 +713,14 @@
       ],
       "publish_date": "-300?"
     },
+    "book-of-jubilees": {
+      "id": "book-of-jubilees",
+      "title": "Book of Jubilees",
+      "authored_by": [
+        "Anonymous (Second Temple Judaism)"
+      ],
+      "publish_date": "c. 2nd c. BCE"
+    },
     "book-of-mormon": {
       "id": "book-of-mormon",
       "title": "Book of Mormon",
@@ -694,6 +736,14 @@
         "Michael B. Dick (ed.)"
       ],
       "publish_date": "1999"
+    },
+    "breakthrough-starshot": {
+      "id": "breakthrough-starshot",
+      "title": "Breakthrough Starshot",
+      "authored_by": [
+        "Breakthrough Initiatives"
+      ],
+      "publish_date": "announced 2016"
     },
     "broca-s-brain-reflections-on-the-romance-of-science": {
       "id": "broca-s-brain-reflections-on-the-romance-of-science",
@@ -742,6 +792,14 @@
         "Thomas Piketty"
       ],
       "publish_date": "2013"
+    },
+    "carbon-bearing-molecules-in-a-possible-hycean-atmosphere": {
+      "id": "carbon-bearing-molecules-in-a-possible-hycean-atmosphere",
+      "title": "Carbon-bearing molecules in a possible Hycean atmosphere",
+      "authored_by": [
+        "Nikku Madhusudhan, Subhajit Sarkar, Savvas Constantinou, Måns Holmberg, et al."
+      ],
+      "publish_date": "2023"
     },
     "miyazaki-castle-in-the-sky": {
       "id": "miyazaki-castle-in-the-sky",
@@ -906,6 +964,14 @@
       ],
       "publish_date": "2010"
     },
+    "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-daniel-g-gibson-j-cr": {
+      "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-daniel-g-gibson-j-cr",
+      "title": "Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome",
+      "authored_by": [
+        "Daniel G. Gibson, J. Craig Venter et al."
+      ],
+      "publish_date": "2010"
+    },
     "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-scien": {
       "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-scien",
       "title": "Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome (Science 329)",
@@ -983,7 +1049,7 @@
     },
     "aesthetics-wiki-cyberparadism": {
       "id": "aesthetics-wiki-cyberparadism",
-      "title": "Cyberparadism (Aesthetics Wiki)",
+      "title": "Cyberparadism (Personal Aesthetics Wiki)",
       "authored_by": [
         "Aesthetics Wiki community"
       ],
@@ -996,6 +1062,14 @@
         "Zara Zinsfuss"
       ],
       "publish_date": "2023"
+    },
+    "cyberparadism-field-guide": {
+      "id": "cyberparadism-field-guide",
+      "title": "Cyberparadism: Field Guide",
+      "authored_by": [
+        "Zara Zinsfuss"
+      ],
+      "publish_date": "2026"
     },
     "penrose-cycles-of-time": {
       "id": "penrose-cycles-of-time",
@@ -1117,6 +1191,14 @@
       ],
       "publish_date": "2016"
     },
+    "design-and-synthesis-of-a-minimal-bacterial-genome-clyde-a-hutchison-ii": {
+      "id": "design-and-synthesis-of-a-minimal-bacterial-genome-clyde-a-hutchison-ii",
+      "title": "Design and Synthesis of a Minimal Bacterial Genome",
+      "authored_by": [
+        "Clyde A. Hutchison III, J. Craig Venter et al."
+      ],
+      "publish_date": "2016"
+    },
     "deterministic-nonperiodic-flow": {
       "id": "deterministic-nonperiodic-flow",
       "title": "Deterministic Nonperiodic Flow",
@@ -1196,6 +1278,14 @@
         "Silvio Gesell"
       ],
       "publish_date": "1916"
+    },
+    "bakker-dinosaur-renaissance-1975": {
+      "id": "bakker-dinosaur-renaissance-1975",
+      "title": "Dinosaur Renaissance",
+      "authored_by": [
+        "Robert T. Bakker"
+      ],
+      "publish_date": "1975"
     },
     "crick-orgel-directed-panspermia": {
       "id": "crick-orgel-directed-panspermia",
@@ -1285,6 +1375,14 @@
         "Dan Gibson"
       ],
       "publish_date": "2017"
+    },
+    "earth-and-mars-evolution-of-atmospheres-and-surface-temperatures": {
+      "id": "earth-and-mars-evolution-of-atmospheres-and-surface-temperatures",
+      "title": "Earth and Mars: Evolution of Atmospheres and Surface Temperatures",
+      "authored_by": [
+        "Carl Sagan and George Mullen"
+      ],
+      "publish_date": "1972"
     },
     "ecclesiastical-history-book-6-chapter-38": {
       "id": "ecclesiastical-history-book-6-chapter-38",
@@ -1566,6 +1664,18 @@
         "Graham Hancock"
       ],
       "publish_date": "1995"
+    },
+    "zhang-fossilized-melanosomes-2010": {
+      "id": "zhang-fossilized-melanosomes-2010",
+      "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
+      "authored_by": [
+        "Fucheng Zhang",
+        "Stuart L. Kearns",
+        "Patrick J. Orr",
+        "Michael J. Benton",
+        "et al."
+      ],
+      "publish_date": "2010"
     },
     "foundational-text-on-complex-topics": {
       "id": "foundational-text-on-complex-topics",
@@ -1903,6 +2013,14 @@
       ],
       "publish_date": "2012"
     },
+    "habitable-worlds-observatory": {
+      "id": "habitable-worlds-observatory",
+      "title": "Habitable Worlds Observatory",
+      "authored_by": [
+        "NASA Astrophysics Division"
+      ],
+      "publish_date": "2024 (concept)"
+    },
     "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm": {
       "id": "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm",
       "title": "Hadith: Muhammad’s Legacy in the Medieval and Modern World — the isnād sciences, ʿilm al-rijāl, and the grading vocabulary (ṣaḥīḥ, ḥasan, ḍaʿīf, mawḍūʿ)",
@@ -2058,6 +2176,14 @@
         "Zvi Goldstein"
       ],
       "publish_date": "2021"
+    },
+    "how-life-works-a-user-s-guide-to-the-new-biology": {
+      "id": "how-life-works-a-user-s-guide-to-the-new-biology",
+      "title": "How Life Works: A User’s Guide to the New Biology",
+      "authored_by": [
+        "Philip Ball"
+      ],
+      "publish_date": "2023"
     },
     "how-to-kill-a-dragon-aspects-of-indo-european-poetics-the-reconstructed-formula-": {
       "id": "how-to-kill-a-dragon-aspects-of-indo-european-poetics-the-reconstructed-formula-",
@@ -2878,6 +3004,14 @@
       ],
       "publish_date": "1941"
     },
+    "making-mars-habitable": {
+      "id": "making-mars-habitable",
+      "title": "Making Mars Habitable",
+      "authored_by": [
+        "Christopher P. McKay, Owen B. Toon, and James F. Kasting"
+      ],
+      "publish_date": "1991"
+    },
     "vilenkin-many-worlds-in-one": {
       "id": "vilenkin-many-worlds-in-one",
       "title": "Many Worlds in One: The Search for Other Universes",
@@ -3071,6 +3205,14 @@
       ],
       "publish_date": "2024"
     },
+    "molecular-structure-of-nucleic-acids-a-structure-for-deoxyribose-nucleic-acid": {
+      "id": "molecular-structure-of-nucleic-acids-a-structure-for-deoxyribose-nucleic-acid",
+      "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+      "authored_by": [
+        "James D. Watson and Francis H. C. Crick"
+      ],
+      "publish_date": "1953"
+    },
     "monotheism": {
       "id": "monotheism",
       "title": "Monotheism",
@@ -3161,6 +3303,14 @@
       ],
       "publish_date": "1989"
     },
+    "nasa-exoplanet-archive": {
+      "id": "nasa-exoplanet-archive",
+      "title": "NASA Exoplanet Archive",
+      "authored_by": [
+        "NASA Exoplanet Science Institute / Caltech"
+      ],
+      "publish_date": "ongoing"
+    },
     "natural-history-5-73-the-essenes-west-of-the-dead-sea-without-women-having-for-c": {
       "id": "natural-history-5-73-the-essenes-west-of-the-dead-sea-without-women-having-for-c",
       "title": "Natural History 5.73 (the Essenes west of the Dead Sea, ‘without women… having for company only the palm trees,’ self-renewing ‘for thousands of centuries’)",
@@ -3201,6 +3351,14 @@
         "William Gibson"
       ],
       "publish_date": "1984"
+    },
+    "new-insights-from-a-reanalysis-of-the-k2-18b-atmosphere": {
+      "id": "new-insights-from-a-reanalysis-of-the-k2-18b-atmosphere",
+      "title": "New Insights From a Reanalysis of the K2-18b Atmosphere",
+      "authored_by": [
+        "Renyu Hu, Karan Molaverdikhani, and the JPL Atmospheres Group"
+      ],
+      "publish_date": "2025"
     },
     "new-religious-movements-and-science-rael-s-progressive-patronizing-parasitism": {
       "id": "new-religious-movements-and-science-rael-s-progressive-patronizing-parasitism",
@@ -3387,6 +3545,14 @@
         "Ahmad Al-Jallad"
       ],
       "publish_date": ""
+    },
+    "on-the-origin-of-species": {
+      "id": "on-the-origin-of-species",
+      "title": "On the Origin of Species",
+      "authored_by": [
+        "Charles Darwin"
+      ],
+      "publish_date": "1859"
     },
     "on-the-origin-of-watchers-a-comparative-study-of-the-antediluvian-wisdom-in-meso": {
       "id": "on-the-origin-of-watchers-a-comparative-study-of-the-antediluvian-wisdom-in-meso",
@@ -3964,6 +4130,14 @@
       ],
       "publish_date": "1983"
     },
+    "gauthier-saurischian-monophyly-1986": {
+      "id": "gauthier-saurischian-monophyly-1986",
+      "title": "Saurischian Monophyly and the Origin of Birds",
+      "authored_by": [
+        "Jacques Gauthier"
+      ],
+      "publish_date": "1986"
+    },
     "sa-s-ra-wheel-of-heaven-wiki-the-civilizational-rereading-of-the-cycle-rise-to-s": {
       "id": "sa-s-ra-wheel-of-heaven-wiki-the-civilizational-rereading-of-the-cycle-rise-to-s",
       "title": "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)",
@@ -4052,6 +4226,14 @@
         "Aryeh Kaplan (trans.)"
       ],
       "publish_date": "1997"
+    },
+    "septuagint-greek-translation-of-the-hebrew-bible": {
+      "id": "septuagint-greek-translation-of-the-hebrew-bible",
+      "title": "Septuagint (Greek translation of the Hebrew Bible)",
+      "authored_by": [
+        "Jewish translators in Alexandria"
+      ],
+      "publish_date": "c. 3rd–2nd c. BCE"
     },
     "septuaginta-editio-altera-the-standard-critical-edition": {
       "id": "septuaginta-editio-altera-the-standard-critical-edition",
@@ -4240,6 +4422,17 @@
       ],
       "publish_date": "1981"
     },
+    "ibrahim-spinosaurus-aquatic-2020": {
+      "id": "ibrahim-spinosaurus-aquatic-2020",
+      "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
+      "authored_by": [
+        "Nizar Ibrahim",
+        "Simone Maganuco",
+        "Cristiano Dal Sasso",
+        "et al."
+      ],
+      "publish_date": "2020"
+    },
     "tanakh": {
       "id": "tanakh",
       "title": "Tanakh",
@@ -4282,6 +4475,30 @@
         "Quintet Co., Ltd. "
       ],
       "publish_date": "1995"
+    },
+    "testimony-of-marie-helene-parent": {
+      "id": "testimony-of-marie-helene-parent",
+      "title": "Testimony of Marie-Hélène Parent",
+      "authored_by": [
+        "Marie-Hélène Parent"
+      ],
+      "publish_date": "2019-07-05 (repost)"
+    },
+    "testimony-of-mark-woodgate": {
+      "id": "testimony-of-mark-woodgate",
+      "title": "Testimony of Mark Woodgate",
+      "authored_by": [
+        "Mark Woodgate"
+      ],
+      "publish_date": "2019-07-05 (repost)"
+    },
+    "testimony-of-sage-ali": {
+      "id": "testimony-of-sage-ali",
+      "title": "Testimony of Sage Ali",
+      "authored_by": [
+        "Sage Ali"
+      ],
+      "publish_date": "2010-08-06"
     },
     "grusch-congressional-testimony": {
       "id": "grusch-congressional-testimony",
@@ -4330,6 +4547,14 @@
         "Anonymous (medieval)"
       ],
       "publish_date": "900"
+    },
+    "ostrom-ancestry-of-birds": {
+      "id": "ostrom-ancestry-of-birds",
+      "title": "The Ancestry of Birds",
+      "authored_by": [
+        "John H. Ostrom"
+      ],
+      "publish_date": "1973"
     },
     "charles-apocrypha-pseudepigrapha": {
       "id": "charles-apocrypha-pseudepigrapha",
@@ -4532,6 +4757,14 @@
         "Bruce M. Metzger"
       ],
       "publish_date": "1987"
+    },
+    "the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must": {
+      "id": "the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must",
+      "title": "The Case for Mars: The Plan to Settle the Red Planet and Why We Must",
+      "authored_by": [
+        "Robert Zubrin (with Richard Wagner)"
+      ],
+      "publish_date": "1996"
     },
     "the-chaldean-account-of-genesis": {
       "id": "the-chaldean-account-of-genesis",
@@ -4805,6 +5038,14 @@
       ],
       "publish_date": "2017"
     },
+    "sagan-dragons-of-eden": {
+      "id": "sagan-dragons-of-eden",
+      "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+      "authored_by": [
+        "Carl Sagan"
+      ],
+      "publish_date": "1977"
+    },
     "the-early-development-of-the-quranic-hanif": {
       "id": "the-early-development-of-the-quranic-hanif",
       "title": "The Early Development of the Quranic Hanif",
@@ -4934,6 +5175,14 @@
       ],
       "publish_date": "1996"
     },
+    "prum-evolution-of-beauty": {
+      "id": "prum-evolution-of-beauty",
+      "title": "The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World",
+      "authored_by": [
+        "Richard O. Prum"
+      ],
+      "publish_date": "2017"
+    },
     "the-evolution-of-the-gilgamesh-epic": {
       "id": "the-evolution-of-the-gilgamesh-epic",
       "title": "The Evolution of the Gilgamesh Epic",
@@ -4974,6 +5223,14 @@
         "Paul"
       ],
       "publish_date": "c. 53-54 CE"
+    },
+    "mayor-first-fossil-hunters": {
+      "id": "mayor-first-fossil-hunters",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authored_by": [
+        "Adrienne Mayor"
+      ],
+      "publish_date": "2000"
     },
     "the-flood-story-the-eridu-genesis": {
       "id": "the-flood-story-the-eridu-genesis",
@@ -5571,6 +5828,22 @@
       ],
       "publish_date": "1992"
     },
+    "heilmann-origin-of-birds": {
+      "id": "heilmann-origin-of-birds",
+      "title": "The Origin of Birds",
+      "authored_by": [
+        "Gerhard Heilmann"
+      ],
+      "publish_date": "1926"
+    },
+    "the-origin-of-life": {
+      "id": "the-origin-of-life",
+      "title": "The Origin of Life",
+      "authored_by": [
+        "Alexander I. Oparin"
+      ],
+      "publish_date": "1924 (Russian); 1938 English translation"
+    },
     "pagels-origin-of-satan": {
       "id": "pagels-origin-of-satan",
       "title": "The Origin of Satan",
@@ -5658,6 +5931,14 @@
         "Helena Lehman"
       ],
       "publish_date": "1993?"
+    },
+    "the-planet-venus": {
+      "id": "the-planet-venus",
+      "title": "The Planet Venus",
+      "authored_by": [
+        "Carl Sagan"
+      ],
+      "publish_date": "1961"
     },
     "poetic-edda": {
       "id": "poetic-edda",
@@ -6528,103 +6809,6 @@
         "Rodney Stark"
       ],
       "publish_date": "1996"
-    },
-    "ostrom-ancestry-of-birds": {
-      "id": "ostrom-ancestry-of-birds",
-      "title": "The Ancestry of Birds",
-      "authored_by": [
-        "John H. Ostrom"
-      ],
-      "publish_date": "1973"
-    },
-    "heilmann-origin-of-birds": {
-      "id": "heilmann-origin-of-birds",
-      "title": "The Origin of Birds",
-      "authored_by": [
-        "Gerhard Heilmann"
-      ],
-      "publish_date": "1926"
-    },
-    "mayor-first-fossil-hunters": {
-      "id": "mayor-first-fossil-hunters",
-      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
-      "authored_by": [
-        "Adrienne Mayor"
-      ],
-      "publish_date": "2000"
-    },
-    "jones-instinct-for-dragons": {
-      "id": "jones-instinct-for-dragons",
-      "title": "An Instinct for Dragons",
-      "authored_by": [
-        "David E. Jones"
-      ],
-      "publish_date": "2000"
-    },
-    "sagan-dragons-of-eden": {
-      "id": "sagan-dragons-of-eden",
-      "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
-      "authored_by": [
-        "Carl Sagan"
-      ],
-      "publish_date": "1977"
-    },
-    "prum-evolution-of-beauty": {
-      "id": "prum-evolution-of-beauty",
-      "title": "The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World",
-      "authored_by": [
-        "Richard O. Prum"
-      ],
-      "publish_date": "2017"
-    },
-    "gauthier-saurischian-monophyly-1986": {
-      "id": "gauthier-saurischian-monophyly-1986",
-      "title": "Saurischian Monophyly and the Origin of Birds",
-      "authored_by": [
-        "Jacques Gauthier"
-      ],
-      "publish_date": "1986"
-    },
-    "bakker-dinosaur-renaissance-1975": {
-      "id": "bakker-dinosaur-renaissance-1975",
-      "title": "Dinosaur Renaissance",
-      "authored_by": [
-        "Robert T. Bakker"
-      ],
-      "publish_date": "1975"
-    },
-    "zhang-fossilized-melanosomes-2010": {
-      "id": "zhang-fossilized-melanosomes-2010",
-      "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
-      "authored_by": [
-        "Fucheng Zhang",
-        "Stuart L. Kearns",
-        "Patrick J. Orr",
-        "Michael J. Benton",
-        "et al."
-      ],
-      "publish_date": "2010"
-    },
-    "tschopp-diplodocidae-revision-2015": {
-      "id": "tschopp-diplodocidae-revision-2015",
-      "title": "A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda)",
-      "authored_by": [
-        "Emanuel Tschopp",
-        "Octávio Mateus",
-        "Roger B. J. Benson"
-      ],
-      "publish_date": "2015"
-    },
-    "ibrahim-spinosaurus-aquatic-2020": {
-      "id": "ibrahim-spinosaurus-aquatic-2020",
-      "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
-      "authored_by": [
-        "Nizar Ibrahim",
-        "Simone Maganuco",
-        "Cristiano Dal Sasso",
-        "et al."
-      ],
-      "publish_date": "2020"
     }
   }
 }

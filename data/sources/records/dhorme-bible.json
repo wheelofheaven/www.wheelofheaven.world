@@ -15,6 +15,16 @@
   ],
   "cited_by": [
     {
+      "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    },
+    {
       "section": "wiki",
       "title": "Ezekiel",
       "path": "/wiki/ezekiel/"
@@ -28,13 +38,8 @@
       "section": "wiki",
       "title": "Reference corpus of the Raëlian canon",
       "path": "/wiki/reference-corpus-of-the-raelian-canon/"
-    },
-    {
-      "section": "articles",
-      "title": "The Dragon Curve",
-      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 4,
+  "cite_count": 5,
   "licensing_status": "unverified"
 }

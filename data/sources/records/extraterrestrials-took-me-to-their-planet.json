@@ -32,6 +32,16 @@
     },
     {
       "section": "articles",
+      "title": "Sendy and the Raëlian Messages",
+      "path": "/articles/sendy-and-the-raelian-messages/"
+    },
+    {
+      "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
       "title": "The Archdeacon and the Dragon",
       "path": "/articles/the-archdeacon-and-the-dragon/"
     },
@@ -176,6 +186,6 @@
       "path": "/wiki/yahweh/"
     }
   ],
-  "cite_count": 31,
+  "cite_count": 33,
   "licensing_status": "licensed"
 }

@@ -32,6 +32,11 @@
     },
     {
       "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    },
+    {
+      "section": "articles",
       "title": "The Flood Was a Reset, Not a Punishment",
       "path": "/articles/the-flood-was-a-reset-not-a-punishment/"
     },
@@ -67,6 +72,16 @@
     },
     {
       "section": "timeline",
+      "title": "Age of Cancer",
+      "path": "/timeline/age-of-cancer/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Capricorn",
+      "path": "/timeline/age-of-capricorn/"
+    },
+    {
+      "section": "timeline",
       "title": "Age of Leo",
       "path": "/timeline/age-of-leo/"
     },
@@ -74,6 +89,16 @@
       "section": "timeline",
       "title": "Age of Libra",
       "path": "/timeline/age-of-libra/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
     },
     {
       "section": "timeline",
@@ -144,13 +169,8 @@
       "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
-    },
-    {
-      "section": "articles",
-      "title": "The Dragon Curve",
-      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 28,
+  "cite_count": 32,
   "licensing_status": "unverified"
 }

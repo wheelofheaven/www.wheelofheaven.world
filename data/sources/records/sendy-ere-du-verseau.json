@@ -15,6 +15,16 @@
   "cited_by": [
     {
       "section": "articles",
+      "title": "Sendy and the Raëlian Messages",
+      "path": "/articles/sendy-and-the-raelian-messages/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    },
+    {
+      "section": "articles",
       "title": "The Man Who Bet the Bible on the Moon",
       "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
     },
@@ -37,13 +47,8 @@
       "section": "wiki",
       "title": "Jean Sendy",
       "path": "/wiki/jean-sendy/"
-    },
-    {
-      "section": "articles",
-      "title": "The Dragon Curve",
-      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 6,
+  "cite_count": 7,
   "licensing_status": "unverified"
 }

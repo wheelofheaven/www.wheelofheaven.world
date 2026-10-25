@@ -1,0 +1,21 @@
+{
+  "id": "how-life-works-a-user-s-guide-to-the-new-biology",
+  "title": "How Life Works: A User’s Guide to the New Biology",
+  "authored_by": [
+    "Philip Ball"
+  ],
+  "publish_date": "2023",
+  "follow_url": "",
+  "description": "Source of the 'packed nightclub' framing for cellular interior dynamics quoted in §III.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Scorpio",
+      "path": "/timeline/age-of-scorpio/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

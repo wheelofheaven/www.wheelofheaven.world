@@ -1,0 +1,21 @@
+{
+  "id": "the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must",
+  "title": "The Case for Mars: The Plan to Settle the Red Planet and Why We Must",
+  "authored_by": [
+    "Robert Zubrin (with Richard Wagner)"
+  ],
+  "publish_date": "1996",
+  "follow_url": "",
+  "description": "The most influential modern brief for Mars colonization, including the terraforming arguments referenced in §V.",
+  "medium": "nonfiction-book",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

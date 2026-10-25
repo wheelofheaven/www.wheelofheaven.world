@@ -9,7 +9,13 @@
   "description": "",
   "medium": "",
   "topics": [],
-  "cited_by": [],
-  "cite_count": 0,
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    }
+  ],
+  "cite_count": 1,
   "licensing_status": "unverified"
 }

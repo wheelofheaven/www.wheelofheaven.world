@@ -22,6 +22,11 @@
     },
     {
       "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    },
+    {
+      "section": "articles",
       "title": "The Rain Over Helicon",
       "path": "/articles/the-rain-over-helicon/"
     },
@@ -54,11 +59,6 @@
       "section": "wiki",
       "title": "Genesis",
       "path": "/wiki/genesis/"
-    },
-    {
-      "section": "articles",
-      "title": "The Dragon Curve",
-      "path": "/articles/the-dragon-curve/"
     }
   ],
   "cite_count": 10,

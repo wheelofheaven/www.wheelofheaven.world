@@ -39,6 +39,11 @@
     },
     {
       "section": "timeline",
+      "title": "Age of Capricorn",
+      "path": "/timeline/age-of-capricorn/"
+    },
+    {
+      "section": "timeline",
       "title": "Age of Libra",
       "path": "/timeline/age-of-libra/"
     },
@@ -148,6 +153,6 @@
       "path": "/wiki/zodiac/"
     }
   ],
-  "cite_count": 26,
+  "cite_count": 27,
   "licensing_status": "unknown"
 }

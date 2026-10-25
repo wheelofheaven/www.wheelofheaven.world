@@ -1,0 +1,25 @@
+{
+  "id": "testimony-of-sage-ali",
+  "title": "Testimony of Sage Ali",
+  "authored_by": [
+    "Sage Ali"
+  ],
+  "publish_date": "2010-08-06",
+  "follow_url": "https://raelian.org/testimony-of-sage-ali/",
+  "description": "Former Raëlian guide’s retrospective testimony and Sendy comparison. Letter dated 6 August 2010; inspected through a 5 July 2019 repost because the linked page was unavailable. Reports and allegations require attribution.",
+  "medium": "article",
+  "topics": [
+    "Jean Sendy",
+    "Raëlian Messages",
+    "Literary Dependence"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Sendy and the Raëlian Messages",
+      "path": "/articles/sendy-and-the-raelian-messages/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

@@ -22,6 +22,11 @@
   "cited_by": [
     {
       "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
       "title": "The Religion of Religions",
       "path": "/articles/the-religion-of-religions/"
     },
@@ -111,6 +116,6 @@
       "path": "/wiki/yahweh/"
     }
   ],
-  "cite_count": 18,
+  "cite_count": 19,
   "licensing_status": "licensed"
 }

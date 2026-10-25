@@ -16,11 +16,16 @@
   ],
   "cited_by": [
     {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    },
+    {
       "section": "wiki",
       "title": "Antediluvian",
       "path": "/wiki/antediluvian/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "public_domain"
 }

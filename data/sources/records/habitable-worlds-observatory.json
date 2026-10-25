@@ -1,0 +1,26 @@
+{
+  "id": "habitable-worlds-observatory",
+  "title": "Habitable Worlds Observatory",
+  "authored_by": [
+    "NASA Astrophysics Division"
+  ],
+  "publish_date": "2024 (concept)",
+  "follow_url": "https://habitableworldsobservatory.org/",
+  "description": "Mission concept for the first instrument specifically designed to search for Earth analogs around Sun-like stars.",
+  "medium": "website",
+  "topics": [],
+  "cited_by": [
+    {
+      "section": "timeline",
+      "title": "Age of Capricorn",
+      "path": "/timeline/age-of-capricorn/"
+    },
+    {
+      "section": "timeline",
+      "title": "Age of Sagittarius",
+      "path": "/timeline/age-of-sagittarius/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

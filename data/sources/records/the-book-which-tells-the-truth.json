@@ -37,6 +37,16 @@
     },
     {
       "section": "articles",
+      "title": "Sendy and the Raëlian Messages",
+      "path": "/articles/sendy-and-the-raelian-messages/"
+    },
+    {
+      "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "articles",
       "title": "The Archdeacon and the Dragon",
       "path": "/articles/the-archdeacon-and-the-dragon/"
     },
@@ -44,6 +54,11 @@
       "section": "articles",
       "title": "The Book Closest to the Truth",
       "path": "/articles/the-book-closest-to-the-truth/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     },
     {
       "section": "articles",
@@ -379,13 +394,8 @@
       "section": "wiki",
       "title": "Zecharia Sitchin",
       "path": "/wiki/zecharia-sitchin/"
-    },
-    {
-      "section": "articles",
-      "title": "The Dragon Curve",
-      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 73,
+  "cite_count": 75,
   "licensing_status": "licensed"
 }
