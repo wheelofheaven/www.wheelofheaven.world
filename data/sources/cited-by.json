@@ -218,9 +218,14 @@
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "skinner-genesis-icc",
@@ -594,9 +599,14 @@
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "levengood-physiologia-plantarum-1994",
@@ -1283,9 +1293,14 @@
           "section": "wiki",
           "title": "Satan",
           "path": "/wiki/satan/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 7
+      "cite_count": 8
     },
     {
       "id": "chaos-making-a-new-science",
@@ -1299,9 +1314,14 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "chariots-of-the-gods",
@@ -2332,9 +2352,14 @@
           "section": "wiki",
           "title": "Genesis",
           "path": "/wiki/genesis/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 9
+      "cite_count": 10
     },
     {
       "id": "epic-of-gilgamesh",
@@ -3225,9 +3250,14 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 27
+      "cite_count": 28
     },
     {
       "id": "genesis-1-11-a-continental-commentary",
@@ -3292,9 +3322,14 @@
           "section": "wiki",
           "title": "Tree of Life",
           "path": "/wiki/tree-of-life/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 10
+      "cite_count": 11
     },
     {
       "id": "genesis-1-15-word-biblical-commentary",
@@ -3496,8 +3531,14 @@
     },
     {
       "id": "god-s-conflict-with-the-dragon-and-the-sea-echoes-of-a-canaanite-myth-in-the-old",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "golden-age-wheel-of-heaven-wiki-the-operational-form-of-life-available-if-the-aq",
@@ -4027,8 +4068,14 @@
     },
     {
       "id": "how-to-kill-a-dragon-aspects-of-indo-european-poetics-the-reconstructed-formula-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "kugel-how-to-read-bible",
@@ -4718,9 +4765,14 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "jurassic-world",
@@ -4915,9 +4967,14 @@
           "section": "wiki",
           "title": "Reference corpus of the Raëlian canon",
           "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 3
+      "cite_count": 4
     },
     {
       "id": "la-cabale",
@@ -5032,9 +5089,14 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 7
+      "cite_count": 8
     },
     {
       "id": "late-antique-allah-ancestral-arabian-religion-and-the-monotheistic-zeitgeist",
@@ -5206,9 +5268,14 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 7
+      "cite_count": 8
     },
     {
       "id": "les-dieux-nous-sont-n-s-i-l-ge-ingrat-the-1966-sequel-sendy-s-postulate-on-joyou",
@@ -5599,9 +5666,14 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 5
+      "cite_count": 6
     },
     {
       "id": "magicians-of-the-gods",
@@ -6594,9 +6666,14 @@
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "otiot-de-rabbi-akiva-the-recension-giving-the-body-of-the-shekhinah-is-2-360-000",
@@ -7363,8 +7440,14 @@
     },
     {
       "id": "sch-pfung-und-chaos-in-urzeit-und-endzeit-the-1895-book-that-first-read-the-old-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "science-after-babel",
@@ -7485,9 +7568,14 @@
           "section": "wiki",
           "title": "Septuagint",
           "path": "/wiki/septuagint/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "serpent-in-the-sky",
@@ -8577,9 +8665,14 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 72
+      "cite_count": 73
     },
     {
       "id": "the-books-of-enoch-aramaic-fragments-of-qumr-n-cave-4-the-edition-that-proved-1-",
@@ -11935,6 +12028,127 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "ostrom-ancestry-of-birds",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "heilmann-origin-of-birds",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "mayor-first-fossil-hunters",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "jones-instinct-for-dragons",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "sagan-dragons-of-eden",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "prum-evolution-of-beauty",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "gauthier-saurischian-monophyly-1986",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "bakker-dinosaur-renaissance-1975",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "zhang-fossilized-melanosomes-2010",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "tschopp-diplodocidae-revision-2015",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "ibrahim-spinosaurus-aquatic-2020",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1

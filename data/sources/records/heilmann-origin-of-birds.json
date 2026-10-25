@@ -1,0 +1,26 @@
+{
+  "id": "heilmann-origin-of-birds",
+  "title": "The Origin of Birds",
+  "authored_by": [
+    "Gerhard Heilmann"
+  ],
+  "publish_date": "1926",
+  "follow_url": "https://www.biodiversitylibrary.org/bibliography/44249",
+  "description": "Gerhard Heilmann's 1926 monograph arguing that birds descend from 'thecodont' archosaurs rather than dinosaurs — on the strength of the theropods' apparently missing clavicles. The book settled the question for nearly fifty years: from 1926 into the 1970s the governing consensus in ornithology and vertebrate paleontology held that birds were not dinosaur descendants. The baseline against which the first Message's dragons-at-the-bird-stage placement is measured.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Paleontology",
+    "Birds",
+    "Dinosaurs",
+    "History of Science"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

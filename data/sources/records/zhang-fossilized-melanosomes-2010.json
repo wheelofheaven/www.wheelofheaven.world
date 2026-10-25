@@ -1,0 +1,29 @@
+{
+  "id": "zhang-fossilized-melanosomes-2010",
+  "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
+  "authored_by": [
+    "Fucheng Zhang",
+    "Stuart L. Kearns",
+    "Patrick J. Orr",
+    "Michael J. Benton",
+    "et al."
+  ],
+  "publish_date": "2010",
+  "follow_url": "https://doi.org/10.1038/nature08740",
+  "description": "Nature 463 (2010): the identification of preserved melanosomes in the filaments of Sinosauropteryx, giving the first evidence-based colour pattern (a ginger-and-white banded tail) for a non-avian dinosaur.",
+  "medium": "academic-paper",
+  "topics": [
+    "Paleontology",
+    "Dinosaurs",
+    "Feathers"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

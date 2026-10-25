@@ -379,8 +379,13 @@
       "section": "wiki",
       "title": "Zecharia Sitchin",
       "path": "/wiki/zecharia-sitchin/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 72,
+  "cite_count": 73,
   "licensing_status": "licensed"
 }

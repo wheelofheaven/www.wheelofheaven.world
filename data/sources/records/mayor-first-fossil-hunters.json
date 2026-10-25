@@ -1,0 +1,26 @@
+{
+  "id": "mayor-first-fossil-hunters",
+  "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+  "authored_by": [
+    "Adrienne Mayor"
+  ],
+  "publish_date": "2000",
+  "follow_url": "",
+  "description": "Adrienne Mayor's Princeton study of how classical antiquity read large fossil bones as the remains of giants, heroes and monsters (griffins, the monster of Troy). The standard scholarly statement of the fossil-inspiration account of monster and dragon lore.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Paleontology",
+    "Mythology",
+    "Dragons",
+    "History of Science"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

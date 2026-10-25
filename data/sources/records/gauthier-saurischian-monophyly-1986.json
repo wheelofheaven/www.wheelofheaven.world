@@ -1,0 +1,26 @@
+{
+  "id": "gauthier-saurischian-monophyly-1986",
+  "title": "Saurischian Monophyly and the Origin of Birds",
+  "authored_by": [
+    "Jacques Gauthier"
+  ],
+  "publish_date": "1986",
+  "follow_url": "",
+  "description": "Jacques Gauthier's cladistic analysis in Memoirs of the California Academy of Sciences 8 (1986), which placed birds within the theropod dinosaurs and consolidated Ostrom's revival into the modern consensus.",
+  "medium": "academic-paper",
+  "topics": [
+    "Paleontology",
+    "Birds",
+    "Dinosaurs",
+    "Cladistics"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

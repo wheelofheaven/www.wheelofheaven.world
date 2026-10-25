@@ -1,0 +1,26 @@
+{
+  "id": "sagan-dragons-of-eden",
+  "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+  "authored_by": [
+    "Carl Sagan"
+  ],
+  "publish_date": "1977",
+  "follow_url": "",
+  "description": "Carl Sagan's Pulitzer-winning essay on the evolution of the brain, which speculates that dragon myths may preserve an inherited mammalian fear from the Mesozoic. Published three years after the first Raëlian Message.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Mythology",
+    "Dragons",
+    "Evolution",
+    "Neuroscience"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

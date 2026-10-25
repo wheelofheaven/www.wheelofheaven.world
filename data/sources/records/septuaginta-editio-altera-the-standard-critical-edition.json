@@ -14,8 +14,13 @@
       "section": "wiki",
       "title": "Septuagint",
       "path": "/wiki/septuagint/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "unverified"
 }

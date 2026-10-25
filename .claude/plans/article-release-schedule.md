@@ -47,6 +47,19 @@ national-security reporting — and close the run.
 
 The order is editorial preference, not dependency. Any of 2–7 can be moved.
 
+## Published outside the queue
+
+Newly commissioned articles written after the queue was set are released
+when ready, without displacing the queued order.
+
+| Date | Article | Words | Claim type | Binds | Status |
+|---|---|---|---|---|---|
+| 2026-10-14 | Sendy and the Raëlian Messages | 14,116 | inferred | 0072 | **published** — live in 10 langs |
+| 2026-10-25 | The Dragon Curve | 11,186 | speculative | 0073 (+0022, 0039, 0066, 0072) | **published** — live in 10 langs; ADR 0012 promoted 0073 |
+
+The next queued release (#3) should wait about a fortnight after
+2026-10-25 so the Telegram channel keeps its cadence.
+
 ## Not in the queue
 
 **As Foolish to Search for the Beginning** — 1,110 words across eight headings,

@@ -9,7 +9,13 @@
   "description": "",
   "medium": "",
   "topics": [],
-  "cited_by": [],
-  "cite_count": 0,
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
   "licensing_status": "unverified"
 }

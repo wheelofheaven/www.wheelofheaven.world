@@ -47,8 +47,13 @@
       "section": "wiki",
       "title": "Satan",
       "path": "/wiki/satan/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 7,
+  "cite_count": 8,
   "licensing_status": "unverified"
 }

@@ -37,8 +37,13 @@
       "section": "wiki",
       "title": "Jean Sendy",
       "path": "/wiki/jean-sendy/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 5,
+  "cite_count": 6,
   "licensing_status": "unverified"
 }

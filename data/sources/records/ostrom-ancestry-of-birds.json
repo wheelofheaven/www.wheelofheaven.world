@@ -1,0 +1,26 @@
+{
+  "id": "ostrom-ancestry-of-birds",
+  "title": "The Ancestry of Birds",
+  "authored_by": [
+    "John H. Ostrom"
+  ],
+  "publish_date": "1973",
+  "follow_url": "https://doi.org/10.1038/242136a0",
+  "description": "John Ostrom's one-page Nature paper (vol. 242, p. 136, March 1973) that revived Huxley's theropod hypothesis of bird origins against the half-century Heilmann consensus — published nine months before the composition window of the first Raëlian Message. The hinge document for the article's history-of-science layer: what the dinosaur–bird connection looked like in 1973, and to whom it was visible.",
+  "medium": "academic-paper",
+  "topics": [
+    "Paleontology",
+    "Birds",
+    "Dinosaurs",
+    "History of Science"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

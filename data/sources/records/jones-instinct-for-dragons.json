@@ -1,0 +1,25 @@
+{
+  "id": "jones-instinct-for-dragons",
+  "title": "An Instinct for Dragons",
+  "authored_by": [
+    "David E. Jones"
+  ],
+  "publish_date": "2000",
+  "follow_url": "",
+  "description": "The anthropologist David E. Jones's argument that the dragon is a cognitive composite of the primate brain's oldest predator alarms — snake, raptor, big cat. One of the three mainstream explanations of the worldwide dragon motif.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "Mythology",
+    "Dragons",
+    "Anthropology"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

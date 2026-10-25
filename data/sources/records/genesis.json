@@ -144,8 +144,13 @@
       "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
+    },
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
     }
   ],
-  "cite_count": 27,
+  "cite_count": 28,
   "licensing_status": "unverified"
 }

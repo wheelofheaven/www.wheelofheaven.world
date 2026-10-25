@@ -2,7 +2,7 @@
   "generated_at": "2026-09-15T12:31:17+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 806,
+  "total": 817,
   "sources": {
     "1-chronicles": {
       "id": "1-chronicles",
@@ -6528,6 +6528,103 @@
         "Rodney Stark"
       ],
       "publish_date": "1996"
+    },
+    "ostrom-ancestry-of-birds": {
+      "id": "ostrom-ancestry-of-birds",
+      "title": "The Ancestry of Birds",
+      "authored_by": [
+        "John H. Ostrom"
+      ],
+      "publish_date": "1973"
+    },
+    "heilmann-origin-of-birds": {
+      "id": "heilmann-origin-of-birds",
+      "title": "The Origin of Birds",
+      "authored_by": [
+        "Gerhard Heilmann"
+      ],
+      "publish_date": "1926"
+    },
+    "mayor-first-fossil-hunters": {
+      "id": "mayor-first-fossil-hunters",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authored_by": [
+        "Adrienne Mayor"
+      ],
+      "publish_date": "2000"
+    },
+    "jones-instinct-for-dragons": {
+      "id": "jones-instinct-for-dragons",
+      "title": "An Instinct for Dragons",
+      "authored_by": [
+        "David E. Jones"
+      ],
+      "publish_date": "2000"
+    },
+    "sagan-dragons-of-eden": {
+      "id": "sagan-dragons-of-eden",
+      "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+      "authored_by": [
+        "Carl Sagan"
+      ],
+      "publish_date": "1977"
+    },
+    "prum-evolution-of-beauty": {
+      "id": "prum-evolution-of-beauty",
+      "title": "The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World",
+      "authored_by": [
+        "Richard O. Prum"
+      ],
+      "publish_date": "2017"
+    },
+    "gauthier-saurischian-monophyly-1986": {
+      "id": "gauthier-saurischian-monophyly-1986",
+      "title": "Saurischian Monophyly and the Origin of Birds",
+      "authored_by": [
+        "Jacques Gauthier"
+      ],
+      "publish_date": "1986"
+    },
+    "bakker-dinosaur-renaissance-1975": {
+      "id": "bakker-dinosaur-renaissance-1975",
+      "title": "Dinosaur Renaissance",
+      "authored_by": [
+        "Robert T. Bakker"
+      ],
+      "publish_date": "1975"
+    },
+    "zhang-fossilized-melanosomes-2010": {
+      "id": "zhang-fossilized-melanosomes-2010",
+      "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
+      "authored_by": [
+        "Fucheng Zhang",
+        "Stuart L. Kearns",
+        "Patrick J. Orr",
+        "Michael J. Benton",
+        "et al."
+      ],
+      "publish_date": "2010"
+    },
+    "tschopp-diplodocidae-revision-2015": {
+      "id": "tschopp-diplodocidae-revision-2015",
+      "title": "A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda)",
+      "authored_by": [
+        "Emanuel Tschopp",
+        "Octávio Mateus",
+        "Roger B. J. Benson"
+      ],
+      "publish_date": "2015"
+    },
+    "ibrahim-spinosaurus-aquatic-2020": {
+      "id": "ibrahim-spinosaurus-aquatic-2020",
+      "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
+      "authored_by": [
+        "Nizar Ibrahim",
+        "Simone Maganuco",
+        "Cristiano Dal Sasso",
+        "et al."
+      ],
+      "publish_date": "2020"
     }
   }
 }

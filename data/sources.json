@@ -2,14 +2,14 @@
   "generated_at": "2026-09-15T12:31:17+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 809,
-  "total_cites": 1452,
+  "total": 820,
+  "total_cites": 1481,
   "media_counts": {
     "religious-text": 95,
-    "academic-paper": 81,
+    "academic-paper": 86,
     "unknown": 379,
-    "nonfiction-book": 181,
-    "article": 22,
+    "nonfiction-book": 186,
+    "article": 23,
     "documentary": 17,
     "wiki": 13,
     "fiction-book": 15,
@@ -419,9 +419,14 @@
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -1186,9 +1191,14 @@
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -2464,9 +2474,14 @@
           "section": "wiki",
           "title": "Satan",
           "path": "/wiki/satan/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 7,
+      "cite_count": 8,
       "licensing_status": "unverified"
     },
     {
@@ -2490,9 +2505,14 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unverified"
     },
     {
@@ -4458,9 +4478,14 @@
           "section": "wiki",
           "title": "Genesis",
           "path": "/wiki/genesis/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 9,
+      "cite_count": 10,
       "licensing_status": "unverified"
     },
     {
@@ -5715,9 +5740,14 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 27,
+      "cite_count": 28,
       "licensing_status": "unverified"
     },
     {
@@ -5807,9 +5837,14 @@
           "section": "wiki",
           "title": "Tree of Life",
           "path": "/wiki/tree-of-life/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 10,
+      "cite_count": 11,
       "licensing_status": "licensed"
     },
     {
@@ -6224,8 +6259,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -7140,8 +7181,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -8286,9 +8333,14 @@
           "section": "timeline",
           "title": "Preamble",
           "path": "/timeline/preamble/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unverified"
     },
     {
@@ -8668,9 +8720,14 @@
           "section": "wiki",
           "title": "Reference corpus of the Raëlian canon",
           "path": "/wiki/reference-corpus-of-the-raelian-canon/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 3,
+      "cite_count": 4,
       "licensing_status": "unverified"
     },
     {
@@ -8878,9 +8935,14 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 7,
+      "cite_count": 8,
       "licensing_status": "unverified"
     },
     {
@@ -9165,9 +9227,14 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 7,
+      "cite_count": 8,
       "licensing_status": "unverified"
     },
     {
@@ -9838,9 +9905,14 @@
           "section": "wiki",
           "title": "Jean Sendy",
           "path": "/wiki/jean-sendy/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 5,
+      "cite_count": 6,
       "licensing_status": "unverified"
     },
     {
@@ -11790,9 +11862,14 @@
           "section": "timeline",
           "title": "Age of Virgo",
           "path": "/timeline/age-of-virgo/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -13316,8 +13393,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13545,9 +13628,14 @@
           "section": "wiki",
           "title": "Septuagint",
           "path": "/wiki/septuagint/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -15373,9 +15461,14 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
+        },
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
-      "cite_count": 72,
+      "cite_count": 73,
       "licensing_status": "licensed"
     },
     {
@@ -21824,6 +21917,294 @@
           "section": "articles",
           "title": "Sendy and the Raëlian Messages",
           "path": "/articles/sendy-and-the-raelian-messages/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "ostrom-ancestry-of-birds",
+      "title": "The Ancestry of Birds",
+      "authored_by": [
+        "John H. Ostrom"
+      ],
+      "publish_date": "1973",
+      "follow_url": "https://doi.org/10.1038/242136a0",
+      "description": "John Ostrom's one-page Nature paper (vol. 242, p. 136, March 1973) that revived Huxley's theropod hypothesis of bird origins against the half-century Heilmann consensus — published nine months before the composition window of the first Raëlian Message. The hinge document for the article's history-of-science layer: what the dinosaur–bird connection looked like in 1973, and to whom it was visible.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Birds",
+        "Dinosaurs",
+        "History of Science"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "heilmann-origin-of-birds",
+      "title": "The Origin of Birds",
+      "authored_by": [
+        "Gerhard Heilmann"
+      ],
+      "publish_date": "1926",
+      "follow_url": "https://www.biodiversitylibrary.org/bibliography/44249",
+      "description": "Gerhard Heilmann's 1926 monograph arguing that birds descend from 'thecodont' archosaurs rather than dinosaurs — on the strength of the theropods' apparently missing clavicles. The book settled the question for nearly fifty years: from 1926 into the 1970s the governing consensus in ornithology and vertebrate paleontology held that birds were not dinosaur descendants. The baseline against which the first Message's dragons-at-the-bird-stage placement is measured.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Paleontology",
+        "Birds",
+        "Dinosaurs",
+        "History of Science"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "mayor-first-fossil-hunters",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authored_by": [
+        "Adrienne Mayor"
+      ],
+      "publish_date": "2000",
+      "follow_url": "",
+      "description": "Adrienne Mayor's Princeton study of how classical antiquity read large fossil bones as the remains of giants, heroes and monsters (griffins, the monster of Troy). The standard scholarly statement of the fossil-inspiration account of monster and dragon lore.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Paleontology",
+        "Mythology",
+        "Dragons",
+        "History of Science"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "jones-instinct-for-dragons",
+      "title": "An Instinct for Dragons",
+      "authored_by": [
+        "David E. Jones"
+      ],
+      "publish_date": "2000",
+      "follow_url": "",
+      "description": "The anthropologist David E. Jones's argument that the dragon is a cognitive composite of the primate brain's oldest predator alarms — snake, raptor, big cat. One of the three mainstream explanations of the worldwide dragon motif.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Mythology",
+        "Dragons",
+        "Anthropology"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "sagan-dragons-of-eden",
+      "title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+      "authored_by": [
+        "Carl Sagan"
+      ],
+      "publish_date": "1977",
+      "follow_url": "",
+      "description": "Carl Sagan's Pulitzer-winning essay on the evolution of the brain, which speculates that dragon myths may preserve an inherited mammalian fear from the Mesozoic. Published three years after the first Raëlian Message.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Mythology",
+        "Dragons",
+        "Evolution",
+        "Neuroscience"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "prum-evolution-of-beauty",
+      "title": "The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World",
+      "authored_by": [
+        "Richard O. Prum"
+      ],
+      "publish_date": "2017",
+      "follow_url": "",
+      "description": "The Yale ornithologist Richard Prum's case for aesthetic mate choice as a driver of avian ornament, display and courtship — the body of work that puts display before aerodynamics in the history of plumage.",
+      "medium": "nonfiction-book",
+      "topics": [
+        "Birds",
+        "Evolution",
+        "Sexual Selection"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "gauthier-saurischian-monophyly-1986",
+      "title": "Saurischian Monophyly and the Origin of Birds",
+      "authored_by": [
+        "Jacques Gauthier"
+      ],
+      "publish_date": "1986",
+      "follow_url": "",
+      "description": "Jacques Gauthier's cladistic analysis in Memoirs of the California Academy of Sciences 8 (1986), which placed birds within the theropod dinosaurs and consolidated Ostrom's revival into the modern consensus.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Birds",
+        "Dinosaurs",
+        "Cladistics"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "bakker-dinosaur-renaissance-1975",
+      "title": "Dinosaur Renaissance",
+      "authored_by": [
+        "Robert T. Bakker"
+      ],
+      "publish_date": "1975",
+      "follow_url": "https://doi.org/10.1038/scientificamerican0475-58",
+      "description": "Robert Bakker's Scientific American manifesto (vol. 232, no. 4, April 1975) for active, warm-blooded dinosaurs and their kinship with birds — the popular launch of the 'Dinosaur Renaissance'.",
+      "medium": "article",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs",
+        "Birds"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "zhang-fossilized-melanosomes-2010",
+      "title": "Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds",
+      "authored_by": [
+        "Fucheng Zhang",
+        "Stuart L. Kearns",
+        "Patrick J. Orr",
+        "Michael J. Benton",
+        "et al."
+      ],
+      "publish_date": "2010",
+      "follow_url": "https://doi.org/10.1038/nature08740",
+      "description": "Nature 463 (2010): the identification of preserved melanosomes in the filaments of Sinosauropteryx, giving the first evidence-based colour pattern (a ginger-and-white banded tail) for a non-avian dinosaur.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs",
+        "Feathers"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "tschopp-diplodocidae-revision-2015",
+      "title": "A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda)",
+      "authored_by": [
+        "Emanuel Tschopp",
+        "Octávio Mateus",
+        "Roger B. J. Benson"
+      ],
+      "publish_date": "2015",
+      "follow_url": "https://doi.org/10.7717/peerj.857",
+      "description": "PeerJ 3:e857 (2015): the phylogenetic revision that restored Brontosaurus as a genus distinct from Apatosaurus, more than a century after the name was sunk.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs",
+        "Taxonomy"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "ibrahim-spinosaurus-aquatic-2020",
+      "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
+      "authored_by": [
+        "Nizar Ibrahim",
+        "Simone Maganuco",
+        "Cristiano Dal Sasso",
+        "et al."
+      ],
+      "publish_date": "2020",
+      "follow_url": "https://doi.org/10.1038/s41586-020-2190-3",
+      "description": "Nature 581 (2020): the description of Spinosaurus's paddle-like tail, the principal evidence for a semiaquatic, river-hunting giant theropod. Its aquatic interpretation remains debated within paleontology.",
+      "medium": "academic-paper",
+      "topics": [
+        "Paleontology",
+        "Dinosaurs"
+      ],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Dragon Curve",
+          "path": "/articles/the-dragon-curve/"
         }
       ],
       "cite_count": 1,

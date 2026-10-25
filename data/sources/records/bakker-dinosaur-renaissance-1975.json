@@ -1,0 +1,25 @@
+{
+  "id": "bakker-dinosaur-renaissance-1975",
+  "title": "Dinosaur Renaissance",
+  "authored_by": [
+    "Robert T. Bakker"
+  ],
+  "publish_date": "1975",
+  "follow_url": "https://doi.org/10.1038/scientificamerican0475-58",
+  "description": "Robert Bakker's Scientific American manifesto (vol. 232, no. 4, April 1975) for active, warm-blooded dinosaurs and their kinship with birds — the popular launch of the 'Dinosaur Renaissance'.",
+  "medium": "article",
+  "topics": [
+    "Paleontology",
+    "Dinosaurs",
+    "Birds"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}

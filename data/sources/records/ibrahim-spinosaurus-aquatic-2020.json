@@ -1,0 +1,27 @@
+{
+  "id": "ibrahim-spinosaurus-aquatic-2020",
+  "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
+  "authored_by": [
+    "Nizar Ibrahim",
+    "Simone Maganuco",
+    "Cristiano Dal Sasso",
+    "et al."
+  ],
+  "publish_date": "2020",
+  "follow_url": "https://doi.org/10.1038/s41586-020-2190-3",
+  "description": "Nature 581 (2020): the description of Spinosaurus's paddle-like tail, the principal evidence for a semiaquatic, river-hunting giant theropod. Its aquatic interpretation remains debated within paleontology.",
+  "medium": "academic-paper",
+  "topics": [
+    "Paleontology",
+    "Dinosaurs"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Dragon Curve",
+      "path": "/articles/the-dragon-curve/"
+    }
+  ],
+  "cite_count": 1,
+  "licensing_status": "unverified"
+}
