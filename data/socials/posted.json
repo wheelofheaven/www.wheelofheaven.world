@@ -131,6 +131,18 @@
         }
       }
     },
+    "articles/the-dragon-curve": {
+      "title": "The Dragon Curve",
+      "permalink": "https://www.wheelofheaven.world/articles/the-dragon-curve/",
+      "first_eligible_at": "2026-10-25T09:59:01Z",
+      "channels": {
+        "telegram": {
+          "post_id": "@wheelofheaven/56",
+          "url": "https://t.me/wheelofheaven/56",
+          "posted_at": "2026-10-25T09:59:01Z"
+        }
+      }
+    },
     "articles/the-east-face-of-homer": {
       "title": "The East Face of Homer",
       "permalink": "https://www.wheelofheaven.world/articles/the-east-face-of-homer/",
