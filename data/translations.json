@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-09-19T06:50:25+00:00",
-    "count": 1174
+    "generated_at": "2026-10-31T17:50:22+00:00",
+    "count": 1195
   },
   "paths": {
     "AGENTS": [
@@ -70,6 +70,18 @@
       "zh",
       "zh-Hant"
     ],
+    "articles/sendy-and-the-raelian-messages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "articles/six-mornings-six-years": [
       "de",
       "en",
@@ -95,6 +107,18 @@
       "zh-Hant"
     ],
     "articles/the-book-closest-to-the-truth": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "articles/the-dragon-curve": [
       "de",
       "en",
       "es",
@@ -357,7 +381,16 @@
       "zh-Hant"
     ],
     "contributors/zara-zinsfuss": [
-      "en"
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "cookie-policy": [
       "de",
@@ -1778,6 +1811,18 @@
       "zh",
       "zh-Hant"
     ],
+    "news/pursue-release-07-a-black-triangle-and-the-utah-ranch": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "news/synthetic-cell-eats-and-divides": [
       "de",
       "en",
@@ -2654,6 +2699,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/bakker-dinosaur-renaissance-1975": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/banks-culture-series": [
       "de",
       "en",
@@ -3507,6 +3564,18 @@
       "zh-Hant"
     ],
     "sources/cultural-memory-and-early-civilization-writing-remembrance-and-political-imagina": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/cyberparadism-field-guide": [
       "de",
       "en",
       "es",
@@ -4586,6 +4655,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/gauthier-saurischian-monophyly-1986": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/genesis": [
       "de",
       "en",
@@ -5138,6 +5219,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/heilmann-origin-of-birds": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/hekhalot-studien-tsaj-19-ch-5-shi-ur-qoma-rezensionen-und-urtext": [
       "de",
       "en",
@@ -5283,6 +5376,18 @@
       "zh-Hant"
     ],
     "sources/hoyle-wickramasinghe-lifecloud": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/ibrahim-spinosaurus-aquatic-2020": [
       "de",
       "en",
       "es",
@@ -5619,6 +5724,18 @@
       "zh-Hant"
     ],
     "sources/john-qumran-and-the-dead-sea-scrolls-sixty-years-of-discovery-and-debate-the-qum": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/jones-instinct-for-dragons": [
       "de",
       "en",
       "es",
@@ -6530,6 +6647,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/mayor-first-fossil-hunters": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/mazzaroth-dot-com": [
       "de",
       "en",
@@ -7418,6 +7547,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/ostrom-ancestry-of-birds": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/otiot-de-rabbi-akiva-the-recension-giving-the-body-of-the-shekhinah-is-2-360-000": [
       "de",
       "en",
@@ -7815,6 +7956,18 @@
       "zh-Hant"
     ],
     "sources/providence-in-early-modern-england": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/prum-evolution-of-beauty": [
       "de",
       "en",
       "es",
@@ -8319,6 +8472,18 @@
       "zh-Hant"
     ],
     "sources/sachedina-islamic-messianism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/sagan-dragons-of-eden": [
       "de",
       "en",
       "es",
@@ -8991,6 +9156,42 @@
       "zh-Hant"
     ],
     "sources/tester-western-astrology": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/testimony-of-marie-helene-parent": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/testimony-of-mark-woodgate": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/testimony-of-sage-ali": [
       "de",
       "en",
       "es",
@@ -11081,6 +11282,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/tschopp-diplodocidae-revision-2015": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/ufo-religions": [
       "de",
       "en",
@@ -11525,7 +11738,31 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/zhang-fossilized-melanosomes-2010": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/zohar-pritzker": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "start": [
       "de",
       "en",
       "es",
@@ -11911,6 +12148,18 @@
     ],
     "wiki/carl-jung": [
       "en"
+    ],
+    "wiki/chaoskampf": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "wiki/chronology": [
       "de",
@@ -13041,6 +13290,18 @@
       "zh-Hant"
     ],
     "wiki/synthetic-genomics": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "wiki/tannin": [
       "de",
       "en",
       "es",
