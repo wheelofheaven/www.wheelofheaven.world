@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-31T17:50:22+00:00",
+    "generated_at": "2026-11-01T07:58:19+00:00",
     "count": 1195
   },
   "paths": {
@@ -170,7 +170,16 @@
       "zh-Hant"
     ],
     "articles/the-forty-chairs": [
-      "en"
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "articles/the-infinite-in-both-directions": [
       "de",

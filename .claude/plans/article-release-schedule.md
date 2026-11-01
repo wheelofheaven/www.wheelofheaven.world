@@ -28,7 +28,7 @@ the stagger.
 | 2 | 2026-09-15 | Six Mornings, Six Years | 8,180 | inferred | 0035 | **published** — live in 10 langs |
 | 3 | 2026-09-29 | Made from the Ground to Bear the Labor | 4,796 | inferred | 0034 | queued |
 | 4 | 2026-10-13 | The Filing Cabinet of the Gods | 7,394 | speculative | 0056 | queued |
-| 5 | 2026-10-27 | The Forty Chairs | 10,162 | inferred | 0054 | queued |
+| 5 | 2026-11-01 | The Forty Chairs | 10,165 | inferred | 0054 | **published** 2026-11-01 — live in 10 langs |
 | 6 | 2026-11-10 | The Jubilee and the Machine | 7,178 | inferred | 0055 | queued |
 | 7 | 2026-11-24 | The Reporter at the Razor's Edge | 7,137 | inferred | 0057 | queued |
 
@@ -136,7 +136,7 @@ articles this piece hands off to use `Jahwe`, as does `de/wiki/yahweh.md`.
 Both calls are locally right and the corpus split is now visible in two
 adjacent releases. **This still wants one founder decision.**
 
-**`The Forty Chairs` (#5) will need a title sync on publication.** This
+**`The Forty Chairs` (#5) title sync — DONE 2026-11-01:** the Six Mornings citations (all 10 langs) and `wiki/idolatry` now link the article with its published titles (fr *Les quarante chaises*, ru *Сорок стульев*, zh-Hant 《四十把椅子》 corrected). Original note: This
 article cites it twice as unlinked italics, and all nine translators
 coined a local title (*Die vierzig Stühle*, *Las cuarenta sillas*,
 *Les Quarante Chaises*, *Сорок кресел*, 四十把椅子, 《四十張椅子》,
