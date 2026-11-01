@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-01T13:25:43+00:00",
-    "count": 1199
+    "generated_at": "2026-11-01T16:10:40+00:00",
+    "count": 1213
   },
   "paths": {
     "AGENTS": [
@@ -572,6 +572,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/1-samuel-woh": [
+      "en"
+    ],
     "library/1-thessalonians": [
       "de",
       "en",
@@ -785,6 +788,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/amos-woh": [
+      "en"
+    ],
     "library/atrahasis": [
       "de",
       "en",
@@ -899,6 +905,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/deuteronomy-woh": [
+      "en"
+    ],
     "library/doctrine-and-covenants-selections": [
       "en"
     ],
@@ -913,6 +922,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/ecclesiastes-woh": [
+      "en"
     ],
     "library/enki-and-ninhursag-woh": [
       "en"
@@ -1217,6 +1229,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/jeremiah-woh": [
+      "en"
+    ],
     "library/job": [
       "de",
       "en",
@@ -1268,6 +1283,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/jonah-woh": [
+      "en"
+    ],
     "library/joseph-smith-history": [
       "en"
     ],
@@ -1282,6 +1300,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/joshua-woh": [
+      "en"
     ],
     "library/jubilees-woh": [
       "en"
@@ -1309,6 +1330,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/judges-woh": [
+      "en"
     ],
     "library/lamentations": [
       "de",
@@ -1475,6 +1499,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/numbers-woh": [
+      "en"
+    ],
     "library/obadiah": [
       "de",
       "en",
@@ -1550,6 +1577,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/proverbs-woh": [
+      "en"
+    ],
     "library/psalms": [
       "de",
       "en",
@@ -1561,6 +1591,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/psalms-woh": [
+      "en"
     ],
     "library/quran": [
       "de",
@@ -1682,6 +1715,9 @@
     "library/vendidad-woh": [
       "en"
     ],
+    "library/wisdom-of-solomon-woh": [
+      "en"
+    ],
     "library/words-of-mormon": [
       "de",
       "en",
@@ -1694,7 +1730,13 @@
       "zh",
       "zh-Hant"
     ],
+    "library/zechariah-woh": [
+      "en"
+    ],
     "library/zephaniah": [
+      "en"
+    ],
+    "library/zephaniah-woh": [
       "en"
     ],
     "listen": [
