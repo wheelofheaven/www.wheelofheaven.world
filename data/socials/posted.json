@@ -179,6 +179,18 @@
         }
       }
     },
+    "articles/the-forty-chairs": {
+      "title": "The Forty Chairs",
+      "permalink": "https://www.wheelofheaven.world/articles/the-forty-chairs/",
+      "first_eligible_at": "2026-11-01T08:20:00Z",
+      "channels": {
+        "telegram": {
+          "post_id": "@wheelofheaven/58",
+          "url": "https://t.me/wheelofheaven/58",
+          "posted_at": "2026-11-01T08:20:00Z"
+        }
+      }
+    },
     "articles/the-infinite-in-both-directions": {
       "title": "The Infinite in Both Directions",
       "permalink": "https://www.wheelofheaven.world/articles/the-infinite-in-both-directions/",
