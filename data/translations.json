@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-01T07:58:19+00:00",
-    "count": 1195
+    "generated_at": "2026-11-01T08:46:00+00:00",
+    "count": 1197
   },
   "paths": {
     "AGENTS": [
@@ -1094,6 +1094,9 @@
     "library/gilgamesh-woh": [
       "en"
     ],
+    "library/gospel-of-thomas-woh": [
+      "en"
+    ],
     "library/habakkuk": [
       "de",
       "en",
@@ -1669,6 +1672,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/vendidad-woh": [
+      "en"
     ],
     "library/words-of-mormon": [
       "de",
