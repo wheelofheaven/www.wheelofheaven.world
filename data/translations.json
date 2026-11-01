@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-01T08:46:00+00:00",
-    "count": 1197
+    "generated_at": "2026-11-01T11:43:44+00:00",
+    "count": 1199
   },
   "paths": {
     "AGENTS": [
@@ -533,6 +533,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/1-kings-woh": [
+      "en"
+    ],
     "library/1-nephi": [
       "de",
       "en",
@@ -640,6 +643,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/2-kings-woh": [
+      "en"
     ],
     "library/2-nephi": [
       "de",
