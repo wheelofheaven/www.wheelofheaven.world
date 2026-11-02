@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-01T16:10:40+00:00",
-    "count": 1213
+    "generated_at": "2026-11-02T06:48:31+00:00",
+    "count": 1214
   },
   "paths": {
     "AGENTS": [
@@ -1897,6 +1897,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "news/the-bible-the-canon-quotes-translated": [
+      "en"
     ],
     "offline": [
       "de",
