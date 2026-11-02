@@ -26,9 +26,11 @@ LANGS = ["fr", "en", "de", "es", "ru", "ja", "ko", "zh", "zh-Hant", "he"]
 # French book names as printed in the canon -> (woh slug, English name)
 BOOKS = {
     "genèse": ("genesis-woh", "Genesis"), "exode": ("exodus-woh", "Exodus"),
+    "lévitique": ("leviticus-woh", "Leviticus"),
     "nombres": ("numbers-woh", "Numbers"), "deutéronome": ("deuteronomy-woh", "Deuteronomy"),
     "josué": ("joshua-woh", "Joshua"), "juges": ("judges-woh", "Judges"),
     "i samuel": ("1-samuel-woh", "1 Samuel"), "i rois": ("1-kings-woh", "1 Kings"),
+    "ii samuel": ("2-samuel-woh", "2 Samuel"),
     "ii rois": ("2-kings-woh", "2 Kings"),
     "job": ("job-woh", "Job"),
     # TBWTT-3:115 "(Rois, XVII-24)" is the widow's son, 1 Kings 17
@@ -39,12 +41,16 @@ BOOKS = {
     "isaïe": ("isaiah-woh", "Isaiah"), "jérémie": ("jeremiah-woh", "Jeremiah"),
     "ezéchiel": ("ezekiel-woh", "Ezekiel"), "ézéchiel": ("ezekiel-woh", "Ezekiel"),
     "daniel": ("daniel-woh", "Daniel"), "amos": ("amos-woh", "Amos"), "jonas": ("jonah-woh", "Jonah"),
+    "michée": ("micah-woh", "Micah"),
     "sophonie": ("zephaniah-woh", "Zephaniah"), "zacharie": ("zechariah-woh", "Zechariah"),
+    "tobit": ("tobit-woh", "Tobit"),
     "sagesse de salomon": ("wisdom-of-solomon-woh", "Wisdom of Solomon"),
     "la sagesse de salomon": ("wisdom-of-solomon-woh", "Wisdom of Solomon"),
     "matthieu": ("matthew-woh", "Matthew"), "mathieu": ("matthew-woh", "Matthew"),
     "d’après matthieu": ("matthew-woh", "Matthew"), "marc": ("mark-woh", "Mark"),
     "d’après luc": ("luke-woh", "Luke"), "actes des apôtres": ("acts-woh", "Acts"),
+    # LWTE-4:90 prints "(I, Thess., V, 1à 3)"
+    "i, thess.": ("1-thessalonians-woh", "1 Thessalonians"),
     "apocalypse": ("revelation-woh", "Revelation"), "apocalypse de jean": ("revelation-woh", "Revelation"),
 }
 # Known misprints in the canon: (refId, chapter as printed) -> chapter meant
@@ -57,7 +63,9 @@ CITE = re.compile(r"[(（]([^()（）]{1,60}?(?:\b[IVXLC]+\b|[\u05d0-\u05ea]{1,2
 # The English edition of Let's Welcome the Extra-Terrestrials prints its
 # citations as "Matthew 13: 5-9." (Arabic numerals, no brackets).
 CITE_EN = re.compile(r"(?<![\w’'])((?:[1-3] )?[A-Z][a-z]+(?: [A-Z][a-z]+){0,2} \d{1,3}: ?\d{1,3}(?:[-–]\d{1,3})?)")
-EN_BOOKS = {"genesis": "genesis-woh", "exodus": "exodus-woh", "numbers": "numbers-woh",
+EN_BOOKS = {"genesis": "genesis-woh", "exodus": "exodus-woh", "leviticus": "leviticus-woh",
+    "numbers": "numbers-woh", "2 samuel": "2-samuel-woh", "micah": "micah-woh", "tobit": "tobit-woh",
+    "1 thessalonians": "1-thessalonians-woh",
     "deuteronomy": "deuteronomy-woh", "joshua": "joshua-woh", "judges": "judges-woh",
     "job": "job-woh", "psalms": "psalms-woh", "psalm": "psalms-woh", "proverbs": "proverbs-woh",
     "ecclesiastes": "ecclesiastes-woh", "isaiah": "isaiah-woh", "jeremiah": "jeremiah-woh",
