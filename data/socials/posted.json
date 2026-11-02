@@ -474,6 +474,18 @@
           "posted_at": "2026-07-01T20:15:48Z"
         }
       }
+    },
+    "news/the-bible-the-canon-quotes-translated": {
+      "title": "The Bible the Canon Quotes, Translated",
+      "permalink": "https://www.wheelofheaven.world/news/the-bible-the-canon-quotes-translated/",
+      "first_eligible_at": "2026-11-02T07:08:08Z",
+      "channels": {
+        "telegram": {
+          "post_id": "@wheelofheaven/59",
+          "url": "https://t.me/wheelofheaven/59",
+          "posted_at": "2026-11-02T07:08:08Z"
+        }
+      }
     }
   }
 }
