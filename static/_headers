@@ -33,6 +33,13 @@
 /starmap.svg
   Cache-Control: public, max-age=2592000
 
+# Knowledge graph data (/graph/) - open to any origin (notebooks, agents);
+# revalidate daily since it is rebuilt with the content
+/graph/graph.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Content-Disposition: inline; filename="wheel-of-heaven-graph.json"
+
 # Service worker - no cache (needs fresh checks)
 /sw.js
   Cache-Control: no-cache

@@ -43,7 +43,7 @@
   {
     "id": "renouveller",
     "x": 1040,
-    "y": 1076,
+    "y": 1064,
     "size": "sm",
     "anchor": "middle",
     "area": "wheel",
@@ -86,15 +86,15 @@
   {
     "id": "giant-experiment",
     "x": 250,
-    "y": 1700,
+    "y": 1712,
     "size": "sm",
     "anchor": "middle",
     "area": "wheel"
   },
   {
     "id": "inheriting-torch",
-    "x": 285,
-    "y": 1635,
+    "x": 360,
+    "y": 1625,
     "size": "sm",
     "anchor": "middle",
     "area": "wheel"

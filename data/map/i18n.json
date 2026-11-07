@@ -249,19 +249,12 @@
     ],
     "posterToggle": "Poster mode",
     "graphToggle": "Content graph view",
-    "graphAria": "Interactive graph of every published page; lines are cross-references",
-    "graphLegend": "Legend and filters",
-    "graphLoading": "Loading the content graph…",
-    "graphError": "The graph couldn't be loaded. Check your connection and try again.",
-    "graphRetry": "Retry",
-    "graphClaimUnset": "Unclassified",
-    "graphDownload": "Download",
-    "graphAbout": "About this dataset",
-    "graphSkip": "Skip past graph nodes",
-    "graphShown": "shown",
-    "graphHidden": "hidden",
-    "graphLinks": "links",
-    "graphBrandTitle": "Wheel of Heaven Graph"
+    "shelves": {
+      "library": "The Library",
+      "texts": "texts",
+      "datasets": "Datasets",
+      "datasetsNote": "open data, CC0"
+    }
   },
   "de": {
     "brandTitle": "Wheel of Heaven Karte",
@@ -513,19 +506,12 @@
     ],
     "posterToggle": "Poster-Modus",
     "graphToggle": "Inhaltsgraph-Ansicht",
-    "graphAria": "Interaktiver Graph aller veröffentlichten Seiten; Linien sind Querverweise",
-    "graphLegend": "Legende und Filter",
-    "graphLoading": "Inhaltsgraph wird geladen…",
-    "graphError": "Der Graph konnte nicht geladen werden. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
-    "graphRetry": "Erneut versuchen",
-    "graphClaimUnset": "Nicht klassifiziert",
-    "graphDownload": "Herunterladen",
-    "graphAbout": "Über diesen Datensatz",
-    "graphSkip": "Graph-Knoten überspringen",
-    "graphShown": "eingeblendet",
-    "graphHidden": "ausgeblendet",
-    "graphLinks": "Verknüpfungen",
-    "graphBrandTitle": "Wheel of Heaven Graph"
+    "shelves": {
+      "library": "Die Bibliothek",
+      "texts": "Texte",
+      "datasets": "Datensätze",
+      "datasetsNote": "offene Daten, CC0"
+    }
   },
   "fr": {
     "brandTitle": "Carte Wheel of Heaven",
@@ -777,19 +763,12 @@
     ],
     "posterToggle": "Mode affiche",
     "graphToggle": "Vue graphe du contenu",
-    "graphAria": "Graphe interactif de toutes les pages publiées ; les lignes sont des renvois",
-    "graphLegend": "Légende et filtres",
-    "graphLoading": "Chargement du graphe de contenu…",
-    "graphError": "Le graphe n'a pas pu être chargé. Vérifiez votre connexion et réessayez.",
-    "graphRetry": "Réessayer",
-    "graphClaimUnset": "Non classé",
-    "graphDownload": "Télécharger",
-    "graphAbout": "À propos de ce jeu de données",
-    "graphSkip": "Passer les nœuds du graphe",
-    "graphShown": "affiché",
-    "graphHidden": "masqué",
-    "graphLinks": "liens",
-    "graphBrandTitle": "Graphe Wheel of Heaven"
+    "shelves": {
+      "library": "La Bibliothèque",
+      "texts": "textes",
+      "datasets": "Jeux de données",
+      "datasetsNote": "données ouvertes, CC0"
+    }
   },
   "es": {
     "brandTitle": "Mapa Wheel of Heaven",
@@ -1041,19 +1020,12 @@
     ],
     "posterToggle": "Modo póster",
     "graphToggle": "Vista de grafo del contenido",
-    "graphAria": "Grafo interactivo de todas las páginas publicadas; las líneas son referencias cruzadas",
-    "graphLegend": "Leyenda y filtros",
-    "graphLoading": "Cargando el grafo de contenido…",
-    "graphError": "No se pudo cargar el grafo. Comprueba tu conexión e inténtalo de nuevo.",
-    "graphRetry": "Reintentar",
-    "graphClaimUnset": "Sin clasificar",
-    "graphDownload": "Descargar",
-    "graphAbout": "Acerca de este conjunto de datos",
-    "graphSkip": "Saltar los nodos del grafo",
-    "graphShown": "visible",
-    "graphHidden": "oculto",
-    "graphLinks": "enlaces",
-    "graphBrandTitle": "Grafo Wheel of Heaven"
+    "shelves": {
+      "library": "La Biblioteca",
+      "texts": "textos",
+      "datasets": "Conjuntos de datos",
+      "datasetsNote": "datos abiertos, CC0"
+    }
   },
   "ru": {
     "brandTitle": "Карта Wheel of Heaven",
@@ -1305,19 +1277,12 @@
     ],
     "posterToggle": "Режим плаката",
     "graphToggle": "Режим графа содержимого",
-    "graphAria": "Интерактивный граф всех опубликованных страниц; линии — перекрёстные ссылки",
-    "graphLegend": "Легенда и фильтры",
-    "graphLoading": "Загрузка графа содержимого…",
-    "graphError": "Не удалось загрузить граф. Проверьте соединение и попробуйте снова.",
-    "graphRetry": "Повторить",
-    "graphClaimUnset": "Без классификации",
-    "graphDownload": "Скачать",
-    "graphAbout": "Об этом наборе данных",
-    "graphSkip": "Пропустить узлы графа",
-    "graphShown": "показано",
-    "graphHidden": "скрыто",
-    "graphLinks": "связей",
-    "graphBrandTitle": "Граф Wheel of Heaven"
+    "shelves": {
+      "library": "Библиотека",
+      "texts": "текстов",
+      "datasets": "Наборы данных",
+      "datasetsNote": "открытые данные, CC0"
+    }
   },
   "ja": {
     "brandTitle": "Wheel of Heaven マップ",
@@ -1569,19 +1534,12 @@
     ],
     "posterToggle": "ポスターモード",
     "graphToggle": "コンテンツグラフ表示",
-    "graphAria": "公開済み全ページのインタラクティブなグラフ。線は相互参照を表します",
-    "graphLegend": "凡例とフィルター",
-    "graphLoading": "コンテンツグラフを読み込み中…",
-    "graphError": "グラフを読み込めませんでした。接続を確認して再試行してください。",
-    "graphRetry": "再試行",
-    "graphClaimUnset": "未分類",
-    "graphDownload": "ダウンロード",
-    "graphAbout": "このデータセットについて",
-    "graphSkip": "グラフのノードをスキップ",
-    "graphShown": "表示",
-    "graphHidden": "非表示",
-    "graphLinks": "リンク",
-    "graphBrandTitle": "Wheel of Heaven グラフ"
+    "shelves": {
+      "library": "ライブラリ",
+      "texts": "テキスト",
+      "datasets": "データセット",
+      "datasetsNote": "オープンデータ・CC0"
+    }
   },
   "zh": {
     "brandTitle": "Wheel of Heaven 地图",
@@ -1833,19 +1791,12 @@
     ],
     "posterToggle": "海报模式",
     "graphToggle": "内容图谱视图",
-    "graphAria": "所有已发布页面的交互式图谱；连线表示交叉引用",
-    "graphLegend": "图例与筛选",
-    "graphLoading": "正在加载内容图谱…",
-    "graphError": "无法加载图谱。请检查网络连接后重试。",
-    "graphRetry": "重试",
-    "graphClaimUnset": "未分类",
-    "graphDownload": "下载",
-    "graphAbout": "关于此数据集",
-    "graphSkip": "跳过图谱节点",
-    "graphShown": "显示",
-    "graphHidden": "隐藏",
-    "graphLinks": "链接",
-    "graphBrandTitle": "Wheel of Heaven 图谱"
+    "shelves": {
+      "library": "文库",
+      "texts": "部文本",
+      "datasets": "数据集",
+      "datasetsNote": "开放数据，CC0"
+    }
   },
   "zh-Hant": {
     "brandTitle": "Wheel of Heaven 地圖",
@@ -2097,19 +2048,12 @@
     ],
     "posterToggle": "海報模式",
     "graphToggle": "內容圖譜檢視",
-    "graphAria": "所有已發佈頁面的互動式圖譜；連線表示交叉引用",
-    "graphLegend": "圖例與篩選",
-    "graphLoading": "正在載入內容圖譜…",
-    "graphError": "無法載入圖譜。請檢查網路連線後重試。",
-    "graphRetry": "重試",
-    "graphClaimUnset": "未分類",
-    "graphDownload": "下載",
-    "graphAbout": "關於此資料集",
-    "graphSkip": "跳過圖譜節點",
-    "graphShown": "顯示",
-    "graphHidden": "隱藏",
-    "graphLinks": "連結",
-    "graphBrandTitle": "Wheel of Heaven 圖譜"
+    "shelves": {
+      "library": "文庫",
+      "texts": "部文本",
+      "datasets": "資料集",
+      "datasetsNote": "開放資料，CC0"
+    }
   },
   "ko": {
     "brandTitle": "Wheel of Heaven 지도",
@@ -2361,19 +2305,12 @@
     ],
     "posterToggle": "포스터 모드",
     "graphToggle": "콘텐츠 그래프 보기",
-    "graphAria": "게시된 모든 페이지의 인터랙티브 그래프. 선은 상호 참조를 나타냅니다",
-    "graphLegend": "범례 및 필터",
-    "graphLoading": "콘텐츠 그래프 불러오는 중…",
-    "graphError": "그래프를 불러오지 못했습니다. 연결을 확인하고 다시 시도하세요.",
-    "graphRetry": "다시 시도",
-    "graphClaimUnset": "미분류",
-    "graphDownload": "다운로드",
-    "graphAbout": "이 데이터셋 정보",
-    "graphSkip": "그래프 노드 건너뛰기",
-    "graphShown": "표시됨",
-    "graphHidden": "숨겨짐",
-    "graphLinks": "링크",
-    "graphBrandTitle": "Wheel of Heaven 그래프"
+    "shelves": {
+      "library": "라이브러리",
+      "texts": "개 텍스트",
+      "datasets": "데이터셋",
+      "datasetsNote": "오픈 데이터, CC0"
+    }
   },
   "he": {
     "brandTitle": "מפת Wheel of Heaven",
@@ -2625,18 +2562,11 @@
     ],
     "posterToggle": "מצב כרזה",
     "graphToggle": "תצוגת גרף התוכן",
-    "graphAria": "גרף אינטראקטיבי של כל העמודים שפורסמו; הקווים הם הפניות צולבות",
-    "graphLegend": "מקרא ומסננים",
-    "graphLoading": "טוען את גרף התוכן…",
-    "graphError": "לא ניתן היה לטעון את הגרף. בדקו את החיבור ונסו שוב.",
-    "graphRetry": "ניסיון חוזר",
-    "graphClaimUnset": "ללא סיווג",
-    "graphDownload": "הורדה",
-    "graphAbout": "על מערך הנתונים הזה",
-    "graphSkip": "דילוג על צומתי הגרף",
-    "graphShown": "מוצג",
-    "graphHidden": "מוסתר",
-    "graphLinks": "קישורים",
-    "graphBrandTitle": "גרף Wheel of Heaven"
+    "shelves": {
+      "library": "הספרייה",
+      "texts": "טקסטים",
+      "datasets": "מאגרי נתונים",
+      "datasetsNote": "נתונים פתוחים, CC0"
+    }
   }
 }

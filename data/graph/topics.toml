@@ -1,0 +1,468 @@
+# The topic vocabulary of Wheel of Heaven — the backbone of the knowledge graph on /graph/.
+#
+# One entry per topic slug. scripts/build_graph.py reads this file, files every page
+# (wiki, articles, timeline, news, library, datasets) and every cited source under the
+# topics whose `match` terms it carries, and draws `broader` as topic-to-topic edges,
+# so the vocabulary is itself a graph, not a list.
+#
+#   name         how the topic is shown
+#   kind         theme      — an idea or motif that runs across traditions
+#                tradition  — a body of texts and the people who carry it
+#                figure     — a person or being the corpus keeps returning to
+#                method     — a way of reading: philology, comparison, data
+#                science    — a field of present-day science the corpus reads with
+#                future     — what the framework says comes next
+#   description  one sentence: what the topic gathers here
+#   broader      parent topics (edges on the graph)
+#   page         optional wiki slug that defines the topic; the node opens it
+#   match        lower-case phrases matched (whole words) against a page's title,
+#                alternative names, keywords, category, description and summary,
+#                and against a source's topic list
+#
+# Adding a topic: add the entry, then run `mise run graph`. The build prints topics that
+# match nothing and pages that match no topic, so gaps are visible.
+
+# ---- The framework -------------------------------------------------------------
+
+[elohim-hypothesis]
+name = "Elohim hypothesis"
+kind = "theme"
+description = "The working hypothesis at the centre of the corpus: the Elohim, an advanced human civilization, designed life on Earth and left a record in the religious texts."
+page = "elohim"
+match = ["elohim", "elohim hypothesis", "designers", "creators", "paleocontact", "ancient astronaut", "ancient astronauts", "ancient astronaut theory", "anunnaki", "celestials"]
+
+[creation]
+name = "Creation"
+kind = "theme"
+description = "The making of the world and of life, read as engineering in laboratories rather than as creation from nothing."
+broader = ["elohim-hypothesis"]
+page = "genesis"
+match = ["creation", "six days", "origin of life", "life synthesis", "first humans", "adamites", "laboratory", "laboratories"]
+
+[human-origins]
+name = "Human origins"
+kind = "theme"
+description = "Where humanity comes from: Adam and Eve, the Adamites, the Garden and the first human societies."
+broader = ["creation"]
+page = "adam-and-eve"
+match = ["adam", "eve", "adam and eve", "adamites", "adamite", "eden", "garden of eden", "first humans", "human origins", "made from the ground"]
+
+[divine-council]
+name = "Divine council"
+kind = "theme"
+description = "The assembly of the gods — the Council of the Eternals in the canon, the sons of God and the heavenly court across the ancient Near East."
+broader = ["elohim-hypothesis"]
+page = "council-of-eternals"
+match = ["divine council", "council of the eternals", "council of eternals", "sons of god", "heavenly court", "plurality of gods", "forty chairs", "assembly of the gods"]
+
+[rebellion]
+name = "The rebellion"
+kind = "theme"
+description = "The faction that broke ranks — the serpent, Lucifer and Satan, the opposition the canon describes inside the creators' own civilization."
+broader = ["divine-council"]
+page = "serpentine-rebellion"
+match = ["serpent", "serpentine rebellion", "lucifer", "satan", "devil", "fallen angels", "rebellion", "adversary", "tree of the knowledge"]
+
+[watchers-and-giants]
+name = "Watchers and giants"
+kind = "theme"
+description = "The Watchers who descended, the Nephilim born of them, and the giants of Genesis 6 and 1 Enoch."
+broader = ["divine-council"]
+page = "watchers"
+match = ["watchers", "nephilim", "giants", "sons of god", "book of enoch", "1 enoch", "grigori"]
+
+[theomachy]
+name = "War among the gods"
+kind = "theme"
+description = "Battles in heaven — Theomachy, the Elohimian war and the combat myths that remember a conflict among the creators."
+broader = ["divine-council"]
+page = "theomachy"
+match = ["theomachy", "war in heaven", "elohimian war", "space wars", "titanomachy", "gigantomachy", "combat myth"]
+
+[chaos-and-dragons]
+name = "Chaos and dragons"
+kind = "theme"
+description = "Leviathan, the tannin, Tiamat and the dragons of Genesis 1:21 — the chaos-monster and what the canon makes of it."
+broader = ["theomachy"]
+page = "chaoskampf"
+match = ["chaoskampf", "dragon", "dragons", "leviathan", "tannin", "tanninim", "tiamat", "sea monster", "dinosaurs", "jurassic"]
+
+[flood]
+name = "The Flood"
+kind = "theme"
+description = "The deluge as a deliberate reset, and the flood stories from Atrahasis and Gilgamesh to Genesis and beyond."
+broader = ["elohim-hypothesis"]
+page = "great-flood"
+match = ["flood", "great flood", "deluge", "noah", "noah's ark", "ark", "atrahasis", "utnapishtim", "ziusudra", "antediluvian", "cataclysm", "catastrophism", "younger dryas"]
+
+[babel]
+name = "Babel and the tongues"
+kind = "theme"
+description = "The tower, the scattering and the confusion of tongues, read as a measure the creators took."
+broader = ["elohim-hypothesis"]
+page = "tower-of-babel"
+match = ["babel", "tower of babel", "confusion of tongues", "nimrod"]
+
+[covenant-and-law]
+name = "Covenant and law"
+kind = "theme"
+description = "The covenants with Noah, Abraham and Moses, the Law at Sinai and the ark that carried it."
+broader = ["prophets-and-messengers"]
+page = "noahic-covenant"
+match = ["covenant", "noahic covenant", "ark of the covenant", "law", "sinai", "commandments", "torah", "exodus"]
+
+[prophets-and-messengers]
+name = "Prophets and messengers"
+kind = "theme"
+description = "The line of messengers the canon names — Moses, Elijah, Ezekiel, Jesus, Muhammad, the Buddha, Raël — sent one age at a time."
+broader = ["elohim-hypothesis"]
+page = "prophet"
+match = ["prophet", "prophets", "messenger", "messengers", "prophets and religions", "prophecy", "ambassadors"]
+
+[embassy-and-temple]
+name = "Embassy and temple"
+kind = "theme"
+description = "The meeting place: the tabernacle and the temples of old, and the embassy the canon asks humanity to build."
+broader = ["apocalypse-and-return"]
+page = "embassy"
+match = ["embassy", "third temple", "temple", "tabernacle", "new jerusalem", "petra", "qibla", "mosque", "sanctuary"]
+
+[apocalypse-and-return]
+name = "Apocalypse and return"
+kind = "theme"
+description = "The age of revelation: disclosure, the unveiling of the creators' work and the return the canon anticipates."
+broader = ["elohim-hypothesis"]
+page = "apocalypse"
+match = ["apocalypse", "age of apocalypse", "disclosure", "great return", "unveiling", "unsealed", "year one"]
+
+[immortality]
+name = "Immortality and resurrection"
+kind = "theme"
+description = "The Tree of Life, longevity, the Planet of the Eternals and resurrection by science."
+broader = ["elohim-hypothesis"]
+page = "tree-of-life"
+match = ["tree of life", "immortality", "eternal life", "resurrection", "longevity", "planet of the eternals", "cloning", "eternals"]
+
+[symbols]
+name = "Symbols and motifs"
+kind = "theme"
+description = "The signs that carry the framework — the Raëlian symbol of infinity, the star of David, the swastika, the menorah, the tree and the wheel."
+page = "sacred-geometry"
+match = ["symbol", "symbols", "symbolism", "motif", "motifs", "sacred geometry", "star of david", "swastika", "menorah", "infinity", "tauroctony", "mytheme", "mythemes"]
+
+[cosmic-cycles]
+name = "Cosmic cycles"
+kind = "theme"
+description = "The precession of the equinoxes, the Great Year and the twelve world ages through which the corpus tells its history."
+page = "precession"
+match = ["precession", "precession of the equinoxes", "great year", "great month", "world age", "world ages", "astrological ages", "zodiac", "mazzaroth", "age of aquarius", "age of pisces", "hamlet's mill", "samsara"]
+
+[infinity-and-cosmology]
+name = "Infinity and cosmology"
+kind = "theme"
+description = "An infinite universe in both directions, fractal cosmology and life without beginning or end."
+broader = ["cosmic-cycles"]
+page = "infinity"
+match = ["infinity", "infinite", "fractal cosmology", "cosmology", "cosmic evolution", "cosmic chain", "mass effect", "as above so below"]
+
+[plurality-of-worlds]
+name = "Plurality of worlds"
+kind = "theme"
+description = "Other inhabited planets: cosmic pluralism, the competition between civilizations and the Elohim's home world."
+broader = ["infinity-and-cosmology"]
+page = "cosmic-pluralism"
+match = ["cosmic pluralism", "plurality of worlds", "other worlds", "home planet", "elohim home planet", "cosmic competition", "drake equation", "exoplanet", "seti", "forerunners"]
+
+[contact-and-ufos]
+name = "Contact and UFOs"
+kind = "theme"
+description = "Close encounters in history and today, the UAP files and the institutions that study or conceal them."
+page = "ufology"
+match = ["ufo", "ufos", "ufology", "uap", "close encounter", "close encounters", "pursue", "military cover-up", "space force", "crop circles", "flying saucer", "sighting", "sightings"]
+
+[ancient-sites]
+name = "Ancient sites"
+kind = "theme"
+description = "Megaliths, pyramids and sacred landscapes — the built record of the ancient world and how the corpus reads it."
+page = "list-of-megalithic-sites"
+match = ["megalith", "megalithic", "megalithic sites", "pyramid", "pyramids", "sphinx", "great sphinx", "gobekli tepe", "göbekli tepe", "stonehenge", "ancient builders", "archaeoastronomy", "orion correlation", "lost civilization", "atlantis"]
+
+[sodom-and-destruction]
+name = "Destructions"
+kind = "theme"
+description = "Sodom and Gomorrah and the other annihilations the texts describe as fire from the sky."
+broader = ["apocalypse-and-return"]
+page = "sodom-and-gomorrah"
+match = ["sodom", "gomorrah", "sodom and gomorrah", "fire from heaven", "atomic war", "destruction"]
+
+[monotheism]
+name = "Monotheism and the gods"
+kind = "theme"
+description = "How plural creators became one God: monotheism, idolatry and the plural Elohim of the Hebrew Bible."
+broader = ["divine-council"]
+page = "monotheism"
+match = ["monotheism", "polytheism", "idolatry", "plurality of gods", "plural of majesty", "one god", "henotheism"]
+
+# ---- Traditions -----------------------------------------------------------------
+
+[raelism]
+name = "Raëlism"
+kind = "tradition"
+description = "The Raëlian canon from 1973 onward — the Messages and the movement that carries them, the corpus's interpretive centre."
+broader = ["elohim-hypothesis"]
+page = "raelism"
+match = ["raëlism", "raelism", "raëlian", "raelian", "claude vorilhon", "the book which tells the truth", "the true face of god", "intelligent design: message", "message from the designers", "raelian corpus", "raëlian corpus"]
+
+[hebrew-bible]
+name = "Hebrew Bible"
+kind = "tradition"
+description = "The Tanakh — Torah, Prophets and Writings — in Hebrew, Greek and the corpus's own translations."
+page = "hebrew-bible"
+match = ["hebrew bible", "tanakh", "old testament", "torah", "pentateuch", "masoretic", "septuagint", "ezekiel", "isaiah", "psalms", "deuteronomistic history", "documentary hypothesis"]
+
+[second-temple-judaism]
+name = "Second Temple Judaism"
+kind = "tradition"
+description = "Enoch, Jubilees, the Dead Sea Scrolls and the apocrypha written between the Bible's last books and the rabbis."
+broader = ["hebrew-bible"]
+page = "dead-sea-scrolls"
+match = ["second temple", "dead sea scrolls", "qumran", "apocrypha", "pseudepigrapha", "jubilees", "enoch", "book of enoch", "1 enoch"]
+
+[jewish-mysticism]
+name = "Jewish mysticism"
+kind = "tradition"
+description = "Kabbalah, the Hekhalot literature and the Shiur Qomah — the mystical reading of the divine form and the heavenly palaces."
+broader = ["hebrew-bible"]
+page = "kabbalah"
+match = ["kabbalah", "jewish mysticism", "hekhalot", "merkabah", "shiur qomah", "zohar", "sefer yetzirah"]
+
+[christianity]
+name = "Christianity"
+kind = "tradition"
+description = "The New Testament and the Christian tradition, read through the canon's account of Jesus as a messenger."
+page = "jesus"
+match = ["christianity", "christian texts", "early christianity", "christian tradition", "new testament", "jesus", "gospel", "gospels", "early christianity", "catholic church", "apostle"]
+
+[gnosticism-and-hermeticism]
+name = "Gnosticism and Hermeticism"
+kind = "tradition"
+description = "Gnostic scriptures, the Corpus Hermeticum and the Western esoteric line that runs through them."
+broader = ["christianity"]
+match = ["gnostic", "gnosticism", "nag hammadi", "hermeticism", "hermetic", "corpus hermeticum", "western esoteric", "esotericism", "esoteric", "manichaeism"]
+
+[islam]
+name = "Islam"
+kind = "tradition"
+description = "The Quran, the early Islamic period and the questions of the first qibla."
+page = "muhammad"
+match = ["islam", "islamic", "islamic texts", "islamic origins", "quran", "qur'an", "muhammad", "hanafiyya", "qibla", "mecca", "petra"]
+
+[mesopotamia]
+name = "Mesopotamia"
+kind = "tradition"
+description = "Sumer, Akkad and Babylon — the Anunnaki, Atrahasis, Gilgamesh, the Enuma Elish and the King List."
+page = "anunnaki"
+match = ["mesopotamia", "mesopotamian", "mesopotamian texts", "sumer", "sumerian", "akkadian", "babylon", "babylonian", "anunnaki", "atrahasis", "gilgamesh", "enuma elish", "eridu", "sumerian king list", "cuneiform", "sitchin"]
+
+[egypt]
+name = "Ancient Egypt"
+kind = "tradition"
+description = "Egyptian texts and monuments — the pyramids, the Sphinx, the Book of the Dead and the gods who came by boat."
+broader = ["ancient-sites"]
+page = "great-sphinx"
+match = ["egypt", "egyptian", "egyptian texts", "pharaoh", "akhenaten", "book of the dead", "papyrus of ani", "thutmose", "sphinx"]
+
+[greece]
+name = "Greek tradition"
+kind = "tradition"
+description = "Homer, Hesiod and the Greek myths of the gods, the giants and the wars in heaven."
+match = ["greek mythology", "greek myth", "ancient greece", "homer", "odyssey", "iliad", "hesiod", "theogony", "olympus", "titans", "helicon", "plato"]
+
+[levant-and-anatolia]
+name = "Levant and Anatolia"
+kind = "tradition"
+description = "Ugarit and Canaan, the Hittites and the Hurrians — the neighbours of Israel whose gods share its names."
+broader = ["divine-council"]
+match = ["ugarit", "ugaritic", "canaan", "canaanite", "levantine", "levantine texts", "baal", "hittite", "hurrian", "kumarbi", "anatolian", "phoenician", "nabataeans"]
+
+[india-and-persia]
+name = "India and Persia"
+kind = "tradition"
+description = "The Vedas and the Zoroastrian Avesta — the eastern scriptures of creation, cycles and cosmic war."
+match = ["vedic", "vedic texts", "veda", "vedas", "rig veda", "hindu", "hinduism", "sanskrit", "persian", "zoroaster", "zoroastrian", "zoroastrianism", "avesta", "buddha", "buddhism"]
+
+[new-religions]
+name = "New religious movements"
+kind = "tradition"
+description = "Latter-day Saints, Bahá'í, Caodaism, Oomoto and Tenrikyō — modern revelations the corpus reads beside its own."
+broader = ["prophets-and-messengers"]
+match = ["latter-day saint", "latter-day saints", "mormon", "mormonism", "book of mormon", "bahá'í", "bahai", "baha'i", "caodai", "caodaism", "caodaist", "oomoto", "tenrikyo", "tenrikyō", "new religious movements", "sikhism"]
+
+[folklore]
+name = "Myth and folklore"
+kind = "tradition"
+description = "Fairy tales, tale types and the world's mythologies, indexed motif by motif."
+page = "comparative-mythology"
+match = ["folklore", "fairy tale", "fairy tales", "tale type", "tale types", "aarne", "aarne-thompson-uther", "atu index", "grimm", "kinder- und hausmärchen", "mythology", "sampo", "kalevala"]
+
+[ancient-astronaut-literature]
+name = "Ancient-astronaut literature"
+kind = "tradition"
+description = "The modern writers who read ancient texts as contact reports — Sendy, von Däniken, Sitchin, Biglino, Wallis, Hancock."
+broader = ["elohim-hypothesis"]
+page = "ancient-astronaut-hypothesis"
+match = ["ancient astronaut hypothesis", "ancient astronaut theory", "ancient aliens", "jean sendy", "sendy", "erich von däniken", "von däniken", "daniken", "zecharia sitchin", "sitchin", "mauro biglino", "biglino", "paul wallis", "wallis", "graham hancock", "hancock", "john anthony west"]
+
+# ---- Figures ---------------------------------------------------------------------
+
+[yahweh]
+name = "Yahweh"
+kind = "figure"
+description = "The president of the Council of the Eternals in the canon, the God of Israel in the Hebrew Bible."
+broader = ["divine-council"]
+page = "yahweh"
+match = ["yahweh", "yhwh", "jehovah", "tetragrammaton", "lord of hosts"]
+
+[lucifer-and-satan]
+name = "Lucifer and Satan"
+kind = "figure"
+description = "Two different figures the tradition fused: the light-bringer who taught humanity and the adversary who opposed it."
+broader = ["rebellion"]
+page = "lucifer"
+match = ["lucifer", "satan", "devil", "adversary", "light-bringer", "light bringer"]
+
+[noah]
+name = "Noah"
+kind = "figure"
+description = "The survivor of the Flood and keeper of the ark — and his counterparts Utnapishtim, Ziusudra and Atrahasis."
+broader = ["flood"]
+page = "noah"
+match = ["noah", "noah's ark", "utnapishtim", "ziusudra", "deucalion"]
+
+[abraham-and-moses]
+name = "Abraham and Moses"
+kind = "figure"
+description = "The patriarch of the covenant and the lawgiver of the Exodus."
+broader = ["covenant-and-law"]
+page = "moses"
+match = ["abraham", "moses", "exodus", "religion of abraham", "patriarchs", "isaac", "jacob"]
+
+[enoch-and-elijah]
+name = "Enoch and Elijah"
+kind = "figure"
+description = "The two the Bible says were taken up alive — the scribe of the Watchers and the prophet of the fiery chariot."
+broader = ["prophets-and-messengers"]
+page = "elijah"
+match = ["enoch", "elijah", "ezekiel", "chariot", "taken up", "ascension"]
+
+[jesus]
+name = "Jesus"
+kind = "figure"
+description = "The messenger of the Age of Pisces in the canon, and the centre of the Christian tradition."
+broader = ["christianity", "prophets-and-messengers"]
+page = "jesus"
+match = ["jesus", "jesus christ", "christ", "messiah"]
+
+[rael]
+name = "Raël"
+kind = "figure"
+description = "Claude Vorilhon, the recipient of the 1973 Messages and the last of the prophets in the canon's line."
+broader = ["raelism", "prophets-and-messengers"]
+page = "rael"
+match = ["raël", "rael", "claude vorilhon", "vorilhon"]
+
+# ---- Methods ---------------------------------------------------------------------
+
+[philology]
+name = "Philology and translation"
+kind = "method"
+description = "Reading the texts in their own languages — Hebrew, Greek, Akkadian — and what translation hides or restores."
+page = "hebrew"
+match = ["philology", "etymology", "etymological readings", "dhorme", "masoretic text", "lexicon", "interlinear"]
+
+[comparative-method]
+name = "Comparative method"
+kind = "method"
+description = "Setting traditions side by side without flattening them — comparative mythology and comparative religion."
+page = "comparative-mythology"
+match = ["comparative", "comparative mythology", "comparative religion", "comparison", "parallels", "mythemes", "doubled signature", "convergence"]
+
+[hermeneutics]
+name = "Hermeneutics"
+kind = "method"
+description = "How the corpus reads: neo-euhemerism, the four levels, the Biglino method and Sendy's conditions of coherence."
+broader = ["comparative-method"]
+page = "neo-euhemerism"
+match = ["hermeneutics", "neo-euhemerism", "euhemerism", "four levels", "biglino method", "conditions of coherence", "exegetic readings"]
+
+[open-data]
+name = "Open data"
+kind = "method"
+description = "The corpus as data — CC0 datasets, indexes and graphs that let anyone check the work."
+page = "reference-corpus-of-the-raelian-canon"
+match = ["open data", "dataset", "datasets", "cc0", "cc0 download", "digital humanities", "concordance", "crosswalk", "catalogue", "reference corpus"]
+
+# ---- Science ---------------------------------------------------------------------
+
+[genetic-engineering]
+name = "Genetic engineering"
+kind = "science"
+description = "Synthetic biology, synthetic genomes and engineered life — present-day science catching up with the canon's account of creation."
+broader = ["creation"]
+page = "genetic-engineering"
+match = ["genetic engineering", "synthetic biology", "synthetic genomics", "synthetic cell", "dna", "genome", "genetics", "crispr", "life engineering", "macrobiology", "cloning"]
+
+[astrobiology]
+name = "Astrobiology"
+kind = "science"
+description = "Life beyond Earth: panspermia, the Drake equation and the search for other biospheres."
+broader = ["plurality-of-worlds"]
+page = "astrobiology"
+match = ["astrobiology", "exobiology", "panspermia", "drake equation", "origin of life", "extremophile", "biosignature"]
+
+[intelligent-design]
+name = "Intelligent design"
+kind = "science"
+description = "Design in nature — the canon's version, distinct from the creationist movement that borrowed the name."
+broader = ["creation"]
+page = "intelligent-design"
+match = ["intelligent design", "design argument", "signature", "designers", "stephen meyer", "irreducible complexity", "darwin", "evolution"]
+
+[earth-sciences]
+name = "Earth and its history"
+kind = "science"
+description = "Geology, paleontology and the deep history of the planet — Pangaea, the dinosaurs and the living Earth."
+page = "living-earth"
+match = ["geology", "paleontology", "pangaea", "dinosaurs", "birds", "fossil", "fossils", "living earth", "gaia", "terraforming", "planetary"]
+
+[astronomy]
+name = "Astronomy"
+kind = "science"
+description = "The sky the ancients watched — precession, constellations, the Sun, Venus and the archaeoastronomy of their monuments."
+broader = ["cosmic-cycles"]
+page = "archaeoastronomy"
+match = ["astronomy", "archaeoastronomy", "constellation", "constellations", "venus", "orion", "pleiades", "equinox", "solstice", "hipparchus"]
+
+[psychology-and-religion]
+name = "Mind and religion"
+kind = "science"
+description = "Jung's collective unconscious, religion as a human phenomenon and why myths recur."
+page = "carl-jung"
+match = ["jung", "carl jung", "collective unconscious", "psychology", "religious studies"]
+
+# ---- What comes next -------------------------------------------------------------
+
+[future-society]
+name = "Future society"
+kind = "future"
+description = "Geniocracy, humanitarianism and paradism — the society the canon proposes once science frees humanity from work."
+page = "geniocracy"
+match = ["geniocracy", "humanitarianism", "paradism", "cyberparadism", "new commandments", "futurism", "jubilee", "automation", "artificial intelligence"]
+
+[space-future]
+name = "Into space"
+kind = "future"
+description = "Humanity's own turn as creators: space travel, terraforming and seeding life on other worlds."
+broader = ["future-society", "plurality-of-worlds"]
+page = "terraforming"
+match = ["space travel", "terraforming", "pantropy", "starship", "space colonization", "colonisation", "colonization", "seeding life", "venus project"]

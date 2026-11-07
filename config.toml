@@ -86,6 +86,10 @@ language_name_hebrew = "עברית"
 # en, de, fr, es, ru, ja, zh, zh-Hant, ko, he
 
 [translations]
+navbarGraph = "Graph"
+navbarGraphDesc = "Every page, topic, claim and source, linked."
+snackbarView = "View"
+snackbarUndo = "Undo"
 tagline = "Twelve ages, one working hypothesis."
 elevatorPitch = "Wheel of Heaven is an open, multilingual reading of the ancient world's creation traditions — Raëlian, biblical, Mesopotamian, and others — through a single working hypothesis: that the beings called Elohim were a small advanced human civilization that came here, designed life on Earth, and left a record in the religious texts. The reading runs across twelve ages of the precessional cycle, from the project's beginning twenty-two thousand years ago to the present age of disclosure and into the long future the next Great Year is opening. The site is free, source-aware, and built so the work can be checked."
 footerWheelOfHeaven = "Wheel of Heaven"
@@ -752,6 +756,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.de.translations]
+navbarGraph = "Graph"
+navbarGraphDesc = "Jede Seite, jedes Thema, jede These und Quelle, verknüpft."
+snackbarView = "Anzeigen"
+snackbarUndo = "Rückgängig"
 tagline = "Zwölf Zeitalter, eine Arbeitshypothese."
 elevatorPitch = "Wheel of Heaven ist eine offene, mehrsprachige Lesart der Schöpfungsüberlieferungen der Antike — raëlianisch, biblisch, mesopotamisch und andere — durch eine einzige Arbeitshypothese: dass die als Elohim bezeichneten Wesen eine kleine, fortgeschrittene menschliche Zivilisation von anderswo waren, die hierher kam, das Leben auf der Erde gestaltete und einen Bericht in den religiösen Texten hinterließ. Die Lesart spannt sich über zwölf Zeitalter des Präzessionszyklus, vom Beginn des Projekts vor zweiundzwanzigtausend Jahren bis ins gegenwärtige Zeitalter der Offenbarung und in die lange Zukunft hinein, die das nächste Große Jahr eröffnet. Die Seite ist frei, quellenbewusst und so gebaut, dass die Arbeit überprüft werden kann."
 footerAbout = "Über uns"
@@ -1417,6 +1425,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.fr.translations]
+navbarGraph = "Graphe"
+navbarGraphDesc = "Chaque page, thème, thèse et source, reliés."
+snackbarView = "Voir"
+snackbarUndo = "Annuler"
 tagline = "Douze âges, une hypothèse de travail."
 elevatorPitch = "Wheel of Heaven est une lecture ouverte et multilingue des traditions de création du monde antique — raëliennes, bibliques, mésopotamiennes et autres — à travers une seule hypothèse de travail : que les êtres appelés Élohim étaient une petite civilisation humaine avancée venue d'ailleurs, qui est arrivée ici, a conçu la vie sur Terre et a laissé un récit dans les textes religieux. La lecture se déploie sur douze âges du cycle de la précession, depuis le début du projet il y a vingt-deux mille ans jusqu'à l'âge actuel de la révélation et dans le long avenir qu'ouvre la prochaine Grande Année. Le site est libre, attentif à ses sources, et conçu pour que le travail puisse être vérifié."
 footerAbout = "À propos"
@@ -2083,6 +2095,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.es.translations]
+navbarGraph = "Grafo"
+navbarGraphDesc = "Cada página, tema, tesis y fuente, enlazados."
+snackbarView = "Ver"
+snackbarUndo = "Deshacer"
 tagline = "Doce eras, una hipótesis de trabajo."
 elevatorPitch = "Wheel of Heaven es una lectura abierta y multilingüe de las tradiciones de creación del mundo antiguo — raelianas, bíblicas, mesopotámicas y otras — a través de una única hipótesis de trabajo: que los seres llamados Elohim eran una pequeña civilización humana avanzada de otro lugar, que vino aquí, diseñó la vida en la Tierra y dejó un registro en los textos religiosos. La lectura recorre doce eras del ciclo de la precesión, desde el comienzo del proyecto hace veintidós mil años hasta la era actual de la revelación y hacia el largo futuro que abre el próximo Gran Año. El sitio es libre, consciente de sus fuentes, y construido para que el trabajo pueda ser verificado."
 footerAbout = "Acerca de"
@@ -2748,6 +2764,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.ru.translations]
+navbarGraph = "Граф"
+navbarGraphDesc = "Все страницы, темы, тезисы и источники — в связях."
+snackbarView = "Открыть"
+snackbarUndo = "Отменить"
 tagline = "Двенадцать эпох, одна рабочая гипотеза."
 elevatorPitch = "Wheel of Heaven — это открытое многоязычное прочтение преданий о сотворении мира древних культур — раэлианских, библейских, месопотамских и других — через единственную рабочую гипотезу: что существа, называемые Элохим, были небольшой развитой человеческой цивилизацией извне, которая прибыла сюда, спроектировала жизнь на Земле и оставила запись в религиозных текстах. Прочтение охватывает двенадцать эпох прецессионного цикла — от начала проекта двадцать две тысячи лет назад до нынешней эпохи раскрытия и далее в долгое будущее, которое открывает следующий Великий год. Сайт свободный, опирающийся на источники, и построен так, чтобы работу можно было проверить."
 footerAbout = "О проекте"
@@ -3414,6 +3434,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.ja.translations]
+navbarGraph = "グラフ"
+navbarGraphDesc = "すべてのページ・トピック・主張・典拠をつないだ図。"
+snackbarView = "表示"
+snackbarUndo = "元に戻す"
 tagline = "十二の時代、ひとつの作業仮説。"
 elevatorPitch = "Wheel of Heaven は、古代世界の創造伝承——ラエル派、聖書、メソポタミア、その他——を、ただひとつの作業仮説を通して読む、開かれた多言語の読解です。すなわち、エロヒムと呼ばれる存在は、よそから来た小さな先進的な人間の文明であり、ここに到来し、地球上の生命を設計し、宗教的諸文献にその記録を残した、という仮説です。この読解は歳差周期の十二の時代にわたって広がります。二万二千年前のプロジェクトの始まりから、現在の開示の時代を経て、次の大いなる年が開く長い未来へと続きます。本サイトはオープンで、典拠を明示し、作業を検証できるよう構築されています。"
 footerAbout = "紹介"
@@ -4079,6 +4103,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.zh.translations]
+navbarGraph = "图谱"
+navbarGraphDesc = "所有页面、主题、论断与来源的关联图。"
+snackbarView = "查看"
+snackbarUndo = "撤销"
 tagline = "十二个时代，一个工作假设。"
 elevatorPitch = "Wheel of Heaven 是一份开放、多语言的古代创世传统阅读——雷利安派、圣经、美索不达米亚等等——通过一个单一的工作假设：被称为 Elohim 的存在是一支来自他处的小型先进人类文明，他们来到这里，设计了地球上的生命，并在宗教文本中留下了记录。该阅读跨越岁差周期的十二个时代，从两万两千年前项目的开端，到当下的揭示时代，再到下一个大年所开启的漫长未来。本网站开源、注重出处，并以便于复核的方式构建。"
 footerAbout = "关于"
@@ -4745,6 +4773,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.zh-Hant.translations]
+navbarGraph = "圖譜"
+navbarGraphDesc = "所有頁面、主題、論斷與來源的關聯圖。"
+snackbarView = "查看"
+snackbarUndo = "復原"
 tagline = "十二個時代，一個工作假設。"
 elevatorPitch = "Wheel of Heaven 是一份開放、多語言的古代創世傳統閱讀——雷利安派、聖經、美索不達米亞等等——透過一個單一的工作假設：被稱為 Elohim 的存在是一支來自他處的小型先進人類文明，他們來到這裡，設計了地球上的生命，並在宗教文獻中留下了記錄。這份閱讀跨越歲差週期的十二個時代，從兩萬兩千年前計畫的開端，到當前的揭示時代，再到下一個大年所開啟的漫長未來。本網站開源、重視出處，並以便於複核的方式構建。"
 footerAbout = "關於"
@@ -5389,6 +5421,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.ko.translations]
+navbarGraph = "그래프"
+navbarGraphDesc = "모든 페이지·주제·주장·출처를 잇는 지도."
+snackbarView = "보기"
+snackbarUndo = "실행 취소"
 tagline = "열두 시대, 하나의 작업 가설."
 elevatorPitch = "Wheel of Heaven은 고대 세계의 창조 전승 — 라엘리안, 성경, 메소포타미아, 그 외 — 을 하나의 작업 가설을 통해 읽어내는 열린 다국어 읽기입니다. 그 가설이란, 엘로힘이라 불리는 존재가 다른 곳에서 온 작은 선진 인류 문명이었으며, 그들이 이곳에 와서 지구상의 생명을 설계하고 종교 문헌에 그 기록을 남겼다는 것입니다. 이 읽기는 세차 주기의 열두 시대에 걸쳐 펼쳐집니다. 이만 이천 년 전 프로젝트의 시작에서, 현재의 드러남의 시대를 지나, 다음 대년(大年)이 여는 긴 미래까지 이어집니다. 이 사이트는 오픈소스이며 출처에 충실하고, 작업이 검증될 수 있도록 만들어졌습니다."
 footerAbout = "소개"
@@ -6031,6 +6067,10 @@ generate_feeds = true
 build_search_index = false
 
 [languages.he.translations]
+navbarGraph = "גרף"
+navbarGraphDesc = "כל דף, נושא, טענה ומקור — מקושרים."
+snackbarView = "הצג"
+snackbarUndo = "ביטול"
 tagline = "שנים-עשר עידנים, השערת עבודה אחת."
 elevatorPitch = "גלגל השמיים הוא קריאה פתוחה ורב‑לשונית של מסורות הבריאה של העולם העתיק — הראליאנית, המקראית, המסופוטמית ואחרות — דרך השערת עבודה אחת: שהיצורים הנקראים אלוהים היו ציוויליזציה אנושית מתקדמת וקטנה ממקום אחר, שהגיעה לכאן, עיצבה את החיים על פני כדור הארץ והותירה אחריה תיעוד בכתבי הקודש. הקריאה משתרעת על פני שנים‑עשר עידנים של מחזור הנקיפה, מראשית הפרויקט לפני עשרים ושניים אלף שנה ועד עידן ההתגלות הנוכחי, ואל תוך העתיד הארוך שהשנה הגדולה הבאה פותחת. האתר חופשי, מודע למקורותיו ובנוי כך שהעבודה ניתנת לבדיקה."
 footerAbout = "אודות"

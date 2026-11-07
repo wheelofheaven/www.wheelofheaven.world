@@ -217,52 +217,8 @@
         });
     }
 
-    const graphBtn = document.getElementById("map-graph-toggle");
-    const graphContainer = document.getElementById("map-graph");
-    if (graphBtn && graphContainer) {
-        const GRAPH_KEY = "mapGraphMode";
-        graphBtn.hidden = false;
-
-        function setGraphMode(on) {
-            root.classList.toggle("is-graph", on);
-            graphContainer.hidden = !on;
-            graphBtn.setAttribute("aria-pressed", on ? "true" : "false");
-            try {
-                localStorage.setItem(GRAPH_KEY, on ? "1" : "0");
-            } catch (e) {
-                /* storage unavailable */
-            }
-            try {
-                const url = new URL(window.location.href);
-                if (on) url.searchParams.set("view", "graph");
-                else url.searchParams.delete("view");
-                history.replaceState(null, "", url);
-            } catch (e) {
-                /* URL API unavailable */
-            }
-            root.dispatchEvent(new CustomEvent("map:modechange", { detail: { graph: on } }));
-            scheduleStageCenter();
-        }
-
-        let savedGraph = false;
-        try {
-            savedGraph = localStorage.getItem(GRAPH_KEY) === "1";
-        } catch (e) {
-            /* storage unavailable */
-        }
-        try {
-            const view = new URLSearchParams(window.location.search).get("view");
-            if (view === "graph") savedGraph = true;
-            else if (view) savedGraph = false;
-        } catch (e) {
-            /* URL API unavailable */
-        }
-        if (savedGraph) setGraphMode(true);
-
-        graphBtn.addEventListener("click", () => {
-            setGraphMode(!root.classList.contains("is-graph"));
-        });
-    }
+    // (The in-map graph mode moved to its own page, /graph/; map.html
+    // redirects old ?view=graph links there.)
 
     // --- drag-to-pan (story map) ---------------------------------------
     // Grab the background and drag to move the map, mirroring the graph

@@ -1,0 +1,122 @@
+# How to read /graph/: the kinds of node and the relations between them.
+# Rendered as the key under the graph (templates/graph.html); the colour of each
+# kind is the --kg-<key> token in themes/bifrost/sass/pages/_graph.scss.
+
+[[kinds]]
+key = "topic"
+name = "Topics"
+desc = "A theme, tradition, figure, method or field that runs across the corpus — the hubs. Ringed."
+
+[[kinds]]
+key = "wiki"
+name = "Encyclopedia"
+desc = "An encyclopedia entry: a term, a figure, a place or a concept."
+
+[[kinds]]
+key = "article"
+name = "Articles"
+desc = "A long-form Explainer built around one idea."
+
+[[kinds]]
+key = "timeline"
+name = "Timeline"
+desc = "One of the twelve precessional ages, or the chronology around them."
+
+[[kinds]]
+key = "book"
+name = "Library"
+desc = "A source text in the library, original or in the corpus's own translation."
+
+[[kinds]]
+key = "news"
+name = "Newsroom"
+desc = "A dispatch: a current event read through the canon."
+
+[[kinds]]
+key = "dataset"
+name = "Datasets"
+desc = "An open CC0 dataset distilled from the corpus."
+
+[[kinds]]
+key = "claim"
+name = "Core claims"
+desc = "A durable claim record in the research core, ringed by its public label."
+
+[[kinds]]
+key = "source"
+name = "Sources"
+desc = "A book, paper or film a page cites. The small dots."
+
+[[relations]]
+name = "is about"
+shape = "page → topic"
+desc = "A page is filed under the topics its title, names, keywords and summary carry."
+
+[[relations]]
+name = "broader"
+shape = "topic → topic"
+desc = "A topic sits under a broader one; the vocabulary is a graph, not a list."
+
+[[relations]]
+name = "defines"
+shape = "entry → topic"
+desc = "The encyclopedia entry that defines a topic."
+
+[[relations]]
+name = "links to"
+shape = "page → page"
+desc = "The text of one page links to another."
+
+[[relations]]
+name = "see also"
+shape = "page → page"
+desc = "An editor's pointer at the foot of a page."
+
+[[relations]]
+name = "cites"
+shape = "page → source"
+desc = "A page cites a source in its references."
+
+[[relations]]
+name = "binds"
+shape = "page → claim"
+desc = "A page is bound to the core claim records it rests on."
+
+[[relations]]
+name = "depends on"
+shape = "claim → claim"
+desc = "A claim record builds on another."
+
+[[relations]]
+name = "quotes"
+shape = "book → book"
+desc = "A book of the Raëlian canon quotes a scripture book."
+
+[[relations]]
+name = "precedes"
+shape = "age → age"
+desc = "The order of the precessional ages."
+
+[[topic_kinds]]
+key = "theme"
+name = "Themes"
+
+[[topic_kinds]]
+key = "tradition"
+name = "Traditions"
+
+[[topic_kinds]]
+key = "figure"
+name = "Figures"
+
+[[topic_kinds]]
+key = "method"
+name = "Methods"
+
+[[topic_kinds]]
+key = "science"
+name = "Sciences"
+
+[[topic_kinds]]
+key = "future"
+name = "What comes next"

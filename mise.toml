@@ -39,9 +39,13 @@ run = "python3 -m scripts.broadcast"
 description = "Dry-run the social broadcaster (no API calls, no state writes)"
 run = "python3 -m scripts.broadcast --dry-run"
 
+[tasks.graph]
+description = "Rebuild static/graph/graph.json (the /graph/ knowledge graph) from content, topics, sources and ../core"
+run = "python3 scripts/build_graph.py"
+
 [tasks.build]
 description = "Compile site statically with Zola"
-depends = ["bundle", "sources", "translations", "relatedness", "related"]
+depends = ["bundle", "sources", "translations", "relatedness", "related", "graph"]
 run = "zola build"
 
 [tasks.purgecss]
