@@ -6,80 +6,158 @@
   "pages": {
     "de/articles/monotheism-is-the-wrong-question": [
       {
-        "path": "/de/articles/the-signature-and-the-designers/",
-        "title": "Die Signatur und die Designer",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körpe"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-rain-over-helicon/",
-        "title": "Der Regen über dem Helikon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West verfolgte den griechischen Mythos nach Osten. Eine strenge Prüfung von Hesiod, Homer, Gilgamesch, Götterkampf, Dichtkunst und den Grenzen der Entlehn"
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-east-face-of-homer/",
-        "title": "Die Ostseite Homers",
-        "category": "Comparative Mythology",
-        "description": "Homers Anleihen bei Babylon sind belegte Wissenschaft. Was die Entlehnung beweist, was nicht — und wie der Kanon Griechenland in der elohimischen Sphäre liest."
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-world-behind-the-odyssey/",
-        "title": "Die Welt hinter der Odyssee",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan hat Odysseus auf die Leinwand zurückgebracht. Hinter Homers Epos liegt eine ältere Welt aus Göttern, Ungeheuern und Erinnerung — dieser Explai"
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
+      }
+    ],
+    "de/articles/sendy-and-the-raelian-messages": [
+      {
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
+      },
+      {
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
+      },
+      {
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
+      },
+      {
+        "path": "/de/articles/the-mill-that-grinds-the-ages/",
+        "title": "Die Mühle, die die Zeitalter mahlt",
+        "category": "Comparative",
+        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlet's Mill, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+      }
+    ],
+    "de/articles/six-mornings-six-years": [
+      {
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
+      },
+      {
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
+      },
+      {
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
+      },
+      {
+        "path": "/de/articles/the-mill-that-grinds-the-ages/",
+        "title": "Die Mühle, die die Zeitalter mahlt",
+        "category": "Comparative",
+        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlet's Mill, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
       }
     ],
     "de/articles/the-archdeacon-and-the-dragon": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-book-closest-to-the-truth": [
       {
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
+      },
+      {
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
+      },
+      {
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
+      },
+      {
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
+      }
+    ],
+    "de/articles/the-dragon-curve": [
+      {
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
+      },
+      {
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
+      },
+      {
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
+      },
+      {
         "path": "/de/articles/the-mill-that-grinds-the-ages/",
         "title": "Die Mühle, die die Zeitalter mahlt",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
-      },
-      {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
-        "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
-      },
-      {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
-        "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
-      },
-      {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
-        "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlet's Mill, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
       }
     ],
     "de/articles/the-east-face-of-homer": [
@@ -96,146 +174,172 @@
         "description": "Christopher Nolan hat Odysseus auf die Leinwand zurückgebracht. Hinter Homers Epos liegt eine ältere Welt aus Göttern, Ungeheuern und Erinnerung — dieser Explai"
       },
       {
-        "path": "/de/articles/the-signature-and-the-designers/",
-        "title": "Die Signatur und die Designer",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körpe"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-shape-of-humanity/",
-        "title": "Die Gestalt der Menschheit",
-        "category": "Macro-History",
-        "description": "Der Kanon nennt die Menschheit einen einzigen Organismus im Werden, jeden Menschen eine Zelle. Dieser Explainer schlägt die Disziplin vor, die ihn untersucht: d"
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       }
     ],
     "de/articles/the-first-mosques-faced-petra-not-mecca": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-flood-was-a-reset-not-a-punishment": [
       {
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
+      },
+      {
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
+      },
+      {
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
+      },
+      {
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
+      }
+    ],
+    "de/articles/the-forty-chairs": [
+      {
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
+      },
+      {
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
+      },
+      {
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
+      },
+      {
         "path": "/de/articles/the-mill-that-grinds-the-ages/",
         "title": "Die Mühle, die die Zeitalter mahlt",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
-      },
-      {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
-        "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
-      },
-      {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
-        "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
-      },
-      {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
-        "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlet's Mill, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
       }
     ],
     "de/articles/the-infinite-in-both-directions": [
       {
-        "path": "/de/articles/the-signature-and-the-designers/",
-        "title": "Die Signatur und die Designer",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körpe"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-rain-over-helicon/",
-        "title": "Der Regen über dem Helikon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West verfolgte den griechischen Mythos nach Osten. Eine strenge Prüfung von Hesiod, Homer, Gilgamesch, Götterkampf, Dichtkunst und den Grenzen der Entlehn"
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-east-face-of-homer/",
-        "title": "Die Ostseite Homers",
-        "category": "Comparative Mythology",
-        "description": "Homers Anleihen bei Babylon sind belegte Wissenschaft. Was die Entlehnung beweist, was nicht — und wie der Kanon Griechenland in der elohimischen Sphäre liest."
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-world-behind-the-odyssey/",
-        "title": "Die Welt hinter der Odyssee",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan hat Odysseus auf die Leinwand zurückgebracht. Hinter Homers Epos liegt eine ältere Welt aus Göttern, Ungeheuern und Erinnerung — dieser Explai"
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-man-who-bet-the-bible-on-the-moon": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Die Schriftrollen, die im Jahr eins erwachten",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders, der von Hiroshima an zählt. Was die Rollen enthüllten — und warum die"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-mill-that-grinds-the-ages": [
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Die Schriftrollen, die im Jahr eins erwachten",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders, der von Hiroshima an zählt. Was die Rollen enthüllten — und warum die"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-rain-over-helicon": [
@@ -252,146 +356,146 @@
         "description": "Christopher Nolan hat Odysseus auf die Leinwand zurückgebracht. Hinter Homers Epos liegt eine ältere Welt aus Göttern, Ungeheuern und Erinnerung — dieser Explai"
       },
       {
-        "path": "/de/articles/the-signature-and-the-designers/",
-        "title": "Die Signatur und die Designer",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körpe"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-shape-of-humanity/",
-        "title": "Die Gestalt der Menschheit",
-        "category": "Macro-History",
-        "description": "Der Kanon nennt die Menschheit einen einzigen Organismus im Werden, jeden Menschen eine Zelle. Dieser Explainer schlägt die Disziplin vor, die ihn untersucht: d"
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       }
     ],
     "de/articles/the-religion-of-religions": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Die Schriftrollen, die im Jahr eins erwachten",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders, der von Hiroshima an zählt. Was die Rollen enthüllten — und warum die"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-scrolls-that-woke-in-year-one": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-shape-of-humanity": [
       {
-        "path": "/de/articles/the-signature-and-the-designers/",
-        "title": "Die Signatur und die Designer",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körpe"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-rain-over-helicon/",
-        "title": "Der Regen über dem Helikon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West verfolgte den griechischen Mythos nach Osten. Eine strenge Prüfung von Hesiod, Homer, Gilgamesch, Götterkampf, Dichtkunst und den Grenzen der Entlehn"
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-east-face-of-homer/",
-        "title": "Die Ostseite Homers",
-        "category": "Comparative Mythology",
-        "description": "Homers Anleihen bei Babylon sind belegte Wissenschaft. Was die Entlehnung beweist, was nicht — und wie der Kanon Griechenland in der elohimischen Sphäre liest."
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-world-behind-the-odyssey/",
-        "title": "Die Welt hinter der Odyssee",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan hat Odysseus auf die Leinwand zurückgebracht. Hinter Homers Epos liegt eine ältere Welt aus Göttern, Ungeheuern und Erinnerung — dieser Explai"
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-signature-and-the-designers": [
       {
-        "path": "/de/articles/the-rain-over-helicon/",
-        "title": "Der Regen über dem Helikon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West verfolgte den griechischen Mythos nach Osten. Eine strenge Prüfung von Hesiod, Homer, Gilgamesch, Götterkampf, Dichtkunst und den Grenzen der Entlehn"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-east-face-of-homer/",
-        "title": "Die Ostseite Homers",
-        "category": "Comparative Mythology",
-        "description": "Homers Anleihen bei Babylon sind belegte Wissenschaft. Was die Entlehnung beweist, was nicht — und wie der Kanon Griechenland in der elohimischen Sphäre liest."
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-world-behind-the-odyssey/",
-        "title": "Die Welt hinter der Odyssee",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan hat Odysseus auf die Leinwand zurückgebracht. Hinter Homers Epos liegt eine ältere Welt aus Göttern, Ungeheuern und Erinnerung — dieser Explai"
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
+        "category": "Comparative",
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-shape-of-humanity/",
-        "title": "Die Gestalt der Menschheit",
-        "category": "Macro-History",
-        "description": "Der Kanon nennt die Menschheit einen einzigen Organismus im Werden, jeden Menschen eine Zelle. Dieser Explainer schlägt die Disziplin vor, die ihn untersucht: d"
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
+        "category": "Comparative",
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-translators-wager": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/unsealed-in-year-one/",
-        "title": "Entsiegelt im Jahr eins",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Im Jahr eins der neuen Ära brach ein beduinischer Hirte in einer Höhle am Toten Meer einen Krug auf. Die Bücher darin hatten neunzehn Jahrhunderte auf die Endze"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/articles/the-world-behind-the-odyssey": [
@@ -408,46 +512,56 @@
         "description": "Homers Anleihen bei Babylon sind belegte Wissenschaft. Was die Entlehnung beweist, was nicht — und wie der Kanon Griechenland in der elohimischen Sphäre liest."
       },
       {
-        "path": "/de/articles/the-signature-and-the-designers/",
-        "title": "Die Signatur und die Designer",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körpe"
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
+        "category": "Comparative",
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-shape-of-humanity/",
-        "title": "Die Gestalt der Menschheit",
-        "category": "Macro-History",
-        "description": "Der Kanon nennt die Menschheit einen einzigen Organismus im Werden, jeden Menschen eine Zelle. Dieser Explainer schlägt die Disziplin vor, die ihn untersucht: d"
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
+        "category": "Comparative",
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       }
     ],
     "de/articles/unsealed-in-year-one": [
       {
-        "path": "/de/articles/the-mill-that-grinds-the-ages/",
-        "title": "Die Mühle, die die Zeitalter mahlt",
+        "path": "/de/articles/the-forty-chairs/",
+        "title": "Die vierzig Stühle",
         "category": "Comparative",
-        "description": "Wie das Kreisen der Weltzeitalter in den Mythos geschrieben wurde — Hamlets Mühle, die zwölf Stunden des Tierkreises, die hebräische Mazzaroth und das älteste G"
+        "description": "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei"
       },
       {
-        "path": "/de/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "Der Mann, der die Bibel auf den Mond verwettete",
+        "path": "/de/articles/the-dragon-curve/",
+        "title": "Die Drachenkurve",
         "category": "Comparative",
-        "description": "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzeh"
+        "description": "Die erste raëlianische Botschaft stellt die Dinosaurier neben die Vögel und zitiert nie Genesis 1,21 – den Vers in Raëls Bibel, der die großen Drachen nennt."
       },
       {
-        "path": "/de/articles/the-religion-of-religions/",
-        "title": "Die Religion der Religionen",
+        "path": "/de/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy und die raëlianischen Botschaften",
         "category": "Comparative",
-        "description": "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe"
+        "description": "Jean Sendys Bücher und die erste raëlianische Botschaft im Passagenvergleich: gemeinsame Genesis-Lesarten, der Kommentar darüber hinaus und die Frage der Entleh"
       },
       {
-        "path": "/de/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Die Schriftrollen, die im Jahr eins erwachten",
+        "path": "/de/articles/six-mornings-six-years/",
+        "title": "Sechs Morgen, sechs Jahre",
         "category": "Comparative",
-        "description": "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders, der von Hiroshima an zählt. Was die Rollen enthüllten — und warum die"
+        "description": "Die drei Quellbücher gelesen als ein einziges gestaffeltes Diktat: die Geographie der Offenbarung, die Mechanik der zurückgehaltenen Enthüllung und die Prüfung,"
       }
     ],
     "de/news/library-hebrew-bible-nine-languages": [
       {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
         "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
         "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
@@ -456,20 +570,20 @@
         "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
         "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
-      },
-      {
-        "path": "/de/news/synthetic-cell-eats-and-divides/",
-        "title": "Eine synthetische Zelle, die frisst und sich teilt",
-        "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
-      },
-      {
-        "path": "/de/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Veröffentlichung 03: Multi-Behörden-Akten, das Cheyenne-Objekt und der erste internationale Fall",
-        "description": "Am 12. Juni 2026 veröffentlichte das Department of War die dritte PURSUE-Tranche – 53 Dokumente, 10 Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI,"
       }
     ],
     "de/news/pursue-release-01-uap-files": [
       {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
         "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
         "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
@@ -478,20 +592,20 @@
         "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
         "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
-      },
-      {
-        "path": "/de/news/synthetic-cell-eats-and-divides/",
-        "title": "Eine synthetische Zelle, die frisst und sich teilt",
-        "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
-      },
-      {
-        "path": "/de/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Veröffentlichung 03: Multi-Behörden-Akten, das Cheyenne-Objekt und der erste internationale Fall",
-        "description": "Am 12. Juni 2026 veröffentlichte das Department of War die dritte PURSUE-Tranche – 53 Dokumente, 10 Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI,"
       }
     ],
     "de/news/pursue-release-02-spheres-and-transmedium": [
       {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
         "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
         "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
@@ -500,20 +614,20 @@
         "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
         "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
-      },
-      {
-        "path": "/de/news/synthetic-cell-eats-and-divides/",
-        "title": "Eine synthetische Zelle, die frisst und sich teilt",
-        "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
-      },
-      {
-        "path": "/de/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Veröffentlichung 03: Multi-Behörden-Akten, das Cheyenne-Objekt und der erste internationale Fall",
-        "description": "Am 12. Juni 2026 veröffentlichte das Department of War die dritte PURSUE-Tranche – 53 Dokumente, 10 Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI,"
       }
     ],
     "de/news/pursue-release-03-multi-agency-and-international": [
       {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
         "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
         "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
@@ -522,20 +636,20 @@
         "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
         "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
-      },
-      {
-        "path": "/de/news/synthetic-cell-eats-and-divides/",
-        "title": "Eine synthetische Zelle, die frisst und sich teilt",
-        "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
-      },
-      {
-        "path": "/de/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothek: Hebräische Bibel jetzt in neun Sprachen lesbar",
-        "description": "Seit dem 7. Juni 2026 enthält jedes Buch der Hebräischen Bibel in der Wheel-of-Heaven-Bibliothek Text in neun Sprachen — englische ASV plus acht importierte gem"
       }
     ],
     "de/news/pursue-release-04-the-nuclear-nexus": [
       {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
         "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
         "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
@@ -544,20 +658,20 @@
         "path": "/de/news/synthetic-cell-eats-and-divides/",
         "title": "Eine synthetische Zelle, die frisst und sich teilt",
         "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
-      },
-      {
-        "path": "/de/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Veröffentlichung 03: Multi-Behörden-Akten, das Cheyenne-Objekt und der erste internationale Fall",
-        "description": "Am 12. Juni 2026 veröffentlichte das Department of War die dritte PURSUE-Tranche – 53 Dokumente, 10 Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI,"
-      },
-      {
-        "path": "/de/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothek: Hebräische Bibel jetzt in neun Sprachen lesbar",
-        "description": "Seit dem 7. Juni 2026 enthält jedes Buch der Hebräischen Bibel in der Wheel-of-Heaven-Bibliothek Text in neun Sprachen — englische ASV plus acht importierte gem"
       }
     ],
     "de/news/pursue-release-05-triangles-and-the-white-house-file": [
       {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
         "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
         "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
@@ -566,19 +680,14 @@
         "path": "/de/news/synthetic-cell-eats-and-divides/",
         "title": "Eine synthetische Zelle, die frisst und sich teilt",
         "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
-      },
-      {
-        "path": "/de/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Veröffentlichung 03: Multi-Behörden-Akten, das Cheyenne-Objekt und der erste internationale Fall",
-        "description": "Am 12. Juni 2026 veröffentlichte das Department of War die dritte PURSUE-Tranche – 53 Dokumente, 10 Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI,"
-      },
-      {
-        "path": "/de/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothek: Hebräische Bibel jetzt in neun Sprachen lesbar",
-        "description": "Seit dem 7. Juni 2026 enthält jedes Buch der Hebräischen Bibel in der Wheel-of-Heaven-Bibliothek Text in neun Sprachen — englische ASV plus acht importierte gem"
       }
     ],
-    "de/news/synthetic-cell-eats-and-divides": [
+    "de/news/pursue-release-06-warp-drives-and-the-tremonton-film": [
+      {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
       {
         "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
@@ -590,14 +699,53 @@
         "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
       },
       {
-        "path": "/de/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Veröffentlichung 03: Multi-Behörden-Akten, das Cheyenne-Objekt und der erste internationale Fall",
-        "description": "Am 12. Juni 2026 veröffentlichte das Department of War die dritte PURSUE-Tranche – 53 Dokumente, 10 Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI,"
+        "path": "/de/news/synthetic-cell-eats-and-divides/",
+        "title": "Eine synthetische Zelle, die frisst und sich teilt",
+        "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
+      }
+    ],
+    "de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch": [
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
       },
       {
-        "path": "/de/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothek: Hebräische Bibel jetzt in neun Sprachen lesbar",
-        "description": "Seit dem 7. Juni 2026 enthält jedes Buch der Hebräischen Bibel in der Wheel-of-Heaven-Bibliothek Text in neun Sprachen — englische ASV plus acht importierte gem"
+        "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
+        "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
+      },
+      {
+        "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
+        "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
+      },
+      {
+        "path": "/de/news/synthetic-cell-eats-and-divides/",
+        "title": "Eine synthetische Zelle, die frisst und sich teilt",
+        "description": "Forschende der University of Minnesota bauten SpudCell, die erste von Grund auf synthetische Zelle, die einen vollständigen Lebenszyklus durchläuft — die Schwel"
+      }
+    ],
+    "de/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/de/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Veröffentlichung 07: Ein schwarzes Dreieck und die Ranch in Utah",
+        "description": "Am 23. Oktober 2026 brachte die siebte PURSUE-Tranche 28 Dokumente: ein Dreiecks-Debriefing von 2026, die Akte der Utah-Ranch und eine Weltraumtrümmer-Regelung "
+      },
+      {
+        "path": "/de/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Veröffentlichung 06: Warp-Antriebe und der Tremonton-Film",
+        "description": "Am 18. September 2026 brachte die sechste PURSUE-Tranche 71 Akten: das Warp-Antriebsregal der DIA, den Tremonton-Film (1952) und eine erste Lokalpolizei-Quelle."
+      },
+      {
+        "path": "/de/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE Veröffentlichung 05: Dreiecke und die Akte des Weißen Hauses",
+        "description": "Am 7. August 2026 brachte die fünfte PURSUE-Tranche 41 Akten – und zwei erstmalige Beitragende: das State Department und das Executive Office of the President."
+      },
+      {
+        "path": "/de/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE Veröffentlichung 04: Der nukleare Nexus, grüne Feuerbälle und die Akten des Energieministeriums",
+        "description": "Am 10. Juli 2026 veröffentlichte das Department of War die vierte PURSUE-Tranche – 40 Akten, darunter ein Los-Alamos-Protokoll über grüne Feuerbälle von 1949 un"
       }
     ],
     "de/timeline/age-of-aquarius": [
@@ -903,7 +1051,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/elijah/",
@@ -970,10 +1118,10 @@
         "description": "Babel (hebräisch <span class=\"hebrew\">בָּבֶל</span> *Bavel*, akkadisch *Bāb-ilī*, \"Tor des Gottes\") bezeichnet in der Genesis-11-Erzählung die nach der Sintflut"
       },
       {
-        "path": "/de/wiki/great-return/",
-        "title": "Große Rückkehr",
+        "path": "/de/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "Die Große Rückkehr ist im Wheel of Heaven-Rahmen die zentrale eschatologische Erwartung des Wassermann-Zeitalters — die offene, formell anerkannte Rückkehr der "
+        "description": "Chaoskampf — der Fachbegriff für den altorientalischen Kampfmythos, in dem ein Wettergott ein Meeresungeheuer besiegt. Das Korpus liest diese Mythen unter Theom"
       }
     ],
     "de/wiki/adamites": [
@@ -981,7 +1129,7 @@
         "path": "/de/wiki/ancient-builders/",
         "title": "Antike Baumeister",
         "category": "Peoples & Groups",
-        "description": "Antike Baumeister bezeichnet im populären und alternativ-archäologischen Sprachgebrauch die These, eine oder mehrere verlorene oder unbekannte Zivilisationen se"
+        "description": "Antike Baumeister bezeichnet im populären und alternativ-archäologischen Sprachgebrauch die These, eine verlorene oder unbekannte Zivilisation habe viele der gr"
       },
       {
         "path": "/de/wiki/nabataeans/",
@@ -999,7 +1147,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       }
     ],
     "de/wiki/ancient-astronaut-hypothesis": [
@@ -1051,7 +1199,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       }
     ],
     "de/wiki/antediluvian": [
@@ -1077,7 +1225,7 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       }
     ],
     "de/wiki/apocalypse": [
@@ -1085,7 +1233,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/noahs-ark/",
@@ -1100,19 +1248,13 @@
         "description": "Babel (hebräisch <span class=\"hebrew\">בָּבֶל</span> *Bavel*, akkadisch *Bāb-ilī*, \"Tor des Gottes\") bezeichnet in der Genesis-11-Erzählung die nach der Sintflut"
       },
       {
-        "path": "/de/wiki/great-return/",
-        "title": "Große Rückkehr",
+        "path": "/de/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "Die Große Rückkehr ist im Wheel of Heaven-Rahmen die zentrale eschatologische Erwartung des Wassermann-Zeitalters — die offene, formell anerkannte Rückkehr der "
+        "description": "Chaoskampf — der Fachbegriff für den altorientalischen Kampfmythos, in dem ein Wettergott ein Meeresungeheuer besiegt. Das Korpus liest diese Mythen unter Theom"
       }
     ],
     "de/wiki/archaeoastronomy": [
-      {
-        "path": "/de/wiki/ancient-astronaut-hypothesis/",
-        "title": "Antike Astronauten-Hypothese",
-        "category": "Methodology",
-        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
-      },
       {
         "path": "/de/wiki/biglino-method/",
         "title": "Biglino-Methode",
@@ -1130,6 +1272,12 @@
         "title": "Neo-Euhemerismus",
         "category": "Methodology",
         "description": "Neo-Euhemerismus ist die zeitgenössisch reformulierte Variante der antiken Euhemeros-These (4./3. Jh. v. u. Z.), nach der die mythologischen Götterfiguren histo"
+      },
+      {
+        "path": "/de/wiki/ancient-astronaut-hypothesis/",
+        "title": "Prä-Astronautik-Hypothese",
+        "category": "Methodology",
+        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
       }
     ],
     "de/wiki/astrobiology": [
@@ -1163,7 +1311,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -1178,10 +1326,10 @@
         "description": "Die Arche Noah (hebräisch <span class=\"hebrew\">תֵּבַת נֹחַ</span> *Tevat Noaḥ*) ist das nach der biblischen Erzählung (Genesis 6:14–16) von Noah auf göttlichen "
       },
       {
-        "path": "/de/wiki/great-return/",
-        "title": "Große Rückkehr",
+        "path": "/de/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "Die Große Rückkehr ist im Wheel of Heaven-Rahmen die zentrale eschatologische Erwartung des Wassermann-Zeitalters — die offene, formell anerkannte Rückkehr der "
+        "description": "Chaoskampf — der Fachbegriff für den altorientalischen Kampfmythos, in dem ein Wettergott ein Meeresungeheuer besiegt. Das Korpus liest diese Mythen unter Theom"
       }
     ],
     "de/wiki/bible": [
@@ -1212,12 +1360,6 @@
     ],
     "de/wiki/biglino-method": [
       {
-        "path": "/de/wiki/ancient-astronaut-hypothesis/",
-        "title": "Antike Astronauten-Hypothese",
-        "category": "Methodology",
-        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
-      },
-      {
         "path": "/de/wiki/archaeoastronomy/",
         "title": "Archäoastronomie",
         "category": "Methodology",
@@ -1234,6 +1376,38 @@
         "title": "Neo-Euhemerismus",
         "category": "Methodology",
         "description": "Neo-Euhemerismus ist die zeitgenössisch reformulierte Variante der antiken Euhemeros-These (4./3. Jh. v. u. Z.), nach der die mythologischen Götterfiguren histo"
+      },
+      {
+        "path": "/de/wiki/ancient-astronaut-hypothesis/",
+        "title": "Prä-Astronautik-Hypothese",
+        "category": "Methodology",
+        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
+      }
+    ],
+    "de/wiki/chaoskampf": [
+      {
+        "path": "/de/wiki/adamite-struggle/",
+        "title": "Adamitischer Kampf",
+        "category": "Events & Narratives",
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
+      },
+      {
+        "path": "/de/wiki/apocalypse/",
+        "title": "Apokalypse",
+        "category": "Events & Narratives",
+        "description": "Apokalypse (griechisch <span class=\"greek\">ἀποκάλυψις</span> *apokalypsis*, \"Enthüllung\", \"Aufdeckung\") bezeichnet in der biblischen und außerbiblischen Apokaly"
+      },
+      {
+        "path": "/de/wiki/noahs-ark/",
+        "title": "Arche Noah",
+        "category": "Events & Narratives",
+        "description": "Die Arche Noah (hebräisch <span class=\"hebrew\">תֵּבַת נֹחַ</span> *Tevat Noaḥ*) ist das nach der biblischen Erzählung (Genesis 6:14–16) von Noah auf göttlichen "
+      },
+      {
+        "path": "/de/wiki/babel/",
+        "title": "Babel",
+        "category": "Events & Narratives",
+        "description": "Babel (hebräisch <span class=\"hebrew\">בָּבֶל</span> *Bavel*, akkadisch *Bāb-ilī*, \"Tor des Gottes\") bezeichnet in der Genesis-11-Erzählung die nach der Sintflut"
       }
     ],
     "de/wiki/chronology": [
@@ -1253,22 +1427,16 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       },
       {
         "path": "/de/wiki/precession/",
         "title": "Präzession",
         "category": "Cosmic Chronology",
-        "description": "Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, die sich als langsame Kreisbewegung der Himmelspole vor dem Hintergrund "
+        "description": "Die Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, sichtbar als langsame Kreisbewegung der Himmelspole vor dem Hintergr"
       }
     ],
     "de/wiki/comparative-mythology": [
-      {
-        "path": "/de/wiki/ancient-astronaut-hypothesis/",
-        "title": "Antike Astronauten-Hypothese",
-        "category": "Methodology",
-        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
-      },
       {
         "path": "/de/wiki/archaeoastronomy/",
         "title": "Archäoastronomie",
@@ -1286,6 +1454,12 @@
         "title": "Dhorme-Bibelübersetzung",
         "category": "Methodology",
         "description": "Die Dhorme-Bibelübersetzung (französisch *La Bible de la Pléiade*, 1956 für das Alte Testament; 1971 für das Neue Testament in dem von Jean Grosjean herausgegeb"
+      },
+      {
+        "path": "/de/wiki/neo-euhemerism/",
+        "title": "Neo-Euhemerismus",
+        "category": "Methodology",
+        "description": "Neo-Euhemerismus ist die zeitgenössisch reformulierte Variante der antiken Euhemeros-These (4./3. Jh. v. u. Z.), nach der die mythologischen Götterfiguren histo"
       }
     ],
     "de/wiki/confusion-of-tongues": [
@@ -1293,7 +1467,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -1481,7 +1655,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/adamites/",
@@ -1493,16 +1667,10 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       }
     ],
     "de/wiki/dhorme-bible-translation": [
-      {
-        "path": "/de/wiki/ancient-astronaut-hypothesis/",
-        "title": "Antike Astronauten-Hypothese",
-        "category": "Methodology",
-        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
-      },
       {
         "path": "/de/wiki/archaeoastronomy/",
         "title": "Archäoastronomie",
@@ -1520,6 +1688,12 @@
         "title": "Neo-Euhemerismus",
         "category": "Methodology",
         "description": "Neo-Euhemerismus ist die zeitgenössisch reformulierte Variante der antiken Euhemeros-These (4./3. Jh. v. u. Z.), nach der die mythologischen Götterfiguren histo"
+      },
+      {
+        "path": "/de/wiki/ancient-astronaut-hypothesis/",
+        "title": "Prä-Astronautik-Hypothese",
+        "category": "Methodology",
+        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
       }
     ],
     "de/wiki/doubled-signature": [
@@ -1637,7 +1811,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/jesus/",
@@ -1683,7 +1857,7 @@
         "path": "/de/wiki/elohim/",
         "title": "Elohim",
         "category": "Elohim",
-        "description": "Elohim (hebräisch: אֱלֹהִים) ist die plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell als Gott über"
+        "description": "Elohim (hebräisch: אֱלֹהִים) ist die der Form nach plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell"
       },
       {
         "path": "/de/wiki/elohimian-space-wars/",
@@ -1709,7 +1883,7 @@
         "path": "/de/wiki/elohim/",
         "title": "Elohim",
         "category": "Elohim",
-        "description": "Elohim (hebräisch: אֱלֹהִים) ist die plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell als Gott über"
+        "description": "Elohim (hebräisch: אֱלֹהִים) ist die der Form nach plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell"
       },
       {
         "path": "/de/wiki/elohim-home-planet/",
@@ -1929,13 +2103,13 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       },
       {
         "path": "/de/wiki/precession/",
         "title": "Präzession",
         "category": "Cosmic Chronology",
-        "description": "Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, die sich als langsame Kreisbewegung der Himmelspole vor dem Hintergrund "
+        "description": "Die Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, sichtbar als langsame Kreisbewegung der Himmelspole vor dem Hintergr"
       }
     ],
     "de/wiki/great-flood": [
@@ -1943,7 +2117,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -1981,13 +2155,13 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       },
       {
         "path": "/de/wiki/precession/",
         "title": "Präzession",
         "category": "Cosmic Chronology",
-        "description": "Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, die sich als langsame Kreisbewegung der Himmelspole vor dem Hintergrund "
+        "description": "Die Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, sichtbar als langsame Kreisbewegung der Himmelspole vor dem Hintergr"
       }
     ],
     "de/wiki/great-return": [
@@ -1995,7 +2169,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -2039,7 +2213,7 @@
         "path": "/de/wiki/precession/",
         "title": "Präzession",
         "category": "Cosmic Chronology",
-        "description": "Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, die sich als langsame Kreisbewegung der Himmelspole vor dem Hintergrund "
+        "description": "Die Präzession ist die stetige zyklische Veränderung der Ausrichtung der Erdrotationsachse, sichtbar als langsame Kreisbewegung der Himmelspole vor dem Hintergr"
       }
     ],
     "de/wiki/hanafiyya": [
@@ -2235,7 +2409,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/elijah/",
@@ -2521,7 +2695,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/elijah/",
@@ -2625,7 +2799,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/elijah/",
@@ -2651,7 +2825,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/elijah/",
@@ -2703,7 +2877,7 @@
         "path": "/de/wiki/ancient-builders/",
         "title": "Antike Baumeister",
         "category": "Peoples & Groups",
-        "description": "Antike Baumeister bezeichnet im populären und alternativ-archäologischen Sprachgebrauch die These, eine oder mehrere verlorene oder unbekannte Zivilisationen se"
+        "description": "Antike Baumeister bezeichnet im populären und alternativ-archäologischen Sprachgebrauch die These, eine verlorene oder unbekannte Zivilisation habe viele der gr"
       },
       {
         "path": "/de/wiki/abraham/",
@@ -2715,16 +2889,10 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       }
     ],
     "de/wiki/neo-euhemerism": [
-      {
-        "path": "/de/wiki/ancient-astronaut-hypothesis/",
-        "title": "Antike Astronauten-Hypothese",
-        "category": "Methodology",
-        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
-      },
       {
         "path": "/de/wiki/archaeoastronomy/",
         "title": "Archäoastronomie",
@@ -2742,6 +2910,12 @@
         "title": "Dhorme-Bibelübersetzung",
         "category": "Methodology",
         "description": "Die Dhorme-Bibelübersetzung (französisch *La Bible de la Pléiade*, 1956 für das Alte Testament; 1971 für das Neue Testament in dem von Jean Grosjean herausgegeb"
+      },
+      {
+        "path": "/de/wiki/ancient-astronaut-hypothesis/",
+        "title": "Prä-Astronautik-Hypothese",
+        "category": "Methodology",
+        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
       }
     ],
     "de/wiki/new-commandments": [
@@ -2807,7 +2981,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/elijah/",
@@ -2827,7 +3001,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -2853,7 +3027,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -2868,10 +3042,10 @@
         "description": "Babel (hebräisch <span class=\"hebrew\">בָּבֶל</span> *Bavel*, akkadisch *Bāb-ilī*, \"Tor des Gottes\") bezeichnet in der Genesis-11-Erzählung die nach der Sintflut"
       },
       {
-        "path": "/de/wiki/great-return/",
-        "title": "Große Rückkehr",
+        "path": "/de/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "Die Große Rückkehr ist im Wheel of Heaven-Rahmen die zentrale eschatologische Erwartung des Wassermann-Zeitalters — die offene, formell anerkannte Rückkehr der "
+        "description": "Chaoskampf — der Fachbegriff für den altorientalischen Kampfmythos, in dem ein Wettergott ein Meeresungeheuer besiegt. Das Korpus liest diese Mythen unter Theom"
       }
     ],
     "de/wiki/number-of-man": [
@@ -3053,7 +3227,7 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       }
     ],
     "de/wiki/prophet": [
@@ -3067,7 +3241,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/adamites/",
@@ -3079,7 +3253,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       }
     ],
     "de/wiki/pursue": [
@@ -3287,7 +3461,7 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       }
     ],
     "de/wiki/satan": [
@@ -3295,7 +3469,7 @@
         "path": "/de/wiki/elohim/",
         "title": "Elohim",
         "category": "Elohim",
-        "description": "Elohim (hebräisch: אֱלֹהִים) ist die plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell als Gott über"
+        "description": "Elohim (hebräisch: אֱלֹהִים) ist die der Form nach plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell"
       },
       {
         "path": "/de/wiki/elohim-home-planet/",
@@ -3318,12 +3492,6 @@
     ],
     "de/wiki/sendys-conditions-of-coherence": [
       {
-        "path": "/de/wiki/ancient-astronaut-hypothesis/",
-        "title": "Antike Astronauten-Hypothese",
-        "category": "Methodology",
-        "description": "Die antike Astronauten-Hypothese (auch \"Paläo-SETI-Hypothese\" in einigen akademischen Kontexten, im Volksmund \"ancient aliens\") ist die interpretative These, da"
-      },
-      {
         "path": "/de/wiki/archaeoastronomy/",
         "title": "Archäoastronomie",
         "category": "Methodology",
@@ -3340,6 +3508,12 @@
         "title": "Dhorme-Bibelübersetzung",
         "category": "Methodology",
         "description": "Die Dhorme-Bibelübersetzung (französisch *La Bible de la Pléiade*, 1956 für das Alte Testament; 1971 für das Neue Testament in dem von Jean Grosjean herausgegeb"
+      },
+      {
+        "path": "/de/wiki/neo-euhemerism/",
+        "title": "Neo-Euhemerismus",
+        "category": "Methodology",
+        "description": "Neo-Euhemerismus ist die zeitgenössisch reformulierte Variante der antiken Euhemeros-These (4./3. Jh. v. u. Z.), nach der die mythologischen Götterfiguren histo"
       }
     ],
     "de/wiki/serpent": [
@@ -3373,7 +3547,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -3425,7 +3599,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -3550,6 +3724,32 @@
         "description": "Intelligentes Design (englisch *Intelligent Design*, ID) ist im weiten Sinn die interpretative These, dass biologische und kosmologische Strukturen Hinweise auf"
       }
     ],
+    "de/wiki/tannin": [
+      {
+        "path": "/de/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "Baum der Erkenntnis von Gut und Böse",
+        "category": "Symbolism & Motifs",
+        "description": "Der Baum der Erkenntnis von Gut und Böse (hebräisch <span class=\"hebrew\">עֵץ הַדַּעַת טוֹב וָרָע</span> *ʿEṣ haDdaʿat Ṭōv waRaʿ*) ist nach der biblischen Erzähl"
+      },
+      {
+        "path": "/de/wiki/star-of-david/",
+        "title": "Davidstern",
+        "category": "Symbolism & Motifs",
+        "description": "Der Davidstern (hebräisch <span class=\"hebrew\">מָגֵן דָּוִד</span> *Magen Dawid*, \"Schild Davids\") ist das prinzipielle visuelle Emblem der jüdischen religiös-k"
+      },
+      {
+        "path": "/de/wiki/dragons/",
+        "title": "Drachen",
+        "category": "Symbolism & Motifs",
+        "description": "Drachen sind die in den mythologischen Traditionen praktisch aller eurasiatischen, afrikanischen und mesoamerikanischen Kulturen vorkommenden serpentinen-zoomor"
+      },
+      {
+        "path": "/de/wiki/swastika/",
+        "title": "Hakenkreuz",
+        "category": "Symbolism & Motifs",
+        "description": "Das Hakenkreuz (Sanskrit <span class=\"sanskrit\">स्वस्तिक</span> *svastika*, \"glückbringend\") ist das prinzipielle pan-kulturelle antike Symbol der hindu-buddhis"
+      }
+    ],
     "de/wiki/terraforming": [
       {
         "path": "/de/wiki/astrobiology/",
@@ -3659,7 +3859,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -3711,7 +3911,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       },
       {
         "path": "/de/wiki/apocalypse/",
@@ -3847,7 +4047,7 @@
         "path": "/de/wiki/adam-and-eve/",
         "title": "Adam und Eva",
         "category": "Biblical Figures",
-        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel, von den Elohim im Garte"
+        "description": "Adam (hebräisch: אָדָם, ʾāḏām) und Eva (hebräisch: חַוָּה, ḥawwāh) sind die ersten Menschen der Genesis-Erzählung der Hebräischen Bibel — von den Elohim im Gart"
       },
       {
         "path": "/de/wiki/adamites/",
@@ -3859,7 +4059,7 @@
         "path": "/de/wiki/adamite-struggle/",
         "title": "Adamitischer Kampf",
         "category": "Events & Narratives",
-        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Ser"
+        "description": "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Vor"
       }
     ],
     "de/wiki/world-age": [
@@ -3885,7 +4085,7 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       }
     ],
     "de/wiki/yahweh": [
@@ -3893,7 +4093,7 @@
         "path": "/de/wiki/elohim/",
         "title": "Elohim",
         "category": "Elohim",
-        "description": "Elohim (hebräisch: אֱלֹהִים) ist die plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell als Gott über"
+        "description": "Elohim (hebräisch: אֱלֹהִים) ist die der Form nach plurale hebräische Bezeichnung, die in der Tora durchgängig für die Figuren verwendet wird, die konventionell"
       },
       {
         "path": "/de/wiki/elohim-home-planet/",
@@ -3937,7 +4137,7 @@
         "path": "/de/wiki/great-year/",
         "title": "Großes Jahr",
         "category": "Cosmic Chronology",
-        "description": "Das Große Jahr ist die Periode eines vollständigen Zyklus der Achspräzession — die Dauer, die die Rotationsachse der Erde benötigt, um einen vollen Kegel vor de"
+        "description": "Das Große Jahr ist die Dauer eines vollständigen Zyklus der Achspräzession — die Zeit, die die Rotationsachse der Erde braucht, um vor den Fixsternen einen voll"
       }
     ]
   }

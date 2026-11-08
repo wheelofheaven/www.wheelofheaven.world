@@ -6,80 +6,158 @@
   "pages": {
     "ko/articles/monotheism-is-the-wrong-question": [
       {
-        "path": "/ko/articles/the-signature-and-the-designers/",
-        "title": "서명과 설계자들",
-        "category": "Science & Technology",
-        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-rain-over-helicon/",
-        "title": "헬리콘에 내린 비",
-        "category": "Comparative Mythology",
-        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-east-face-of-homer/",
-        "title": "호메로스의 동쪽 면",
-        "category": "Comparative Mythology",
-        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-world-behind-the-odyssey/",
-        "title": "오디세이아 뒤의 세계",
-        "category": "Comparative Mythology",
-        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
+      }
+    ],
+    "ko/articles/sendy-and-the-raelian-messages": [
+      {
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
+      },
+      {
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
+      },
+      {
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
+      },
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+      }
+    ],
+    "ko/articles/six-mornings-six-years": [
+      {
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
+      },
+      {
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
+      },
+      {
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
+      },
+      {
+        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
+        "title": "시대를 갈아내는 맷돌",
+        "category": "Comparative",
+        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
       }
     ],
     "ko/articles/the-archdeacon-and-the-dragon": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-book-closest-to-the-truth": [
       {
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
+      },
+      {
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
+      },
+      {
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
+      },
+      {
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
+      }
+    ],
+    "ko/articles/the-dragon-curve": [
+      {
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
+      },
+      {
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
+      },
+      {
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
+      },
+      {
         "path": "/ko/articles/the-mill-that-grinds-the-ages/",
         "title": "시대를 갈아내는 맷돌",
         "category": "Comparative",
         "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
-      },
-      {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
-        "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
-      },
-      {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
-        "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
-      },
-      {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
-        "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
       }
     ],
     "ko/articles/the-east-face-of-homer": [
@@ -96,146 +174,172 @@
         "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
       },
       {
-        "path": "/ko/articles/the-signature-and-the-designers/",
-        "title": "서명과 설계자들",
-        "category": "Science & Technology",
-        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-shape-of-humanity/",
-        "title": "인류의 형상",
-        "category": "Macro-History",
-        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       }
     ],
     "ko/articles/the-first-mosques-faced-petra-not-mecca": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-flood-was-a-reset-not-a-punishment": [
       {
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
+      },
+      {
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
+      },
+      {
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
+      },
+      {
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
+      }
+    ],
+    "ko/articles/the-forty-chairs": [
+      {
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
+      },
+      {
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
+      },
+      {
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
+      },
+      {
         "path": "/ko/articles/the-mill-that-grinds-the-ages/",
         "title": "시대를 갈아내는 맷돌",
         "category": "Comparative",
         "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
-      },
-      {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
-        "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
-      },
-      {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
-        "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
-      },
-      {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
-        "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
       }
     ],
     "ko/articles/the-infinite-in-both-directions": [
       {
-        "path": "/ko/articles/the-signature-and-the-designers/",
-        "title": "서명과 설계자들",
-        "category": "Science & Technology",
-        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-rain-over-helicon/",
-        "title": "헬리콘에 내린 비",
-        "category": "Comparative Mythology",
-        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-east-face-of-homer/",
-        "title": "호메로스의 동쪽 면",
-        "category": "Comparative Mythology",
-        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-world-behind-the-odyssey/",
-        "title": "오디세이아 뒤의 세계",
-        "category": "Comparative Mythology",
-        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-man-who-bet-the-bible-on-the-moon": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "원년에 깨어난 두루마리들",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-mill-that-grinds-the-ages": [
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "원년에 깨어난 두루마리들",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-rain-over-helicon": [
@@ -252,146 +356,146 @@
         "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
       },
       {
-        "path": "/ko/articles/the-signature-and-the-designers/",
-        "title": "서명과 설계자들",
-        "category": "Science & Technology",
-        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-shape-of-humanity/",
-        "title": "인류의 형상",
-        "category": "Macro-History",
-        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       }
     ],
     "ko/articles/the-religion-of-religions": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "원년에 깨어난 두루마리들",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-scrolls-that-woke-in-year-one": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-shape-of-humanity": [
       {
-        "path": "/ko/articles/the-signature-and-the-designers/",
-        "title": "서명과 설계자들",
-        "category": "Science & Technology",
-        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-rain-over-helicon/",
-        "title": "헬리콘에 내린 비",
-        "category": "Comparative Mythology",
-        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-east-face-of-homer/",
-        "title": "호메로스의 동쪽 면",
-        "category": "Comparative Mythology",
-        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-world-behind-the-odyssey/",
-        "title": "오디세이아 뒤의 세계",
-        "category": "Comparative Mythology",
-        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-signature-and-the-designers": [
       {
-        "path": "/ko/articles/the-rain-over-helicon/",
-        "title": "헬리콘에 내린 비",
-        "category": "Comparative Mythology",
-        "description": "M. L. 웨스트는 그리스 신화를 동쪽으로 추적했다. 헤시오도스와 호메로스와 길가메시, 신들의 전투, 시작(詩作)의 기예, 그리고 에게해에서 차용이 지니는 한계에 대한 엄정한 감사(監査)."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-east-face-of-homer/",
-        "title": "호메로스의 동쪽 면",
-        "category": "Comparative Mythology",
-        "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-world-behind-the-odyssey/",
-        "title": "오디세이아 뒤의 세계",
-        "category": "Comparative Mythology",
-        "description": "크리스토퍼 놀런이 오디세우스를 스크린으로 되불러 왔다. 호메로스의 서사시 뒤에는 신들과 괴물들과 기억으로 이루어진 더 오래된 세계가 놓여 있으며, 이 해설은 그 세계를 발굴한다."
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
+        "category": "Comparative",
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-shape-of-humanity/",
-        "title": "인류의 형상",
-        "category": "Macro-History",
-        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
+        "category": "Comparative",
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-translators-wager": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/unsealed-in-year-one/",
-        "title": "원년에 봉인이 풀리다",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "새 시대의 원년에, 한 베두인 목자가 사해의 어느 동굴에서 항아리 하나를 깨뜨렸다. 그 안의 책들은 종말의 때를 열아홉 세기 동안 기다려 왔다."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/articles/the-world-behind-the-odyssey": [
@@ -408,46 +512,56 @@
         "description": "바빌론에 대한 호메로스의 빚은 문서로 입증된 학문이다. 그 차용이 증명하는 것과 증명할 수 없는 것, 그리고 정경이 엘로힘의 영역 안에서 그리스를 읽는 방식."
       },
       {
-        "path": "/ko/articles/the-signature-and-the-designers/",
-        "title": "서명과 설계자들",
-        "category": "Science & Technology",
-        "description": "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
+        "category": "Comparative",
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-shape-of-humanity/",
-        "title": "인류의 형상",
-        "category": "Macro-History",
-        "description": "정경은 인류를 잉태 중인 하나의 유기체라, 사람 저마다를 하나의 세포라 부른다. 이 해설은 그것을 연구할 분과를 제안한다: 문명 형태학이다."
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
+        "category": "Comparative",
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       }
     ],
     "ko/articles/unsealed-in-year-one": [
       {
-        "path": "/ko/articles/the-mill-that-grinds-the-ages/",
-        "title": "시대를 갈아내는 맷돌",
+        "path": "/ko/articles/the-forty-chairs/",
+        "title": "마흔 개의 의자",
         "category": "Comparative",
-        "description": "세계의 시대들이 도는 일이 어떻게 신화 속에 기록되었는가 — 햄릿의 맷돌, 황도대의 열두 시각, 히브리어 마자로트, 그리고 가장 오래된 행운의 표징."
+        "description": "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
       },
       {
-        "path": "/ko/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "성경을 달에 건 남자",
+        "path": "/ko/articles/the-dragon-curve/",
+        "title": "드래곤 곡선",
         "category": "Comparative",
-        "description": "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
+        "description": "첫 번째 라엘리안 메시지는 공룡을 새 곁에 놓으면서도 창세기 1:21을 결코 인용하지 않는다. 라엘 자신의 성경에서 거대한 용들을 명시하는 바로 그 구절이다."
       },
       {
-        "path": "/ko/articles/the-religion-of-religions/",
-        "title": "종교들의 종교",
+        "path": "/ko/articles/sendy-and-the-raelian-messages/",
+        "title": "상디와 라엘리안 메시지",
         "category": "Comparative",
-        "description": "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
+        "description": "장 상디의 책들과 첫 번째 라엘리안 메시지를 구절 단위로 비교한다. 창세기에 대한 공통된 독해, 창세기 너머의 주석, 그리고 차용 가설을 검토한다."
       },
       {
-        "path": "/ko/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "원년에 깨어난 두루마리들",
+        "path": "/ko/articles/six-mornings-six-years/",
+        "title": "여섯 아침, 여섯 해",
         "category": "Comparative",
-        "description": "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
+        "description": "세 창설 서적을 하나의 연출된 받아쓰기로 읽는다. 계시의 지리(地理), 유보된 공개의 역학, 그리고 위조자라면 통과하지 못할 감사(監査)."
       }
     ],
     "ko/news/library-hebrew-bible-nine-languages": [
       {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
         "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
         "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
@@ -456,20 +570,20 @@
         "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
         "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
-      },
-      {
-        "path": "/ko/news/synthetic-cell-eats-and-divides/",
-        "title": "먹고 분열하는 합성 세포",
-        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
-      },
-      {
-        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
-        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
       }
     ],
     "ko/news/pursue-release-01-uap-files": [
       {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
         "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
         "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
@@ -478,20 +592,20 @@
         "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
         "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
-      },
-      {
-        "path": "/ko/news/synthetic-cell-eats-and-divides/",
-        "title": "먹고 분열하는 합성 세포",
-        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
-      },
-      {
-        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
-        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
       }
     ],
     "ko/news/pursue-release-02-spheres-and-transmedium": [
       {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
         "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
         "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
@@ -500,20 +614,20 @@
         "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
         "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
-      },
-      {
-        "path": "/ko/news/synthetic-cell-eats-and-divides/",
-        "title": "먹고 분열하는 합성 세포",
-        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
-      },
-      {
-        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
-        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
       }
     ],
     "ko/news/pursue-release-03-multi-agency-and-international": [
       {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
         "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
         "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
@@ -522,20 +636,20 @@
         "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
         "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
-      },
-      {
-        "path": "/ko/news/synthetic-cell-eats-and-divides/",
-        "title": "먹고 분열하는 합성 세포",
-        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
-      },
-      {
-        "path": "/ko/news/library-hebrew-bible-nine-languages/",
-        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
-        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
       }
     ],
     "ko/news/pursue-release-04-the-nuclear-nexus": [
       {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
         "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
         "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
@@ -544,20 +658,20 @@
         "path": "/ko/news/synthetic-cell-eats-and-divides/",
         "title": "먹고 분열하는 합성 세포",
         "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
-      },
-      {
-        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
-        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
-      },
-      {
-        "path": "/ko/news/library-hebrew-bible-nine-languages/",
-        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
-        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
       }
     ],
     "ko/news/pursue-release-05-triangles-and-the-white-house-file": [
       {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
         "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
         "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
@@ -566,19 +680,14 @@
         "path": "/ko/news/synthetic-cell-eats-and-divides/",
         "title": "먹고 분열하는 합성 세포",
         "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
-      },
-      {
-        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
-        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
-      },
-      {
-        "path": "/ko/news/library-hebrew-bible-nine-languages/",
-        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
-        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
       }
     ],
-    "ko/news/synthetic-cell-eats-and-divides": [
+    "ko/news/pursue-release-06-warp-drives-and-the-tremonton-film": [
+      {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
       {
         "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
@@ -590,14 +699,53 @@
         "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
       },
       {
-        "path": "/ko/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE 제3차 공개: 다부처 자료, 샤이엔 사건, 그리고 최초의 국제 사례",
-        "description": "2026년 6월 12일, 미국 전쟁부는 PURSUE 제3차 자료군을 공개했습니다 — CIA, FBI, NASA, 국방부에서 가져온 53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음입니다."
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      }
+    ],
+    "ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch": [
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
       },
       {
-        "path": "/ko/news/library-hebrew-bible-nine-languages/",
-        "title": "라이브러리: 히브리어 성경, 이제 9개 언어로 읽힙니다",
-        "description": "2026년 6월 7일부로 Wheel of Heaven 라이브러리의 모든 히브리어 성경 책은 9개 언어 — 영어 ASV와 8개의 퍼블릭 도메인 번역본 — 로 본문을 제공합니다."
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
+      },
+      {
+        "path": "/ko/news/synthetic-cell-eats-and-divides/",
+        "title": "먹고 분열하는 합성 세포",
+        "description": "미네소타 대학 과학자들이 처음부터 만들어 낸 최초의 합성 세포 SpudCell로 완전한 생활사를 완주했습니다 — 캐넌이 엘로힘 문명이 한때 넘었다고 말하는 바로 그 문턱입니다."
+      }
+    ],
+    "ko/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/ko/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE 제7차 공개: 검은 삼각형, 그리고 유타의 목장",
+        "description": "2026년 10월 23일, PURSUE 제7차 자료군은 28건의 문서를 공개했습니다 — 2026년 검은 삼각형 디브리핑 기록, 유타 목장 파일, 그리고 1963년의 우주 파편 정책입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE 제6차 공개: 워프 드라이브, 그리고 트레몬턴 필름",
+        "description": "2026년 9월 18일, PURSUE 제6차 자료군은 71건의 파일을 공개했습니다 — 국방정보국(DIA)의 워프 드라이브 참고문헌 서가, 1952년 트레몬턴 필름과 그 블루북 파일, 그리고 콜로라도주 지역 경찰이라는 최초의 비연방 출처입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE 제5차 공개: 삼각형들, 그리고 백악관 파일",
+        "description": "2026년 8월 7일, PURSUE 제5차 자료군은 41건의 파일을 공개했습니다 — 전쟁부·FBI·CIA에 더해, 국무부와 대통령실(Executive Office of the President)이 처음으로 기여 기관에 합류했습니다. 바그람 삼각형과 1963년 바이아 파일이 표제입니다."
+      },
+      {
+        "path": "/ko/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE 제4차 공개: 핵의 결절점, 녹색 화구, 그리고 에너지부의 파일들",
+        "description": "2026년 7월 10일, 전쟁부는 PURSUE 제4차 자료군을 공개했습니다 — 1949년 로스앨러모스 녹색 화구 회의록과 2015년 팬텍스 핵무기 공장 상공 침입 사건을 포함한 40건의 파일입니다."
       }
     ],
     "ko/timeline/age-of-aquarius": [
@@ -981,7 +1129,7 @@
         "path": "/ko/wiki/ancient-builders/",
         "title": "고대 건설자",
         "category": "Peoples & Groups",
-        "description": "고대 건설자란 대중적·대안 고고학적 용법에서, 이집트 피라미드, 스톤헨지, 사크사이와만과 마추픽추의 안데스 거석 유적지, 이스터섬의 모아이, 몰타의 거석 신전 등 전 세계에서 발견되는 상당수의 상당한 고대 석조 기념물의 건설을, 하나 이상의 잃어버렸거나 알려지지 않은 문명의 공로로 돌리"
+        "description": "고대 건설자란 대중적·대안 고고학적 용법에서, 잃어버렸거나 알려지지 않은 한 문명이 세계의 거대한 석조 기념물 다수, 곧 이집트 피라미드, 바알베크, 사크사이와만과 푸마 푼쿠, 이스터섬의 모아이, 몰타의 신전, 괴베클리 테페를 건설했다는 주장으로, 그 건설이 통상 공로를 인정받는 문화들"
       },
       {
         "path": "/ko/wiki/nabataeans/",
@@ -1007,7 +1155,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       },
       {
         "path": "/ko/wiki/dhorme-bible-translation/",
@@ -1059,13 +1207,13 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/samsara/",
@@ -1077,7 +1225,7 @@
         "path": "/ko/wiki/world-age/",
         "title": "세계의 시대",
         "category": "Cosmic Chronology",
-        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
       }
     ],
     "ko/wiki/apocalypse": [
@@ -1215,7 +1363,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       },
       {
         "path": "/ko/wiki/ancient-astronaut-hypothesis/",
@@ -1236,18 +1384,44 @@
         "description": "비교신화학은 서로 다른 문화의 신화 서사 사이의 구조적 상응을 체계적으로 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 서로 다른 문화적 코드 아래에서, 공통의 모태로부터 전달된 동일한 역사적 사건들을 식별하기 위한 주요 도구 중 하나이다."
       }
     ],
+    "ko/wiki/chaoskampf": [
+      {
+        "path": "/ko/wiki/noahic-covenant/",
+        "title": "노아 언약",
+        "category": "Events & Narratives",
+        "description": "노아 언약은 성경 전통에서 홍수 이후 엘로힘과 노아 사이에 맺어진 약속으로, 홍수 이후 세계의 생태적 안정을 보장한다. Wheel of Heaven 코퍼스는 이를 홍수 이후 시대의 엘로힘과 인류 간 상호작용에 대한 첫 번째 안정적 프로토콜로 읽는다."
+      },
+      {
+        "path": "/ko/wiki/noahs-ark/",
+        "title": "노아의 방주",
+        "category": "Events & Narratives",
+        "description": "노아의 방주는 창세기에서 대홍수 동안 생명 계통의 생존을 가능하게 하는 배이다. Wheel of Heaven 코퍼스에서 그것은 지구의 생물다양성을 보존하기 위해 엘로힘의 사양에 따라 설계된 운용 가능한 유전 은행으로 읽힌다."
+      },
+      {
+        "path": "/ko/wiki/great-return/",
+        "title": "대귀환",
+        "category": "Events & Narratives",
+        "description": "대귀환은 Wheel of Heaven 코퍼스에서, 요구되는 정치적·기술적·문화적 조건이 갖춰진 뒤 엘로힘이 지구로 공식 귀환한다는 시나리오를 가리킨다 — 라엘 운동의 종말론적 지평이다."
+      },
+      {
+        "path": "/ko/wiki/great-flood/",
+        "title": "대홍수",
+        "category": "Events & Narratives",
+        "description": "대홍수(히브리어: הַמַּבּוּל, ha-mabbul)는 창세기 6–9장과 200개가 넘는 평행 문화 전통에 기록된 파국적 전 지구적 사건으로, 이 사건에서 더 넓은 홍수 이전의 인류 문명은 파괴되었고 소수의 잔여 집단이 노아의 방주를 통해 보존되었습니다. 라엘리안 원전 자료에서 전"
+      }
+    ],
     "ko/wiki/chronology": [
       {
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -1267,7 +1441,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       },
       {
         "path": "/ko/wiki/ancient-astronaut-hypothesis/",
@@ -1487,7 +1661,7 @@
         "path": "/ko/wiki/wheel-of-heaven/",
         "title": "Wheel of Heaven",
         "category": "Meta",
-        "description": "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로 — 해석적 틀의 이름인 동시에 그 틀을 표명하는 코퍼스의 이름이기도 하며 — 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다: 지구 생명은 특정"
+        "description": "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로서, 하나의 해석적 틀의 이름이자 그 틀을 표명하는 코퍼스의 이름이며, 계시, 우주적 연대기, 고대의 기억, 신성한 역사, 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다. 지구의 생명은 히브리어 성경에"
       },
       {
         "path": "/ko/wiki/list-of-megalithic-sites/",
@@ -1501,7 +1675,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       },
       {
         "path": "/ko/wiki/ancient-astronaut-hypothesis/",
@@ -1695,7 +1869,7 @@
         "path": "/ko/wiki/elohim/",
         "title": "엘로힘",
         "category": "Elohim",
-        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는, 형태상 복수인 히브리어 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — "
       },
       {
         "path": "/ko/wiki/elohimian-space-wars/",
@@ -1721,7 +1895,7 @@
         "path": "/ko/wiki/elohim/",
         "title": "엘로힘",
         "category": "Elohim",
-        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는, 형태상 복수인 히브리어 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — "
       },
       {
         "path": "/ko/wiki/elohim-home-planet/",
@@ -1855,9 +2029,9 @@
       },
       {
         "path": "/ko/wiki/hebrew-bible/",
-        "title": "히브리어 성서",
+        "title": "히브리어 성경",
         "category": "Texts & Sources",
-        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+        "description": "히브리어 성경(히브리어: תָּנָ״ךְ, *타나크*)은 토라, 느비임, 케투빔으로 이루어진 24권의 히브리어 경전 코퍼스로, 약 12세기에 걸쳐 작성되고 마소라 전통을 통해 보존되었습니다. Wheel of Heaven 프레임워크에서 이는 코퍼스가 읽는 일차 원천입니다. 곧 종교적 신화"
       }
     ],
     "ko/wiki/genetic-engineering": [
@@ -1917,13 +2091,13 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -1969,7 +2143,7 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -1987,7 +2161,7 @@
         "path": "/ko/wiki/world-age/",
         "title": "세계의 시대",
         "category": "Cosmic Chronology",
-        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
       }
     ],
     "ko/wiki/great-return": [
@@ -2021,7 +2195,7 @@
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -2039,7 +2213,7 @@
         "path": "/ko/wiki/world-age/",
         "title": "세계의 시대",
         "category": "Cosmic Chronology",
-        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
       }
     ],
     "ko/wiki/hanafiyya": [
@@ -2141,9 +2315,9 @@
       },
       {
         "path": "/ko/wiki/hebrew-bible/",
-        "title": "히브리어 성서",
+        "title": "히브리어 성경",
         "category": "Texts & Sources",
-        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+        "description": "히브리어 성경(히브리어: תָּנָ״ךְ, *타나크*)은 토라, 느비임, 케투빔으로 이루어진 24권의 히브리어 경전 코퍼스로, 약 12세기에 걸쳐 작성되고 마소라 전통을 통해 보존되었습니다. Wheel of Heaven 프레임워크에서 이는 코퍼스가 읽는 일차 원천입니다. 곧 종교적 신화"
       }
     ],
     "ko/wiki/humanitarianism": [
@@ -2161,9 +2335,9 @@
       },
       {
         "path": "/ko/wiki/geniocracy/",
-        "title": "지능정",
+        "title": "천재정치",
         "category": "Raëlism",
-        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+        "description": "천재정치은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
       },
       {
         "path": "/ko/wiki/paradism/",
@@ -2271,9 +2445,9 @@
       },
       {
         "path": "/ko/wiki/hebrew-bible/",
-        "title": "히브리어 성서",
+        "title": "히브리어 성경",
         "category": "Texts & Sources",
-        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+        "description": "히브리어 성경(히브리어: תָּנָ״ךְ, *타나크*)은 토라, 느비임, 케투빔으로 이루어진 24권의 히브리어 경전 코퍼스로, 약 12세기에 걸쳐 작성되고 마소라 전통을 통해 보존되었습니다. Wheel of Heaven 프레임워크에서 이는 코퍼스가 읽는 일차 원천입니다. 곧 종교적 신화"
       }
     ],
     "ko/wiki/leviathan": [
@@ -2533,7 +2707,7 @@
         "path": "/ko/wiki/adam-and-eve/",
         "title": "아담과 하와",
         "category": "Biblical Figures",
-        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사의 최초의 인간으로, 에덴동산에서 엘로힘에 의해 형성되고, 선악을 알게 하는 나무에 관한 금지를 받았으며, 그 열매를 먹은 뒤 추방되었습니다. 라엘리안 원천 자료에서 끌어낸"
       }
     ],
     "ko/wiki/mass-effect": [
@@ -2637,7 +2811,7 @@
         "path": "/ko/wiki/adam-and-eve/",
         "title": "아담과 하와",
         "category": "Biblical Figures",
-        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사의 최초의 인간으로, 에덴동산에서 엘로힘에 의해 형성되고, 선악을 알게 하는 나무에 관한 금지를 받았으며, 그 열매를 먹은 뒤 추방되었습니다. 라엘리안 원천 자료에서 끌어낸"
       }
     ],
     "ko/wiki/muhammad": [
@@ -2663,7 +2837,7 @@
         "path": "/ko/wiki/adam-and-eve/",
         "title": "아담과 하와",
         "category": "Biblical Figures",
-        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사의 최초의 인간으로, 에덴동산에서 엘로힘에 의해 형성되고, 선악을 알게 하는 나무에 관한 금지를 받았으며, 그 열매를 먹은 뒤 추방되었습니다. 라엘리안 원천 자료에서 끌어낸"
       }
     ],
     "ko/wiki/mytheme": [
@@ -2697,7 +2871,7 @@
         "path": "/ko/wiki/ancient-builders/",
         "title": "고대 건설자",
         "category": "Peoples & Groups",
-        "description": "고대 건설자란 대중적·대안 고고학적 용법에서, 이집트 피라미드, 스톤헨지, 사크사이와만과 마추픽추의 안데스 거석 유적지, 이스터섬의 모아이, 몰타의 거석 신전 등 전 세계에서 발견되는 상당수의 상당한 고대 석조 기념물의 건설을, 하나 이상의 잃어버렸거나 알려지지 않은 문명의 공로로 돌리"
+        "description": "고대 건설자란 대중적·대안 고고학적 용법에서, 잃어버렸거나 알려지지 않은 한 문명이 세계의 거대한 석조 기념물 다수, 곧 이집트 피라미드, 바알베크, 사크사이와만과 푸마 푼쿠, 이스터섬의 모아이, 몰타의 신전, 괴베클리 테페를 건설했다는 주장으로, 그 건설이 통상 공로를 인정받는 문화들"
       },
       {
         "path": "/ko/wiki/adamites/",
@@ -2723,7 +2897,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       },
       {
         "path": "/ko/wiki/ancient-astronaut-hypothesis/",
@@ -2753,9 +2927,9 @@
       },
       {
         "path": "/ko/wiki/geniocracy/",
-        "title": "지능정",
+        "title": "천재정치",
         "category": "Raëlism",
-        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+        "description": "천재정치은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
       },
       {
         "path": "/ko/wiki/paradism/",
@@ -2819,7 +2993,7 @@
         "path": "/ko/wiki/adam-and-eve/",
         "title": "아담과 하와",
         "category": "Biblical Figures",
-        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라"
+        "description": "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사의 최초의 인간으로, 에덴동산에서 엘로힘에 의해 형성되고, 선악을 알게 하는 나무에 관한 금지를 받았으며, 그 열매를 먹은 뒤 추방되었습니다. 라엘리안 원천 자료에서 끌어낸"
       }
     ],
     "ko/wiki/noahic-covenant": [
@@ -2967,9 +3141,9 @@
       },
       {
         "path": "/ko/wiki/geniocracy/",
-        "title": "지능정",
+        "title": "천재정치",
         "category": "Raëlism",
-        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+        "description": "천재정치은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
       },
       {
         "path": "/ko/wiki/humanitarianism/",
@@ -3035,13 +3209,13 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -3073,7 +3247,7 @@
         "path": "/ko/wiki/wheel-of-heaven/",
         "title": "Wheel of Heaven",
         "category": "Meta",
-        "description": "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로 — 해석적 틀의 이름인 동시에 그 틀을 표명하는 코퍼스의 이름이기도 하며 — 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다: 지구 생명은 특정"
+        "description": "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로서, 하나의 해석적 틀의 이름이자 그 틀을 표명하는 코퍼스의 이름이며, 계시, 우주적 연대기, 고대의 기억, 신성한 역사, 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다. 지구의 생명은 히브리어 성경에"
       },
       {
         "path": "/ko/wiki/list-of-megalithic-sites/",
@@ -3117,9 +3291,9 @@
       },
       {
         "path": "/ko/wiki/geniocracy/",
-        "title": "지능정",
+        "title": "천재정치",
         "category": "Raëlism",
-        "description": "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+        "description": "천재정치은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
       },
       {
         "path": "/ko/wiki/paradism/",
@@ -3269,13 +3443,13 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -3287,7 +3461,7 @@
         "path": "/ko/wiki/world-age/",
         "title": "세계의 시대",
         "category": "Cosmic Chronology",
-        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
+        "description": "세계의 시대는 Wheel of Heaven 코퍼스에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. 열두 개의 세계의 시대가 하나의 대년을 이루며, 이는 본 프로젝트 우주 연대론의 기본 단위이다."
       }
     ],
     "ko/wiki/satan": [
@@ -3301,7 +3475,7 @@
         "path": "/ko/wiki/elohim/",
         "title": "엘로힘",
         "category": "Elohim",
-        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는, 형태상 복수인 히브리어 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — "
       },
       {
         "path": "/ko/wiki/elohimian-space-wars/",
@@ -3321,7 +3495,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       },
       {
         "path": "/ko/wiki/ancient-astronaut-hypothesis/",
@@ -3415,9 +3589,9 @@
       },
       {
         "path": "/ko/wiki/hebrew-bible/",
-        "title": "히브리어 성서",
+        "title": "히브리어 성경",
         "category": "Texts & Sources",
-        "description": "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시"
+        "description": "히브리어 성경(히브리어: תָּנָ״ךְ, *타나크*)은 토라, 느비임, 케투빔으로 이루어진 24권의 히브리어 경전 코퍼스로, 약 12세기에 걸쳐 작성되고 마소라 전통을 통해 보존되었습니다. Wheel of Heaven 프레임워크에서 이는 코퍼스가 읽는 일차 원천입니다. 곧 종교적 신화"
       }
     ],
     "ko/wiki/sodom-and-gomorrah": [
@@ -3548,6 +3722,32 @@
         "title": "우주적 다원주의",
         "category": "Science & Technology",
         "description": "우주적 다원주의는 고대로부터 현대 우주생물학에 이르기까지 주장되어 온, 우주에 다수의 거주 세계가 공존한다는 명제이다. Wheel of Heaven 코퍼스는 이를 철학적 전제로 삼고, 에피쿠로스에서 조르다노 브루노에 이르는 역사적 계보에 접속시킨다."
+      }
+    ],
+    "ko/wiki/tannin": [
+      {
+        "path": "/ko/wiki/star-of-david/",
+        "title": "다윗의 별",
+        "category": "Symbolism & Motifs",
+        "description": "다윗의 별(<span class=\"hebrew\">מָגֵן דָּוִד</span>, 마겐 다비드)은 현대 유대교의 상징이 된 육각성이다. Wheel of Heaven 코퍼스는 그것이 반복되는 기하학적 표식으로 기능하는 점과, 이스라엘 민족과의 후대적 연결에 대해 논한다."
+      },
+      {
+        "path": "/ko/wiki/raelian-symbol-of-infinity/",
+        "title": "라엘 운동 무한의 상징",
+        "category": "Symbolism & Motifs",
+        "description": "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
+      },
+      {
+        "path": "/ko/wiki/leviathan/",
+        "title": "레비아탄",
+        "category": "Symbolism & Motifs",
+        "description": "레비아탄 — Wheel of Heaven 코퍼스에서 원초적 복합 존재들에 대한 정전적 처리는 「용」 항목을 참조하라."
+      },
+      {
+        "path": "/ko/wiki/menorah/",
+        "title": "메노라",
+        "category": "Symbolism & Motifs",
+        "description": "메노라(<span class=\"hebrew\">מְנוֹרָה</span>)는 예루살렘 성전의 일곱 가지 촛대로, 그 구조는 우주론적 상징과 의례적 기능을 결합한다. Wheel of Heaven 코퍼스는 그 기술적·천문학적·전례적 독해 층위를 논한다."
       }
     ],
     "ko/wiki/terraforming": [
@@ -3859,7 +4059,7 @@
         "path": "/ko/wiki/archaeoastronomy/",
         "title": "고고천문학",
         "category": "Methodology",
-        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차 운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
+        "description": "고고천문학은 고대 사회의 기념물·신화·달력에 새겨진 천문 지식과 실천을 연구하는 분야이다. Wheel of Heaven 코퍼스에서 그것은 세차운동을 주요 전통들이 공유하는 연대적 틀로 인식하기 위한 토대 학문 중 하나를 이룬다."
       }
     ],
     "ko/wiki/world-age": [
@@ -3867,13 +4067,13 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",
@@ -3899,7 +4099,7 @@
         "path": "/ko/wiki/elohim/",
         "title": "엘로힘",
         "category": "Elohim",
-        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인"
+        "description": "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는, 형태상 복수인 히브리어 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — "
       },
       {
         "path": "/ko/wiki/elohimian-space-wars/",
@@ -3919,13 +4119,13 @@
         "path": "/ko/wiki/great-year/",
         "title": "대년",
         "category": "Cosmic Chronology",
-        "description": "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25"
+        "description": "대년은 자전축 세차운동의 한 완전한 주기, 곧 지구의 자전축이 고정된 별들을 배경으로 하나의 완전한 원뿔을 그리는 데 걸리는 시간이며, 춘분점이 황도를 한 바퀴 도는 것과 같습니다. 현대 천문학의 측정으로는 약 25,772년이고, 옛 점성술의 산정으로는 25,920년으로, 세차 이동 1"
       },
       {
         "path": "/ko/wiki/great-month/",
         "title": "대월",
         "category": "Cosmic Chronology",
-        "description": "대월은 세차의 틀에서 봄 분점이 황도 십이궁 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
+        "description": "대월은 세차의 틀에서 봄 분점이 황도대 중 하나를 통과하는 기간 — 약 2,160년 — 을 가리킨다. Wheel of Heaven 코퍼스는 그것을 「세계의 시대」와 동일시하며, 그 우주적 연대론의 기본 단위로 삼는다."
       },
       {
         "path": "/ko/wiki/antediluvian/",

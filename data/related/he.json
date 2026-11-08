@@ -6,80 +6,158 @@
   "pages": {
     "he/articles/monotheism-is-the-wrong-question": [
       {
-        "path": "/he/articles/the-signature-and-the-designers/",
-        "title": "החתימה והמתכננים",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-rain-over-helicon/",
-        "title": "הגשם מעל הליקון",
-        "category": "Comparative Mythology",
-        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-east-face-of-homer/",
-        "title": "הפן המזרחי של הומרוס",
-        "category": "Comparative Mythology",
-        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-world-behind-the-odyssey/",
-        "title": "העולם שמאחורי האודיסיאה",
-        "category": "Comparative Mythology",
-        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
+      }
+    ],
+    "he/articles/sendy-and-the-raelian-messages": [
+      {
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
+      },
+      {
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
+      },
+      {
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
+      },
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+      }
+    ],
+    "he/articles/six-mornings-six-years": [
+      {
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
+      },
+      {
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
+      },
+      {
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
+      },
+      {
+        "path": "/he/articles/the-mill-that-grinds-the-ages/",
+        "title": "הטחנה הטוחנת את העידנים",
+        "category": "Comparative",
+        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
       }
     ],
     "he/articles/the-archdeacon-and-the-dragon": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-book-closest-to-the-truth": [
       {
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
+      },
+      {
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
+      },
+      {
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
+      },
+      {
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
+      }
+    ],
+    "he/articles/the-dragon-curve": [
+      {
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
+      },
+      {
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
+      },
+      {
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
+      },
+      {
         "path": "/he/articles/the-mill-that-grinds-the-ages/",
         "title": "הטחנה הטוחנת את העידנים",
         "category": "Comparative",
         "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
-      },
-      {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
-        "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
-      },
-      {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
-        "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
-      },
-      {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
-        "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
       }
     ],
     "he/articles/the-east-face-of-homer": [
@@ -96,146 +174,172 @@
         "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
       },
       {
-        "path": "/he/articles/the-signature-and-the-designers/",
-        "title": "החתימה והמתכננים",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-shape-of-humanity/",
-        "title": "צורתה של האנושות",
-        "category": "Macro-History",
-        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       }
     ],
     "he/articles/the-first-mosques-faced-petra-not-mecca": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-flood-was-a-reset-not-a-punishment": [
       {
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
+      },
+      {
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
+      },
+      {
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
+      },
+      {
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
+      }
+    ],
+    "he/articles/the-forty-chairs": [
+      {
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
+      },
+      {
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
+      },
+      {
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
+      },
+      {
         "path": "/he/articles/the-mill-that-grinds-the-ages/",
         "title": "הטחנה הטוחנת את העידנים",
         "category": "Comparative",
         "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
-      },
-      {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
-        "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
-      },
-      {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
-        "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
-      },
-      {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
-        "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
       }
     ],
     "he/articles/the-infinite-in-both-directions": [
       {
-        "path": "/he/articles/the-signature-and-the-designers/",
-        "title": "החתימה והמתכננים",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-rain-over-helicon/",
-        "title": "הגשם מעל הליקון",
-        "category": "Comparative Mythology",
-        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-east-face-of-homer/",
-        "title": "הפן המזרחי של הומרוס",
-        "category": "Comparative Mythology",
-        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-world-behind-the-odyssey/",
-        "title": "העולם שמאחורי האודיסיאה",
-        "category": "Comparative Mythology",
-        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-man-who-bet-the-bible-on-the-moon": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-mill-that-grinds-the-ages": [
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-rain-over-helicon": [
@@ -252,146 +356,146 @@
         "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
       },
       {
-        "path": "/he/articles/the-signature-and-the-designers/",
-        "title": "החתימה והמתכננים",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-shape-of-humanity/",
-        "title": "צורתה של האנושות",
-        "category": "Macro-History",
-        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       }
     ],
     "he/articles/the-religion-of-religions": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-scrolls-that-woke-in-year-one": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-shape-of-humanity": [
       {
-        "path": "/he/articles/the-signature-and-the-designers/",
-        "title": "החתימה והמתכננים",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-rain-over-helicon/",
-        "title": "הגשם מעל הליקון",
-        "category": "Comparative Mythology",
-        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-east-face-of-homer/",
-        "title": "הפן המזרחי של הומרוס",
-        "category": "Comparative Mythology",
-        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-world-behind-the-odyssey/",
-        "title": "העולם שמאחורי האודיסיאה",
-        "category": "Comparative Mythology",
-        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-signature-and-the-designers": [
       {
-        "path": "/he/articles/the-rain-over-helicon/",
-        "title": "הגשם מעל הליקון",
-        "category": "Comparative Mythology",
-        "description": "M. L. West התחקה אחר המיתוס היווני מזרחה. ביקורת קפדנית של הסיודוס, הומרוס, גלגמש, קרב האלים, מלאכת השיר, וגבולות השאילה בים האגאי."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-east-face-of-homer/",
-        "title": "הפן המזרחי של הומרוס",
-        "category": "Comparative Mythology",
-        "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-world-behind-the-odyssey/",
-        "title": "העולם שמאחורי האודיסיאה",
-        "category": "Comparative Mythology",
-        "description": "כריסטופר נולאן החזיר את אודיסאוס אל המסך. מאחורי האפוס של הומרוס שוכן עולם עתיק יותר של אלים, מפלצות וזיכרון — הסבר זה חופר בו."
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
+        "category": "Comparative",
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-shape-of-humanity/",
-        "title": "צורתה של האנושות",
-        "category": "Macro-History",
-        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
+        "category": "Comparative",
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-translators-wager": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/unsealed-in-year-one/",
-        "title": "נחתמו עד השנה הראשונה",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "בשנה הראשונה של העידן החדש, רועה בדואי ניפץ כד במערה מעל ים המלח. הספרים שבתוכו חיכו תשע־עשרה מאות שנים לזמן הקץ."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/articles/the-world-behind-the-odyssey": [
@@ -408,46 +512,56 @@
         "description": "חובו של הומרוס לבבל הוא מחקר מתועד. מה שהשאילה מוכיחה, מה שאין ביכולתה להוכיח, וכיצד קורא הקנון את יוון בתוך התחום האלוהימי."
       },
       {
-        "path": "/he/articles/the-signature-and-the-designers/",
-        "title": "החתימה והמתכננים",
-        "category": "Science & Technology",
-        "description": "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
+        "category": "Comparative",
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-shape-of-humanity/",
-        "title": "צורתה של האנושות",
-        "category": "Macro-History",
-        "description": "הקנון מכנה את האנושות אורגניזם יחיד שבהתהוות, וכל אדם תא. הסבר זה מציע את הדיסציפלינה לחקור אותה: מורפולוגיה ציוויליזציונית."
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
+        "category": "Comparative",
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       }
     ],
     "he/articles/unsealed-in-year-one": [
       {
-        "path": "/he/articles/the-mill-that-grinds-the-ages/",
-        "title": "הטחנה הטוחנת את העידנים",
+        "path": "/he/articles/the-forty-chairs/",
+        "title": "ארבעים הכיסאות",
         "category": "Comparative",
-        "description": "כיצד נכתבה סיבוב עידני העולם אל תוך המיתוס — טחנת המלט, שתים־עשרה שעות המזלות, המַזָּרוֹת העברי, וסימן המזל העתיק מכול."
+        "description": "כארבעים אורחים ישבו אל שולחנו של יהוה ב-1975, והקנון אינו מונה את כולם בשמם. כאן מנוסח המכשיר המכריע אילו מסורות אכן היו שם."
       },
       {
-        "path": "/he/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "האיש שהִמר על התנ\"ך בעזרת הירח",
+        "path": "/he/articles/the-dragon-curve/",
+        "title": "עקומת הדרקון",
         "category": "Comparative",
-        "description": "ז'אן סנדי קרא את ספר בראשית כיומן של התיישבות קוסמונאוטים והִמר על הקריאה כולה בניבוי ירחי בר־הפרכה — עשור לפני ראל."
+        "description": "המסר הראליאני הראשון מעמיד את הדינוזאורים לצד העופות ואינו מצטט לעולם את בראשית 1:21 — הפסוק היחיד בתנ״ך שבידי ראל עצמו הנוקב בשם הדרקונים הגדולים."
       },
       {
-        "path": "/he/articles/the-religion-of-religions/",
-        "title": "דת הדתות",
+        "path": "/he/articles/sendy-and-the-raelian-messages/",
+        "title": "סנדי והמסרים הראליאניים",
         "category": "Comparative",
-        "description": "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
+        "description": "ספריו של ז'אן סנדי והמסר הראליאני הראשון בהשוואה קטע אחר קטע: קריאות משותפות בספר בראשית, הפרשנות שמעבר לו, והטיעון בעד שאילה."
       },
       {
-        "path": "/he/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "המגילות שהתעוררו בשנה הראשונה",
+        "path": "/he/articles/six-mornings-six-years/",
+        "title": "שישה בקרים, שש שנים",
         "category": "Comparative",
-        "description": "אבן של רועה ניפצה כד מעל ים המלח בשנה הראשונה של הלוח הסופר מהירושימה. מה חשפו המגילות — ומדוע העיתוי מתאים."
+        "description": "שלושת ספרי המקור נקראים כהכתבה מבוימת אחת: גאוגרפיית ההתגלות, מנגנוני הגילוי המעוכב, והבדיקה שזייפן אמור להיכשל בה."
       }
     ],
     "he/news/library-hebrew-bible-nine-languages": [
       {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
         "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
         "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
@@ -456,20 +570,20 @@
         "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
         "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
         "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
-      },
-      {
-        "path": "/he/news/synthetic-cell-eats-and-divides/",
-        "title": "תא סינתטי שאוכל ומתחלק",
-        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
-      },
-      {
-        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
-        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
-        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
       }
     ],
     "he/news/pursue-release-01-uap-files": [
       {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
         "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
         "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
@@ -478,20 +592,20 @@
         "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
         "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
         "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
-      },
-      {
-        "path": "/he/news/synthetic-cell-eats-and-divides/",
-        "title": "תא סינתטי שאוכל ומתחלק",
-        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
-      },
-      {
-        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
-        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
-        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
       }
     ],
     "he/news/pursue-release-02-spheres-and-transmedium": [
       {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
         "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
         "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
@@ -500,20 +614,20 @@
         "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
         "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
         "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
-      },
-      {
-        "path": "/he/news/synthetic-cell-eats-and-divides/",
-        "title": "תא סינתטי שאוכל ומתחלק",
-        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
-      },
-      {
-        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
-        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
-        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
       }
     ],
     "he/news/pursue-release-03-multi-agency-and-international": [
       {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
         "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
         "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
@@ -522,20 +636,20 @@
         "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
         "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
         "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
-      },
-      {
-        "path": "/he/news/synthetic-cell-eats-and-divides/",
-        "title": "תא סינתטי שאוכל ומתחלק",
-        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
-      },
-      {
-        "path": "/he/news/library-hebrew-bible-nine-languages/",
-        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
-        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
       }
     ],
     "he/news/pursue-release-04-the-nuclear-nexus": [
       {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
         "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
         "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
@@ -544,20 +658,20 @@
         "path": "/he/news/synthetic-cell-eats-and-divides/",
         "title": "תא סינתטי שאוכל ומתחלק",
         "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
-      },
-      {
-        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
-        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
-        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
-      },
-      {
-        "path": "/he/news/library-hebrew-bible-nine-languages/",
-        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
-        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
       }
     ],
     "he/news/pursue-release-05-triangles-and-the-white-house-file": [
       {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
         "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
         "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
         "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
@@ -566,19 +680,14 @@
         "path": "/he/news/synthetic-cell-eats-and-divides/",
         "title": "תא סינתטי שאוכל ומתחלק",
         "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
-      },
-      {
-        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
-        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
-        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
-      },
-      {
-        "path": "/he/news/library-hebrew-bible-nine-languages/",
-        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
-        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
       }
     ],
-    "he/news/synthetic-cell-eats-and-divides": [
+    "he/news/pursue-release-06-warp-drives-and-the-tremonton-film": [
+      {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
       {
         "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
@@ -590,14 +699,53 @@
         "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
       },
       {
-        "path": "/he/news/pursue-release-03-multi-agency-and-international/",
-        "title": "מהדורת PURSUE 03: תיקים רב-סוכנותיים, עצם הצ׳ייאן, והמקרה הבינלאומי הראשון",
-        "description": "ב-12 ביוני 2026 פרסם משרד המלחמה את המנה השלישית של PURSUE — 53 מסמכים, 10 הדמיות, 6 סרטונים ו-3 הקלטות שמע של נאס״א מה-CIA, ה-FBI, נאס״א והפנטגון."
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      }
+    ],
+    "he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch": [
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
       },
       {
-        "path": "/he/news/library-hebrew-bible-nine-languages/",
-        "title": "ספרייה: התנ\"ך נקרא כעת בתשע שפות",
-        "description": "החל מ־7 ביוני 2026, כל ספר תנ\"ך בספריית Wheel of Heaven נושא טקסט בתשע שפות — ASV באנגלית בתוספת שמונה תרגומי PD מיובאים."
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
+      },
+      {
+        "path": "/he/news/synthetic-cell-eats-and-divides/",
+        "title": "תא סינתטי שאוכל ומתחלק",
+        "description": "מדעני University of Minnesota בנו את SpudCell, התא הסינתטי הראשון שנבנה מאפס והשלים מחזור חיים מלא — הסף שלפי הקורפוס חצתה פעם ציוויליזציית האלוהים."
+      }
+    ],
+    "he/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/he/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "מהדורת PURSUE 07: משולש שחור והחווה ביוטה",
+        "description": "ב-23 באוקטובר 2026 פרסם משרד המלחמה את המנה השביעית של PURSUE — 28 מסמכים: תחקיר על משולש שחור מ-2026, תיק החווה ביוטה ומדיניות שברי חלל מ-1963."
+      },
+      {
+        "path": "/he/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "מהדורת PURSUE 06: מנועי עיוות וסרט טרמונטון",
+        "description": "ב-18 בספטמבר 2026 פרסם משרד המלחמה את המנה השישית של PURSUE — 71 תיקים: מדף הייחוס של ה-DIA על מנועי עיוות, סרט טרמונטון מ-1952 ומקור משטרתי מקומי ראשון."
+      },
+      {
+        "path": "/he/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "מהדורת PURSUE 05: משולשים ותיק הבית הלבן",
+        "description": "ב-7 באוגוסט 2026 פרסם משרד המלחמה של ארה״ב את המנה החמישית של PURSUE — 41 תיקים, ולראשונה שתי תורמות חדשות: מחלקת המדינה של ארה״ב והמשרד הביצועי של הנשיא."
+      },
+      {
+        "path": "/he/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "מהדורת PURSUE 04: צומת הגרעין, כדורי האש הירוקים, ותיקי משרד האנרגיה",
+        "description": "ב-10 ביולי 2026 פרסם משרד המלחמה את המנה הרביעית של PURSUE — 40 תיקים, ובהם תמלול כדור-אש ירוק מלוס אלמוס מ-1949 וחדירה מ-2015 מעל מפעל הנשק הגרעיני פנטקס."
       }
     ],
     "he/timeline/age-of-aquarius": [
@@ -903,7 +1051,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/elijah/",
@@ -981,7 +1129,7 @@
         "path": "/he/wiki/ancient-builders/",
         "title": "בונים קדומים",
         "category": "Peoples & Groups",
-        "description": "»בונים קדומים« הוא, בשימוש פופולרי ובארכיאולוגיה חלופית, ההצעה שאחת או יותר ציוויליזציות אבודות או לא-ידועות היו אחראיות לבניית רבים מהמונומנטים הקדומים העיקריי"
+        "description": "»בונים קדומים«, בשימוש הפופולרי ובארכיאולוגיה החלופית, הוא ההצעה שציוויליזציה אבודה או לא ידועה בנתה רבים ממונומנטי האבן הגדולים של העולם — פירמידות מצרים, בעלב"
       },
       {
         "path": "/he/wiki/nabataeans/",
@@ -1071,7 +1219,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/chronology/",
@@ -1236,6 +1384,32 @@
         "description": "נאו-אוהמריזם הוא, במסגרת Wheel of Heaven, עמדה פרשנית הקוראת סיפורי אלים כזיכרון היסטורי של דמויות ממשיות, המעודכנת בהשערת האלוהים. הוא ממשיך את האוהמריזם הקלאס"
       }
     ],
+    "he/wiki/chaoskampf": [
+      {
+        "path": "/he/wiki/apocalypse/",
+        "title": "אפוקליפסה",
+        "category": "Events & Narratives",
+        "description": "אפוקליפסה (יוונית: ἀποκάλυψις, «חשיפת הנסתר») היא גילוי הדבר המוסתר, ובפרט ספרות אחרית הימים המבשרת שינוי מכריע בסדר העולם. במסגרת Wheel of Heaven היא נקראת כמע"
+      },
+      {
+        "path": "/he/wiki/babel/",
+        "title": "בבל",
+        "category": "Events & Narratives",
+        "description": "בבל (עברית: בָּבֶל) — לנרטיב הקנוני ראו «מגדל בבל» ו«בלילת הלשונות»; הקריאה הקנונית המהותית של Wheel of Heaven נמצאת בערך «בלילת הלשונות»."
+      },
+      {
+        "path": "/he/wiki/confusion-of-tongues/",
+        "title": "בלילת הלשונות",
+        "category": "Events & Narratives",
+        "description": "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
+      },
+      {
+        "path": "/he/wiki/noahic-covenant/",
+        "title": "ברית נח",
+        "category": "Events & Narratives",
+        "description": "ברית נח היא, במסורת המקראית, ההבטחה שנכרתה לאחר המבול בין האלוהים לנח, המבטיחה את יציבותו האקולוגית של העולם שלאחר המבול. קורפוס Wheel of Heaven קורא בה את הפרו"
+      }
+    ],
     "he/wiki/chronology": [
       {
         "path": "/he/wiki/zodiac/",
@@ -1253,7 +1427,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",
@@ -1637,7 +1811,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/jesus/",
@@ -1683,7 +1857,7 @@
         "path": "/he/wiki/elohim/",
         "title": "אלוהים",
         "category": "Elohim",
-        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי שצורתו רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומ"
       },
       {
         "path": "/he/wiki/yahweh/",
@@ -1709,7 +1883,7 @@
         "path": "/he/wiki/elohim/",
         "title": "אלוהים",
         "category": "Elohim",
-        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי שצורתו רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומ"
       },
       {
         "path": "/he/wiki/yahweh/",
@@ -1839,7 +2013,7 @@
         "path": "/he/wiki/hebrew-bible/",
         "title": "המקרא העברי",
         "category": "Texts & Sources",
-        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ, *Tanakh*) הוא קורפוס כתבי הקודש בשפה העברית בן עשרים וארבעה הספרים — תורה, נביאים וכתובים — שחובר במשך כשנים-עשר מאות שנה ונשתמר ב"
       },
       {
         "path": "/he/wiki/hekhalot-literature/",
@@ -1929,7 +2103,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",
@@ -1975,7 +2149,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",
@@ -2131,7 +2305,7 @@
         "path": "/he/wiki/hebrew-bible/",
         "title": "המקרא העברי",
         "category": "Texts & Sources",
-        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ, *Tanakh*) הוא קורפוס כתבי הקודש בשפה העברית בן עשרים וארבעה הספרים — תורה, נביאים וכתובים — שחובר במשך כשנים-עשר מאות שנה ונשתמר ב"
       },
       {
         "path": "/he/wiki/kabbalah/",
@@ -2235,7 +2409,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/elijah/",
@@ -2261,7 +2435,7 @@
         "path": "/he/wiki/hebrew-bible/",
         "title": "המקרא העברי",
         "category": "Texts & Sources",
-        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ, *Tanakh*) הוא קורפוס כתבי הקודש בשפה העברית בן עשרים וארבעה הספרים — תורה, נביאים וכתובים — שחובר במשך כשנים-עשר מאות שנה ונשתמר ב"
       },
       {
         "path": "/he/wiki/hekhalot-literature/",
@@ -2521,7 +2695,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/elijah/",
@@ -2625,7 +2799,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/elijah/",
@@ -2651,7 +2825,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/elijah/",
@@ -2697,7 +2871,7 @@
         "path": "/he/wiki/ancient-builders/",
         "title": "בונים קדומים",
         "category": "Peoples & Groups",
-        "description": "»בונים קדומים« הוא, בשימוש פופולרי ובארכיאולוגיה חלופית, ההצעה שאחת או יותר ציוויליזציות אבודות או לא-ידועות היו אחראיות לבניית רבים מהמונומנטים הקדומים העיקריי"
+        "description": "»בונים קדומים«, בשימוש הפופולרי ובארכיאולוגיה החלופית, הוא ההצעה שציוויליזציה אבודה או לא ידועה בנתה רבים ממונומנטי האבן הגדולים של העולם — פירמידות מצרים, בעלב"
       },
       {
         "path": "/he/wiki/adamites/",
@@ -2807,7 +2981,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       },
       {
         "path": "/he/wiki/elijah/",
@@ -3047,7 +3221,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",
@@ -3281,7 +3455,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",
@@ -3295,7 +3469,7 @@
         "path": "/he/wiki/elohim/",
         "title": "אלוהים",
         "category": "Elohim",
-        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי שצורתו רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומ"
       },
       {
         "path": "/he/wiki/yahweh/",
@@ -3405,7 +3579,7 @@
         "path": "/he/wiki/hebrew-bible/",
         "title": "המקרא העברי",
         "category": "Texts & Sources",
-        "description": "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת Wheel of Heaven — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים"
+        "description": "המקרא העברי (עברית: תָּנָ״ךְ, *Tanakh*) הוא קורפוס כתבי הקודש בשפה העברית בן עשרים וארבעה הספרים — תורה, נביאים וכתובים — שחובר במשך כשנים-עשר מאות שנה ונשתמר ב"
       },
       {
         "path": "/he/wiki/hekhalot-literature/",
@@ -3548,6 +3722,32 @@
         "title": "הנדסה גנטית",
         "category": "Science & Technology",
         "description": "הנדסה גנטית היא מכלול הטכנולוגיות לשינוי ממוקד של החומר הגנטי של אורגניזם. קורפוס Wheel of Heaven קורא אותה כמסלול הסינתזה שבו נקטו האלוהים ביצירת החיים עלי אדמ"
+      }
+    ],
+    "he/wiki/tannin": [
+      {
+        "path": "/he/wiki/sacred-geometry/",
+        "title": "גאומטריה קדושה",
+        "category": "Symbolism & Motifs",
+        "description": "גאומטריה קדושה היא מכלול היחסים והצורות הגאומטריות החוזרים בארכיטקטורה הדתית ובאיקונוגרפיה הדתית ברחבי העולם. קורפוס Wheel of Heaven דן בתפקידה כסימן היכר של הע"
+      },
+      {
+        "path": "/he/wiki/dragons/",
+        "title": "דרקונים",
+        "category": "Symbolism & Motifs",
+        "description": "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה "
+      },
+      {
+        "path": "/he/wiki/serpent/",
+        "title": "הנחש",
+        "category": "Symbolism & Motifs",
+        "description": "הנחש (עברית: נָחָשׁ) הוא הדמות בבראשית ג המפצירה בבני האדם הראשונים לאכול מעץ הדעת טוב ורע ומקוללת ומוגלית בעקבות זאת. על פי הקריאה שפותחה בחומר המקור הראליאני "
+      },
+      {
+        "path": "/he/wiki/leviathan/",
+        "title": "לווייתן",
+        "category": "Symbolism & Motifs",
+        "description": "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
       }
     ],
     "he/wiki/terraforming": [
@@ -3859,7 +4059,7 @@
         "path": "/he/wiki/adam-and-eve/",
         "title": "אדם וחוה",
         "category": "Biblical Figures",
-        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לע"
+        "description": "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים בסיפור בראשית שבמקרא העברי — נוצרו בידי האלוהים בגן עדן, קיבלו את האיסור הנוגע לעץ ה"
       }
     ],
     "he/wiki/world-age": [
@@ -3879,7 +4079,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",
@@ -3893,7 +4093,7 @@
         "path": "/he/wiki/elohim/",
         "title": "אלוהים",
         "category": "Elohim",
-        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי בלשון רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצ"
+        "description": "אלוהים (עברית: אֱלֹהִים) הוא השם העברי שצורתו רבים המשמש לאורך התורה כולה לדמויות המתורגמות באופן מקובל כ»אלוהים«. על פי הקריאה שפותחה בחומר המקור הראליאני ואומ"
       },
       {
         "path": "/he/wiki/elohim-home-planet/",
@@ -3925,7 +4125,7 @@
         "path": "/he/wiki/great-year/",
         "title": "השנה הגדולה",
         "category": "Cosmic Chronology",
-        "description": "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד ש"
+        "description": "השנה הגדולה היא משכו של מחזור שלם אחד של נקיפת הציר — הזמן שבו ציר הסיבוב של כדור הארץ משרטט חרוט מלא אחד על רקע כוכבי השבת, השקול להקפה אחת של נקודת השוויון הא"
       },
       {
         "path": "/he/wiki/antediluvian/",

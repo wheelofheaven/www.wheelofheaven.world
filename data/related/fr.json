@@ -6,80 +6,158 @@
   "pages": {
     "fr/articles/monotheism-is-the-wrong-question": [
       {
-        "path": "/fr/articles/the-signature-and-the-designers/",
-        "title": "La signature et les concepteurs",
-        "category": "Science & Technology",
-        "description": "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-rain-over-helicon/",
-        "title": "La pluie sur l'Hélicon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West a suivi le mythe grec vers l'est. Audit d'Hésiode, d'Homère, de Gilgamesh, du combat divin, du métier poétique et des limites de l'emprunt en Égée."
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-east-face-of-homer/",
-        "title": "La face orientale d'Homère",
-        "category": "Comparative Mythology",
-        "description": "La dette d'Homère envers Babylone est documentée. Ce que l'emprunt prouve, ce qu'il ne peut prouver, et la Grèce lue par le canon dans la sphère élohimienne."
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-world-behind-the-odyssey/",
-        "title": "Le monde derrière l'Odyssée",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan a ramené Ulysse à l'écran. Derrière l'épopée d'Homère se cache un monde plus ancien de dieux, de monstres et de mémoire — cet Explicatif l'exh"
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
+      }
+    ],
+    "fr/articles/sendy-and-the-raelian-messages": [
+      {
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
+      },
+      {
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
+      },
+      {
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
+      },
+      {
+        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
+        "title": "Le moulin qui broie les âges",
+        "category": "Comparative",
+        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+      }
+    ],
+    "fr/articles/six-mornings-six-years": [
+      {
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
+      },
+      {
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
+      },
+      {
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
+      },
+      {
+        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
+        "title": "Le moulin qui broie les âges",
+        "category": "Comparative",
+        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
       }
     ],
     "fr/articles/the-archdeacon-and-the-dragon": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-book-closest-to-the-truth": [
       {
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
+      },
+      {
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
+      },
+      {
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
+      },
+      {
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
+      }
+    ],
+    "fr/articles/the-dragon-curve": [
+      {
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
+      },
+      {
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
+      },
+      {
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
+      },
+      {
         "path": "/fr/articles/the-mill-that-grinds-the-ages/",
         "title": "Le moulin qui broie les âges",
         "category": "Comparative",
         "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
-      },
-      {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
-        "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
-      },
-      {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
-        "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
-      },
-      {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
-        "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
       }
     ],
     "fr/articles/the-east-face-of-homer": [
@@ -96,146 +174,172 @@
         "description": "Christopher Nolan a ramené Ulysse à l'écran. Derrière l'épopée d'Homère se cache un monde plus ancien de dieux, de monstres et de mémoire — cet Explicatif l'exh"
       },
       {
-        "path": "/fr/articles/the-signature-and-the-designers/",
-        "title": "La signature et les concepteurs",
-        "category": "Science & Technology",
-        "description": "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-shape-of-humanity/",
-        "title": "La forme de l'humanité",
-        "category": "Macro-History",
-        "description": "Le canon appelle l'humanité un organisme unique en gestation, chaque personne une cellule. Cet Explicatif propose la discipline pour l'étudier : la morphologie "
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       }
     ],
     "fr/articles/the-first-mosques-faced-petra-not-mecca": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-flood-was-a-reset-not-a-punishment": [
       {
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
+      },
+      {
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
+      },
+      {
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
+      },
+      {
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
+      }
+    ],
+    "fr/articles/the-forty-chairs": [
+      {
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
+      },
+      {
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
+      },
+      {
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
+      },
+      {
         "path": "/fr/articles/the-mill-that-grinds-the-ages/",
         "title": "Le moulin qui broie les âges",
         "category": "Comparative",
         "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
-      },
-      {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
-        "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
-      },
-      {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
-        "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
-      },
-      {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
-        "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
       }
     ],
     "fr/articles/the-infinite-in-both-directions": [
       {
-        "path": "/fr/articles/the-signature-and-the-designers/",
-        "title": "La signature et les concepteurs",
-        "category": "Science & Technology",
-        "description": "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-rain-over-helicon/",
-        "title": "La pluie sur l'Hélicon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West a suivi le mythe grec vers l'est. Audit d'Hésiode, d'Homère, de Gilgamesh, du combat divin, du métier poétique et des limites de l'emprunt en Égée."
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-east-face-of-homer/",
-        "title": "La face orientale d'Homère",
-        "category": "Comparative Mythology",
-        "description": "La dette d'Homère envers Babylone est documentée. Ce que l'emprunt prouve, ce qu'il ne peut prouver, et la Grèce lue par le canon dans la sphère élohimienne."
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-world-behind-the-odyssey/",
-        "title": "Le monde derrière l'Odyssée",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan a ramené Ulysse à l'écran. Derrière l'épopée d'Homère se cache un monde plus ancien de dieux, de monstres et de mémoire — cet Explicatif l'exh"
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-man-who-bet-the-bible-on-the-moon": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Les manuscrits qui s'éveillèrent en l'an un",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "La pierre d'un berger brisa une jarre au-dessus de la mer Morte en l'an un du calendrier qui compte depuis Hiroshima. Ce que les manuscrits dévoilèrent — et pou"
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-mill-that-grinds-the-ages": [
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Les manuscrits qui s'éveillèrent en l'an un",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "La pierre d'un berger brisa une jarre au-dessus de la mer Morte en l'an un du calendrier qui compte depuis Hiroshima. Ce que les manuscrits dévoilèrent — et pou"
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-rain-over-helicon": [
@@ -252,146 +356,146 @@
         "description": "Christopher Nolan a ramené Ulysse à l'écran. Derrière l'épopée d'Homère se cache un monde plus ancien de dieux, de monstres et de mémoire — cet Explicatif l'exh"
       },
       {
-        "path": "/fr/articles/the-signature-and-the-designers/",
-        "title": "La signature et les concepteurs",
-        "category": "Science & Technology",
-        "description": "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-shape-of-humanity/",
-        "title": "La forme de l'humanité",
-        "category": "Macro-History",
-        "description": "Le canon appelle l'humanité un organisme unique en gestation, chaque personne une cellule. Cet Explicatif propose la discipline pour l'étudier : la morphologie "
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       }
     ],
     "fr/articles/the-religion-of-religions": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Les manuscrits qui s'éveillèrent en l'an un",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "La pierre d'un berger brisa une jarre au-dessus de la mer Morte en l'an un du calendrier qui compte depuis Hiroshima. Ce que les manuscrits dévoilèrent — et pou"
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-scrolls-that-woke-in-year-one": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-shape-of-humanity": [
       {
-        "path": "/fr/articles/the-signature-and-the-designers/",
-        "title": "La signature et les concepteurs",
-        "category": "Science & Technology",
-        "description": "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-rain-over-helicon/",
-        "title": "La pluie sur l'Hélicon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West a suivi le mythe grec vers l'est. Audit d'Hésiode, d'Homère, de Gilgamesh, du combat divin, du métier poétique et des limites de l'emprunt en Égée."
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-east-face-of-homer/",
-        "title": "La face orientale d'Homère",
-        "category": "Comparative Mythology",
-        "description": "La dette d'Homère envers Babylone est documentée. Ce que l'emprunt prouve, ce qu'il ne peut prouver, et la Grèce lue par le canon dans la sphère élohimienne."
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-world-behind-the-odyssey/",
-        "title": "Le monde derrière l'Odyssée",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan a ramené Ulysse à l'écran. Derrière l'épopée d'Homère se cache un monde plus ancien de dieux, de monstres et de mémoire — cet Explicatif l'exh"
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-signature-and-the-designers": [
       {
-        "path": "/fr/articles/the-rain-over-helicon/",
-        "title": "La pluie sur l'Hélicon",
-        "category": "Comparative Mythology",
-        "description": "M. L. West a suivi le mythe grec vers l'est. Audit d'Hésiode, d'Homère, de Gilgamesh, du combat divin, du métier poétique et des limites de l'emprunt en Égée."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-east-face-of-homer/",
-        "title": "La face orientale d'Homère",
-        "category": "Comparative Mythology",
-        "description": "La dette d'Homère envers Babylone est documentée. Ce que l'emprunt prouve, ce qu'il ne peut prouver, et la Grèce lue par le canon dans la sphère élohimienne."
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-world-behind-the-odyssey/",
-        "title": "Le monde derrière l'Odyssée",
-        "category": "Comparative Mythology",
-        "description": "Christopher Nolan a ramené Ulysse à l'écran. Derrière l'épopée d'Homère se cache un monde plus ancien de dieux, de monstres et de mémoire — cet Explicatif l'exh"
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
+        "category": "Comparative",
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-shape-of-humanity/",
-        "title": "La forme de l'humanité",
-        "category": "Macro-History",
-        "description": "Le canon appelle l'humanité un organisme unique en gestation, chaque personne une cellule. Cet Explicatif propose la discipline pour l'étudier : la morphologie "
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
+        "category": "Comparative",
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-translators-wager": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/unsealed-in-year-one/",
-        "title": "Descellés en l'an un",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "En l'an un de la nouvelle ère, un berger bédouin fractura une jarre dans une grotte de la mer Morte. Les livres qu'elle contenait avaient attendu dix-neuf siècl"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/articles/the-world-behind-the-odyssey": [
@@ -408,46 +512,56 @@
         "description": "La dette d'Homère envers Babylone est documentée. Ce que l'emprunt prouve, ce qu'il ne peut prouver, et la Grèce lue par le canon dans la sphère élohimienne."
       },
       {
-        "path": "/fr/articles/the-signature-and-the-designers/",
-        "title": "La signature et les concepteurs",
-        "category": "Science & Technology",
-        "description": "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
+        "category": "Comparative",
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-shape-of-humanity/",
-        "title": "La forme de l'humanité",
-        "category": "Macro-History",
-        "description": "Le canon appelle l'humanité un organisme unique en gestation, chaque personne une cellule. Cet Explicatif propose la discipline pour l'étudier : la morphologie "
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
+        "category": "Comparative",
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       }
     ],
     "fr/articles/unsealed-in-year-one": [
       {
-        "path": "/fr/articles/the-mill-that-grinds-the-ages/",
-        "title": "Le moulin qui broie les âges",
+        "path": "/fr/articles/the-forty-chairs/",
+        "title": "Les quarante chaises",
         "category": "Comparative",
-        "description": "Comment le tournoiement des âges du monde fut inscrit dans le mythe — le Moulin d'Hamlet, les douze heures du zodiaque, le Mazzaroth hébraïque, et le plus ancie"
+        "description": "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y s"
       },
       {
-        "path": "/fr/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "L'homme qui joua la Bible sur la Lune",
+        "path": "/fr/articles/the-dragon-curve/",
+        "title": "La courbe du dragon",
         "category": "Comparative",
-        "description": "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une d"
+        "description": "Le premier Message raëlien place les dinosaures à côté des oiseaux et ne cite jamais Genèse 1:21 — le seul verset de la Bible de Raël qui nomme les grands drago"
       },
       {
-        "path": "/fr/articles/the-religion-of-religions/",
-        "title": "La religion des religions",
+        "path": "/fr/articles/sendy-and-the-raelian-messages/",
+        "title": "Sendy et les Messages raëliens",
         "category": "Comparative",
-        "description": "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
+        "description": "Les livres de Jean Sendy et le premier Message raëlien comparés passage par passage : lectures communes de la Genèse, commentaire au-delà, hypothèse d’un emprun"
       },
       {
-        "path": "/fr/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "Les manuscrits qui s'éveillèrent en l'an un",
+        "path": "/fr/articles/six-mornings-six-years/",
+        "title": "Six matins, six ans",
         "category": "Comparative",
-        "description": "La pierre d'un berger brisa une jarre au-dessus de la mer Morte en l'an un du calendrier qui compte depuis Hiroshima. Ce que les manuscrits dévoilèrent — et pou"
+        "description": "Les trois livres sources lus comme une seule dictée échelonnée : la géographie de la révélation, la mécanique de la divulgation retenue, et l'examen auquel un f"
       }
     ],
     "fr/news/library-hebrew-bible-nine-languages": [
       {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
         "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
         "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
@@ -456,20 +570,20 @@
         "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
         "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
-      },
-      {
-        "path": "/fr/news/synthetic-cell-eats-and-divides/",
-        "title": "Une cellule synthétique qui se nourrit et se divise",
-        "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
-      },
-      {
-        "path": "/fr/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Communiqué 03 : dossiers multi-agences, l'objet de Cheyenne et le premier cas international",
-        "description": "Le 12 juin 2026, le Département de la Guerre a publié la troisième tranche PURSUE — 53 documents, 10 rendus, 6 vidéos et 3 enregistrements audio de la NASA prov"
       }
     ],
     "fr/news/pursue-release-01-uap-files": [
       {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
         "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
         "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
@@ -478,20 +592,20 @@
         "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
         "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
-      },
-      {
-        "path": "/fr/news/synthetic-cell-eats-and-divides/",
-        "title": "Une cellule synthétique qui se nourrit et se divise",
-        "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
-      },
-      {
-        "path": "/fr/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Communiqué 03 : dossiers multi-agences, l'objet de Cheyenne et le premier cas international",
-        "description": "Le 12 juin 2026, le Département de la Guerre a publié la troisième tranche PURSUE — 53 documents, 10 rendus, 6 vidéos et 3 enregistrements audio de la NASA prov"
       }
     ],
     "fr/news/pursue-release-02-spheres-and-transmedium": [
       {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
         "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
         "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
@@ -500,20 +614,20 @@
         "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
         "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
-      },
-      {
-        "path": "/fr/news/synthetic-cell-eats-and-divides/",
-        "title": "Une cellule synthétique qui se nourrit et se divise",
-        "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
-      },
-      {
-        "path": "/fr/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Communiqué 03 : dossiers multi-agences, l'objet de Cheyenne et le premier cas international",
-        "description": "Le 12 juin 2026, le Département de la Guerre a publié la troisième tranche PURSUE — 53 documents, 10 rendus, 6 vidéos et 3 enregistrements audio de la NASA prov"
       }
     ],
     "fr/news/pursue-release-03-multi-agency-and-international": [
       {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
         "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
         "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
@@ -522,20 +636,20 @@
         "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
         "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
-      },
-      {
-        "path": "/fr/news/synthetic-cell-eats-and-divides/",
-        "title": "Une cellule synthétique qui se nourrit et se divise",
-        "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
-      },
-      {
-        "path": "/fr/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothèque : la Bible hébraïque désormais lisible en neuf langues",
-        "description": "Au 7 juin 2026, chaque livre de la Bible hébraïque dans la bibliothèque de Wheel of Heaven comporte le texte en neuf langues — l'ASV anglaise et huit traduction"
       }
     ],
     "fr/news/pursue-release-04-the-nuclear-nexus": [
       {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
         "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
         "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
@@ -544,20 +658,20 @@
         "path": "/fr/news/synthetic-cell-eats-and-divides/",
         "title": "Une cellule synthétique qui se nourrit et se divise",
         "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
-      },
-      {
-        "path": "/fr/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Communiqué 03 : dossiers multi-agences, l'objet de Cheyenne et le premier cas international",
-        "description": "Le 12 juin 2026, le Département de la Guerre a publié la troisième tranche PURSUE — 53 documents, 10 rendus, 6 vidéos et 3 enregistrements audio de la NASA prov"
-      },
-      {
-        "path": "/fr/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothèque : la Bible hébraïque désormais lisible en neuf langues",
-        "description": "Au 7 juin 2026, chaque livre de la Bible hébraïque dans la bibliothèque de Wheel of Heaven comporte le texte en neuf langues — l'ASV anglaise et huit traduction"
       }
     ],
     "fr/news/pursue-release-05-triangles-and-the-white-house-file": [
       {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
         "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
         "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
@@ -566,19 +680,14 @@
         "path": "/fr/news/synthetic-cell-eats-and-divides/",
         "title": "Une cellule synthétique qui se nourrit et se divise",
         "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
-      },
-      {
-        "path": "/fr/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Communiqué 03 : dossiers multi-agences, l'objet de Cheyenne et le premier cas international",
-        "description": "Le 12 juin 2026, le Département de la Guerre a publié la troisième tranche PURSUE — 53 documents, 10 rendus, 6 vidéos et 3 enregistrements audio de la NASA prov"
-      },
-      {
-        "path": "/fr/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothèque : la Bible hébraïque désormais lisible en neuf langues",
-        "description": "Au 7 juin 2026, chaque livre de la Bible hébraïque dans la bibliothèque de Wheel of Heaven comporte le texte en neuf langues — l'ASV anglaise et huit traduction"
       }
     ],
-    "fr/news/synthetic-cell-eats-and-divides": [
+    "fr/news/pursue-release-06-warp-drives-and-the-tremonton-film": [
+      {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
       {
         "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
@@ -590,14 +699,53 @@
         "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
       },
       {
-        "path": "/fr/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE Communiqué 03 : dossiers multi-agences, l'objet de Cheyenne et le premier cas international",
-        "description": "Le 12 juin 2026, le Département de la Guerre a publié la troisième tranche PURSUE — 53 documents, 10 rendus, 6 vidéos et 3 enregistrements audio de la NASA prov"
+        "path": "/fr/news/synthetic-cell-eats-and-divides/",
+        "title": "Une cellule synthétique qui se nourrit et se divise",
+        "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
+      }
+    ],
+    "fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch": [
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
       },
       {
-        "path": "/fr/news/library-hebrew-bible-nine-languages/",
-        "title": "Bibliothèque : la Bible hébraïque désormais lisible en neuf langues",
-        "description": "Au 7 juin 2026, chaque livre de la Bible hébraïque dans la bibliothèque de Wheel of Heaven comporte le texte en neuf langues — l'ASV anglaise et huit traduction"
+        "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
+        "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
+      },
+      {
+        "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
+        "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
+      },
+      {
+        "path": "/fr/news/synthetic-cell-eats-and-divides/",
+        "title": "Une cellule synthétique qui se nourrit et se divise",
+        "description": "Des scientifiques de l'University of Minnesota ont construit SpudCell, la première cellule synthétique conçue de zéro à accomplir un cycle de vie complet — le s"
+      }
+    ],
+    "fr/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/fr/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE Communiqué 07 : un triangle noir et le ranch de l'Utah",
+        "description": "Le 23 octobre 2026, la septième tranche PURSUE a apporté 28 documents : un triangle noir observé en 2026, le dossier du ranch de l'Utah et une politique de 1963"
+      },
+      {
+        "path": "/fr/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE Communiqué 06 : les moteurs à distorsion et le film de Tremonton",
+        "description": "Le 18 septembre 2026, la sixième tranche PURSUE a apporté 71 fichiers : le fonds DIA sur les moteurs à distorsion, le film de Tremonton (1952) et une première s"
+      },
+      {
+        "path": "/fr/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE Communiqué 05 : les triangles et le dossier de la Maison-Blanche",
+        "description": "Le 7 août 2026, la cinquième tranche PURSUE a apporté 41 fichiers — et deux contributeurs inédits : le Département d'État et le Bureau exécutif du président."
+      },
+      {
+        "path": "/fr/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE Communiqué 04 : le nexus nucléaire, les boules de feu vertes et les dossiers du Département de l'Énergie",
+        "description": "Le 10 juillet 2026, le Département de la Guerre a publié la quatrième tranche PURSUE — 40 fichiers, dont une transcription de boule de feu verte de Los Alamos d"
       }
     ],
     "fr/timeline/age-of-aquarius": [
@@ -903,7 +1051,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/elijah/",
@@ -981,7 +1129,7 @@
         "path": "/fr/wiki/ancient-builders/",
         "title": "Anciens bâtisseurs",
         "category": "Peoples & Groups",
-        "description": "Anciens bâtisseurs est, dans l'usage populaire et d'archéologie alternative, la proposition selon laquelle une ou plusieurs civilisations disparues ou inconnues"
+        "description": "Les Anciens bâtisseurs désignent, dans l'usage populaire et celui de l'archéologie alternative, la thèse selon laquelle une civilisation perdue ou inconnue aura"
       },
       {
         "path": "/fr/wiki/nabataeans/",
@@ -999,7 +1147,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       }
     ],
     "fr/wiki/ancient-astronaut-hypothesis": [
@@ -1051,7 +1199,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       }
     ],
     "fr/wiki/antediluvian": [
@@ -1100,10 +1248,10 @@
         "description": "Babel — voir « Tour de Babel » et « Confusion des langues » pour le récit canonique ; voir « Confusion des langues » pour la lecture par défaut dans le corpus W"
       },
       {
-        "path": "/fr/wiki/confusion-of-tongues/",
-        "title": "Confusion des langues",
+        "path": "/fr/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "La confusion des langues, narrée en Genèse 11, est l'épisode où la langue unique de l'humanité post-diluvienne se fragmente après l'érection de la tour de Babel"
+        "description": "Chaoskampf — le terme savant pour le mythe de combat du Proche-Orient ancien où un dieu de l'orage vainc un monstre marin. Le corpus lit ces mythes sous Théomac"
       }
     ],
     "fr/wiki/archaeoastronomy": [
@@ -1178,18 +1326,18 @@
         "description": "L'arche de Noé est, dans la Genèse, le vaisseau permettant la survie des lignées vivantes pendant le Grand Déluge. Dans le corpus Wheel of Heaven, elle est lue "
       },
       {
-        "path": "/fr/wiki/confusion-of-tongues/",
-        "title": "Confusion des langues",
+        "path": "/fr/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "La confusion des langues, narrée en Genèse 11, est l'épisode où la langue unique de l'humanité post-diluvienne se fragmente après l'érection de la tour de Babel"
+        "description": "Chaoskampf — le terme savant pour le mythe de combat du Proche-Orient ancien où un dieu de l'orage vainc un monstre marin. Le corpus lit ces mythes sous Théomac"
       }
     ],
     "fr/wiki/bible": [
       {
         "path": "/fr/wiki/reference-corpus-of-the-raelian-canon/",
-        "title": "Corpus de référence du canon raélien",
+        "title": "Corpus de référence du canon raëlien",
         "category": "Theology & Traditions",
-        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont"
+        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont"
       },
       {
         "path": "/fr/wiki/hanafiyya/",
@@ -1234,6 +1382,32 @@
         "title": "Mythologie comparée",
         "category": "Methodology",
         "description": "La mythologie comparée est l'étude systématique des correspondances structurelles entre récits mythologiques de cultures distinctes. Pour le corpus Wheel of Hea"
+      }
+    ],
+    "fr/wiki/chaoskampf": [
+      {
+        "path": "/fr/wiki/noahic-covenant/",
+        "title": "Alliance noahique",
+        "category": "Events & Narratives",
+        "description": "L'alliance noahique est, dans la tradition biblique, le pacte conclu entre les Elohim et Noé après le Déluge, garantissant la stabilité écologique du monde post"
+      },
+      {
+        "path": "/fr/wiki/apocalypse/",
+        "title": "Apocalypse",
+        "category": "Events & Narratives",
+        "description": "Apocalypse (grec : ἀποκάλυψις, « dévoilement ») désigne la révélation des choses cachées, et plus particulièrement les écrits eschatologiques qui annoncent une "
+      },
+      {
+        "path": "/fr/wiki/noahs-ark/",
+        "title": "Arche de Noé",
+        "category": "Events & Narratives",
+        "description": "L'arche de Noé est, dans la Genèse, le vaisseau permettant la survie des lignées vivantes pendant le Grand Déluge. Dans le corpus Wheel of Heaven, elle est lue "
+      },
+      {
+        "path": "/fr/wiki/babel/",
+        "title": "Babel",
+        "category": "Events & Narratives",
+        "description": "Babel — voir « Tour de Babel » et « Confusion des langues » pour le récit canonique ; voir « Confusion des langues » pour la lecture par défaut dans le corpus W"
       }
     ],
     "fr/wiki/chronology": [
@@ -1481,7 +1655,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/adamites/",
@@ -1637,7 +1811,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/jesus/",
@@ -1683,7 +1857,7 @@
         "path": "/fr/wiki/elohim/",
         "title": "Élohim",
         "category": "Elohim",
-        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu pluriel utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Dieu. Selon la"
+        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu de forme plurielle utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Die"
       },
       {
         "path": "/fr/wiki/elohimian-space-wars/",
@@ -1709,7 +1883,7 @@
         "path": "/fr/wiki/elohim/",
         "title": "Élohim",
         "category": "Elohim",
-        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu pluriel utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Dieu. Selon la"
+        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu de forme plurielle utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Die"
       },
       {
         "path": "/fr/wiki/elohim-home-planet/",
@@ -1839,7 +2013,7 @@
         "path": "/fr/wiki/hebrew-bible/",
         "title": "Bible hébraïque",
         "category": "Texts & Sources",
-        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est l'entité textuelle-source fondationnelle principale du cadre Wheel of Heaven — le corpus textuel canonique "
+        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est le corpus scripturaire de langue hébraïque en vingt-quatre livres — Torah, Nevi'im et Ketouvim — composé su"
       },
       {
         "path": "/fr/wiki/kabbalah/",
@@ -2051,9 +2225,9 @@
       },
       {
         "path": "/fr/wiki/reference-corpus-of-the-raelian-canon/",
-        "title": "Corpus de référence du canon raélien",
+        "title": "Corpus de référence du canon raëlien",
         "category": "Theology & Traditions",
-        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont"
+        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont"
       },
       {
         "path": "/fr/wiki/hebrew/",
@@ -2077,9 +2251,9 @@
       },
       {
         "path": "/fr/wiki/reference-corpus-of-the-raelian-canon/",
-        "title": "Corpus de référence du canon raélien",
+        "title": "Corpus de référence du canon raëlien",
         "category": "Theology & Traditions",
-        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont"
+        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont"
       },
       {
         "path": "/fr/wiki/hanafiyya/",
@@ -2125,7 +2299,7 @@
         "path": "/fr/wiki/hebrew-bible/",
         "title": "Bible hébraïque",
         "category": "Texts & Sources",
-        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est l'entité textuelle-source fondationnelle principale du cadre Wheel of Heaven — le corpus textuel canonique "
+        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est le corpus scripturaire de langue hébraïque en vingt-quatre livres — Torah, Nevi'im et Ketouvim — composé su"
       },
       {
         "path": "/fr/wiki/genesis/",
@@ -2235,7 +2409,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/elijah/",
@@ -2255,7 +2429,7 @@
         "path": "/fr/wiki/hebrew-bible/",
         "title": "Bible hébraïque",
         "category": "Texts & Sources",
-        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est l'entité textuelle-source fondationnelle principale du cadre Wheel of Heaven — le corpus textuel canonique "
+        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est le corpus scripturaire de langue hébraïque en vingt-quatre livres — Torah, Nevi'im et Ketouvim — composé su"
       },
       {
         "path": "/fr/wiki/genesis/",
@@ -2521,7 +2695,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/elijah/",
@@ -2625,7 +2799,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/elijah/",
@@ -2651,7 +2825,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/elijah/",
@@ -2703,7 +2877,7 @@
         "path": "/fr/wiki/ancient-builders/",
         "title": "Anciens bâtisseurs",
         "category": "Peoples & Groups",
-        "description": "Anciens bâtisseurs est, dans l'usage populaire et d'archéologie alternative, la proposition selon laquelle une ou plusieurs civilisations disparues ou inconnues"
+        "description": "Les Anciens bâtisseurs désignent, dans l'usage populaire et celui de l'archéologie alternative, la thèse selon laquelle une civilisation perdue ou inconnue aura"
       },
       {
         "path": "/fr/wiki/abraham/",
@@ -2715,7 +2889,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       }
     ],
     "fr/wiki/neo-euhemerism": [
@@ -2807,7 +2981,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/elijah/",
@@ -2842,10 +3016,10 @@
         "description": "Babel — voir « Tour de Babel » et « Confusion des langues » pour le récit canonique ; voir « Confusion des langues » pour la lecture par défaut dans le corpus W"
       },
       {
-        "path": "/fr/wiki/confusion-of-tongues/",
-        "title": "Confusion des langues",
+        "path": "/fr/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "La confusion des langues, narrée en Genèse 11, est l'épisode où la langue unique de l'humanité post-diluvienne se fragmente après l'érection de la tour de Babel"
+        "description": "Chaoskampf — le terme savant pour le mythe de combat du Proche-Orient ancien où un dieu de l'orage vainc un monstre marin. Le corpus lit ces mythes sous Théomac"
       }
     ],
     "fr/wiki/noahs-ark": [
@@ -2868,10 +3042,10 @@
         "description": "Babel — voir « Tour de Babel » et « Confusion des langues » pour le récit canonique ; voir « Confusion des langues » pour la lecture par défaut dans le corpus W"
       },
       {
-        "path": "/fr/wiki/confusion-of-tongues/",
-        "title": "Confusion des langues",
+        "path": "/fr/wiki/chaoskampf/",
+        "title": "Chaoskampf",
         "category": "Events & Narratives",
-        "description": "La confusion des langues, narrée en Genèse 11, est l'épisode où la langue unique de l'humanité post-diluvienne se fragmente après l'érection de la tour de Babel"
+        "description": "Chaoskampf — le terme savant pour le mythe de combat du Proche-Orient ancien où un dieu de l'orage vainc un monstre marin. Le corpus lit ces mythes sous Théomac"
       }
     ],
     "fr/wiki/number-of-man": [
@@ -3067,7 +3241,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/adamites/",
@@ -3221,9 +3395,9 @@
       },
       {
         "path": "/fr/wiki/reference-corpus-of-the-raelian-canon/",
-        "title": "Corpus de référence du canon raélien",
+        "title": "Corpus de référence du canon raëlien",
         "category": "Theology & Traditions",
-        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont"
+        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont"
       },
       {
         "path": "/fr/wiki/hanafiyya/",
@@ -3295,7 +3469,7 @@
         "path": "/fr/wiki/elohim/",
         "title": "Élohim",
         "category": "Elohim",
-        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu pluriel utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Dieu. Selon la"
+        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu de forme plurielle utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Die"
       },
       {
         "path": "/fr/wiki/elohimian-space-wars/",
@@ -3399,7 +3573,7 @@
         "path": "/fr/wiki/hebrew-bible/",
         "title": "Bible hébraïque",
         "category": "Texts & Sources",
-        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est l'entité textuelle-source fondationnelle principale du cadre Wheel of Heaven — le corpus textuel canonique "
+        "description": "La Bible hébraïque (hébreu : תָּנָ״ךְ, *Tanakh*) est le corpus scripturaire de langue hébraïque en vingt-quatre livres — Torah, Nevi'im et Ketouvim — composé su"
       },
       {
         "path": "/fr/wiki/genesis/",
@@ -3550,6 +3724,32 @@
         "description": "L'équation de Drake, formulée par l'astronome Frank Drake en 1961, est un cadre paramétrique pour estimer le nombre de civilisations technologiques détectables "
       }
     ],
+    "fr/wiki/tannin": [
+      {
+        "path": "/fr/wiki/tree-of-the-knowledge-of-good-and-evil/",
+        "title": "Arbre de la connaissance du bien et du mal",
+        "category": "Symbolism & Motifs",
+        "description": "L'arbre de la connaissance du bien et du mal est, dans la Genèse, le seuil épistémique dont la transgression marque l'autonomisation de la lignée adamite. Le co"
+      },
+      {
+        "path": "/fr/wiki/dragons/",
+        "title": "Dragons",
+        "category": "Symbolism & Motifs",
+        "description": "Les dragons sont des créatures composites attestées dans presque toutes les mythologies, dont la convergence iconographique a longtemps intrigué la mythologie c"
+      },
+      {
+        "path": "/fr/wiki/star-of-david/",
+        "title": "Étoile de David",
+        "category": "Symbolism & Motifs",
+        "description": "L'étoile de David (<span class=\"hebrew\">מָגֵן דָּוִד</span>, magen David) est l'hexagramme devenu emblème du judaïsme moderne. Le corpus Wheel of Heaven discute"
+      },
+      {
+        "path": "/fr/wiki/sacred-geometry/",
+        "title": "Géométrie sacrée",
+        "category": "Symbolism & Motifs",
+        "description": "La géométrie sacrée est l'ensemble des proportions et figures géométriques récurrentes dans les architectures sacrées et les iconographies religieuses du monde."
+      }
+    ],
     "fr/wiki/terraforming": [
       {
         "path": "/fr/wiki/astrobiology/",
@@ -3611,9 +3811,9 @@
       },
       {
         "path": "/fr/wiki/reference-corpus-of-the-raelian-canon/",
-        "title": "Corpus de référence du canon raélien",
+        "title": "Corpus de référence du canon raëlien",
         "category": "Theology & Traditions",
-        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont"
+        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont"
       },
       {
         "path": "/fr/wiki/hanafiyya/",
@@ -3637,9 +3837,9 @@
       },
       {
         "path": "/fr/wiki/reference-corpus-of-the-raelian-canon/",
-        "title": "Corpus de référence du canon raélien",
+        "title": "Corpus de référence du canon raëlien",
         "category": "Theology & Traditions",
-        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont"
+        "description": "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont"
       },
       {
         "path": "/fr/wiki/hanafiyya/",
@@ -3847,7 +4047,7 @@
         "path": "/fr/wiki/adam-and-eve/",
         "title": "Adam et Ève",
         "category": "Biblical Figures",
-        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque, formés par les Élohim dan"
+        "description": "Adam (hébreu : אָדָם, ʾāḏām) et Ève (hébreu : חַוָּה, ḥawwāh) sont les premiers humains du récit de la Genèse dans la Bible hébraïque — formés par les Élohim da"
       },
       {
         "path": "/fr/wiki/adamites/",
@@ -3893,7 +4093,7 @@
         "path": "/fr/wiki/elohim/",
         "title": "Élohim",
         "category": "Elohim",
-        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu pluriel utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Dieu. Selon la"
+        "description": "Élohim (hébreu : אֱלֹהִים) est le nom hébreu de forme plurielle utilisé tout au long de la Torah pour désigner les figures conventionnellement traduites par Die"
       },
       {
         "path": "/fr/wiki/elohimian-space-wars/",

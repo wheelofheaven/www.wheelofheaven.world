@@ -6,80 +6,158 @@
   "pages": {
     "ja/articles/monotheism-is-the-wrong-question": [
       {
-        "path": "/ja/articles/the-signature-and-the-designers/",
-        "title": "署名と設計者たち",
-        "category": "Science & Technology",
-        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-rain-over-helicon/",
-        "title": "ヘリコンに降る雨",
-        "category": "Comparative Mythology",
-        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-east-face-of-homer/",
-        "title": "ホメロスの東面",
-        "category": "Comparative Mythology",
-        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-world-behind-the-odyssey/",
-        "title": "『オデュッセイア』の背後の世界",
-        "category": "Comparative Mythology",
-        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
+      }
+    ],
+    "ja/articles/sendy-and-the-raelian-messages": [
+      {
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
+      },
+      {
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
+      },
+      {
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
+      },
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+      }
+    ],
+    "ja/articles/six-mornings-six-years": [
+      {
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
+      },
+      {
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
+      },
+      {
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
+      },
+      {
+        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
+        "title": "諸時代を挽く臼",
+        "category": "Comparative",
+        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
       }
     ],
     "ja/articles/the-archdeacon-and-the-dragon": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-book-closest-to-the-truth": [
       {
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
+      },
+      {
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
+      },
+      {
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
+      },
+      {
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
+      }
+    ],
+    "ja/articles/the-dragon-curve": [
+      {
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
+      },
+      {
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
+      },
+      {
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
+      },
+      {
         "path": "/ja/articles/the-mill-that-grinds-the-ages/",
         "title": "諸時代を挽く臼",
         "category": "Comparative",
         "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
-      },
-      {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
-        "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
-      },
-      {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
-        "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
-      },
-      {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
-        "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
       }
     ],
     "ja/articles/the-east-face-of-homer": [
@@ -96,146 +174,172 @@
         "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
       },
       {
-        "path": "/ja/articles/the-signature-and-the-designers/",
-        "title": "署名と設計者たち",
-        "category": "Science & Technology",
-        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-shape-of-humanity/",
-        "title": "人類の形",
-        "category": "Macro-History",
-        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       }
     ],
     "ja/articles/the-first-mosques-faced-petra-not-mecca": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-flood-was-a-reset-not-a-punishment": [
       {
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
+      },
+      {
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
+      },
+      {
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
+      },
+      {
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
+      }
+    ],
+    "ja/articles/the-forty-chairs": [
+      {
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
+      },
+      {
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
+      },
+      {
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
+      },
+      {
         "path": "/ja/articles/the-mill-that-grinds-the-ages/",
         "title": "諸時代を挽く臼",
         "category": "Comparative",
         "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
-      },
-      {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
-        "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
-      },
-      {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
-        "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
-      },
-      {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
-        "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
       }
     ],
     "ja/articles/the-infinite-in-both-directions": [
       {
-        "path": "/ja/articles/the-signature-and-the-designers/",
-        "title": "署名と設計者たち",
-        "category": "Science & Technology",
-        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-rain-over-helicon/",
-        "title": "ヘリコンに降る雨",
-        "category": "Comparative Mythology",
-        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-east-face-of-homer/",
-        "title": "ホメロスの東面",
-        "category": "Comparative Mythology",
-        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-world-behind-the-odyssey/",
-        "title": "『オデュッセイア』の背後の世界",
-        "category": "Comparative Mythology",
-        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-man-who-bet-the-bible-on-the-moon": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "元年に目覚めた巻物",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-mill-that-grinds-the-ages": [
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "元年に目覚めた巻物",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-rain-over-helicon": [
@@ -252,146 +356,146 @@
         "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
       },
       {
-        "path": "/ja/articles/the-signature-and-the-designers/",
-        "title": "署名と設計者たち",
-        "category": "Science & Technology",
-        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-shape-of-humanity/",
-        "title": "人類の形",
-        "category": "Macro-History",
-        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       }
     ],
     "ja/articles/the-religion-of-religions": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "元年に目覚めた巻物",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-scrolls-that-woke-in-year-one": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-shape-of-humanity": [
       {
-        "path": "/ja/articles/the-signature-and-the-designers/",
-        "title": "署名と設計者たち",
-        "category": "Science & Technology",
-        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-rain-over-helicon/",
-        "title": "ヘリコンに降る雨",
-        "category": "Comparative Mythology",
-        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-east-face-of-homer/",
-        "title": "ホメロスの東面",
-        "category": "Comparative Mythology",
-        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-world-behind-the-odyssey/",
-        "title": "『オデュッセイア』の背後の世界",
-        "category": "Comparative Mythology",
-        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-signature-and-the-designers": [
       {
-        "path": "/ja/articles/the-rain-over-helicon/",
-        "title": "ヘリコンに降る雨",
-        "category": "Comparative Mythology",
-        "description": "M・L・ウェストはギリシア神話を東へとたどりました。ヘシオドス、ホメロス、ギルガメシュ、神々の戦い、詩の技法、そしてエーゲ海における借用の限界についての、厳密な監査です。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-east-face-of-homer/",
-        "title": "ホメロスの東面",
-        "category": "Comparative Mythology",
-        "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-world-behind-the-odyssey/",
-        "title": "『オデュッセイア』の背後の世界",
-        "category": "Comparative Mythology",
-        "description": "クリストファー・ノーランはオデュッセウスを再びスクリーンに甦らせました。ホメロスの叙事詩の背後には、神々と怪物と記憶からなるより古い世界が横たわっています——本稿はそれを発掘する解説です。"
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
+        "category": "Comparative",
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-shape-of-humanity/",
-        "title": "人類の形",
-        "category": "Macro-History",
-        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
+        "category": "Comparative",
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-translators-wager": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/unsealed-in-year-one/",
-        "title": "元年に封を解かれて",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "新しい時代の元年、一人のベドウィンの羊飼いが死海の洞窟で壺を割り開けました。その中の書物は、終わりの時を待って十九世紀ものあいだ眠っていたのです。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/articles/the-world-behind-the-odyssey": [
@@ -408,46 +512,56 @@
         "description": "ホメロスがバビロンに負うものは、文書によって裏づけられた学問です。その借用が証明するもの、証明しえないもの、そしてカノンがギリシアをエロヒムの圏域の内にいかに読むか。"
       },
       {
-        "path": "/ja/articles/the-signature-and-the-designers/",
-        "title": "署名と設計者たち",
-        "category": "Science & Technology",
-        "description": "スティーヴン・マイヤーは、生命の背後にある精神は超越的でなければならないと言います。設計をめぐる論争をラエリアンのカノンを通して読めば、設計者は身体をもち——そして造り手をもちます。"
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
+        "category": "Comparative",
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-shape-of-humanity/",
-        "title": "人類の形",
-        "category": "Macro-History",
-        "description": "カノンは人類を、妊娠中の単一の有機体——各人はその一つの細胞——と呼ぶ。この解説はそれを研究する学問、すなわち文明形態学を提案する。"
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
+        "category": "Comparative",
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       }
     ],
     "ja/articles/unsealed-in-year-one": [
       {
-        "path": "/ja/articles/the-mill-that-grinds-the-ages/",
-        "title": "諸時代を挽く臼",
+        "path": "/ja/articles/the-forty-chairs/",
+        "title": "四十の椅子",
         "category": "Comparative",
-        "description": "世界の諸時代の回転はいかにして神話へと書き込まれたか——ハムレットの臼、黄道の十二時間、ヘブライ語のマザロート、そして最古の幸運のしるし。"
+        "description": "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
       },
       {
-        "path": "/ja/articles/the-man-who-bet-the-bible-on-the-moon/",
-        "title": "聖書を月に賭けた男",
+        "path": "/ja/articles/the-dragon-curve/",
+        "title": "ドラゴン曲線",
         "category": "Comparative",
-        "description": "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
+        "description": "ラエリアンの最初のメッセージは恐竜を鳥と並べて置きながら、創世記1章21節を一度も引用しません。それは、ラエル自身の聖書で大いなる竜の名を挙げる唯一の節です。"
       },
       {
-        "path": "/ja/articles/the-religion-of-religions/",
-        "title": "諸宗教の宗教",
+        "path": "/ja/articles/sendy-and-the-raelian-messages/",
+        "title": "サンディとラエリアンのメッセージ",
         "category": "Comparative",
-        "description": "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
+        "description": "ジャン・サンディの著作とラエリアンの最初のメッセージを一節ずつ比較します。創世記の共有された読解、その先の注解、そして借用説の当否を検討します。"
       },
       {
-        "path": "/ja/articles/the-scrolls-that-woke-in-year-one/",
-        "title": "元年に目覚めた巻物",
+        "path": "/ja/articles/six-mornings-six-years/",
+        "title": "六つの朝、六つの年",
         "category": "Comparative",
-        "description": "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
+        "description": "三つの原典を一つの段階的な口述として読む——啓示の地理、留保された開示の機構、そして偽作者であれば落第するはずの監査。"
       }
     ],
     "ja/news/library-hebrew-bible-nine-languages": [
       {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
         "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
         "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
@@ -456,20 +570,20 @@
         "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
         "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
-      },
-      {
-        "path": "/ja/news/synthetic-cell-eats-and-divides/",
-        "title": "食べて分裂する合成細胞",
-        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
-      },
-      {
-        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
-        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
       }
     ],
     "ja/news/pursue-release-01-uap-files": [
       {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
         "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
         "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
@@ -478,20 +592,20 @@
         "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
         "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
-      },
-      {
-        "path": "/ja/news/synthetic-cell-eats-and-divides/",
-        "title": "食べて分裂する合成細胞",
-        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
-      },
-      {
-        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
-        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
       }
     ],
     "ja/news/pursue-release-02-spheres-and-transmedium": [
       {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
         "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
         "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
@@ -500,20 +614,20 @@
         "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
         "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
-      },
-      {
-        "path": "/ja/news/synthetic-cell-eats-and-divides/",
-        "title": "食べて分裂する合成細胞",
-        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
-      },
-      {
-        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
-        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
       }
     ],
     "ja/news/pursue-release-03-multi-agency-and-international": [
       {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
         "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
         "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
@@ -522,20 +636,20 @@
         "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
         "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
-      },
-      {
-        "path": "/ja/news/synthetic-cell-eats-and-divides/",
-        "title": "食べて分裂する合成細胞",
-        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
-      },
-      {
-        "path": "/ja/news/library-hebrew-bible-nine-languages/",
-        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
-        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
       }
     ],
     "ja/news/pursue-release-04-the-nuclear-nexus": [
       {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
         "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
         "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
@@ -544,20 +658,20 @@
         "path": "/ja/news/synthetic-cell-eats-and-divides/",
         "title": "食べて分裂する合成細胞",
         "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
-      },
-      {
-        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
-        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
-      },
-      {
-        "path": "/ja/news/library-hebrew-bible-nine-languages/",
-        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
-        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
       }
     ],
     "ja/news/pursue-release-05-triangles-and-the-white-house-file": [
       {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
         "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
         "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
         "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
@@ -566,19 +680,14 @@
         "path": "/ja/news/synthetic-cell-eats-and-divides/",
         "title": "食べて分裂する合成細胞",
         "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
-      },
-      {
-        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
-        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
-      },
-      {
-        "path": "/ja/news/library-hebrew-bible-nine-languages/",
-        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
-        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
       }
     ],
-    "ja/news/synthetic-cell-eats-and-divides": [
+    "ja/news/pursue-release-06-warp-drives-and-the-tremonton-film": [
+      {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
       {
         "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
         "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
@@ -590,14 +699,53 @@
         "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
       },
       {
-        "path": "/ja/news/pursue-release-03-multi-agency-and-international/",
-        "title": "PURSUE第03弾リリース：複数機関ファイル、シャイアン物体、そして初の国際事例",
-        "description": "2026年6月12日、戦争省はPURSUE第3弾を公開しました。CIA、FBI、NASA、ペンタゴンから53点の文書、10点のレンダリング、6本の動画、3点のNASA音声記録が含まれます。"
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      }
+    ],
+    "ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch": [
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
       },
       {
-        "path": "/ja/news/library-hebrew-bible-nine-languages/",
-        "title": "ライブラリ:ヘブライ語聖書が9言語で読めるようになりました",
-        "description": "2026年6月7日現在、Wheel of Heavenライブラリのすべてのヘブライ語聖書の書は9言語で提供されています——英語ASVに加え、輸入された8つのパブリックドメイン訳です。"
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
+      },
+      {
+        "path": "/ja/news/synthetic-cell-eats-and-divides/",
+        "title": "食べて分裂する合成細胞",
+        "description": "ミネソタ大学の科学者たちは、ゼロから組み立てられ完全な生命周期をやり遂げた初の合成細胞「SpudCell」を作り出した ― 正典がエロヒムの文明はかつて越えたと語る、まさにその閾である。"
+      }
+    ],
+    "ja/news/synthetic-cell-eats-and-divides": [
+      {
+        "path": "/ja/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/",
+        "title": "PURSUE第07弾リリース：黒い三角形とユタの牧場",
+        "description": "2026年10月23日、PURSUE第07弾として28点の文書が公開されました。2026年の黒い三角形の聴取記録、ユタの牧場のファイル、そして1963年の宇宙破片に関する方針が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-06-warp-drives-and-the-tremonton-film/",
+        "title": "PURSUE第06弾リリース：ワープ・ドライブとトレモントンのフィルム",
+        "description": "2026年9月18日、戦争省はPURSUE第06弾として71点のファイルを公開しました。国防情報局（DIA）のワープ・ドライブ参考文献棚、1952年のトレモントンのフィルム、そして初めての地方警察のソースが含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-05-triangles-and-the-white-house-file/",
+        "title": "PURSUE第05弾リリース：三角形とホワイトハウスのファイル",
+        "description": "2026年8月7日、戦争省はPURSUE第5弾として41点のファイルを公開しました。国務省と大統領府が初めて寄与機関に加わり、2002年バグラム上空の三角形、2021年オマーン湾の「冷たいオーブ」、1963年ブラジル・バイーアの球体報道の記録が含まれます。"
+      },
+      {
+        "path": "/ja/news/pursue-release-04-the-nuclear-nexus/",
+        "title": "PURSUE第04弾リリース：核の結節点、緑色の火球、そしてエネルギー省のファイル",
+        "description": "2026年7月10日、戦争省はPURSUE第4弾を公開しました。1949年のロスアラモス緑色火球の記録と、2015年のパンテックス核兵器工場上空への侵入事案を含む40点のファイルが含まれます。"
       }
     ],
     "ja/timeline/age-of-aquarius": [
@@ -622,7 +770,7 @@
     "ja/timeline/age-of-aries": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -641,7 +789,7 @@
     "ja/timeline/age-of-cancer": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -661,7 +809,7 @@
     "ja/timeline/age-of-capricorn": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -681,7 +829,7 @@
     "ja/timeline/age-of-gemini": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -701,7 +849,7 @@
     "ja/timeline/age-of-leo": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -721,7 +869,7 @@
     "ja/timeline/age-of-libra": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -741,7 +889,7 @@
     "ja/timeline/age-of-pisces": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -761,7 +909,7 @@
     "ja/timeline/age-of-sagittarius": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -781,7 +929,7 @@
     "ja/timeline/age-of-scorpio": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -801,7 +949,7 @@
     "ja/timeline/age-of-taurus": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -821,7 +969,7 @@
     "ja/timeline/age-of-virgo": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -841,7 +989,7 @@
     "ja/timeline/in-the-beginning": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -861,7 +1009,7 @@
     "ja/timeline/preamble": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -881,7 +1029,7 @@
     "ja/timeline/the-wheel-keeps-turning": [
       {
         "path": "/ja/timeline/age-of-aquarius/",
-        "title": "みずがめ座の時代",
+        "title": "水瓶座の時代",
         "description": "大年の十二番目にして現在の時代 — 啓示の時代であり、これまでの全時代に蓄積された内容が、ついにそれを理解する備えを整えた人類にとって読み解き可能となる時代。1946年の閾値、1973年のコンタクト、大使館計画、黄金時代、そして人類が最終的に創造の循環に参加すること。"
       },
       {
@@ -903,7 +1051,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/jesus/",
@@ -952,6 +1100,12 @@
     ],
     "ja/wiki/adamite-struggle": [
       {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
+      },
+      {
         "path": "/ja/wiki/serpentine-rebellion/",
         "title": "セルパント反乱",
         "category": "Events & Narratives",
@@ -968,12 +1122,6 @@
         "title": "ノアの箱舟",
         "category": "Events & Narratives",
         "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahic-covenant/",
-        "title": "ノア契約",
-        "category": "Events & Narratives",
-        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
       }
     ],
     "ja/wiki/adamites": [
@@ -987,7 +1135,7 @@
         "path": "/ja/wiki/ancient-builders/",
         "title": "古代の建設者",
         "category": "Peoples & Groups",
-        "description": "「古代の建設者」とは、大衆的および代替考古学の用法において、エジプトのピラミッド、ストーンヘンジ、サクサイワマンおよびマチュ・ピチュのアンデス巨石遺跡、イースター島のモアイ、マルタの巨石神殿などを含む、世界的に見出される実質的な古代石造記念物の多くを、失われたまたは未知の一つまたは複数の文明が建造したとする命題である。"
+        "description": "古代の建設者とは、大衆的な用法や代替考古学の用法において、世界の巨大な石造記念物の多く、すなわちエジプトのピラミッド、バールベック、サクサイワマンとプマ・プンク、イースター島のモアイ、マルタの神殿、ギョベクリ・テペを、失われた、あるいは未知の文明が築いたとする説です。その論拠は、これらの建造が、通常その功績を帰されてい"
       },
       {
         "path": "/ja/wiki/pursue/",
@@ -1071,7 +1219,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
@@ -1085,7 +1233,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -1098,12 +1252,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/archaeoastronomy": [
@@ -1163,7 +1311,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -1176,12 +1330,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/bible": [
@@ -1236,6 +1384,32 @@
         "description": "古代宇宙飛行士仮説は、地球外の知性が先史および古代に地球を訪れ、人類文明の発展に決定的な痕跡を残したと主張する。Wheel of Heaven の文脈はその規律化されたヴァリアントであり、ラエル文献のエロヒム的グリッドを通して読み解く。"
       }
     ],
+    "ja/wiki/chaoskampf": [
+      {
+        "path": "/ja/wiki/adamite-struggle/",
+        "title": "アダム系統の闘争",
+        "category": "Events & Narratives",
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/serpentine-rebellion/",
+        "title": "セルパント反乱",
+        "category": "Events & Narratives",
+        "description": "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
+      },
+      {
+        "path": "/ja/wiki/sodom-and-gomorrah/",
+        "title": "ソドムとゴモラ",
+        "category": "Events & Narratives",
+        "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
+      },
+      {
+        "path": "/ja/wiki/noahs-ark/",
+        "title": "ノアの箱舟",
+        "category": "Events & Narratives",
+        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
+      }
+    ],
     "ja/wiki/chronology": [
       {
         "path": "/ja/wiki/samsara/",
@@ -1253,7 +1427,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
@@ -1293,7 +1467,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -1306,12 +1486,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/cosmic-chain": [
@@ -1487,7 +1661,7 @@
         "path": "/ja/wiki/wheel-of-heaven/",
         "title": "Wheel of Heaven",
         "category": "Meta",
-        "description": "Wheel of Heaven は、啓示・宇宙的年代論・古代の記憶・聖なる歴史・現代における再解釈を中心に据えた、整理された比較知識プロジェクトであり、解釈枠組みの名称でもあり、それを言語化する文献集の名称でもあります。プロジェクトの作業仮説は次のとおりです。地球上の生命は、ヘブライ語聖書において *エロヒム* と呼ば"
+        "description": "Wheel of Heaven は、啓示、宇宙的年代論、古代の記憶、聖なる歴史、現代における再解釈を中心とする、編纂された比較知識プロジェクトです。この名は一つの解釈枠組みの名称であると同時に、それを言語化する文献集の名称でもあります。プロジェクトの作業仮説は次のとおりです。地球の生命は、ヘブライ語聖書で*エロヒム*と"
       },
       {
         "path": "/ja/wiki/astrobiology/",
@@ -1556,6 +1730,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/menorah/",
         "title": "メノラー",
         "category": "Symbolism & Motifs",
@@ -1566,12 +1746,6 @@
         "title": "ラエル運動の無限のシンボル",
         "category": "Symbolism & Motifs",
         "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
-      },
-      {
-        "path": "/ja/wiki/leviathan/",
-        "title": "レヴィアタン",
-        "category": "Symbolism & Motifs",
-        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
       }
     ],
     "ja/wiki/drake-equation": [
@@ -1631,7 +1805,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/abraham/",
@@ -1683,7 +1857,7 @@
         "path": "/ja/wiki/elohim/",
         "title": "エロヒム",
         "category": "Elohim",
-        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられる、形のうえで複数形のヘブライ語名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的"
       },
       {
         "path": "/ja/wiki/elohimian-space-wars/",
@@ -1709,7 +1883,7 @@
         "path": "/ja/wiki/elohim/",
         "title": "エロヒム",
         "category": "Elohim",
-        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられる、形のうえで複数形のヘブライ語名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的"
       },
       {
         "path": "/ja/wiki/elohim-home-planet/",
@@ -1764,6 +1938,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -1774,12 +1954,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/four-levels": [
@@ -1857,7 +2031,7 @@
         "path": "/ja/wiki/hebrew-bible/",
         "title": "ヘブライ語聖書",
         "category": "Texts & Sources",
-        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+        "description": "ヘブライ語聖書（ヘブライ語：תָּנָ״ךְ、*タナハ*）は、トーラー、ネビイーム、ケトゥビームからなる二十四書のヘブライ語の聖典集成であり、およそ十二世紀にわたって成立し、マソラの伝統を通じて保存されてきました。Wheel of Heavenの枠組みにおいて、これは本文献集が読む第一の典拠です。宗教的神話ではなく、エ"
       }
     ],
     "ja/wiki/genetic-engineering": [
@@ -1929,7 +2103,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
@@ -1943,7 +2117,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -1956,12 +2136,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/great-month": [
@@ -1981,7 +2155,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/antediluvian/",
@@ -1995,7 +2169,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -2008,12 +2188,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/great-year": [
@@ -2137,7 +2311,7 @@
         "path": "/ja/wiki/hebrew-bible/",
         "title": "ヘブライ語聖書",
         "category": "Texts & Sources",
-        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+        "description": "ヘブライ語聖書（ヘブライ語：תָּנָ״ךְ、*タナハ*）は、トーラー、ネビイーム、ケトゥビームからなる二十四書のヘブライ語の聖典集成であり、およそ十二世紀にわたって成立し、マソラの伝統を通じて保存されてきました。Wheel of Heavenの枠組みにおいて、これは本文献集が読む第一の典拠です。宗教的神話ではなく、エ"
       },
       {
         "path": "/ja/wiki/genesis/",
@@ -2229,7 +2403,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/abraham/",
@@ -2267,7 +2441,7 @@
         "path": "/ja/wiki/hebrew-bible/",
         "title": "ヘブライ語聖書",
         "category": "Texts & Sources",
-        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+        "description": "ヘブライ語聖書（ヘブライ語：תָּנָ״ךְ、*タナハ*）は、トーラー、ネビイーム、ケトゥビームからなる二十四書のヘブライ語の聖典集成であり、およそ十二世紀にわたって成立し、マソラの伝統を通じて保存されてきました。Wheel of Heavenの枠組みにおいて、これは本文献集が読む第一の典拠です。宗教的神話ではなく、エ"
       },
       {
         "path": "/ja/wiki/genesis/",
@@ -2284,6 +2458,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -2294,12 +2474,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/life-engineering": [
@@ -2515,7 +2689,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/abraham/",
@@ -2570,6 +2744,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -2580,12 +2760,6 @@
         "title": "ラエル運動の無限のシンボル",
         "category": "Symbolism & Motifs",
         "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
-      },
-      {
-        "path": "/ja/wiki/leviathan/",
-        "title": "レヴィアタン",
-        "category": "Symbolism & Motifs",
-        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
       }
     ],
     "ja/wiki/military-cover-up-of-exobiology": [
@@ -2619,7 +2793,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/abraham/",
@@ -2645,7 +2819,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/abraham/",
@@ -2674,6 +2848,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -2684,12 +2864,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/nabataeans": [
@@ -2703,7 +2877,7 @@
         "path": "/ja/wiki/ancient-builders/",
         "title": "古代の建設者",
         "category": "Peoples & Groups",
-        "description": "「古代の建設者」とは、大衆的および代替考古学の用法において、エジプトのピラミッド、ストーンヘンジ、サクサイワマンおよびマチュ・ピチュのアンデス巨石遺跡、イースター島のモアイ、マルタの巨石神殿などを含む、世界的に見出される実質的な古代石造記念物の多くを、失われたまたは未知の一つまたは複数の文明が建造したとする命題である。"
+        "description": "古代の建設者とは、大衆的な用法や代替考古学の用法において、世界の巨大な石造記念物の多く、すなわちエジプトのピラミッド、バールベック、サクサイワマンとプマ・プンク、イースター島のモアイ、マルタの神殿、ギョベクリ・テペを、失われた、あるいは未知の文明が築いたとする説です。その論拠は、これらの建造が、通常その功績を帰されてい"
       },
       {
         "path": "/ja/wiki/pursue/",
@@ -2801,7 +2975,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       },
       {
         "path": "/ja/wiki/abraham/",
@@ -2827,7 +3001,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -2840,12 +3020,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/noahs-ark": [
@@ -2853,7 +3027,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -2866,12 +3046,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahic-covenant/",
-        "title": "ノア契約",
-        "category": "Events & Narratives",
-        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
       }
     ],
     "ja/wiki/number-of-man": [
@@ -2880,6 +3054,12 @@
         "title": "ダビデの星",
         "category": "Symbolism & Motifs",
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
       },
       {
         "path": "/ja/wiki/dragons/",
@@ -2892,12 +3072,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/pangaea": [
@@ -3047,7 +3221,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
@@ -3073,7 +3247,7 @@
         "path": "/ja/wiki/wheel-of-heaven/",
         "title": "Wheel of Heaven",
         "category": "Meta",
-        "description": "Wheel of Heaven は、啓示・宇宙的年代論・古代の記憶・聖なる歴史・現代における再解釈を中心に据えた、整理された比較知識プロジェクトであり、解釈枠組みの名称でもあり、それを言語化する文献集の名称でもあります。プロジェクトの作業仮説は次のとおりです。地球上の生命は、ヘブライ語聖書において *エロヒム* と呼ば"
+        "description": "Wheel of Heaven は、啓示、宇宙的年代論、古代の記憶、聖なる歴史、現代における再解釈を中心とする、編纂された比較知識プロジェクトです。この名は一つの解釈枠組みの名称であると同時に、それを言語化する文献集の名称でもあります。プロジェクトの作業仮説は次のとおりです。地球の生命は、ヘブライ語聖書で*エロヒム*と"
       },
       {
         "path": "/ja/wiki/astrobiology/",
@@ -3142,6 +3316,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -3152,12 +3332,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/leviathan/",
-        "title": "レヴィアタン",
-        "category": "Symbolism & Motifs",
-        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
       }
     ],
     "ja/wiki/raelism": [
@@ -3246,6 +3420,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -3256,12 +3436,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/samsara": [
@@ -3275,7 +3449,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
@@ -3295,7 +3469,7 @@
         "path": "/ja/wiki/elohim/",
         "title": "エロヒム",
         "category": "Elohim",
-        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられる、形のうえで複数形のヘブライ語名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的"
       },
       {
         "path": "/ja/wiki/elohim-home-planet/",
@@ -3350,6 +3524,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -3360,12 +3540,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/serpentine-rebellion": [
@@ -3373,7 +3547,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/sodom-and-gomorrah/",
@@ -3386,12 +3566,6 @@
         "title": "ノアの箱舟",
         "category": "Events & Narratives",
         "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahic-covenant/",
-        "title": "ノア契約",
-        "category": "Events & Narratives",
-        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
       }
     ],
     "ja/wiki/shiur-qomah": [
@@ -3411,7 +3585,7 @@
         "path": "/ja/wiki/hebrew-bible/",
         "title": "ヘブライ語聖書",
         "category": "Texts & Sources",
-        "description": "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、Wheel of Heaven フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要"
+        "description": "ヘブライ語聖書（ヘブライ語：תָּנָ״ךְ、*タナハ*）は、トーラー、ネビイーム、ケトゥビームからなる二十四書のヘブライ語の聖典集成であり、およそ十二世紀にわたって成立し、マソラの伝統を通じて保存されてきました。Wheel of Heavenの枠組みにおいて、これは本文献集が読む第一の典拠です。宗教的神話ではなく、エ"
       },
       {
         "path": "/ja/wiki/genesis/",
@@ -3425,7 +3599,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -3438,15 +3618,15 @@
         "title": "ノアの箱舟",
         "category": "Events & Narratives",
         "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahic-covenant/",
-        "title": "ノア契約",
-        "category": "Events & Narratives",
-        "description": "ノア契約は、聖書伝統において、洪水後にエロヒムとノアの間で結ばれた契約であり、洪水後世界の生態学的安定を保証するものである。Wheel of Heaven はこれを、洪水後時代のエロヒム=人類間相互作用の最初の安定したプロトコルとして読む。"
       }
     ],
     "ja/wiki/star-of-david": [
+      {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
       {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
@@ -3464,12 +3644,6 @@
         "title": "ラエル運動の無限のシンボル",
         "category": "Symbolism & Motifs",
         "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
-      },
-      {
-        "path": "/ja/wiki/leviathan/",
-        "title": "レヴィアタン",
-        "category": "Symbolism & Motifs",
-        "description": "レヴィアタン — Wheel of Heaven の文脈における原初的複合存在の正典的扱いについては「ドラゴン」を参照。"
       }
     ],
     "ja/wiki/swastika": [
@@ -3480,6 +3654,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -3490,12 +3670,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/synthetic-biology": [
@@ -3548,6 +3722,32 @@
         "title": "ドレイクの方程式",
         "category": "Science & Technology",
         "description": "ドレイクの方程式は、1961年に天文学者フランク・ドレイクによって定式化された、銀河系内で検出可能な技術文明の数を見積もるためのパラメトリックな枠組みである。Wheel of Heaven はそれを宇宙多元論の現代における科学的表現として言及する。"
+      }
+    ],
+    "ja/wiki/tannin": [
+      {
+        "path": "/ja/wiki/star-of-david/",
+        "title": "ダビデの星",
+        "category": "Symbolism & Motifs",
+        "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
+      },
+      {
+        "path": "/ja/wiki/dragons/",
+        "title": "ドラゴン",
+        "category": "Symbolism & Motifs",
+        "description": "ドラゴンは、ほぼ全ての神話に証言される複合的な存在であり、その図像学的収束は比較神話学にとって長く謎であり続けてきた。Wheel of Heaven はこれを、異なる時代に観察されたエロヒムの装置または生物の記憶的圧縮として読む。"
+      },
+      {
+        "path": "/ja/wiki/menorah/",
+        "title": "メノラー",
+        "category": "Symbolism & Motifs",
+        "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
+      },
+      {
+        "path": "/ja/wiki/raelian-symbol-of-infinity/",
+        "title": "ラエル運動の無限のシンボル",
+        "category": "Symbolism & Motifs",
+        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/terraforming": [
@@ -3659,7 +3859,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -3672,12 +3878,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/third-temple": [
@@ -3711,7 +3911,13 @@
         "path": "/ja/wiki/adamite-struggle/",
         "title": "アダム系統の闘争",
         "category": "Events & Narratives",
-        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+        "description": "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
+      },
+      {
+        "path": "/ja/wiki/chaoskampf/",
+        "title": "カオスカンプ",
+        "category": "Events & Narratives",
+        "description": "カオスカンプ（Chaoskampf）は、嵐の神が海の怪物を打ち倒す古代オリエントの戦闘神話を指す学術用語です。本コーパスではこれらの神話を「神々の戦い」の項で読み解きます。"
       },
       {
         "path": "/ja/wiki/serpentine-rebellion/",
@@ -3724,12 +3930,6 @@
         "title": "ソドムとゴモラ",
         "category": "Events & Narratives",
         "description": "ソドムとゴモラは、創世記において、その腐敗のために天から降る火によって滅ぼされた二つの都市である。Wheel of Heaven の文脈では、その破壊は、地球上の標的に対するエロヒムの技術兵器使用の最もよく記録された事例の一つとして読まれる。"
-      },
-      {
-        "path": "/ja/wiki/noahs-ark/",
-        "title": "ノアの箱舟",
-        "category": "Events & Narratives",
-        "description": "ノアの箱舟は、創世記において、大洪水の間に生命系統を生き延びさせる船である。Wheel of Heaven の文脈では、それは地球の生物多様性を保存するためにエロヒムの仕様に従って設計された運用可能な遺伝バンクとして読まれる。"
       }
     ],
     "ja/wiki/tree-of-life": [
@@ -3766,6 +3966,12 @@
         "description": "ダビデの星(<span class=\"hebrew\">מָגֵן דָּוִד</span>、マゲン・ダビデ)は、現代ユダヤ教の象徴となった六芒星である。Wheel of Heaven は、その反復的幾何学マーカーとしての機能と、イスラエル民族との後発的結合について論じる。"
       },
       {
+        "path": "/ja/wiki/tannin/",
+        "title": "タンニーン",
+        "category": "Symbolism & Motifs",
+        "description": "タンニーン（תַּנִּין）は、創世記1章21節に名が挙がる、蛇・竜・海の怪物の類を指すヘブライ語聖書の語です。本コーパスでは「竜」の項で扱います。"
+      },
+      {
         "path": "/ja/wiki/dragons/",
         "title": "ドラゴン",
         "category": "Symbolism & Motifs",
@@ -3776,12 +3982,6 @@
         "title": "メノラー",
         "category": "Symbolism & Motifs",
         "description": "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
-      },
-      {
-        "path": "/ja/wiki/raelian-symbol-of-infinity/",
-        "title": "ラエル運動の無限のシンボル",
-        "category": "Symbolism & Motifs",
-        "description": "ラエル運動の無限のシンボルは、ダビデの星と卍を組み合わせたものであり、その結合はエロヒム的記憶に根ざした無限の循環を凝縮する。Wheel of Heaven は、両記号の比較史を背景にその記号論を論じる。"
       }
     ],
     "ja/wiki/ufology": [
@@ -3859,7 +4059,7 @@
         "path": "/ja/wiki/adam-and-eve/",
         "title": "アダムとエバ",
         "category": "Biblical Figures",
-        "description": "アダム(ヘブライ語:אָדָם、ʾāḏām)とエバ(ヘブライ語:חַוָּה、ḥawwāh)は、ヘブライ語聖書の創世記物語における最初の人類であり、エデンの園においてエロヒムによって形作られ、善悪の知識の樹に関する禁令を与えられ、その樹から食べた後に園から追放された。ラエル文献資料において展開され Wheel of H"
+        "description": "アダム（ヘブライ語：אָדָם、ʾāḏām）とエバ（ヘブライ語：חַוָּה、ḥawwāh）は、ヘブライ語聖書の創世記物語における最初の人間です。エデンの園でエロヒムによって形づくられ、善悪の知識の樹に関する禁令を与えられ、その実を食べた後に追放されました。ラエルの典拠資料に基づくWheel of Heavenの読解で"
       }
     ],
     "ja/wiki/world-age": [
@@ -3873,7 +4073,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
@@ -3893,7 +4093,7 @@
         "path": "/ja/wiki/elohim/",
         "title": "エロヒム",
         "category": "Elohim",
-        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を"
+        "description": "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられる、形のうえで複数形のヘブライ語名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的"
       },
       {
         "path": "/ja/wiki/elohim-home-planet/",
@@ -3931,7 +4131,7 @@
         "path": "/ja/wiki/great-year/",
         "title": "大年",
         "category": "Cosmic Chronology",
-        "description": "大年は、地軸の歳差運動の一完全周期 ― 地球の自転軸が恒星を背景として一つの完全な円錐を描き出すのに要する期間であり、春分点が黄道を一周する期間に等しい ― である。現代天文学的測定では、大年は約25,772年である。占星学的伝統の計算では、25,920年(便利な数値 2⁶ × 3⁴ × 5 であり、360° × 歳差"
+        "description": "大年とは、地軸の歳差運動の一完全周期、すなわち地球の自転軸が恒星を背景に一つの完全な円錐を描くのに要する期間であり、春分点が黄道を一周する期間に等しいものです。現代の天文学的測定では約25,772年、古い占星術の計算では25,920年で、これは360°に歳差移動1度あたり72年を掛けた端数のない数値です(2⁶ × 3⁴"
       },
       {
         "path": "/ja/wiki/great-month/",
