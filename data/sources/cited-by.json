@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:25:27+00:00",
+  "generated_at": "2026-11-08T17:23:42+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -1314,6 +1314,11 @@
         }
       ],
       "cite_count": 3
+    },
+    {
+      "id": "book-of-moses",
+      "cited_by": [],
+      "cite_count": 0
     },
     {
       "id": "born-in-heaven-made-on-earth-the-making-of-the-cult-image-in-the-ancient-near-ea",
@@ -8666,6 +8671,11 @@
       "cite_count": 1
     },
     {
+      "id": "haran-temples-and-temple-service",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "temporary-temples",
       "cited_by": [],
       "cite_count": 0
@@ -10295,6 +10305,11 @@
       "cite_count": 1
     },
     {
+      "id": "novak-election-of-israel",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "the-electronic-text-corpus-of-sumerian-literature",
       "cited_by": [
         {
@@ -10949,6 +10964,11 @@
         }
       ],
       "cite_count": 1
+    },
+    {
+      "id": "ritner-joseph-smith-egyptian-papyri",
+      "cited_by": [],
+      "cite_count": 0
     },
     {
       "id": "joseph-smith-papers-manuscript-revelation-books",
@@ -12253,6 +12273,11 @@
       "cite_count": 2
     },
     {
+      "id": "levenson-universal-horizon-biblical-particularism",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "the-unresolved-debate-over-the-sampo-s-identity-in-finnish-folkloristics-world-p",
       "cited_by": [
         {
@@ -12321,6 +12346,17 @@
       "id": "the-wars-of-gods-and-men",
       "cited_by": [],
       "cite_count": 0
+    },
+    {
+      "id": "digha-nikaya-26-sujato",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-wigglez-dark-energy-survey-the-transition-to-large-scale-cosmic-homogeneity-",
@@ -12678,6 +12714,11 @@
       "cite_count": 1
     },
     {
+      "id": "homan-to-your-tents",
+      "cited_by": [],
+      "cite_count": 0
+    },
+    {
       "id": "tomorrowland-film",
       "cited_by": [
         {
@@ -12983,6 +13024,11 @@
         }
       ],
       "cite_count": 1
+    },
+    {
+      "id": "kaminsky-yet-i-loved-jacob",
+      "cited_by": [],
+      "cite_count": 0
     },
     {
       "id": "zecharia-sitchin-encyclopedic-biographical-entry",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T15:25:27+00:00",
+  "generated_at": "2026-11-08T17:23:42+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 855,
+  "total": 863,
   "sources": {
     "1-chronicles": {
       "id": "1-chronicles",
@@ -744,6 +744,14 @@
         "Joseph Smith"
       ],
       "publish_date": "1830"
+    },
+    "book-of-moses": {
+      "id": "book-of-moses",
+      "title": "Book of Moses",
+      "authored_by": [
+        "Joseph Smith"
+      ],
+      "publish_date": "1851"
     },
     "born-in-heaven-made-on-earth-the-making-of-the-cult-image-in-the-ancient-near-ea": {
       "id": "born-in-heaven-made-on-earth-the-making-of-the-cult-image-in-the-ancient-near-ea",
@@ -4515,6 +4523,14 @@
       ],
       "publish_date": "1681"
     },
+    "haran-temples-and-temple-service": {
+      "id": "haran-temples-and-temple-service",
+      "title": "Temples and Temple-Service in Ancient Israel",
+      "authored_by": [
+        "Menahem Haran"
+      ],
+      "publish_date": "1978"
+    },
     "temporary-temples": {
       "id": "temporary-temples",
       "title": "Temporary Temples",
@@ -5182,6 +5198,14 @@
       ],
       "publish_date": "1985"
     },
+    "novak-election-of-israel": {
+      "id": "novak-election-of-israel",
+      "title": "The Election of Israel: The Idea of the Chosen People",
+      "authored_by": [
+        "David Novak"
+      ],
+      "publish_date": "1995"
+    },
     "the-electronic-text-corpus-of-sumerian-literature": {
       "id": "the-electronic-text-corpus-of-sumerian-literature",
       "title": "The Electronic Text Corpus of Sumerian Literature",
@@ -5621,6 +5645,14 @@
         "Paul Dundas"
       ],
       "publish_date": "2002"
+    },
+    "ritner-joseph-smith-egyptian-papyri": {
+      "id": "ritner-joseph-smith-egyptian-papyri",
+      "title": "The Joseph Smith Egyptian Papyri: A Complete Edition",
+      "authored_by": [
+        "Robert K. Ritner"
+      ],
+      "publish_date": "2011"
     },
     "joseph-smith-papers-manuscript-revelation-books": {
       "id": "joseph-smith-papers-manuscript-revelation-books",
@@ -6360,6 +6392,14 @@
       ],
       "publish_date": "1994"
     },
+    "levenson-universal-horizon-biblical-particularism": {
+      "id": "levenson-universal-horizon-biblical-particularism",
+      "title": "The Universal Horizon of Biblical Particularism",
+      "authored_by": [
+        "Jon D. Levenson"
+      ],
+      "publish_date": "1996"
+    },
     "the-unresolved-debate-over-the-sampo-s-identity-in-finnish-folkloristics-world-p": {
       "id": "the-unresolved-debate-over-the-sampo-s-identity-in-finnish-folkloristics-world-p",
       "title": "The unresolved debate over the Sampo’s identity in Finnish folkloristics (world-pillar, mill, sky-vault, or talisman readings)",
@@ -6415,6 +6455,14 @@
         "Zecharia Sitchin"
       ],
       "publish_date": "1985"
+    },
+    "digha-nikaya-26-sujato": {
+      "id": "digha-nikaya-26-sujato",
+      "title": "The Wheel-Turning Monarch (Cakkavatti Sutta, Dīgha Nikāya 26)",
+      "authored_by": [
+        "Bhikkhu Sujato (trans.)"
+      ],
+      "publish_date": "2018"
     },
     "the-wigglez-dark-energy-survey-the-transition-to-large-scale-cosmic-homogeneity-": {
       "id": "the-wigglez-dark-energy-survey-the-transition-to-large-scale-cosmic-homogeneity-",
@@ -6552,6 +6600,14 @@
         "Plato"
       ],
       "publish_date": "c. 360 BCE"
+    },
+    "homan-to-your-tents": {
+      "id": "homan-to-your-tents",
+      "title": "To Your Tents, O Israel! The Terminology, Function, Form, and Symbolism of Tents in the Hebrew Bible and the Ancient Near East",
+      "authored_by": [
+        "Michael M. Homan"
+      ],
+      "publish_date": "2002"
     },
     "tomorrowland-film": {
       "id": "tomorrowland-film",
@@ -6761,6 +6817,14 @@
         "Raël"
       ],
       "publish_date": "2001"
+    },
+    "kaminsky-yet-i-loved-jacob": {
+      "id": "kaminsky-yet-i-loved-jacob",
+      "title": "Yet I Loved Jacob: Reclaiming the Biblical Concept of Election",
+      "authored_by": [
+        "Joel S. Kaminsky"
+      ],
+      "publish_date": "2007"
     },
     "zecharia-sitchin-encyclopedic-biographical-entry": {
       "id": "zecharia-sitchin-encyclopedic-biographical-entry",
