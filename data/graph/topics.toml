@@ -18,6 +18,8 @@
 #   match        lower-case phrases matched (whole words) against a page's title,
 #                alternative names, keywords, category, description and summary,
 #                and against a source's topic list
+#   exclude      page paths a match term catches by accident ("/wiki/ark-of-the-covenant/")
+#   include      page paths the match terms miss but that belong here
 #
 # Adding a topic: add the entry, then run `mise run graph`. The build prints topics that
 # match nothing and pages that match no topic, so gaps are visible.
@@ -29,7 +31,8 @@ name = "Elohim hypothesis"
 kind = "theme"
 description = "The working hypothesis at the centre of the corpus: the Elohim, an advanced human civilization, designed life on Earth and left a record in the religious texts."
 page = "elohim"
-match = ["elohim", "elohim hypothesis", "designers", "creators", "paleocontact", "ancient astronaut", "ancient astronauts", "ancient astronaut theory", "anunnaki", "celestials"]
+match = ["elohim", "elohim hypothesis", "creators", "paleocontact", "ancient astronaut", "ancient astronauts", "ancient astronaut theory", "anunnaki", "celestials"]
+exclude = ["/wiki/four-levels/", "/wiki/dead-sea-scrolls/", "/library/2-samuel-woh/", "/library/job-woh/", "/library/psalms-woh/"]
 
 [creation]
 name = "Creation"
@@ -38,6 +41,7 @@ description = "The making of the world and of life, read as engineering in labor
 broader = ["elohim-hypothesis"]
 page = "genesis"
 match = ["creation", "six days", "origin of life", "life synthesis", "first humans", "adamites", "laboratory", "laboratories"]
+exclude = ["/wiki/gobekli-tepe/", "/wiki/great-sphinx/", "/wiki/hebrew/", "/wiki/monotheism/", "/wiki/mytheme/", "/wiki/noahic-covenant/", "/wiki/religion/", "/wiki/satan/", "/wiki/number-of-man/", "/articles/six-mornings-six-years/", "/wiki/serpent/", "/wiki/comparative-mythology/", "/timeline/age-of-aquarius/"]
 
 [human-origins]
 name = "Human origins"
@@ -46,6 +50,7 @@ description = "Where humanity comes from: Adam and Eve, the Adamites, the Garden
 broader = ["creation"]
 page = "adam-and-eve"
 match = ["adam", "eve", "adam and eve", "adamites", "adamite", "eden", "garden of eden", "first humans", "human origins", "made from the ground"]
+exclude = ["/wiki/cyberparadism/", "/wiki/great-flood/", "/wiki/hebrew-bible/", "/wiki/hebrew/", "/wiki/nephilim/", "/wiki/noah/", "/wiki/pangaea/", "/wiki/rael/", "/wiki/theomachy/", "/wiki/watchers/", "/articles/watchers-and-the-nephilim/", "/wiki/jean-sendy/"]
 
 [divine-council]
 name = "Divine council"
@@ -54,6 +59,7 @@ description = "The assembly of the gods — the Council of the Eternals in the c
 broader = ["elohim-hypothesis"]
 page = "council-of-eternals"
 match = ["divine council", "council of the eternals", "council of eternals", "sons of god", "heavenly court", "plurality of gods", "forty chairs", "assembly of the gods"]
+exclude = ["/wiki/babel/", "/wiki/noahic-covenant/", "/wiki/tree-of-life/"]
 
 [rebellion]
 name = "The rebellion"
@@ -62,6 +68,7 @@ description = "The faction that broke ranks — the serpent, Lucifer and Satan, 
 broader = ["divine-council"]
 page = "serpentine-rebellion"
 match = ["serpent", "serpentine rebellion", "lucifer", "satan", "devil", "fallen angels", "rebellion", "adversary", "tree of the knowledge"]
+exclude = ["/wiki/john-anthony-west/", "/wiki/leviathan/", "/library/numbers-woh/", "/articles/the-dragon-curve/", "/wiki/hebrew-bible/", "/wiki/military-cover-up-of-exobiology/", "/library/numbers/", "/datasets/theomachy-crossrefs/", "/wiki/tree-of-life/"]
 
 [watchers-and-giants]
 name = "Watchers and giants"
@@ -78,6 +85,7 @@ description = "Battles in heaven — Theomachy, the Elohimian war and the combat
 broader = ["divine-council"]
 page = "theomachy"
 match = ["theomachy", "war in heaven", "elohimian war", "space wars", "titanomachy", "gigantomachy", "combat myth"]
+exclude = ["/wiki/mytheme/"]
 
 [chaos-and-dragons]
 name = "Chaos and dragons"
@@ -85,7 +93,7 @@ kind = "theme"
 description = "Leviathan, the tannin, Tiamat and the dragons of Genesis 1:21 — the chaos-monster and what the canon makes of it."
 broader = ["theomachy"]
 page = "chaoskampf"
-match = ["chaoskampf", "dragon", "dragons", "leviathan", "tannin", "tanninim", "tiamat", "sea monster", "dinosaurs", "jurassic"]
+match = ["chaoskampf", "dragon", "dragons", "leviathan", "tannin", "tanninim", "tiamat", "sea monster", "dinosaurs"]
 
 [flood]
 name = "The Flood"
@@ -93,7 +101,8 @@ kind = "theme"
 description = "The deluge as a deliberate reset, and the flood stories from Atrahasis and Gilgamesh to Genesis and beyond."
 broader = ["elohim-hypothesis"]
 page = "great-flood"
-match = ["flood", "great flood", "deluge", "noah", "noah's ark", "ark", "atrahasis", "utnapishtim", "ziusudra", "antediluvian", "cataclysm", "catastrophism", "younger dryas"]
+match = ["flood", "great flood", "deluge", "noah", "noah's ark", "atrahasis", "utnapishtim", "ziusudra", "antediluvian", "cataclysm", "catastrophism", "younger dryas"]
+exclude = ["/wiki/ark-of-the-covenant/", "/wiki/adamite-struggle/", "/wiki/adamites/", "/wiki/dead-sea-scrolls/", "/wiki/eden/", "/wiki/menorah/", "/wiki/tree-of-life/", "/articles/watchers-and-the-nephilim/", "/wiki/comparative-mythology/", "/wiki/dragons/", "/wiki/jean-sendy/", "/wiki/mytheme/", "/wiki/paul-wallis/", "/wiki/samsara/", "/wiki/sodom-and-gomorrah/", "/wiki/babel/", "/articles/the-archdeacon-and-the-dragon/", "/wiki/lucifer/"]
 
 [babel]
 name = "Babel and the tongues"
@@ -102,6 +111,7 @@ description = "The tower, the scattering and the confusion of tongues, read as a
 broader = ["elohim-hypothesis"]
 page = "tower-of-babel"
 match = ["babel", "tower of babel", "confusion of tongues", "nimrod"]
+exclude = ["/wiki/noahic-covenant/", "/wiki/sodom-and-gomorrah/", "/wiki/jean-sendy/", "/articles/sendy-and-the-raelian-messages/", "/articles/the-archdeacon-and-the-dragon/"]
 
 [covenant-and-law]
 name = "Covenant and law"
@@ -109,7 +119,8 @@ kind = "theme"
 description = "The covenants with Noah, Abraham and Moses, the Law at Sinai and the ark that carried it."
 broader = ["prophets-and-messengers"]
 page = "noahic-covenant"
-match = ["covenant", "noahic covenant", "ark of the covenant", "law", "sinai", "commandments", "torah", "exodus"]
+match = ["covenant", "noahic covenant", "ark of the covenant", "sinai", "exodus", "ten commandments", "decalogue", "priestly law", "mosaic law", "covenant code", "jewish law"]
+exclude = ["/wiki/babel/", "/wiki/menorah/"]
 
 [prophets-and-messengers]
 name = "Prophets and messengers"
@@ -118,6 +129,8 @@ description = "The line of messengers the canon names — Moses, Elijah, Ezekiel
 broader = ["elohim-hypothesis"]
 page = "prophet"
 match = ["prophet", "prophets", "messenger", "messengers", "prophets and religions", "prophecy", "ambassadors"]
+exclude = ["/wiki/hebrew-bible/", "/wiki/satan/", "/articles/sendy-and-the-raelian-messages/", "/articles/monotheism-is-the-wrong-question/"]
+include = ["/wiki/jesus/", "/wiki/ezekiel/"]
 
 [embassy-and-temple]
 name = "Embassy and temple"
@@ -125,7 +138,8 @@ kind = "theme"
 description = "The meeting place: the tabernacle and the temples of old, and the embassy the canon asks humanity to build."
 broader = ["apocalypse-and-return"]
 page = "embassy"
-match = ["embassy", "third temple", "temple", "tabernacle", "new jerusalem", "petra", "qibla", "mosque", "sanctuary"]
+match = ["embassy", "third temple", "tabernacle", "new jerusalem", "petra", "qibla", "mosque", "sanctuary", "the temple"]
+exclude = ["/articles/the-scrolls-that-woke-in-year-one/", "/wiki/nabataeans/", "/timeline/age-of-pisces/", "/wiki/crop-circles/", "/articles/the-forty-chairs/"]
 
 [apocalypse-and-return]
 name = "Apocalypse and return"
@@ -133,7 +147,9 @@ kind = "theme"
 description = "The age of revelation: disclosure, the unveiling of the creators' work and the return the canon anticipates."
 broader = ["elohim-hypothesis"]
 page = "apocalypse"
-match = ["apocalypse", "age of apocalypse", "disclosure", "great return", "unveiling", "unsealed", "year one"]
+match = ["apocalypse", "age of apocalypse", "great return", "unveiling", "unsealed", "year one", "disclosure curve", "disclosure wave", "uap disclosure", "disclosure channel", "ufo disclosure"]
+exclude = ["/wiki/book-of-enoch/", "/wiki/graham-hancock/", "/wiki/mytheme/", "/library/isaiah-woh/"]
+include = ["/timeline/age-of-aquarius/"]
 
 [immortality]
 name = "Immortality and resurrection"
@@ -141,14 +157,16 @@ kind = "theme"
 description = "The Tree of Life, longevity, the Planet of the Eternals and resurrection by science."
 broader = ["elohim-hypothesis"]
 page = "tree-of-life"
-match = ["tree of life", "immortality", "eternal life", "resurrection", "longevity", "planet of the eternals", "cloning", "eternals"]
+match = ["tree of life", "immortality", "eternal life", "resurrection", "longevity", "planet of the eternals", "cloning"]
+exclude = ["/wiki/cyberparadism/", "/wiki/message-from-the-designers/", "/articles/six-mornings-six-years/", "/wiki/sacred-geometry/", "/wiki/tree-of-the-knowledge-of-good-and-evil/", "/articles/sendy-and-the-raelian-messages/"]
 
 [symbols]
 name = "Symbols and motifs"
 kind = "theme"
 description = "The signs that carry the framework — the Raëlian symbol of infinity, the star of David, the swastika, the menorah, the tree and the wheel."
 page = "sacred-geometry"
-match = ["symbol", "symbols", "symbolism", "motif", "motifs", "sacred geometry", "star of david", "swastika", "menorah", "infinity", "tauroctony", "mytheme", "mythemes"]
+match = ["symbol", "symbols", "symbolism", "motif", "motifs", "sacred geometry", "star of david", "swastika", "menorah", "tauroctony", "mytheme", "mythemes"]
+exclude = ["/articles/the-forty-chairs/", "/wiki/comparative-mythology/", "/wiki/list-of-exegetic-readings/", "/wiki/sodom-and-gomorrah/", "/datasets/world-ages/"]
 
 [cosmic-cycles]
 name = "Cosmic cycles"
@@ -156,6 +174,7 @@ kind = "theme"
 description = "The precession of the equinoxes, the Great Year and the twelve world ages through which the corpus tells its history."
 page = "precession"
 match = ["precession", "precession of the equinoxes", "great year", "great month", "world age", "world ages", "astrological ages", "zodiac", "mazzaroth", "age of aquarius", "age of pisces", "hamlet's mill", "samsara"]
+exclude = ["/news/pursue-release-01-uap-files/", "/news/pursue-release-02-spheres-and-transmedium/", "/news/pursue-release-03-multi-agency-and-international/", "/news/pursue-release-04-the-nuclear-nexus/", "/news/pursue-release-05-triangles-and-the-white-house-file/", "/news/pursue-release-06-warp-drives-and-the-tremonton-film/", "/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/", "/wiki/biglino-method/", "/wiki/comparative-mythology/", "/wiki/jesus/", "/wiki/muhammad/", "/wiki/new-commandments/", "/wiki/new-jerusalem/", "/wiki/third-temple/", "/articles/the-shape-of-humanity/"]
 
 [infinity-and-cosmology]
 name = "Infinity and cosmology"
@@ -164,6 +183,7 @@ description = "An infinite universe in both directions, fractal cosmology and li
 broader = ["cosmic-cycles"]
 page = "infinity"
 match = ["infinity", "infinite", "fractal cosmology", "cosmology", "cosmic evolution", "cosmic chain", "mass effect", "as above so below"]
+exclude = ["/wiki/council-of-the-eternals/", "/wiki/doubled-signature/", "/wiki/embassy/", "/wiki/genesis-toolbox/", "/wiki/plurality-of-gods/", "/wiki/raelism/", "/wiki/the-alliance/", "/wiki/tree-of-life/", "/wiki/star-of-david/", "/wiki/swastika/", "/wiki/kabbalah/", "/articles/the-forty-chairs/", "/articles/the-mill-that-grinds-the-ages/", "/articles/the-shape-of-humanity/"]
 
 [plurality-of-worlds]
 name = "Plurality of worlds"
@@ -171,7 +191,8 @@ kind = "theme"
 description = "Other inhabited planets: cosmic pluralism, the competition between civilizations and the Elohim's home world."
 broader = ["infinity-and-cosmology"]
 page = "cosmic-pluralism"
-match = ["cosmic pluralism", "plurality of worlds", "other worlds", "home planet", "elohim home planet", "cosmic competition", "drake equation", "exoplanet", "seti", "forerunners"]
+match = ["cosmic pluralism", "plurality of worlds", "other worlds", "home planet", "elohim home planet", "cosmic competition", "drake equation", "exoplanet", "seti"]
+exclude = ["/wiki/golden-age/", "/wiki/terraforming/", "/news/pursue-release-06-warp-drives-and-the-tremonton-film/"]
 
 [contact-and-ufos]
 name = "Contact and UFOs"
@@ -186,6 +207,7 @@ kind = "theme"
 description = "Megaliths, pyramids and sacred landscapes — the built record of the ancient world and how the corpus reads it."
 page = "list-of-megalithic-sites"
 match = ["megalith", "megalithic", "megalithic sites", "pyramid", "pyramids", "sphinx", "great sphinx", "gobekli tepe", "göbekli tepe", "stonehenge", "ancient builders", "archaeoastronomy", "orion correlation", "lost civilization", "atlantis"]
+exclude = ["/wiki/crop-circles/", "/datasets/world-ages/"]
 
 [sodom-and-destruction]
 name = "Destructions"
@@ -194,6 +216,7 @@ description = "Sodom and Gomorrah and the other annihilations the texts describe
 broader = ["apocalypse-and-return"]
 page = "sodom-and-gomorrah"
 match = ["sodom", "gomorrah", "sodom and gomorrah", "fire from heaven", "atomic war", "destruction"]
+exclude = ["/wiki/noahic-covenant/", "/wiki/the-alliance/", "/library/1-thessalonians-woh/"]
 
 [monotheism]
 name = "Monotheism and the gods"
@@ -211,7 +234,9 @@ kind = "tradition"
 description = "The Raëlian canon from 1973 onward — the Messages and the movement that carries them, the corpus's interpretive centre."
 broader = ["elohim-hypothesis"]
 page = "raelism"
-match = ["raëlism", "raelism", "raëlian", "raelian", "claude vorilhon", "the book which tells the truth", "the true face of god", "intelligent design: message", "message from the designers", "raelian corpus", "raëlian corpus"]
+match = ["raëlism", "raelism", "claude vorilhon", "the book which tells the truth", "the true face of god", "intelligent design: message", "message from the designers", "raelian corpus", "raëlian corpus", "raëlian canon", "raelian canon", "raëlian movement", "raëlian message", "raëlian messages", "raelian messages", "raëlian symbol", "raelian symbol", "raëlian doctrine"]
+exclude = ["/wiki/abraham/", "/wiki/ezekiel/", "/wiki/kabbalah/", "/wiki/noah/", "/wiki/noahs-ark/", "/wiki/sodom-and-gomorrah/", "/wiki/tree-of-the-knowledge-of-good-and-evil/", "/news/synthetic-cell-eats-and-divides/", "/wiki/military-cover-up-of-exobiology/", "/wiki/crop-circles/"]
+include = ["/library/lets-welcome-the-extraterrestrials/", "/library/extraterrestrials-took-me-to-their-planet/", "/wiki/four-levels/", "/wiki/living-earth/", "/wiki/fractal-cosmology/", "/wiki/great-return/"]
 
 [hebrew-bible]
 name = "Hebrew Bible"
@@ -219,6 +244,7 @@ kind = "tradition"
 description = "The Tanakh — Torah, Prophets and Writings — in Hebrew, Greek and the corpus's own translations."
 page = "hebrew-bible"
 match = ["hebrew bible", "tanakh", "old testament", "torah", "pentateuch", "masoretic", "septuagint", "ezekiel", "isaiah", "psalms", "deuteronomistic history", "documentary hypothesis"]
+exclude = ["/wiki/rael/", "/wiki/wheel-of-heaven/", "/wiki/jesus/", "/wiki/forerunners/"]
 
 [second-temple-judaism]
 name = "Second Temple Judaism"
@@ -227,6 +253,7 @@ description = "Enoch, Jubilees, the Dead Sea Scrolls and the apocrypha written b
 broader = ["hebrew-bible"]
 page = "dead-sea-scrolls"
 match = ["second temple", "dead sea scrolls", "qumran", "apocrypha", "pseudepigrapha", "jubilees", "enoch", "book of enoch", "1 enoch"]
+exclude = ["/wiki/elijah/", "/library/book-of-moses/"]
 
 [jewish-mysticism]
 name = "Jewish mysticism"
@@ -235,6 +262,7 @@ description = "Kabbalah, the Hekhalot literature and the Shiur Qomah — the mys
 broader = ["hebrew-bible"]
 page = "kabbalah"
 match = ["kabbalah", "jewish mysticism", "hekhalot", "merkabah", "shiur qomah", "zohar", "sefer yetzirah"]
+exclude = ["/articles/the-forty-chairs/"]
 
 [christianity]
 name = "Christianity"
@@ -242,6 +270,7 @@ kind = "tradition"
 description = "The New Testament and the Christian tradition, read through the canon's account of Jesus as a messenger."
 page = "jesus"
 match = ["christianity", "christian texts", "early christianity", "christian tradition", "new testament", "jesus", "gospel", "gospels", "early christianity", "catholic church", "apostle"]
+exclude = ["/wiki/abraham/", "/wiki/muhammad/", "/wiki/nabataeans/", "/wiki/jean-sendy/", "/wiki/hanafiyya/", "/articles/the-forty-chairs/", "/articles/sendy-and-the-raelian-messages/"]
 
 [gnosticism-and-hermeticism]
 name = "Gnosticism and Hermeticism"
@@ -256,6 +285,7 @@ kind = "tradition"
 description = "The Quran, the early Islamic period and the questions of the first qibla."
 page = "muhammad"
 match = ["islam", "islamic", "islamic texts", "islamic origins", "quran", "qur'an", "muhammad", "hanafiyya", "qibla", "mecca", "petra"]
+exclude = ["/wiki/biglino-method/", "/wiki/cosmic-pluralism/", "/wiki/great-return/"]
 
 [mesopotamia]
 name = "Mesopotamia"
@@ -263,6 +293,7 @@ kind = "tradition"
 description = "Sumer, Akkad and Babylon — the Anunnaki, Atrahasis, Gilgamesh, the Enuma Elish and the King List."
 page = "anunnaki"
 match = ["mesopotamia", "mesopotamian", "mesopotamian texts", "sumer", "sumerian", "akkadian", "babylon", "babylonian", "anunnaki", "atrahasis", "gilgamesh", "enuma elish", "eridu", "sumerian king list", "cuneiform", "sitchin"]
+exclude = ["/wiki/elohim/", "/wiki/mazzaroth/", "/wiki/paul-wallis/", "/wiki/swastika/", "/articles/lucifer-and-satan/", "/articles/the-mill-that-grinds-the-ages/", "/articles/unsealed-in-year-one/", "/library/isaiah-woh/", "/library/baal-cycle-woh/"]
 
 [egypt]
 name = "Ancient Egypt"
@@ -271,12 +302,14 @@ description = "Egyptian texts and monuments — the pyramids, the Sphinx, the Bo
 broader = ["ancient-sites"]
 page = "great-sphinx"
 match = ["egypt", "egyptian", "egyptian texts", "pharaoh", "akhenaten", "book of the dead", "papyrus of ani", "thutmose", "sphinx"]
+exclude = ["/wiki/paul-wallis/"]
 
 [greece]
 name = "Greek tradition"
 kind = "tradition"
 description = "Homer, Hesiod and the Greek myths of the gods, the giants and the wars in heaven."
 match = ["greek mythology", "greek myth", "ancient greece", "homer", "odyssey", "iliad", "hesiod", "theogony", "olympus", "titans", "helicon", "plato"]
+exclude = ["/wiki/biglino-method/", "/wiki/geniocracy/"]
 
 [levant-and-anatolia]
 name = "Levant and Anatolia"
@@ -284,12 +317,14 @@ kind = "tradition"
 description = "Ugarit and Canaan, the Hittites and the Hurrians — the neighbours of Israel whose gods share its names."
 broader = ["divine-council"]
 match = ["ugarit", "ugaritic", "canaan", "canaanite", "levantine", "levantine texts", "baal", "hittite", "hurrian", "kumarbi", "anatolian", "phoenician", "nabataeans"]
+exclude = ["/wiki/moses/", "/articles/the-scrolls-that-woke-in-year-one/"]
 
 [india-and-persia]
 name = "India and Persia"
 kind = "tradition"
 description = "The Vedas and the Zoroastrian Avesta — the eastern scriptures of creation, cycles and cosmic war."
 match = ["vedic", "vedic texts", "veda", "vedas", "rig veda", "hindu", "hinduism", "sanskrit", "persian", "zoroaster", "zoroastrian", "zoroastrianism", "avesta", "buddha", "buddhism"]
+exclude = ["/wiki/religion/", "/wiki/star-of-david/", "/library/hidden-words-woh/"]
 
 [new-religions]
 name = "New religious movements"
@@ -297,6 +332,7 @@ kind = "tradition"
 description = "Latter-day Saints, Bahá'í, Caodaism, Oomoto and Tenrikyō — modern revelations the corpus reads beside its own."
 broader = ["prophets-and-messengers"]
 match = ["latter-day saint", "latter-day saints", "mormon", "mormonism", "book of mormon", "bahá'í", "bahai", "baha'i", "caodai", "caodaism", "caodaist", "oomoto", "tenrikyo", "tenrikyō", "new religious movements", "sikhism"]
+exclude = ["/wiki/abraham/"]
 
 [folklore]
 name = "Myth and folklore"
@@ -304,6 +340,7 @@ kind = "tradition"
 description = "Fairy tales, tale types and the world's mythologies, indexed motif by motif."
 page = "comparative-mythology"
 match = ["folklore", "fairy tale", "fairy tales", "tale type", "tale types", "aarne", "aarne-thompson-uther", "atu index", "grimm", "kinder- und hausmärchen", "mythology", "sampo", "kalevala"]
+exclude = ["/datasets/content-graph/"]
 
 [ancient-astronaut-literature]
 name = "Ancient-astronaut literature"
@@ -312,6 +349,7 @@ description = "The modern writers who read ancient texts as contact reports — 
 broader = ["elohim-hypothesis"]
 page = "ancient-astronaut-hypothesis"
 match = ["ancient astronaut hypothesis", "ancient astronaut theory", "ancient aliens", "jean sendy", "sendy", "erich von däniken", "von däniken", "daniken", "zecharia sitchin", "sitchin", "mauro biglino", "biglino", "paul wallis", "wallis", "graham hancock", "hancock", "john anthony west"]
+exclude = ["/wiki/adamites/", "/wiki/genesis/", "/wiki/star-of-david/", "/datasets/content-graph/", "/articles/six-mornings-six-years/"]
 
 # ---- Figures ---------------------------------------------------------------------
 
@@ -322,6 +360,7 @@ description = "The president of the Council of the Eternals in the canon, the Go
 broader = ["divine-council"]
 page = "yahweh"
 match = ["yahweh", "yhwh", "jehovah", "tetragrammaton", "lord of hosts"]
+exclude = ["/wiki/geniocracy/", "/wiki/humanitarianism/", "/wiki/new-commandments/", "/wiki/kabbalah/", "/wiki/raelian-symbol-of-infinity/", "/wiki/samsara/", "/wiki/swastika/", "/wiki/message-from-the-designers/", "/wiki/new-jerusalem/", "/articles/the-book-closest-to-the-truth/", "/articles/the-infinite-in-both-directions/", "/articles/the-mill-that-grinds-the-ages/", "/articles/the-religion-of-religions/", "/articles/the-shape-of-humanity/", "/news/library-first-audio-plays/", "/news/synthetic-cell-eats-and-divides/"]
 
 [lucifer-and-satan]
 name = "Lucifer and Satan"
@@ -330,6 +369,7 @@ description = "Two different figures the tradition fused: the light-bringer who 
 broader = ["rebellion"]
 page = "lucifer"
 match = ["lucifer", "satan", "devil", "adversary", "light-bringer", "light bringer"]
+exclude = ["/wiki/babel/", "/wiki/great-flood/", "/wiki/hebrew-bible/", "/wiki/military-cover-up-of-exobiology/", "/wiki/noah/", "/wiki/noahic-covenant/", "/wiki/noahs-ark/", "/wiki/sodom-and-gomorrah/", "/datasets/theomachy-crossrefs/"]
 
 [noah]
 name = "Noah"
@@ -338,6 +378,8 @@ description = "The survivor of the Flood and keeper of the ark — and his count
 broader = ["flood"]
 page = "noah"
 match = ["noah", "noah's ark", "utnapishtim", "ziusudra", "deucalion"]
+exclude = ["/wiki/ark-of-the-covenant/", "/wiki/babel/", "/wiki/tree-of-life/"]
+include = ["/library/atrahasis/", "/library/atrahasis-woh/", "/library/gilgamesh-woh/"]
 
 [abraham-and-moses]
 name = "Abraham and Moses"
@@ -362,6 +404,7 @@ description = "The messenger of the Age of Pisces in the canon, and the centre o
 broader = ["christianity", "prophets-and-messengers"]
 page = "jesus"
 match = ["jesus", "jesus christ", "christ", "messiah"]
+exclude = ["/wiki/abraham/", "/wiki/muhammad/", "/wiki/nabataeans/"]
 
 [rael]
 name = "Raël"
@@ -370,6 +413,7 @@ description = "Claude Vorilhon, the recipient of the 1973 Messages and the last 
 broader = ["raelism", "prophets-and-messengers"]
 page = "rael"
 match = ["raël", "rael", "claude vorilhon", "vorilhon"]
+exclude = ["/wiki/biglino-method/", "/wiki/cosmic-competition/", "/wiki/golden-age/", "/wiki/samsara/", "/articles/the-dragon-curve/", "/articles/the-infinite-in-both-directions/", "/articles/the-shape-of-humanity/"]
 
 # ---- Methods ---------------------------------------------------------------------
 
@@ -385,7 +429,8 @@ name = "Comparative method"
 kind = "method"
 description = "Setting traditions side by side without flattening them — comparative mythology and comparative religion."
 page = "comparative-mythology"
-match = ["comparative", "comparative mythology", "comparative religion", "comparison", "parallels", "mythemes", "doubled signature", "convergence"]
+match = ["comparative", "comparative mythology", "comparative religion", "comparison", "mythemes", "doubled signature"]
+exclude = ["/wiki/cyberparadism/"]
 
 [hermeneutics]
 name = "Hermeneutics"
@@ -394,6 +439,7 @@ description = "How the corpus reads: neo-euhemerism, the four levels, the Biglin
 broader = ["comparative-method"]
 page = "neo-euhemerism"
 match = ["hermeneutics", "neo-euhemerism", "euhemerism", "four levels", "biglino method", "conditions of coherence", "exegetic readings"]
+exclude = ["/wiki/infinity/"]
 
 [open-data]
 name = "Open data"
@@ -401,6 +447,7 @@ kind = "method"
 description = "The corpus as data — CC0 datasets, indexes and graphs that let anyone check the work."
 page = "reference-corpus-of-the-raelian-canon"
 match = ["open data", "dataset", "datasets", "cc0", "cc0 download", "digital humanities", "concordance", "crosswalk", "catalogue", "reference corpus"]
+exclude = ["/wiki/erich-von-daniken/", "/wiki/watchers/", "/articles/the-forty-chairs/", "/wiki/message-from-the-designers/", "/articles/the-shape-of-humanity/"]
 
 # ---- Science ---------------------------------------------------------------------
 
@@ -419,6 +466,7 @@ description = "Life beyond Earth: panspermia, the Drake equation and the search 
 broader = ["plurality-of-worlds"]
 page = "astrobiology"
 match = ["astrobiology", "exobiology", "panspermia", "drake equation", "origin of life", "extremophile", "biosignature"]
+exclude = ["/wiki/military-cover-up-of-exobiology/", "/news/pursue-release-06-warp-drives-and-the-tremonton-film/"]
 
 [intelligent-design]
 name = "Intelligent design"
@@ -426,14 +474,14 @@ kind = "science"
 description = "Design in nature — the canon's version, distinct from the creationist movement that borrowed the name."
 broader = ["creation"]
 page = "intelligent-design"
-match = ["intelligent design", "design argument", "signature", "designers", "stephen meyer", "irreducible complexity", "darwin", "evolution"]
+match = ["intelligent design", "design argument", "stephen meyer", "irreducible complexity", "darwin"]
 
 [earth-sciences]
 name = "Earth and its history"
 kind = "science"
 description = "Geology, paleontology and the deep history of the planet — Pangaea, the dinosaurs and the living Earth."
 page = "living-earth"
-match = ["geology", "paleontology", "pangaea", "dinosaurs", "birds", "fossil", "fossils", "living earth", "gaia", "terraforming", "planetary"]
+match = ["geology", "paleontology", "pangaea", "dinosaurs", "birds", "fossil", "fossils", "living earth", "gaia", "terraforming"]
 
 [astronomy]
 name = "Astronomy"
@@ -442,6 +490,7 @@ description = "The sky the ancients watched — precession, constellations, the 
 broader = ["cosmic-cycles"]
 page = "archaeoastronomy"
 match = ["astronomy", "archaeoastronomy", "constellation", "constellations", "venus", "orion", "pleiades", "equinox", "solstice", "hipparchus"]
+exclude = ["/wiki/ancient-astronaut-hypothesis/", "/wiki/petra/", "/wiki/terraforming/"]
 
 [psychology-and-religion]
 name = "Mind and religion"
@@ -457,7 +506,7 @@ name = "Future society"
 kind = "future"
 description = "Geniocracy, humanitarianism and paradism — the society the canon proposes once science frees humanity from work."
 page = "geniocracy"
-match = ["geniocracy", "humanitarianism", "paradism", "cyberparadism", "new commandments", "futurism", "jubilee", "automation", "artificial intelligence"]
+match = ["geniocracy", "humanitarianism", "paradism", "cyberparadism", "new commandments", "futurism", "automation", "artificial intelligence"]
 
 [space-future]
 name = "Into space"
@@ -466,3 +515,4 @@ description = "Humanity's own turn as creators: space travel, terraforming and s
 broader = ["future-society", "plurality-of-worlds"]
 page = "terraforming"
 match = ["space travel", "terraforming", "pantropy", "starship", "space colonization", "colonisation", "colonization", "seeding life", "venus project"]
+exclude = ["/wiki/genesis/", "/articles/the-man-who-bet-the-bible-on-the-moon/"]

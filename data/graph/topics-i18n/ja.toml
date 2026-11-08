@@ -1,0 +1,231 @@
+[_index]
+title = "トピック"
+description = "コーパスが繰り返し立ち返る主題――テーマ、伝統、人物、方法、科学。それぞれのもとに、分類された項目・記事・時代・書物が集められています。"
+
+[elohim-hypothesis]
+name = "エロヒム仮説"
+description = "コーパスの中心にある作業仮説：先進的な人類文明であるエロヒムが地球上の生命を設計し、その記録を宗教文書に残したというもの。"
+
+[creation]
+name = "創造"
+description = "世界と生命の創造を、無からの創造ではなく、実験室における工学として読む。"
+
+[human-origins]
+name = "人類の起源"
+description = "人類はどこから来たのか：アダムとエバ、アダム族、園、そして最初の人間社会。"
+
+[divine-council]
+name = "神々の評議会"
+description = "神々の集会――正典における永遠者の評議会、そして古代近東各地の神の子らと天の宮廷。"
+
+[rebellion]
+name = "反乱"
+description = "隊列を離れた一派――蛇、ルシファー、サタン。正典が創造者たち自身の文明の内部に描く反対勢力。"
+
+[watchers-and-giants]
+name = "監視者たちと巨人"
+description = "降りてきた監視者たち、彼らから生まれたネフィリム、そして創世記6章とエノク書第一の巨人たち。"
+
+[theomachy]
+name = "神々の闘い"
+description = "天上の戦い――テオマキア、エロヒムの戦争、そして創造者たちの間の争いを記憶する戦闘神話。"
+
+[chaos-and-dragons]
+name = "混沌と竜"
+description = "レヴィアタン、タンニン、ティアマト、そして創世記1章21節の竜たち――混沌の怪物と、正典がそれをどう読むか。"
+
+[flood]
+name = "大洪水"
+description = "意図的なリセットとしての洪水と、アトラハシスやギルガメシュから創世記、さらにその先に至る洪水物語。"
+
+[babel]
+name = "バベルと言語"
+description = "塔、離散、言語の混乱を、創造者たちが講じた措置として読む。"
+
+[covenant-and-law]
+name = "契約と律法"
+description = "ノア、アブラハム、モーセとの契約、シナイの律法、そしてそれを運んだ箱。"
+
+[prophets-and-messengers]
+name = "預言者と使者"
+description = "正典が名を挙げる使者の系譜――モーセ、エリヤ、エゼキエル、イエス、ムハンマド、ブッダ、ラエル。時代ごとに一人ずつ遣わされた。"
+
+[embassy-and-temple]
+name = "大使館と神殿"
+description = "出会いの場：古の幕屋と神殿、そして正典が人類に建設を求める大使館。"
+
+[apocalypse-and-return]
+name = "黙示と帰還"
+description = "啓示の時代：開示、創造者たちの業の明示、そして正典が予期する帰還。"
+
+[immortality]
+name = "不死と復活"
+description = "生命の樹、長寿、永遠者の惑星、そして科学による復活。"
+
+[symbols]
+name = "シンボルとモチーフ"
+description = "この枠組みを担う記号――ラエリアンの無限のシンボル、ダビデの星、卍、メノーラー、樹、そして車輪。"
+
+[cosmic-cycles]
+name = "宇宙の周期"
+description = "歳差運動、大年、そしてコーパスがその歴史を語る十二の世界の時代。"
+
+[infinity-and-cosmology]
+name = "無限と宇宙論"
+description = "大きさの両方向に無限の宇宙、フラクタル宇宙論、始まりも終わりもない生命。"
+
+[plurality-of-worlds]
+name = "世界の多数性"
+description = "他の居住惑星：宇宙多元論、文明間の競争、そしてエロヒムの母惑星。"
+
+[contact-and-ufos]
+name = "接触とUFO"
+description = "歴史上および現代の接近遭遇、UAPファイル、そしてそれを研究し、あるいは隠蔽する機関。"
+
+[ancient-sites]
+name = "古代遺跡"
+description = "巨石、ピラミッド、聖なる景観――古代世界の建造された記録と、コーパスによるその読み方。"
+
+[sodom-and-destruction]
+name = "滅亡"
+description = "ソドムとゴモラ、そして文書が天からの火として描くその他の殲滅。"
+
+[monotheism]
+name = "一神教と神々"
+description = "複数の創造者がいかにして唯一の神となったか：一神教、偶像崇拝、そしてヘブライ語聖書の複数形のエロヒム。"
+
+[raelism]
+name = "ラエル運動"
+description = "1973年以降のラエリアン正典――メッセージとそれを担う運動であり、コーパスの解釈の中心。"
+
+[hebrew-bible]
+name = "ヘブライ語聖書"
+description = "タナハ――トーラー、預言者、諸書――をヘブライ語、ギリシア語、そしてコーパス独自の翻訳で。"
+
+[second-temple-judaism]
+name = "第二神殿期ユダヤ教"
+description = "エノク書、ヨベル書、死海文書、そして聖書最後の諸書とラビたちの間に書かれた外典。"
+
+[jewish-mysticism]
+name = "ユダヤ神秘主義"
+description = "カバラ、ヘカロート文献、シウル・コマー――神の姿と天の宮殿の神秘的な読み。"
+
+[christianity]
+name = "キリスト教"
+description = "新約聖書とキリスト教の伝統を、イエスを使者とする正典の記述を通して読む。"
+
+[gnosticism-and-hermeticism]
+name = "グノーシス主義とヘルメス主義"
+description = "グノーシス文書、『ヘルメス文書』、そしてそれらを貫く西洋秘教の系譜。"
+
+[islam]
+name = "イスラーム"
+description = "クルアーン、初期イスラーム時代、そして最初のキブラをめぐる問い。"
+
+[mesopotamia]
+name = "メソポタミア"
+description = "シュメール、アッカド、バビロン――アヌンナキ、アトラハシス、ギルガメシュ、エヌマ・エリシュ、そして王名表。"
+
+[egypt]
+name = "古代エジプト"
+description = "エジプトの文書と記念碑――ピラミッド、スフィンクス、死者の書、そして舟でやって来た神々。"
+
+[greece]
+name = "ギリシアの伝統"
+description = "ホメロス、ヘシオドス、そして神々、巨人、天上の戦いをめぐるギリシア神話。"
+
+[levant-and-anatolia]
+name = "レヴァントとアナトリア"
+description = "ウガリトとカナン、ヒッタイトとフルリ――神々がイスラエルの神々と名を共有する隣人たち。"
+
+[india-and-persia]
+name = "インドとペルシア"
+description = "ヴェーダとゾロアスター教のアヴェスター――創造、周期、宇宙的戦争を語る東方の聖典。"
+
+[new-religions]
+name = "新宗教運動"
+description = "末日聖徒、バハイ教、カオダイ教、大本、天理教――コーパスが自らの啓示と並べて読む近現代の啓示。"
+
+[folklore]
+name = "神話と民間伝承"
+description = "昔話、話型、世界の神話を、モチーフごとに索引化したもの。"
+
+[ancient-astronaut-literature]
+name = "古代宇宙飛行士文献"
+description = "古代の文書を接触の記録として読む近現代の著者たち――サンディ、デニケン、シッチン、ビリーノ、ウォリス、ハンコック。"
+
+[yahweh]
+name = "ヤハウェ"
+description = "正典では永遠者の評議会の議長、ヘブライ語聖書ではイスラエルの神。"
+
+[lucifer-and-satan]
+name = "ルシファーとサタン"
+description = "伝統が一つに融合させた二つの異なる人物：人類を教えた光をもたらす者と、それに敵対した敵対者。"
+
+[noah]
+name = "ノア"
+description = "大洪水の生存者にして方舟の守り手――そして彼に相当するウトナピシュティム、ジウスドラ、アトラハシス。"
+
+[abraham-and-moses]
+name = "アブラハムとモーセ"
+description = "契約の族長と、出エジプトの立法者。"
+
+[enoch-and-elijah]
+name = "エノクとエリヤ"
+description = "聖書が生きたまま取り去られたと語る二人――監視者たちの書記と、火の戦車の預言者。"
+
+[jesus]
+name = "イエス"
+description = "正典における魚座の時代の使者であり、キリスト教の伝統の中心。"
+
+[rael]
+name = "ラエル"
+description = "クロード・ボリロン。1973年のメッセージの受け手であり、正典の系譜における最後の預言者。"
+
+[philology]
+name = "文献学と翻訳"
+description = "文書をその言語――ヘブライ語、ギリシア語、アッカド語――で読むこと、そして翻訳が隠すもの、取り戻すもの。"
+
+[comparative-method]
+name = "比較の方法"
+description = "伝統を平板化せずに並べて置くこと――比較神話学と比較宗教学。"
+
+[hermeneutics]
+name = "解釈学"
+description = "コーパスの読み方：ネオエウヘメリズム、四つのレベル、ビリーノ・メソッド、そしてサンディの整合性の条件。"
+
+[open-data]
+name = "オープンデータ"
+description = "データとしてのコーパス――誰もが作業を検証できるCC0のデータセット、索引、グラフ。"
+
+[genetic-engineering]
+name = "遺伝子工学"
+description = "合成生物学、合成ゲノム、設計された生命――正典の創造の記述に追いつきつつある現代科学。"
+
+[astrobiology]
+name = "アストロバイオロジー"
+description = "地球外の生命：パンスペルミア、ドレイクの方程式、そして他の生物圏の探索。"
+
+[intelligent-design]
+name = "インテリジェント・デザイン"
+description = "自然における設計――正典の版であり、その名を借用した創造論運動とは区別される。"
+
+[earth-sciences]
+name = "地球とその歴史"
+description = "地質学、古生物学、そして惑星の深い歴史――パンゲア、恐竜、生きた地球。"
+
+[astronomy]
+name = "天文学"
+description = "古代の人々が見上げた空――歳差、星座、太陽、金星、そして彼らの記念碑の考古天文学。"
+
+[psychology-and-religion]
+name = "心と宗教"
+description = "ユングの集合的無意識、人間的現象としての宗教、そして神話が繰り返し現れる理由。"
+
+[future-society]
+name = "未来社会"
+description = "ジェニオクラシー、ヒューマニタリアニズム、パラディズム――科学が人類を労働から解放したときに正典が提案する社会。"
+
+[space-future]
+name = "宇宙へ"
+description = "今度は人類自身が創造者となる番：宇宙旅行、テラフォーミング、そして他の世界への生命の播種。"

@@ -47,6 +47,8 @@ OUT = ROOT / "static" / "graph" / "graph.json"
 TOPICS_OUT = DATA / "graph" / "topics.json"           # read by the /topics/ templates
 TOPIC_PAGES = CONTENT / "topics"                        # generated stubs, one per topic
 TOPIC_KINDS = ["theme", "tradition", "figure", "method", "science", "future"]
+TOPIC_I18N = DATA / "graph" / "topics-i18n"            # {lang}.toml: name/description per topic + [_index]
+LANGS = ["de", "fr", "es", "ru", "ja", "zh", "zh-Hant", "ko", "he"]
 SECTIONS = {
     "wiki": "wiki",
     "articles": "article",
@@ -182,15 +184,78 @@ def topic_index(topics: dict, nodes: dict, page_topics: dict, source_topics: dic
     return {"topics": out, "by_page": by_page, "kinds": TOPIC_KINDS}
 
 
-def write_topic_pages(index: dict) -> None:
+def localize_index(index: dict, lang: str) -> dict:
+    """The topic index for one language: topic names and descriptions from
+    topics-i18n/{lang}.toml (English where missing), member cards from the
+    language's own page when it exists (title, description, /{lang}/ url),
+    the English card otherwise (marked `en`)."""
+    strings = {}
+    path = TOPIC_I18N / f"{lang}.toml"
+    if path.exists():
+        strings = tomllib.loads(path.read_text(encoding="utf-8"))
+    cache: dict[str, dict | None] = {}
+
+    def local_card(card: dict) -> dict:
+        url = card["url"]
+        if url not in cache:
+            rel = url.strip("/")
+            hit = None
+            for cand in (CONTENT / lang / f"{rel}.md", CONTENT / lang / rel / "_index.md", CONTENT / lang / rel / "index.md"):
+                if cand.exists():
+                    parsed = read_page(cand)
+                    if parsed:
+                        fm, _ = parsed
+                        ex = fm.get("extra", {})
+                        desc = ex.get("summary") or ex.get("tldr") or fm.get("description", "")
+                        hit = {"label": fm.get("title", card["label"]), "url": f"/{lang}{url}",
+                               "meta": card["meta"], "desc": first_sentence(desc, 150)}
+                    break
+            cache[url] = hit
+        return cache[url] or dict(card, en=True)
+
+    def tname(slug: str, fallback: str) -> str:
+        return strings.get(slug, {}).get("name", fallback)
+
+    out = {"kinds": index["kinds"], "by_page": index["by_page"], "topics": {},
+           "index": strings.get("_index", {})}
+    for slug, t in index["topics"].items():
+        lt = dict(t)
+        lt["name"] = tname(slug, t["name"])
+        lt["description"] = strings.get(slug, {}).get("description", t["description"])
+        lt["broader"] = [{"slug": b["slug"], "name": tname(b["slug"], b["name"])} for b in t["broader"]]
+        lt["narrower"] = [{"slug": n["slug"], "name": tname(n["slug"], n["name"])} for n in t["narrower"]]
+        lt["members"] = {k: [local_card(c) for c in v] for k, v in t["members"].items()}
+        if t.get("page"):
+            pc = local_card({"label": t["page_label"], "url": t["page"], "meta": "", "desc": ""})
+            lt["page"], lt["page_label"] = pc["url"], pc["label"]
+        out["topics"][slug] = lt
+    return out
+
+
+def write_index_stub(dirpath: Path, title: str, description: str) -> None:
+    desc = description.replace('"', '\\"')
+    (dirpath / "_index.md").write_text(
+        "+++\n"
+        f'title = "{title}"\n'
+        f'description = "{desc}"\n'
+        'template = "topics-section.html"\n'
+        'sort_by = "weight"\n\n'
+        "[extra]\n"
+        "generated = true\n"
+        "+++\n",
+        encoding="utf-8",
+    )
+
+
+def write_topic_pages(index: dict, base: Path = TOPIC_PAGES) -> None:
     """One content stub per topic (the CF build runs Zola only, so they are committed).
     Stale stubs for removed topics are pruned."""
-    TOPIC_PAGES.mkdir(parents=True, exist_ok=True)
+    base.mkdir(parents=True, exist_ok=True)
     keep = set()
     for weight, (slug, t) in enumerate(index["topics"].items(), start=1):
         keep.add(f"{slug}.md")
         desc = t["description"].replace('"', '\\"')
-        (TOPIC_PAGES / f"{slug}.md").write_text(
+        (base / f"{slug}.md").write_text(
             "+++\n"
             f'title = "{t["name"]}"\n'
             f'description = "{desc}"\n'
@@ -202,7 +267,7 @@ def write_topic_pages(index: dict) -> None:
             "+++\n",
             encoding="utf-8",
         )
-    for stale in TOPIC_PAGES.glob("*.md"):
+    for stale in base.glob("*.md"):
         if stale.name != "_index.md" and stale.name not in keep:
             stale.unlink()
 
@@ -310,6 +375,14 @@ def build(core_dir: Path | None) -> dict:
             links.append((page_id, node_id, "defines"))
     for node_id, text in page_text.items():
         page_topics[node_id].update(match_topics(text, topics))
+    # Hand corrections from topics.toml: `exclude` drops a page a match term
+    # caught by accident, `include` files a page the terms miss.
+    for slug, t in topics.items():
+        for p in t.get("exclude", []):
+            page_topics.get(p, set()).discard(slug)
+        for p in t.get("include", []):
+            if p in nodes:
+                page_topics[p].add(slug)
     for node_id, tset in page_topics.items():
         for t in tset:
             links.append((node_id, f"topic:{t}", "about"))
@@ -444,6 +517,16 @@ def main() -> None:
     print(f"wrote {OUT.relative_to(ROOT)} ({OUT.stat().st_size // 1024} KB)")
     TOPICS_OUT.write_text(json.dumps(TOPIC_INDEX, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     write_topic_pages(TOPIC_INDEX)
+    for lang in LANGS:
+        if not (TOPIC_I18N / f"{lang}.toml").exists():
+            continue
+        loc = localize_index(TOPIC_INDEX, lang)
+        (DATA / "graph" / f"topics.{lang}.json").write_text(
+            json.dumps(loc, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+        base = CONTENT / lang / "topics"
+        write_topic_pages(loc, base)
+        idx = loc.get("index") or {}
+        write_index_stub(base, idx.get("title", "Topics"), idx.get("description", ""))
     print(f"wrote {TOPICS_OUT.relative_to(ROOT)} ({TOPICS_OUT.stat().st_size // 1024} KB) and {len(TOPIC_INDEX['topics'])} topic pages")
 
 

@@ -1,0 +1,231 @@
+[_index]
+title = "主题"
+description = "语料库反复回到的主题——核心主题、传统、人物、方法与科学——每个主题汇集归于其下的词条、文章、时代与书籍。"
+
+[elohim-hypothesis]
+name = "耶洛因假说"
+description = "语料库核心的工作假说：耶洛因——一个先进的人类文明——设计了地球上的生命，并在宗教文本中留下了记录。"
+
+[creation]
+name = "创造"
+description = "世界与生命的造就，被解读为实验室中的工程，而非从无中创造。"
+
+[human-origins]
+name = "人类起源"
+description = "人类从何而来：亚当与夏娃、亚当族、伊甸园，以及最早的人类社会。"
+
+[divine-council]
+name = "神圣议会"
+description = "众神的集会——正典中的永恒者议会，以及古代近东各地的神之子与天庭。"
+
+[rebellion]
+name = "叛乱"
+description = "脱离队伍的一派——蛇、路西法与撒但，正典所描述的创造者自身文明内部的反对派。"
+
+[watchers-and-giants]
+name = "守望者与巨人"
+description = "降临的守望者、由他们所生的拿非利人，以及《创世记》第6章与《以诺一书》中的巨人。"
+
+[theomachy]
+name = "众神之战"
+description = "天上的战争——神战、耶洛因之战，以及铭记创造者之间冲突的战斗神话。"
+
+[chaos-and-dragons]
+name = "混沌与龙"
+description = "利维坦、坦宁、提亚马特与《创世记》1:21中的龙——混沌怪兽，以及正典如何解读它。"
+
+[flood]
+name = "大洪水"
+description = "作为有意重启的洪水，以及从阿特拉哈西斯、吉尔伽美什到《创世记》乃至更远的洪水故事。"
+
+[babel]
+name = "巴别与语言"
+description = "高塔、分散与语言的变乱，被解读为创造者所采取的一项措施。"
+
+[covenant-and-law]
+name = "约与律法"
+description = "与挪亚、亚伯拉罕和摩西所立的约，西奈山的律法，以及承载律法的约柜。"
+
+[prophets-and-messengers]
+name = "先知与使者"
+description = "正典所列的使者谱系——摩西、以利亚、以西结、耶稣、穆罕默德、佛陀、雷尔——每个时代派遣一位。"
+
+[embassy-and-temple]
+name = "大使馆与圣殿"
+description = "相会之所：古代的会幕与圣殿，以及正典请人类建造的大使馆。"
+
+[apocalypse-and-return]
+name = "启示与回归"
+description = "启示的时代：揭露、创造者工作的公开，以及正典所期待的回归。"
+
+[immortality]
+name = "永生与复活"
+description = "生命之树、长寿、永恒者行星，以及借助科学的复活。"
+
+[symbols]
+name = "符号与母题"
+description = "承载这一框架的符号——雷尔派的无限符号、大卫之星、卍字、七枝烛台、树与轮。"
+
+[cosmic-cycles]
+name = "宇宙周期"
+description = "岁差、大年，以及语料库借以讲述其历史的十二个世界时代。"
+
+[infinity-and-cosmology]
+name = "无限与宇宙论"
+description = "在大与小两个方向上都无限的宇宙、分形宇宙论，以及无始无终的生命。"
+
+[plurality-of-worlds]
+name = "世界的多元性"
+description = "其他有人居住的行星：宇宙多元论、文明之间的竞争，以及耶洛因故乡行星。"
+
+[contact-and-ufos]
+name = "接触与UFO"
+description = "历史上与当今的近距离接触、UAP档案，以及研究或隐瞒它们的机构。"
+
+[ancient-sites]
+name = "古代遗址"
+description = "巨石、金字塔与神圣景观——古代世界的建筑记录，以及语料库如何解读它。"
+
+[sodom-and-destruction]
+name = "毁灭"
+description = "所多玛与蛾摩拉，以及文本描述为天降之火的其他毁灭。"
+
+[monotheism]
+name = "一神论与众神"
+description = "复数的创造者如何变成了唯一的神：一神论、偶像崇拜，以及希伯来圣经中复数形式的耶洛因。"
+
+[raelism]
+name = "雷尔运动"
+description = "1973年以来的雷尔派正典——讯息及承载讯息的运动，语料库的诠释中心。"
+
+[hebrew-bible]
+name = "希伯来圣经"
+description = "塔纳赫——托拉、先知书与圣录——希伯来文、希腊文以及语料库自己的译本。"
+
+[second-temple-judaism]
+name = "第二圣殿时期犹太教"
+description = "以诺书、禧年书、死海古卷，以及写于圣经最后几卷与拉比时代之间的次经。"
+
+[jewish-mysticism]
+name = "犹太神秘主义"
+description = "卡巴拉、希卡洛特文献与《希乌尔·科玛》——对神圣形体与天上宫殿的神秘解读。"
+
+[christianity]
+name = "基督教"
+description = "新约与基督教传统，透过正典将耶稣视为使者的叙述来解读。"
+
+[gnosticism-and-hermeticism]
+name = "诺斯替主义与赫尔墨斯主义"
+description = "诺斯替经典、《赫尔墨斯文集》以及贯穿其中的西方神秘学脉络。"
+
+[islam]
+name = "伊斯兰教"
+description = "《古兰经》、早期伊斯兰时期，以及关于第一个朝向（基卜拉）的问题。"
+
+[mesopotamia]
+name = "美索不达米亚"
+description = "苏美尔、阿卡德与巴比伦——阿努纳奇、阿特拉哈西斯、吉尔伽美什、《埃努玛·埃利什》与《王表》。"
+
+[egypt]
+name = "古埃及"
+description = "埃及的文本与古迹——金字塔、狮身人面像、《亡灵书》，以及乘船而来的众神。"
+
+[greece]
+name = "希腊传统"
+description = "荷马、赫西俄德，以及关于众神、巨人和天上战争的希腊神话。"
+
+[levant-and-anatolia]
+name = "黎凡特与安纳托利亚"
+description = "乌加里特与迦南、赫梯人与胡里安人——以色列的邻族，他们的神与以色列的神共享名字。"
+
+[india-and-persia]
+name = "印度与波斯"
+description = "吠陀与琐罗亚斯德教的《阿维斯塔》——讲述创造、周期与宇宙之战的东方经典。"
+
+[new-religions]
+name = "新兴宗教运动"
+description = "后期圣徒、巴哈伊信仰、高台教、大本教与天理教——语料库与自身并读的现代启示。"
+
+[folklore]
+name = "神话与民间传说"
+description = "童话、故事类型与世界各地的神话，按母题逐一编入索引。"
+
+[ancient-astronaut-literature]
+name = "古代宇航员文献"
+description = "将古代文本读作接触报告的现代作者——桑迪、冯·丹尼肯、西琴、比利诺、沃利斯、汉考克。"
+
+[yahweh]
+name = "耶和华"
+description = "正典中永恒者议会的主席，希伯来圣经中以色列的神。"
+
+[lucifer-and-satan]
+name = "路西法与撒但"
+description = "被传统融为一体的两个不同人物：教导人类的带光者，与反对人类的敌对者。"
+
+[noah]
+name = "挪亚"
+description = "大洪水的幸存者与方舟的守护者——以及与他对应的乌特纳皮什蒂姆、朱苏德拉与阿特拉哈西斯。"
+
+[abraham-and-moses]
+name = "亚伯拉罕与摩西"
+description = "立约的族长与出埃及的立法者。"
+
+[enoch-and-elijah]
+name = "以诺与以利亚"
+description = "圣经记载被活着接走的两人——守望者的书记与火战车的先知。"
+
+[jesus]
+name = "耶稣"
+description = "正典中双鱼座时代的使者，也是基督教传统的中心。"
+
+[rael]
+name = "雷尔"
+description = "克洛德·沃利隆，1973年讯息的接受者，正典谱系中的最后一位先知。"
+
+[philology]
+name = "语文学与翻译"
+description = "以文本自身的语言——希伯来语、希腊语、阿卡德语——阅读文本，以及翻译所遮蔽或恢复的内容。"
+
+[comparative-method]
+name = "比较方法"
+description = "将各传统并置而不抹平其差异——比较神话学与比较宗教学。"
+
+[hermeneutics]
+name = "诠释学"
+description = "语料库的读法：新埃乌赫梅罗斯主义、四个层次、比利诺方法，以及桑迪的融贯性条件。"
+
+[open-data]
+name = "开放数据"
+description = "作为数据的语料库——CC0数据集、索引与图谱，让任何人都能核查这项工作。"
+
+[genetic-engineering]
+name = "遗传工程"
+description = "合成生物学、合成基因组与工程化生命——当今科学正在追上正典关于创造的叙述。"
+
+[astrobiology]
+name = "天体生物学"
+description = "地球以外的生命：泛种论、德雷克方程，以及对其他生物圈的探寻。"
+
+[intelligent-design]
+name = "智能设计"
+description = "自然中的设计——正典的版本，有别于借用这一名称的神创论运动。"
+
+[earth-sciences]
+name = "地球及其历史"
+description = "地质学、古生物学与这颗行星的深远历史——盘古大陆、恐龙与活的地球。"
+
+[astronomy]
+name = "天文学"
+description = "古人观测的天空——岁差、星座、太阳、金星，以及其古迹的考古天文学。"
+
+[psychology-and-religion]
+name = "心灵与宗教"
+description = "荣格的集体无意识、作为人类现象的宗教，以及神话为何反复出现。"
+
+[future-society]
+name = "未来社会"
+description = "天才政治、人道主义与乐园主义——一旦科学将人类从劳动中解放，正典所提出的社会。"
+
+[space-future]
+name = "走向太空"
+description = "轮到人类自己成为创造者：太空旅行、地球化改造，以及在其他世界播种生命。"

@@ -1,0 +1,231 @@
+[_index]
+title = "주제"
+description = "코퍼스가 거듭 되돌아가는 주제들 — 테마, 전통, 인물, 방법론, 과학 — 각 주제 아래 분류된 항목, 기사, 시대, 책을 한데 모읍니다."
+
+[elohim-hypothesis]
+name = "엘로힘 가설"
+description = "코퍼스 중심에 있는 작업 가설: 선진적인 인류 문명인 엘로힘이 지구의 생명을 설계했고, 그 기록을 종교 문헌에 남겼다는 것."
+
+[creation]
+name = "창조"
+description = "세계와 생명의 만들어짐을 무로부터의 창조가 아니라 실험실에서의 공학으로 읽습니다."
+
+[human-origins]
+name = "인류의 기원"
+description = "인류는 어디에서 왔는가: 아담과 하와, 아담족, 동산, 그리고 최초의 인간 사회."
+
+[divine-council]
+name = "신들의 회의"
+description = "신들의 모임 — 정전의 영원자 평의회, 그리고 고대 근동 전역의 신의 아들들과 하늘 궁정."
+
+[rebellion]
+name = "반란"
+description = "대열에서 이탈한 분파 — 뱀, 루시퍼, 사탄. 정전이 창조자들 자신의 문명 내부에서 묘사하는 반대 세력."
+
+[watchers-and-giants]
+name = "감시자들과 거인"
+description = "내려온 감시자들, 그들에게서 태어난 네피림, 그리고 창세기 6장과 에녹1서의 거인들."
+
+[theomachy]
+name = "신들의 전쟁"
+description = "하늘의 전투 — 테오마키, 엘로힘의 전쟁, 그리고 창조자들 사이의 분쟁을 기억하는 전투 신화."
+
+[chaos-and-dragons]
+name = "혼돈과 용"
+description = "리워야단, 탄닌, 티아마트, 그리고 창세기 1장 21절의 용들 — 혼돈의 괴물과 정전이 그것을 읽는 방식."
+
+[flood]
+name = "대홍수"
+description = "의도적인 재시작으로서의 홍수, 그리고 아트라하시스와 길가메시에서 창세기와 그 너머에 이르는 홍수 이야기."
+
+[babel]
+name = "바벨과 언어"
+description = "탑, 흩어짐, 언어의 혼란을 창조자들이 취한 조치로 읽습니다."
+
+[covenant-and-law]
+name = "언약과 율법"
+description = "노아, 아브라함, 모세와 맺은 언약, 시내산의 율법, 그리고 그것을 실어 나른 궤."
+
+[prophets-and-messengers]
+name = "예언자와 메신저"
+description = "정전이 이름을 드는 메신저의 계보 — 모세, 엘리야, 에스겔, 예수, 무함마드, 붓다, 라엘 — 시대마다 한 명씩 보내졌습니다."
+
+[embassy-and-temple]
+name = "대사관과 성전"
+description = "만남의 장소: 옛 성막과 성전들, 그리고 정전이 인류에게 건설을 요청하는 대사관."
+
+[apocalypse-and-return]
+name = "묵시와 귀환"
+description = "계시의 시대: 공개, 창조자들의 작업의 드러남, 그리고 정전이 기대하는 귀환."
+
+[immortality]
+name = "불멸과 부활"
+description = "생명나무, 장수, 영원자들의 행성, 그리고 과학에 의한 부활."
+
+[symbols]
+name = "상징과 모티프"
+description = "이 틀을 담는 기호들 — 라엘리안 무한의 상징, 다윗의 별, 만자, 메노라, 나무, 그리고 바퀴."
+
+[cosmic-cycles]
+name = "우주의 주기"
+description = "세차운동, 대년, 그리고 코퍼스가 자신의 역사를 이야기하는 열두 세계 시대."
+
+[infinity-and-cosmology]
+name = "무한과 우주론"
+description = "크고 작은 양방향으로 무한한 우주, 프랙털 우주론, 시작도 끝도 없는 생명."
+
+[plurality-of-worlds]
+name = "세계의 다수성"
+description = "다른 거주 행성들: 우주적 다원주의, 문명 간의 경쟁, 그리고 엘로힘의 본국 행성."
+
+[contact-and-ufos]
+name = "접촉과 UFO"
+description = "역사 속과 오늘날의 근접 조우, UAP 파일, 그리고 이를 연구하거나 은폐하는 기관들."
+
+[ancient-sites]
+name = "고대 유적"
+description = "거석, 피라미드, 성스러운 경관 — 고대 세계의 건축된 기록과 코퍼스가 그것을 읽는 방식."
+
+[sodom-and-destruction]
+name = "멸망"
+description = "소돔과 고모라, 그리고 문헌들이 하늘에서 내린 불로 묘사하는 그 밖의 절멸."
+
+[monotheism]
+name = "유일신교와 신들"
+description = "복수의 창조자가 어떻게 하나의 신이 되었는가: 유일신교, 우상숭배, 그리고 히브리어 성경의 복수형 엘로힘."
+
+[raelism]
+name = "라엘리즘"
+description = "1973년 이후의 라엘리안 정전 — 메시지와 그것을 전하는 운동이자 코퍼스의 해석적 중심."
+
+[hebrew-bible]
+name = "히브리어 성경"
+description = "타나크 — 토라, 예언서, 성문서 — 히브리어, 그리스어, 그리고 코퍼스 자체의 번역으로."
+
+[second-temple-judaism]
+name = "제2성전기 유대교"
+description = "에녹서, 희년서, 사해 문서, 그리고 성경의 마지막 책들과 랍비 시대 사이에 쓰인 외경."
+
+[jewish-mysticism]
+name = "유대 신비주의"
+description = "카발라, 헤칼로트 문헌, 쉬우르 코마 — 신적 형상과 하늘 궁전에 대한 신비주의적 읽기."
+
+[christianity]
+name = "기독교"
+description = "신약과 기독교 전통을, 예수를 메신저로 보는 정전의 서술을 통해 읽습니다."
+
+[gnosticism-and-hermeticism]
+name = "영지주의와 헤르메스주의"
+description = "영지주의 경전, 『헤르메스 문서』, 그리고 이들을 관통하는 서양 비교(秘敎)의 계보."
+
+[islam]
+name = "이슬람"
+description = "꾸란, 초기 이슬람 시대, 그리고 최초의 키블라를 둘러싼 질문들."
+
+[mesopotamia]
+name = "메소포타미아"
+description = "수메르, 아카드, 바빌론 — 아눈나키, 아트라하시스, 길가메시, 에누마 엘리시, 그리고 왕명록."
+
+[egypt]
+name = "고대 이집트"
+description = "이집트의 문헌과 기념물 — 피라미드, 스핑크스, 사자의 서, 그리고 배를 타고 온 신들."
+
+[greece]
+name = "그리스 전통"
+description = "호메로스, 헤시오도스, 그리고 신들, 거인들, 하늘의 전쟁에 관한 그리스 신화."
+
+[levant-and-anatolia]
+name = "레반트와 아나톨리아"
+description = "우가리트와 가나안, 히타이트와 후르리 — 그 신들이 이스라엘의 신들과 이름을 공유하는 이스라엘의 이웃들."
+
+[india-and-persia]
+name = "인도와 페르시아"
+description = "베다와 조로아스터교의 아베스타 — 창조, 주기, 우주적 전쟁을 말하는 동방의 경전."
+
+[new-religions]
+name = "신종교 운동"
+description = "후기 성도, 바하이, 까오다이교, 오모토, 덴리교 — 코퍼스가 자신의 계시와 나란히 읽는 근현대의 계시."
+
+[folklore]
+name = "신화와 민담"
+description = "옛이야기, 설화 유형, 세계의 신화를 모티프별로 색인한 것."
+
+[ancient-astronaut-literature]
+name = "고대 우주비행사 문헌"
+description = "고대 문헌을 접촉 보고서로 읽는 현대 저자들 — 상디, 폰 데니켄, 시친, Biglino, 월리스, 핸콕."
+
+[yahweh]
+name = "야훼"
+description = "정전에서는 영원자 평의회의 의장, 히브리어 성경에서는 이스라엘의 신."
+
+[lucifer-and-satan]
+name = "루시퍼와 사탄"
+description = "전통이 하나로 합쳐 버린 서로 다른 두 인물: 인류를 가르친 빛을 가져오는 자와 인류에 맞선 대적자."
+
+[noah]
+name = "노아"
+description = "대홍수의 생존자이자 방주의 수호자 — 그리고 그에 상응하는 우트나피시팀, 지우수드라, 아트라하시스."
+
+[abraham-and-moses]
+name = "아브라함과 모세"
+description = "언약의 족장과 출애굽의 입법자."
+
+[enoch-and-elijah]
+name = "에녹과 엘리야"
+description = "성경이 산 채로 들려 올라갔다고 말하는 두 사람 — 감시자들의 서기관과 불 병거의 예언자."
+
+[jesus]
+name = "예수"
+description = "정전에서 물고기자리 시대의 메신저이며, 기독교 전통의 중심."
+
+[rael]
+name = "라엘"
+description = "클로드 보릴롱. 1973년 메시지의 수신자이자 정전의 계보에서 마지막 예언자."
+
+[philology]
+name = "문헌학과 번역"
+description = "문헌을 그 자체의 언어 — 히브리어, 그리스어, 아카드어 — 로 읽기, 그리고 번역이 감추거나 되살리는 것."
+
+[comparative-method]
+name = "비교 방법"
+description = "전통들을 평평하게 만들지 않고 나란히 놓기 — 비교신화학과 비교종교학."
+
+[hermeneutics]
+name = "해석학"
+description = "코퍼스가 읽는 방식: 신(新)에우헤메리즘, 네 가지 층위, Biglino 방법, 그리고 상디의 정합성 조건."
+
+[open-data]
+name = "오픈 데이터"
+description = "데이터로서의 코퍼스 — 누구나 작업을 검증할 수 있게 하는 CC0 데이터셋, 색인, 그래프."
+
+[genetic-engineering]
+name = "유전공학"
+description = "합성생물학, 합성 유전체, 설계된 생명 — 정전의 창조 서술을 따라잡고 있는 오늘날의 과학."
+
+[astrobiology]
+name = "우주생물학"
+description = "지구 너머의 생명: 범종설, 드레이크 방정식, 그리고 다른 생물권의 탐색."
+
+[intelligent-design]
+name = "지적 설계"
+description = "자연 속의 설계 — 그 이름을 빌려 간 창조론 운동과 구별되는 정전의 버전."
+
+[earth-sciences]
+name = "지구와 그 역사"
+description = "지질학, 고생물학, 그리고 행성의 깊은 역사 — 판게아, 공룡, 살아 있는 지구."
+
+[astronomy]
+name = "천문학"
+description = "고대인들이 바라본 하늘 — 세차, 별자리, 태양, 금성, 그리고 그들의 기념물에 담긴 고고천문학."
+
+[psychology-and-religion]
+name = "마음과 종교"
+description = "융의 집단 무의식, 인간 현상으로서의 종교, 그리고 신화가 되풀이되는 이유."
+
+[future-society]
+name = "미래 사회"
+description = "지능정, 휴머니타리아니즘, 파라디즘 — 과학이 인류를 노동에서 해방할 때 정전이 제안하는 사회."
+
+[space-future]
+name = "우주로"
+description = "이제 인류 자신이 창조자가 될 차례: 우주여행, 테라포밍, 그리고 다른 세계에 생명을 심는 일."

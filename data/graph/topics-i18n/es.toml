@@ -1,0 +1,231 @@
+[_index]
+title = "Temas"
+description = "Los asuntos a los que el corpus vuelve una y otra vez —grandes temas, tradiciones, figuras, métodos y ciencias—, cada uno reuniendo las entradas, artículos, eras y libros clasificados bajo él."
+
+[elohim-hypothesis]
+name = "Hipótesis de los Elohim"
+description = "La hipótesis de trabajo en el centro del corpus: los Elohim, una civilización humana avanzada, diseñaron la vida en la Tierra y dejaron un registro en los textos religiosos."
+
+[creation]
+name = "Creación"
+description = "La hechura del mundo y de la vida, leída como ingeniería en laboratorios y no como creación a partir de la nada."
+
+[human-origins]
+name = "Orígenes humanos"
+description = "De dónde viene la humanidad: Adán y Eva, los adamitas, el Jardín y las primeras sociedades humanas."
+
+[divine-council]
+name = "Consejo divino"
+description = "La asamblea de los dioses: el Consejo de los Eternos en el canon, los hijos de Dios y la corte celestial en todo el antiguo Oriente Próximo."
+
+[rebellion]
+name = "La rebelión"
+description = "La facción que rompió filas: la serpiente, Lucifer y Satán, la oposición que el canon describe dentro de la propia civilización de los creadores."
+
+[watchers-and-giants]
+name = "Vigilantes y gigantes"
+description = "Los Vigilantes que descendieron, los nefilim nacidos de ellos y los gigantes de Génesis 6 y de 1 Enoc."
+
+[theomachy]
+name = "Guerra entre los dioses"
+description = "Batallas en el cielo: la Teomaquia, la guerra de los Elohim y los mitos de combate que recuerdan un conflicto entre los creadores."
+
+[chaos-and-dragons]
+name = "Caos y dragones"
+description = "Leviatán, el tannín, Tiamat y los dragones de Génesis 1:21: el monstruo del caos y lo que el canon hace de él."
+
+[flood]
+name = "El Diluvio"
+description = "El diluvio como un reinicio deliberado, y los relatos del diluvio desde Atrahasis y Gilgamesh hasta el Génesis y más allá."
+
+[babel]
+name = "Babel y las lenguas"
+description = "La torre, la dispersión y la confusión de las lenguas, leídas como una medida que tomaron los creadores."
+
+[covenant-and-law]
+name = "Pacto y Ley"
+description = "Los pactos con Noé, Abraham y Moisés, la Ley en el Sinaí y el arca que la llevaba."
+
+[prophets-and-messengers]
+name = "Profetas y mensajeros"
+description = "La línea de mensajeros que nombra el canon —Moisés, Elías, Ezequiel, Jesús, Mahoma, el Buda, Raël—, enviados una era tras otra."
+
+[embassy-and-temple]
+name = "Embajada y templo"
+description = "El lugar de encuentro: el tabernáculo y los templos de antaño, y la embajada que el canon pide a la humanidad construir."
+
+[apocalypse-and-return]
+name = "Apocalipsis y retorno"
+description = "La era de la revelación: la divulgación, el desvelamiento de la obra de los creadores y el retorno que el canon anticipa."
+
+[immortality]
+name = "Inmortalidad y resurrección"
+description = "El Árbol de la Vida, la longevidad, el Planeta de los Eternos y la resurrección por la ciencia."
+
+[symbols]
+name = "Símbolos y motivos"
+description = "Los signos que portan el marco: el símbolo raeliano del infinito, la estrella de David, la esvástica, la menorá, el árbol y la rueda."
+
+[cosmic-cycles]
+name = "Ciclos cósmicos"
+description = "La precesión de los equinoccios, el Gran Año y las doce eras del mundo a través de las cuales el corpus cuenta su historia."
+
+[infinity-and-cosmology]
+name = "Infinito y cosmología"
+description = "Un universo infinito en ambas direcciones, la cosmología fractal y la vida sin principio ni fin."
+
+[plurality-of-worlds]
+name = "Pluralidad de mundos"
+description = "Otros planetas habitados: el pluralismo cósmico, la competencia entre civilizaciones y el planeta de origen de los Elohim."
+
+[contact-and-ufos]
+name = "Contacto y ovnis"
+description = "Encuentros cercanos en la historia y en la actualidad, los archivos FANI y las instituciones que los estudian u ocultan."
+
+[ancient-sites]
+name = "Sitios antiguos"
+description = "Megalitos, pirámides y paisajes sagrados: el registro construido del mundo antiguo y cómo lo lee el corpus."
+
+[sodom-and-destruction]
+name = "Destrucciones"
+description = "Sodoma y Gomorra y las demás aniquilaciones que los textos describen como fuego del cielo."
+
+[monotheism]
+name = "El monoteísmo y los dioses"
+description = "Cómo unos creadores plurales se convirtieron en un solo Dios: el monoteísmo, la idolatría y los Elohim plurales de la Biblia hebrea."
+
+[raelism]
+name = "Raelismo"
+description = "El canon raeliano desde 1973: los Mensajes y el movimiento que los transmite, el centro interpretativo del corpus."
+
+[hebrew-bible]
+name = "Biblia hebrea"
+description = "El Tanaj —Torá, Profetas y Escritos— en hebreo, en griego y en las traducciones propias del corpus."
+
+[second-temple-judaism]
+name = "Judaísmo del Segundo Templo"
+description = "Enoc, Jubileos, los manuscritos del mar Muerto y los apócrifos escritos entre los últimos libros de la Biblia y los rabinos."
+
+[jewish-mysticism]
+name = "Mística judía"
+description = "La Cábala, la literatura Hekhalot y el Shi'ur Qomah: la lectura mística de la forma divina y de los palacios celestiales."
+
+[christianity]
+name = "Cristianismo"
+description = "El Nuevo Testamento y la tradición cristiana, leídos a través del relato del canon sobre Jesús como mensajero."
+
+[gnosticism-and-hermeticism]
+name = "Gnosticismo y hermetismo"
+description = "Las escrituras gnósticas, el Corpus Hermeticum y la línea esotérica occidental que los atraviesa."
+
+[islam]
+name = "Islam"
+description = "El Corán, el período islámico temprano y las cuestiones de la primera alquibla."
+
+[mesopotamia]
+name = "Mesopotamia"
+description = "Sumer, Acad y Babilonia: los anunnaki, Atrahasis, Gilgamesh, el Enuma Elish y la Lista Real."
+
+[egypt]
+name = "Antiguo Egipto"
+description = "Textos y monumentos egipcios: las pirámides, la Esfinge, el Libro de los Muertos y los dioses que llegaron en barca."
+
+[greece]
+name = "Tradición griega"
+description = "Homero, Hesíodo y los mitos griegos de los dioses, los gigantes y las guerras en el cielo."
+
+[levant-and-anatolia]
+name = "Levante y Anatolia"
+description = "Ugarit y Canaán, los hititas y los hurritas: los vecinos de Israel cuyos dioses comparten sus nombres."
+
+[india-and-persia]
+name = "India y Persia"
+description = "Los Vedas y el Avesta zoroastriano: las escrituras orientales de la creación, los ciclos y la guerra cósmica."
+
+[new-religions]
+name = "Nuevos movimientos religiosos"
+description = "Santos de los Últimos Días, bahaísmo, caodaísmo, Oomoto y Tenrikyō: revelaciones modernas que el corpus lee junto a la suya."
+
+[folklore]
+name = "Mito y folclore"
+description = "Cuentos de hadas, tipos de cuento y las mitologías del mundo, indexados motivo por motivo."
+
+[ancient-astronaut-literature]
+name = "Literatura de los antiguos astronautas"
+description = "Los autores modernos que leen los textos antiguos como informes de contacto: Sendy, von Däniken, Sitchin, Biglino, Wallis, Hancock."
+
+[yahweh]
+name = "Yahvé"
+description = "El presidente del Consejo de los Eternos en el canon, el Dios de Israel en la Biblia hebrea."
+
+[lucifer-and-satan]
+name = "Lucifer y Satán"
+description = "Dos figuras distintas que la tradición fusionó: el portador de luz que instruyó a la humanidad y el adversario que se le opuso."
+
+[noah]
+name = "Noé"
+description = "El superviviente del Diluvio y guardián del arca, y sus equivalentes Utnapishtim, Ziusudra y Atrahasis."
+
+[abraham-and-moses]
+name = "Abraham y Moisés"
+description = "El patriarca de la alianza y el legislador del Éxodo."
+
+[enoch-and-elijah]
+name = "Enoc y Elías"
+description = "Los dos que, según la Biblia, fueron arrebatados vivos: el escriba de los Vigilantes y el profeta del carro de fuego."
+
+[jesus]
+name = "Jesús"
+description = "El mensajero de la Era de Piscis en el canon y el centro de la tradición cristiana."
+
+[rael]
+name = "Raël"
+description = "Claude Vorilhon, el receptor de los Mensajes de 1973 y el último de los profetas en la línea del canon."
+
+[philology]
+name = "Filología y traducción"
+description = "Leer los textos en sus propias lenguas —hebreo, griego, acadio— y lo que la traducción oculta o restituye."
+
+[comparative-method]
+name = "Método comparativo"
+description = "Poner las tradiciones una junto a otra sin aplanarlas: mitología comparada y religión comparada."
+
+[hermeneutics]
+name = "Hermenéutica"
+description = "Cómo lee el corpus: el neo-euhemerismo, los cuatro niveles, el método Biglino y las condiciones de coherencia de Sendy."
+
+[open-data]
+name = "Datos abiertos"
+description = "El corpus como datos: conjuntos de datos CC0, índices y grafos que permiten a cualquiera verificar el trabajo."
+
+[genetic-engineering]
+name = "Ingeniería genética"
+description = "Biología sintética, genomas sintéticos y vida diseñada: la ciencia actual alcanzando el relato de la creación del canon."
+
+[astrobiology]
+name = "Astrobiología"
+description = "La vida más allá de la Tierra: la panspermia, la ecuación de Drake y la búsqueda de otras biosferas."
+
+[intelligent-design]
+name = "Diseño inteligente"
+description = "El diseño en la naturaleza: la versión del canon, distinta del movimiento creacionista que tomó prestado el nombre."
+
+[earth-sciences]
+name = "La Tierra y su historia"
+description = "Geología, paleontología y la historia profunda del planeta: Pangea, los dinosaurios y la Tierra viva."
+
+[astronomy]
+name = "Astronomía"
+description = "El cielo que observaban los antiguos: la precesión, las constelaciones, el Sol, Venus y la arqueoastronomía de sus monumentos."
+
+[psychology-and-religion]
+name = "Mente y religión"
+description = "El inconsciente colectivo de Jung, la religión como fenómeno humano y por qué los mitos se repiten."
+
+[future-society]
+name = "Sociedad futura"
+description = "Geniocracia, humanitarismo y paradismo: la sociedad que el canon propone cuando la ciencia libere a la humanidad del trabajo."
+
+[space-future]
+name = "Hacia el espacio"
+description = "El turno de la humanidad como creadora: los viajes espaciales, la terraformación y la siembra de vida en otros mundos."

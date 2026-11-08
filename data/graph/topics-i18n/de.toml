@@ -1,0 +1,231 @@
+[_index]
+title = "Themen"
+description = "Die Gegenstände, zu denen das Korpus immer wieder zurückkehrt – Leitthemen, Traditionen, Gestalten, Methoden und Wissenschaften –, jeweils mit den Einträgen, Artikeln, Zeitaltern und Büchern, die ihnen zugeordnet sind."
+
+[elohim-hypothesis]
+name = "Elohim-Hypothese"
+description = "Die Arbeitshypothese im Zentrum des Korpus: Die Elohim, eine fortgeschrittene menschliche Zivilisation, haben das Leben auf der Erde entworfen und in den religiösen Texten eine Spur hinterlassen."
+
+[creation]
+name = "Schöpfung"
+description = "Die Erschaffung der Welt und des Lebens, gelesen als Ingenieursarbeit in Laboratorien statt als Schöpfung aus dem Nichts."
+
+[human-origins]
+name = "Ursprünge des Menschen"
+description = "Woher die Menschheit kommt: Adam und Eva, die Adamiten, der Garten und die ersten menschlichen Gesellschaften."
+
+[divine-council]
+name = "Götterrat"
+description = "Die Versammlung der Götter – der Rat der Ewigen im Kanon, die Gottessöhne und der himmlische Hofstaat im ganzen Alten Orient."
+
+[rebellion]
+name = "Die Rebellion"
+description = "Die Fraktion, die ausscherte – die Schlange, Luzifer und Satan, die Opposition, die der Kanon innerhalb der Zivilisation der Schöpfer selbst beschreibt."
+
+[watchers-and-giants]
+name = "Wächter und Riesen"
+description = "Die Wächter, die herabstiegen, die von ihnen gezeugten Nephilim und die Riesen aus Genesis 6 und dem 1. Henochbuch."
+
+[theomachy]
+name = "Krieg unter den Göttern"
+description = "Schlachten im Himmel – die Theomachie, der Krieg der Elohim und die Kampfmythen, die einen Konflikt unter den Schöpfern erinnern."
+
+[chaos-and-dragons]
+name = "Chaos und Drachen"
+description = "Leviathan, der Tannin, Tiamat und die Drachen aus Genesis 1,21 – das Chaosungeheuer und was der Kanon daraus macht."
+
+[flood]
+name = "Die Sintflut"
+description = "Die Flut als bewusster Neustart und die Flutberichte von Atrahasis und Gilgamesch bis zur Genesis und darüber hinaus."
+
+[babel]
+name = "Babel und die Sprachen"
+description = "Der Turm, die Zerstreuung und die Sprachverwirrung, gelesen als Maßnahme, die die Schöpfer ergriffen."
+
+[covenant-and-law]
+name = "Bund und Gesetz"
+description = "Die Bünde mit Noah, Abraham und Mose, das Gesetz am Sinai und die Lade, die es trug."
+
+[prophets-and-messengers]
+name = "Propheten und Gesandte"
+description = "Die Reihe der Gesandten, die der Kanon nennt – Mose, Elija, Hesekiel, Jesus, Mohammed, Buddha, Raël –, gesandt jeweils für ein Zeitalter."
+
+[embassy-and-temple]
+name = "Botschaft und Tempel"
+description = "Der Ort der Begegnung: die Stiftshütte und die Tempel der Vorzeit sowie die Botschaft, deren Bau der Kanon von der Menschheit erbittet."
+
+[apocalypse-and-return]
+name = "Apokalypse und Wiederkehr"
+description = "Das Zeitalter der Offenbarung: Enthüllung, die Offenlegung des Werks der Schöpfer und die Wiederkehr, die der Kanon erwartet."
+
+[immortality]
+name = "Unsterblichkeit und Auferstehung"
+description = "Der Baum des Lebens, Langlebigkeit, der Planet der Ewigen und die Auferstehung durch die Wissenschaft."
+
+[symbols]
+name = "Symbole und Motive"
+description = "Die Zeichen, die das Gedankengebäude tragen – das raëlianische Symbol der Unendlichkeit, der Davidstern, das Hakenkreuz, die Menora, der Baum und das Rad."
+
+[cosmic-cycles]
+name = "Kosmische Zyklen"
+description = "Die Präzession der Tagundnachtgleichen, das Große Jahr und die zwölf Weltzeitalter, in denen das Korpus seine Geschichte erzählt."
+
+[infinity-and-cosmology]
+name = "Unendlichkeit und Kosmologie"
+description = "Ein in beide Richtungen unendliches Universum, fraktale Kosmologie und Leben ohne Anfang und Ende."
+
+[plurality-of-worlds]
+name = "Vielheit der Welten"
+description = "Andere bewohnte Planeten: kosmischer Pluralismus, der Wettstreit zwischen Zivilisationen und der Heimatplanet der Elohim."
+
+[contact-and-ufos]
+name = "Kontakt und UFOs"
+description = "Nahbegegnungen in der Geschichte und heute, die UAP-Akten und die Institutionen, die sie untersuchen oder verschweigen."
+
+[ancient-sites]
+name = "Antike Stätten"
+description = "Megalithen, Pyramiden und heilige Landschaften – das gebaute Zeugnis der antiken Welt und wie das Korpus es liest."
+
+[sodom-and-destruction]
+name = "Zerstörungen"
+description = "Sodom und Gomorra und die anderen Vernichtungen, die die Texte als Feuer vom Himmel beschreiben."
+
+[monotheism]
+name = "Monotheismus und die Götter"
+description = "Wie aus mehreren Schöpfern ein einziger Gott wurde: Monotheismus, Götzendienst und die pluralischen Elohim der Hebräischen Bibel."
+
+[raelism]
+name = "Raëlismus"
+description = "Der raëlianische Kanon seit 1973 – die Botschaften und die Bewegung, die sie trägt, das interpretative Zentrum des Korpus."
+
+[hebrew-bible]
+name = "Hebräische Bibel"
+description = "Der Tanach – Tora, Propheten und Schriften – auf Hebräisch, Griechisch und in den eigenen Übersetzungen des Korpus."
+
+[second-temple-judaism]
+name = "Judentum des Zweiten Tempels"
+description = "Henoch, das Jubiläenbuch, die Schriftrollen vom Toten Meer und die Apokryphen, entstanden zwischen den letzten Büchern der Bibel und den Rabbinen."
+
+[jewish-mysticism]
+name = "Jüdische Mystik"
+description = "Kabbala, die Hekhalot-Literatur und das Shi'ur Qomah – die mystische Lesart der göttlichen Gestalt und der himmlischen Paläste."
+
+[christianity]
+name = "Christentum"
+description = "Das Neue Testament und die christliche Tradition, gelesen durch die Darstellung des Kanons, in der Jesus ein Gesandter ist."
+
+[gnosticism-and-hermeticism]
+name = "Gnosis und Hermetik"
+description = "Gnostische Schriften, das Corpus Hermeticum und die westliche esoterische Linie, die durch sie verläuft."
+
+[islam]
+name = "Islam"
+description = "Der Koran, die frühislamische Zeit und die Fragen um die erste Qibla."
+
+[mesopotamia]
+name = "Mesopotamien"
+description = "Sumer, Akkad und Babylon – die Anunnaki, Atrahasis, Gilgamesch, das Enuma Elisch und die Königsliste."
+
+[egypt]
+name = "Altes Ägypten"
+description = "Ägyptische Texte und Monumente – die Pyramiden, die Sphinx, das Totenbuch und die Götter, die mit dem Boot kamen."
+
+[greece]
+name = "Griechische Tradition"
+description = "Homer, Hesiod und die griechischen Mythen von den Göttern, den Riesen und den Kriegen im Himmel."
+
+[levant-and-anatolia]
+name = "Levante und Anatolien"
+description = "Ugarit und Kanaan, die Hethiter und die Hurriter – die Nachbarn Israels, deren Götter dieselben Namen tragen."
+
+[india-and-persia]
+name = "Indien und Persien"
+description = "Die Veden und das zoroastrische Avesta – die östlichen Schriften von Schöpfung, Zyklen und kosmischem Krieg."
+
+[new-religions]
+name = "Neue religiöse Bewegungen"
+description = "Heilige der Letzten Tage, Bahá'í, Caodaismus, Oomoto und Tenrikyō – moderne Offenbarungen, die das Korpus neben seiner eigenen liest."
+
+[folklore]
+name = "Mythos und Volksüberlieferung"
+description = "Märchen, Erzähltypen und die Mythologien der Welt, Motiv für Motiv erschlossen."
+
+[ancient-astronaut-literature]
+name = "Prä-Astronautik-Literatur"
+description = "Die modernen Autoren, die antike Texte als Kontaktberichte lesen – Sendy, von Däniken, Sitchin, Biglino, Wallis, Hancock."
+
+[yahweh]
+name = "Jahwe"
+description = "Im Kanon der Präsident des Rates der Ewigen, in der Hebräischen Bibel der Gott Israels."
+
+[lucifer-and-satan]
+name = "Luzifer und Satan"
+description = "Zwei verschiedene Gestalten, die die Tradition verschmolzen hat: der Lichtbringer, der die Menschheit lehrte, und der Widersacher, der sich ihr entgegenstellte."
+
+[noah]
+name = "Noah"
+description = "Der Überlebende der Sintflut und Hüter der Arche – und seine Gegenstücke Utnapischtim, Ziusudra und Atrahasis."
+
+[abraham-and-moses]
+name = "Abraham und Mose"
+description = "Der Patriarch des Bundes und der Gesetzgeber des Exodus."
+
+[enoch-and-elijah]
+name = "Henoch und Elija"
+description = "Die beiden, die laut der Bibel lebendig entrückt wurden – der Schreiber der Wächter und der Prophet des feurigen Wagens."
+
+[jesus]
+name = "Jesus"
+description = "Im Kanon der Gesandte des Zeitalters der Fische und das Zentrum der christlichen Tradition."
+
+[rael]
+name = "Raël"
+description = "Claude Vorilhon, der Empfänger der Botschaften von 1973 und der letzte der Propheten in der Reihe des Kanons."
+
+[philology]
+name = "Philologie und Übersetzung"
+description = "Die Texte in ihren eigenen Sprachen lesen – Hebräisch, Griechisch, Akkadisch – und was Übersetzung verbirgt oder wiederherstellt."
+
+[comparative-method]
+name = "Vergleichende Methode"
+description = "Traditionen nebeneinanderstellen, ohne sie einzuebnen – vergleichende Mythologie und vergleichende Religionswissenschaft."
+
+[hermeneutics]
+name = "Hermeneutik"
+description = "Wie das Korpus liest: Neo-Euhemerismus, die vier Ebenen, die Biglino-Methode und Sendys Kohärenzbedingungen."
+
+[open-data]
+name = "Offene Daten"
+description = "Das Korpus als Daten – CC0-Datensätze, Register und Graphen, mit denen jeder die Arbeit überprüfen kann."
+
+[genetic-engineering]
+name = "Gentechnik"
+description = "Synthetische Biologie, synthetische Genome und konstruiertes Leben – die heutige Wissenschaft holt die Schöpfungsdarstellung des Kanons ein."
+
+[astrobiology]
+name = "Astrobiologie"
+description = "Leben jenseits der Erde: Panspermie, die Drake-Gleichung und die Suche nach anderen Biosphären."
+
+[intelligent-design]
+name = "Intelligentes Design"
+description = "Planung in der Natur – die Fassung des Kanons, zu unterscheiden von der kreationistischen Bewegung, die sich den Namen geborgt hat."
+
+[earth-sciences]
+name = "Die Erde und ihre Geschichte"
+description = "Geologie, Paläontologie und die Tiefengeschichte des Planeten – Pangaea, die Dinosaurier und die lebende Erde."
+
+[astronomy]
+name = "Astronomie"
+description = "Der Himmel, den die Alten beobachteten – Präzession, Sternbilder, die Sonne, die Venus und die Archäoastronomie ihrer Monumente."
+
+[psychology-and-religion]
+name = "Psyche und Religion"
+description = "Jungs kollektives Unbewusstes, Religion als menschliches Phänomen und warum Mythen wiederkehren."
+
+[future-society]
+name = "Gesellschaft der Zukunft"
+description = "Geniokratie, Humanitarismus und Paradismus – die Gesellschaft, die der Kanon vorschlägt, sobald die Wissenschaft die Menschheit von der Arbeit befreit."
+
+[space-future]
+name = "Ins All"
+description = "Die Menschheit selbst als Schöpferin: Raumfahrt, Terraforming und das Aussäen von Leben auf anderen Welten."

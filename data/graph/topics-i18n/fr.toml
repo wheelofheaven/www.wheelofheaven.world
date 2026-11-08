@@ -1,0 +1,231 @@
+[_index]
+title = "Thèmes"
+description = "Les sujets auxquels le corpus revient sans cesse — grands thèmes, traditions, figures, méthodes et sciences —, chacun réunissant les entrées, articles, ères et livres qui s’y rattachent."
+
+[elohim-hypothesis]
+name = "Hypothèse des Élohim"
+description = "L’hypothèse de travail au centre du corpus : les Élohim, une civilisation humaine avancée, ont conçu la vie sur Terre et en ont laissé la trace dans les textes religieux."
+
+[creation]
+name = "Création"
+description = "La fabrication du monde et de la vie, lue comme un travail d’ingénierie en laboratoire plutôt que comme une création à partir de rien."
+
+[human-origins]
+name = "Origines de l’humanité"
+description = "D’où vient l’humanité : Adam et Ève, les Adamites, le Jardin et les premières sociétés humaines."
+
+[divine-council]
+name = "Conseil divin"
+description = "L’assemblée des dieux — le Conseil des Éternels dans le canon, les fils de Dieu et la cour céleste dans tout le Proche-Orient ancien."
+
+[rebellion]
+name = "La rébellion"
+description = "La faction qui a rompu les rangs — le serpent, Lucifer et Satan, l’opposition que le canon décrit au sein même de la civilisation des créateurs."
+
+[watchers-and-giants]
+name = "Veilleurs et géants"
+description = "Les Veilleurs qui sont descendus, les Néphilim nés d’eux et les géants de Genèse 6 et du premier livre d’Hénoch."
+
+[theomachy]
+name = "Guerre entre les dieux"
+description = "Batailles dans le ciel — la Théomachie, la guerre des Élohim et les mythes de combat qui gardent la mémoire d’un conflit entre les créateurs."
+
+[chaos-and-dragons]
+name = "Chaos et dragons"
+description = "Léviathan, le tannin, Tiamat et les dragons de Genèse 1,21 — le monstre du chaos et ce que le canon en fait."
+
+[flood]
+name = "Le Déluge"
+description = "Le déluge comme remise à zéro délibérée, et les récits de déluge, d’Atrahasis et Gilgamesh à la Genèse et au-delà."
+
+[babel]
+name = "Babel et les langues"
+description = "La tour, la dispersion et la confusion des langues, lues comme une mesure prise par les créateurs."
+
+[covenant-and-law]
+name = "Alliance et Loi"
+description = "Les alliances avec Noé, Abraham et Moïse, la Loi au Sinaï et l’arche qui la portait."
+
+[prophets-and-messengers]
+name = "Prophètes et messagers"
+description = "La lignée des messagers que nomme le canon — Moïse, Élie, Ézéchiel, Jésus, Mahomet, le Bouddha, Raël —, envoyés une ère après l’autre."
+
+[embassy-and-temple]
+name = "Ambassade et temple"
+description = "Le lieu de rencontre : le tabernacle et les temples d’autrefois, et l’ambassade que le canon demande à l’humanité de bâtir."
+
+[apocalypse-and-return]
+name = "Apocalypse et retour"
+description = "L’ère de la révélation : le dévoilement, la mise au jour de l’œuvre des créateurs et le retour qu’anticipe le canon."
+
+[immortality]
+name = "Immortalité et résurrection"
+description = "L’Arbre de Vie, la longévité, la planète des Éternels et la résurrection par la science."
+
+[symbols]
+name = "Symboles et motifs"
+description = "Les signes qui portent le cadre — le symbole raëlien de l’infini, l’étoile de David, la svastika, la menorah, l’arbre et la roue."
+
+[cosmic-cycles]
+name = "Cycles cosmiques"
+description = "La précession des équinoxes, la Grande Année et les douze ères du monde à travers lesquelles le corpus raconte son histoire."
+
+[infinity-and-cosmology]
+name = "Infini et cosmologie"
+description = "Un univers infini dans les deux sens, une cosmologie fractale et une vie sans commencement ni fin."
+
+[plurality-of-worlds]
+name = "Pluralité des mondes"
+description = "D’autres planètes habitées : le pluralisme cosmique, la compétition entre civilisations et la planète d’origine des Élohim."
+
+[contact-and-ufos]
+name = "Contact et OVNI"
+description = "Les rencontres rapprochées d’hier et d’aujourd’hui, les dossiers PAN et les institutions qui les étudient ou les dissimulent."
+
+[ancient-sites]
+name = "Sites antiques"
+description = "Mégalithes, pyramides et paysages sacrés — le témoignage bâti du monde antique et la lecture qu’en fait le corpus."
+
+[sodom-and-destruction]
+name = "Destructions"
+description = "Sodome et Gomorrhe et les autres anéantissements que les textes décrivent comme un feu tombé du ciel."
+
+[monotheism]
+name = "Le monothéisme et les dieux"
+description = "Comment des créateurs pluriels sont devenus un Dieu unique : monothéisme, idolâtrie et les Élohim pluriels de la Bible hébraïque."
+
+[raelism]
+name = "Raëlisme"
+description = "Le canon raëlien depuis 1973 — les Messages et le mouvement qui les porte, centre interprétatif du corpus."
+
+[hebrew-bible]
+name = "Bible hébraïque"
+description = "Le Tanakh — Torah, Prophètes et Écrits — en hébreu, en grec et dans les traductions propres au corpus."
+
+[second-temple-judaism]
+name = "Judaïsme du Second Temple"
+description = "Hénoch, les Jubilés, les manuscrits de la mer Morte et les apocryphes écrits entre les derniers livres de la Bible et les rabbins."
+
+[jewish-mysticism]
+name = "Mystique juive"
+description = "La Kabbale, la littérature des Hekhalot et le Shi’ur Qomah — la lecture mystique de la forme divine et des palais célestes."
+
+[christianity]
+name = "Christianisme"
+description = "Le Nouveau Testament et la tradition chrétienne, lus à travers le récit du canon qui fait de Jésus un messager."
+
+[gnosticism-and-hermeticism]
+name = "Gnosticisme et hermétisme"
+description = "Les écrits gnostiques, le Corpus Hermeticum et la lignée ésotérique occidentale qui les traverse."
+
+[islam]
+name = "Islam"
+description = "Le Coran, la première période islamique et les questions de la première qibla."
+
+[mesopotamia]
+name = "Mésopotamie"
+description = "Sumer, Akkad et Babylone — les Anunnaki, Atrahasis, Gilgamesh, l’Enuma Elish et la Liste royale."
+
+[egypt]
+name = "Égypte ancienne"
+description = "Textes et monuments égyptiens — les pyramides, le Sphinx, le Livre des morts et les dieux venus en barque."
+
+[greece]
+name = "Tradition grecque"
+description = "Homère, Hésiode et les mythes grecs des dieux, des géants et des guerres dans le ciel."
+
+[levant-and-anatolia]
+name = "Levant et Anatolie"
+description = "Ougarit et Canaan, les Hittites et les Hourrites — les voisins d’Israël dont les dieux portent les mêmes noms."
+
+[india-and-persia]
+name = "Inde et Perse"
+description = "Les Védas et l’Avesta zoroastrien — les Écritures orientales de la création, des cycles et de la guerre cosmique."
+
+[new-religions]
+name = "Nouveaux mouvements religieux"
+description = "Saints des Derniers Jours, bahá’ísme, caodaïsme, Oomoto et Tenrikyō — des révélations modernes que le corpus lit à côté de la sienne."
+
+[folklore]
+name = "Mythe et folklore"
+description = "Contes merveilleux, types de contes et mythologies du monde, indexés motif par motif."
+
+[ancient-astronaut-literature]
+name = "Littérature des anciens astronautes"
+description = "Les auteurs modernes qui lisent les textes anciens comme des comptes rendus de contact — Sendy, von Däniken, Sitchin, Biglino, Wallis, Hancock."
+
+[yahweh]
+name = "Yahvé"
+description = "Le président du Conseil des Éternels dans le canon, le Dieu d’Israël dans la Bible hébraïque."
+
+[lucifer-and-satan]
+name = "Lucifer et Satan"
+description = "Deux figures distinctes que la tradition a fondues en une : le porteur de lumière qui a instruit l’humanité et l’adversaire qui s’y est opposé."
+
+[noah]
+name = "Noé"
+description = "Le survivant du Déluge et le gardien de l’arche — et ses homologues Utnapishtim, Ziusudra et Atrahasis."
+
+[abraham-and-moses]
+name = "Abraham et Moïse"
+description = "Le patriarche de l’alliance et le législateur de l’Exode."
+
+[enoch-and-elijah]
+name = "Hénoch et Élie"
+description = "Les deux que la Bible dit enlevés vivants — le scribe des Veilleurs et le prophète du char de feu."
+
+[jesus]
+name = "Jésus"
+description = "Le messager de l’ère des Poissons dans le canon, et le centre de la tradition chrétienne."
+
+[rael]
+name = "Raël"
+description = "Claude Vorilhon, le destinataire des Messages de 1973 et le dernier des prophètes dans la lignée du canon."
+
+[philology]
+name = "Philologie et traduction"
+description = "Lire les textes dans leurs propres langues — hébreu, grec, akkadien — et ce que la traduction cache ou restitue."
+
+[comparative-method]
+name = "Méthode comparative"
+description = "Mettre les traditions côte à côte sans les aplatir — mythologie comparée et histoire comparée des religions."
+
+[hermeneutics]
+name = "Herméneutique"
+description = "Comment lit le corpus : le néo-évhémérisme, les quatre niveaux, la méthode Biglino et les conditions de cohérence de Sendy."
+
+[open-data]
+name = "Données ouvertes"
+description = "Le corpus comme données — jeux de données CC0, index et graphes qui permettent à chacun de vérifier le travail."
+
+[genetic-engineering]
+name = "Ingénierie génétique"
+description = "Biologie de synthèse, génomes synthétiques et vie conçue — la science actuelle qui rattrape le récit de la création donné par le canon."
+
+[astrobiology]
+name = "Astrobiologie"
+description = "La vie au-delà de la Terre : la panspermie, l’équation de Drake et la recherche d’autres biosphères."
+
+[intelligent-design]
+name = "Conception intelligente"
+description = "Le dessein dans la nature — la version du canon, distincte du mouvement créationniste qui en a emprunté le nom."
+
+[earth-sciences]
+name = "La Terre et son histoire"
+description = "Géologie, paléontologie et histoire profonde de la planète — la Pangée, les dinosaures et la Terre vivante."
+
+[astronomy]
+name = "Astronomie"
+description = "Le ciel qu’observaient les Anciens — la précession, les constellations, le Soleil, Vénus et l’archéoastronomie de leurs monuments."
+
+[psychology-and-religion]
+name = "Psyché et religion"
+description = "L’inconscient collectif de Jung, la religion comme phénomène humain et la raison pour laquelle les mythes reviennent."
+
+[future-society]
+name = "Société future"
+description = "Géniocratie, humanitarisme et paradisme — la société que propose le canon une fois que la science aura libéré l’humanité du travail."
+
+[space-future]
+name = "Vers l’espace"
+description = "Le tour de l’humanité de devenir créatrice : voyage spatial, terraformation et ensemencement de la vie sur d’autres mondes."
