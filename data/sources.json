@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:09:24+00:00",
+  "generated_at": "2026-11-08T09:16:32+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "total": 842,
@@ -9810,7 +9810,7 @@
     },
     {
       "id": "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te",
-      "title": "Les Extra-Terrestres m’ont emmené sur leur planète",
+      "title": "Les Extra-terrestres m’ont emmené sur leur planète",
       "authored_by": [
         "Claude Vorilhon (Rael)"
       ],

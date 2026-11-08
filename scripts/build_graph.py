@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Build static/graph/graph.json — the knowledge graph drawn on /graph/.
 
-Distils one graph from what the corpus already carries; it writes no content files:
+Distils one graph from what the corpus already carries. It also writes
+data/graph/topics.json and one generated stub per topic under content/topics/
+(the /topics/ pages). The graph itself covers:
 
   nodes   every English page in wiki/, articles/, timeline/, news/, library/ and
           datasets/; every topic in data/graph/topics.toml; every core claim record
@@ -42,6 +44,9 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 DATA = ROOT / "data"
 OUT = ROOT / "static" / "graph" / "graph.json"
+TOPICS_OUT = DATA / "graph" / "topics.json"           # read by the /topics/ templates
+TOPIC_PAGES = CONTENT / "topics"                        # generated stubs, one per topic
+TOPIC_KINDS = ["theme", "tradition", "figure", "method", "science", "future"]
 SECTIONS = {
     "wiki": "wiki",
     "articles": "article",
@@ -123,6 +128,83 @@ def match_topics(text: str, topics: dict) -> list[str]:
         if any(f" {term} " in hay for term in t["terms"] if term):
             found.append(slug)
     return found
+
+
+TOPIC_INDEX: dict = {}
+
+
+def topic_index(topics: dict, nodes: dict, page_topics: dict, source_topics: dict) -> dict:
+    """The /topics/ data: each topic's members by section, its broader and narrower
+    topics, and a page → topics lookup for the topic chips on reading pages."""
+    order = {slug: i for i, slug in enumerate(topics)}
+    members: dict[str, dict[str, list]] = {s: collections.defaultdict(list) for s in topics}
+    by_page: dict[str, list[str]] = {}
+    for node_id, tset in page_topics.items():
+        n = nodes.get(node_id)
+        if not n or n["kind"] not in SECTIONS.values():
+            continue
+        ts = sorted((t for t in tset if t in topics), key=order.get)
+        if not ts:
+            continue
+        by_page[node_id] = ts
+        card = {"label": n["label"], "url": n["url"], "meta": n.get("meta", ""), "desc": first_sentence(n.get("desc", ""), 150)}
+        for t in ts:
+            members[t][n["kind"]].append(card)
+    narrower = collections.defaultdict(list)
+    for slug, t in topics.items():
+        for b in t.get("broader", []):
+            narrower[b].append(slug)
+    out = {}
+    for slug, t in topics.items():
+        m = members[slug]
+        for kind, cards in m.items():
+            if kind in ("article", "news"):
+                cards.sort(key=lambda c: c["meta"], reverse=True)
+            elif kind == "timeline":
+                cards.sort(key=lambda c: c["url"])
+            else:
+                cards.sort(key=lambda c: c["label"].lower())
+        srcs = sorted(source_topics.get(slug, []), reverse=True)
+        page_id = f"/wiki/{t['page']}/" if t.get("page") else None
+        out[slug] = {
+            "name": t["name"],
+            "kind": t["kind"],
+            "description": t["description"],
+            "page": page_id if page_id in nodes else None,
+            "page_label": nodes[page_id]["label"] if page_id in nodes else None,
+            "broader": [{"slug": b, "name": topics[b]["name"]} for b in t.get("broader", [])],
+            "narrower": [{"slug": n, "name": topics[n]["name"]} for n in narrower.get(slug, [])],
+            "count": sum(len(v) for v in m.values()),
+            "members": {k: m[k] for k in ("wiki", "article", "timeline", "news", "book", "dataset") if m.get(k)},
+            "source_count": len(srcs),
+            "sources": [{"label": nodes[sid]["label"], "url": nodes[sid]["url"]} for _, sid in srcs[:8] if sid in nodes],
+        }
+    return {"topics": out, "by_page": by_page, "kinds": TOPIC_KINDS}
+
+
+def write_topic_pages(index: dict) -> None:
+    """One content stub per topic (the CF build runs Zola only, so they are committed).
+    Stale stubs for removed topics are pruned."""
+    TOPIC_PAGES.mkdir(parents=True, exist_ok=True)
+    keep = set()
+    for weight, (slug, t) in enumerate(index["topics"].items(), start=1):
+        keep.add(f"{slug}.md")
+        desc = t["description"].replace('"', '\\"')
+        (TOPIC_PAGES / f"{slug}.md").write_text(
+            "+++\n"
+            f'title = "{t["name"]}"\n'
+            f'description = "{desc}"\n'
+            'template = "topic-page.html"\n'
+            f"weight = {weight}\n\n"
+            "[extra]\n"
+            f'topic = "{slug}"\n'
+            "generated = true\n"
+            "+++\n",
+            encoding="utf-8",
+        )
+    for stale in TOPIC_PAGES.glob("*.md"):
+        if stale.name != "_index.md" and stale.name not in keep:
+            stale.unlink()
 
 
 def build(core_dir: Path | None) -> dict:
@@ -218,7 +300,7 @@ def build(core_dir: Path | None) -> dict:
             "kind": "topic",
             "group": t["kind"],
             "label": t["name"],
-            "url": page_id if page_id in nodes else f"/graph/#{node_id}",
+            "url": f"/topics/{slug}/",
             "meta": t["kind"].capitalize(),
             "desc": t["description"],
         }
@@ -282,6 +364,7 @@ def build(core_dir: Path | None) -> dict:
         print("  core repository not found — claims left out (pass --core)", file=sys.stderr)
 
     # ---- sources ----------------------------------------------------------------
+    source_topics: dict[str, list] = collections.defaultdict(list)
     sources = json.loads((DATA / "sources.json").read_text(encoding="utf-8"))["sources"]
     for s in sources:
         citing = [c["path"] for c in s.get("cited_by", []) if c.get("path") in nodes]
@@ -301,6 +384,7 @@ def build(core_dir: Path | None) -> dict:
             links.append((p, node_id, "cites"))
         for t in match_topics(" ; ".join(s.get("topics", [])), topics):
             links.append((node_id, f"topic:{t}", "about"))
+            source_topics[t].append((len(citing), node_id))
 
     # ---- clean up -----------------------------------------------------------------
     seen = set()
@@ -339,6 +423,7 @@ def build(core_dir: Path | None) -> dict:
     if untopiced:
         print("   ", " ".join(untopiced[:40]), "…" if len(untopiced) > 40 else "")
 
+    TOPIC_INDEX.update(topic_index(topics, nodes, page_topics, source_topics))
     return {
         "schema": "wheelofheaven/graph@1",
         "description": "The Wheel of Heaven knowledge graph: pages, topics, core claims and cited sources, and the links between them. CC0.",
@@ -357,6 +442,9 @@ def main() -> None:
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(graph, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"wrote {OUT.relative_to(ROOT)} ({OUT.stat().st_size // 1024} KB)")
+    TOPICS_OUT.write_text(json.dumps(TOPIC_INDEX, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+    write_topic_pages(TOPIC_INDEX)
+    print(f"wrote {TOPICS_OUT.relative_to(ROOT)} ({TOPICS_OUT.stat().st_size // 1024} KB) and {len(TOPIC_INDEX['topics'])} topic pages")
 
 
 if __name__ == "__main__":
