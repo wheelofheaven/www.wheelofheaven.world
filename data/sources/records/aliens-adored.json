@@ -53,8 +53,28 @@
       "section": "articles",
       "title": "The World Behind the Odyssey",
       "path": "/articles/the-world-behind-the-odyssey/"
+    },
+    {
+      "section": "wiki",
+      "title": "Buddha",
+      "path": "/wiki/buddha/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
     }
   ],
-  "cite_count": 8,
+  "cite_count": 12,
   "licensing_status": "unverified"
 }

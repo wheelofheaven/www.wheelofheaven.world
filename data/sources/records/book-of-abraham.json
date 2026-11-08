@@ -13,7 +13,13 @@
     "Mormonism",
     "The Tradition"
   ],
-  "cited_by": [],
-  "cite_count": 0,
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    }
+  ],
+  "cite_count": 1,
   "licensing_status": "public_domain"
 }

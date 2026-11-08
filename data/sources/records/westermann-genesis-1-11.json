@@ -52,6 +52,11 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Nephilim",
       "path": "/wiki/nephilim/"
     },
@@ -71,6 +76,6 @@
       "path": "/wiki/tree-of-life/"
     }
   ],
-  "cite_count": 11,
+  "cite_count": 12,
   "licensing_status": "licensed"
 }

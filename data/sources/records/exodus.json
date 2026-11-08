@@ -37,6 +37,11 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Idolatry",
       "path": "/wiki/idolatry/"
     },
@@ -52,10 +57,15 @@
     },
     {
       "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
+    },
+    {
+      "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
     }
   ],
-  "cite_count": 9,
+  "cite_count": 11,
   "licensing_status": "unverified"
 }

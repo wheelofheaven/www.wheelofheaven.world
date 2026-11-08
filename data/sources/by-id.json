@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T13:49:37+00:00",
+  "generated_at": "2026-11-08T15:25:27+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 842,
+  "total": 855,
   "sources": {
     "1-chronicles": {
       "id": "1-chronicles",
@@ -252,6 +252,14 @@
         "Neil Asher Silberman"
       ],
       "publish_date": "1993"
+    },
+    "a-semi-synthetic-organism-with-an-expanded-genetic-alphabet": {
+      "id": "a-semi-synthetic-organism-with-an-expanded-genetic-alphabet",
+      "title": "A semi-synthetic organism with an expanded genetic alphabet",
+      "authored_by": [
+        "Denis A. Malyshev et al."
+      ],
+      "publish_date": "2014"
     },
     "tschopp-diplodocidae-revision-2015": {
       "id": "tschopp-diplodocidae-revision-2015",
@@ -680,6 +688,14 @@
         "K. Elliger & W. Rudolph (eds.), Deutsche Bibelgesellschaft"
       ],
       "publish_date": "5th ed., 1997"
+    },
+    "biocontainment-of-genetically-modified-organisms-by-synthetic-protein-design": {
+      "id": "biocontainment-of-genetically-modified-organisms-by-synthetic-protein-design",
+      "title": "Biocontainment of genetically modified organisms by synthetic protein design",
+      "authored_by": [
+        "Daniel J. Mandell et al."
+      ],
+      "publish_date": "2015"
     },
     "benyus-biomimicry": {
       "id": "benyus-biomimicry",
@@ -2021,6 +2037,14 @@
       ],
       "publish_date": "2024 (concept)"
     },
+    "hachimoji-dna-and-rna-a-genetic-system-with-eight-building-blocks": {
+      "id": "hachimoji-dna-and-rna-a-genetic-system-with-eight-building-blocks",
+      "title": "Hachimoji DNA and RNA: A genetic system with eight building blocks",
+      "authored_by": [
+        "Shuichi Hoshika et al."
+      ],
+      "publish_date": "2019"
+    },
     "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm": {
       "id": "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm",
       "title": "Hadith: Muhammad’s Legacy in the Medieval and Modern World — the isnād sciences, ʿilm al-rijāl, and the grading vocabulary (ṣaḥīḥ, ḥasan, ḍaʿīf, mawḍūʿ)",
@@ -2291,6 +2315,14 @@
       ],
       "publish_date": "1990"
     },
+    "inscriptions-of-asoka": {
+      "id": "inscriptions-of-asoka",
+      "title": "Inscriptions of Asoka",
+      "authored_by": [
+        "E. Hultzsch"
+      ],
+      "publish_date": "1925"
+    },
     "intelligent-design-message-from-the-designers": {
       "id": "intelligent-design-message-from-the-designers",
       "title": "Intelligent Design: Message from the Designers",
@@ -2388,6 +2420,14 @@
       ],
       "publish_date": "2012"
     },
+    "is-there-a-common-chemical-model-for-life-in-the-universe": {
+      "id": "is-there-a-common-chemical-model-for-life-in-the-universe",
+      "title": "Is there a common chemical model for life in the universe?",
+      "authored_by": [
+        "Steven A. Benner, Alonso Ricardo, Matthew A. Carrigan"
+      ],
+      "publish_date": "2004"
+    },
     "isaiah": {
       "id": "isaiah",
       "title": "Isaiah",
@@ -2476,9 +2516,9 @@
       ],
       "publish_date": "2011"
     },
-    "joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s": {
-      "id": "joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s",
-      "title": "Joseph Smith: Rough Stone Rolling — the standard scholarly biography; the treasure-seeking milieu, the divergent First Vision accounts, and the witnesses handled without apologetics",
+    "bushman-rough-stone-rolling": {
+      "id": "bushman-rough-stone-rolling",
+      "title": "Joseph Smith: Rough Stone Rolling",
       "authored_by": [
         "Richard Lyman Bushman"
       ],
@@ -3375,6 +3415,14 @@
         "Council of Nicaea"
       ],
       "publish_date": "325 CE (revised at Constantinople 381 CE)"
+    },
+    "no-man-knows-my-history-the-life-of-joseph-smith": {
+      "id": "no-man-knows-my-history-the-life-of-joseph-smith",
+      "title": "No Man Knows My History: The Life of Joseph Smith",
+      "authored_by": [
+        "Fawn M. Brodie"
+      ],
+      "publish_date": "1945"
     },
     "no-mineralogic-or-geochemical-evidence-of-impact-at-tall-el-hammam-a-middle-bron": {
       "id": "no-mineralogic-or-geochemical-evidence-of-impact-at-tall-el-hammam-a-middle-bron",
@@ -4422,6 +4470,14 @@
       ],
       "publish_date": "1981"
     },
+    "synthetic-genetic-polymers-capable-of-heredity-and-evolution": {
+      "id": "synthetic-genetic-polymers-capable-of-heredity-and-evolution",
+      "title": "Synthetic genetic polymers capable of heredity and evolution",
+      "authored_by": [
+        "Vitor B. Pinheiro et al."
+      ],
+      "publish_date": "2012"
+    },
     "ibrahim-spinosaurus-aquatic-2020": {
       "id": "ibrahim-spinosaurus-aquatic-2020",
       "title": "Tail-propelled aquatic locomotion in a theropod dinosaur",
@@ -4878,6 +4934,14 @@
       ],
       "publish_date": "2002"
     },
+    "the-dating-of-the-historical-buddha-die-datierung-des-historischen-buddha": {
+      "id": "the-dating-of-the-historical-buddha-die-datierung-des-historischen-buddha",
+      "title": "The Dating of the Historical Buddha / Die Datierung des historischen Buddha",
+      "authored_by": [
+        "Heinz Bechert (ed.)"
+      ],
+      "publish_date": "1991–1997"
+    },
     "the-dead-hand-the-untold-story-of-the-cold-war-arms-race-and-its-dangerous-legac": {
       "id": "the-dead-hand-the-untold-story-of-the-cold-war-arms-race-and-its-dangerous-legac",
       "title": "The Dead Hand: The Untold Story of the Cold War Arms Race and Its Dangerous Legacy (the Perimeter system Jacobsen’s scenario invokes)",
@@ -5046,6 +5110,14 @@
       ],
       "publish_date": "1977"
     },
+    "the-earliest-buddhist-shrine-excavating-the-birthplace-of-the-buddha-lumbini-nep": {
+      "id": "the-earliest-buddhist-shrine-excavating-the-birthplace-of-the-buddha-lumbini-nep",
+      "title": "The earliest Buddhist shrine: excavating the birthplace of the Buddha, Lumbini (Nepal)",
+      "authored_by": [
+        "R. A. E. Coningham et al."
+      ],
+      "publish_date": "2013"
+    },
     "the-early-development-of-the-quranic-hanif": {
       "id": "the-early-development-of-the-quranic-hanif",
       "title": "The Early Development of the Quranic Hanif",
@@ -5143,6 +5215,14 @@
       ],
       "publish_date": "1999"
     },
+    "the-epistle-to-the-hebrews": {
+      "id": "the-epistle-to-the-hebrews",
+      "title": "The Epistle to the Hebrews",
+      "authored_by": [
+        "Anonymous"
+      ],
+      "publish_date": "1st century CE"
+    },
     "the-epoch-of-the-constellations-on-the-farnese-atlas-and-their-origin-in-hipparc": {
       "id": "the-epoch-of-the-constellations-on-the-farnese-atlas-and-their-origin-in-hipparc",
       "title": "The epoch of the constellations on the Farnese Atlas and their origin in Hipparchus’s lost catalogue (Journal for the History of Astronomy 36, pp. 167–196 — precessional dating placing the Greek constellation lore with Hipparchus rather than deep antiquity)",
@@ -5199,6 +5279,14 @@
       ],
       "publish_date": "1988"
     },
+    "the-farther-the-safer-a-manifesto-for-securely-navigating-synthetic-species-away": {
+      "id": "the-farther-the-safer-a-manifesto-for-securely-navigating-synthetic-species-away",
+      "title": "The farther, the safer: a manifesto for securely navigating synthetic species away from the old living world",
+      "authored_by": [
+        "Philippe Marlière"
+      ],
+      "publish_date": "2009"
+    },
     "the-field-guide-crop-circle-making": {
       "id": "the-field-guide-crop-circle-making",
       "title": "The Field Guide: The Art, History and Philosophy of Crop Circle Making",
@@ -5248,9 +5336,9 @@
       ],
       "publish_date": "1946"
     },
-    "the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million": {
-      "id": "the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million",
-      "title": "The Foundations of Buddhism — the world-systems cosmology (thousandfold and millionfold chiliocosms) and the early tradition’s memory of the founder’s deflected divinization",
+    "gethin-foundations-of-buddhism": {
+      "id": "gethin-foundations-of-buddhism",
+      "title": "The Foundations of Buddhism",
       "authored_by": [
         "Rupert Gethin"
       ],
@@ -5534,9 +5622,9 @@
       ],
       "publish_date": "2002"
     },
-    "the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books": {
-      "id": "the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books",
-      "title": "The Joseph Smith Papers: Revelations and Translations, Manuscript Revelation Books — the documented revision of Smith’s revelations between the 1833 Book of Commandments and the 1835 Doctrine and Covenants; the nearest comparative case of a serial revelation editing itself in print",
+    "joseph-smith-papers-manuscript-revelation-books": {
+      "id": "joseph-smith-papers-manuscript-revelation-books",
+      "title": "The Joseph Smith Papers: Revelations and Translations, Volume 1: Manuscript Revelation Books",
       "authored_by": [
         "Robin Scott Jensen, Robert J. Woodford & Steven C. Harper (eds.)"
       ],
@@ -5608,6 +5696,14 @@
         "J. Black, G. Cunningham, E. Robson & G. Zólyomi"
       ],
       "publish_date": "2004"
+    },
+    "the-long-discourses-of-the-buddha-a-translation-of-the-d-gha-nik-ya": {
+      "id": "the-long-discourses-of-the-buddha-a-translation-of-the-d-gha-nik-ya",
+      "title": "The Long Discourses of the Buddha: A Translation of the Dīgha Nikāya",
+      "authored_by": [
+        "Maurice Walshe (trans.)"
+      ],
+      "publish_date": "1995"
     },
     "lost-continent-of-mu": {
       "id": "lost-continent-of-mu",
@@ -6641,6 +6737,14 @@
         "Svante Arrhenius"
       ],
       "publish_date": "1908"
+    },
+    "xenobiology-a-new-form-of-life-as-the-ultimate-biosafety-tool": {
+      "id": "xenobiology-a-new-form-of-life-as-the-ultimate-biosafety-tool",
+      "title": "Xenobiology: A new form of life as the ultimate biosafety tool",
+      "authored_by": [
+        "Markus Schmidt"
+      ],
+      "publish_date": "2010"
     },
     "yahweh-and-the-gods-and-goddesses-of-canaan-jsotsup-265": {
       "id": "yahweh-and-the-gods-and-goddesses-of-canaan-jsotsup-265",

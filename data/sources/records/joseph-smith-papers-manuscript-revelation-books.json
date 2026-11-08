@@ -1,0 +1,29 @@
+{
+  "id": "joseph-smith-papers-manuscript-revelation-books",
+  "title": "The Joseph Smith Papers: Revelations and Translations, Volume 1: Manuscript Revelation Books",
+  "authored_by": [
+    "Robin Scott Jensen, Robert J. Woodford & Steven C. Harper (eds.)"
+  ],
+  "publish_date": "2009",
+  "follow_url": "",
+  "description": "Documentary edition of Smith's manuscript revelation books, which records the revision of his revelations between the 1833 Book of Commandments and the 1835 Doctrine and Covenants.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "joseph-smith",
+    "mormonism"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "Six Mornings, Six Years",
+      "path": "/articles/six-mornings-six-years/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

@@ -14,7 +14,13 @@
     "Ritual",
     "Holiness Code"
   ],
-  "cited_by": [],
-  "cite_count": 0,
+  "cited_by": [
+    {
+      "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
+    }
+  ],
+  "cite_count": 1,
   "licensing_status": "unverified"
 }

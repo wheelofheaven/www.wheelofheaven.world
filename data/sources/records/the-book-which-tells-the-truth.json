@@ -172,6 +172,11 @@
     },
     {
       "section": "wiki",
+      "title": "Buddha",
+      "path": "/wiki/buddha/"
+    },
+    {
+      "section": "wiki",
       "title": "Carl Jung",
       "path": "/wiki/carl-jung/"
     },
@@ -262,6 +267,11 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Idolatry",
       "path": "/wiki/idolatry/"
     },
@@ -287,6 +297,11 @@
     },
     {
       "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    },
+    {
+      "section": "wiki",
       "title": "Lucifer",
       "path": "/wiki/lucifer/"
     },
@@ -294,6 +309,11 @@
       "section": "wiki",
       "title": "Mazzaroth",
       "path": "/wiki/mazzaroth/"
+    },
+    {
+      "section": "wiki",
+      "title": "Mecca",
+      "path": "/wiki/mecca/"
     },
     {
       "section": "wiki",
@@ -367,6 +387,11 @@
     },
     {
       "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
+    },
+    {
+      "section": "wiki",
       "title": "Tauroctony",
       "path": "/wiki/tauroctony/"
     },
@@ -392,6 +417,11 @@
     },
     {
       "section": "wiki",
+      "title": "Xenobiology",
+      "path": "/wiki/xenobiology/"
+    },
+    {
+      "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
     },
@@ -401,6 +431,6 @@
       "path": "/wiki/zecharia-sitchin/"
     }
   ],
-  "cite_count": 76,
+  "cite_count": 82,
   "licensing_status": "licensed"
 }

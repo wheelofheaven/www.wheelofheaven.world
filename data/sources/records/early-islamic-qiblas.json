@@ -44,8 +44,13 @@
       "section": "timeline",
       "title": "The Wheel Keeps Turning",
       "path": "/timeline/the-wheel-keeps-turning/"
+    },
+    {
+      "section": "wiki",
+      "title": "Mecca",
+      "path": "/wiki/mecca/"
     }
   ],
-  "cite_count": 6,
+  "cite_count": 7,
   "licensing_status": "unverified"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:49:37+00:00",
+  "generated_at": "2026-11-08T15:25:27+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -415,6 +415,17 @@
       "cite_count": 1
     },
     {
+      "id": "a-semi-synthetic-organism-with-an-expanded-genetic-alphabet",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "tschopp-diplodocidae-revision-2015",
       "cited_by": [
         {
@@ -523,9 +534,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "aliens-adored",
@@ -569,9 +585,29 @@
           "section": "articles",
           "title": "The World Behind the Odyssey",
           "path": "/articles/the-world-behind-the-odyssey/"
+        },
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        },
+        {
+          "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
+        },
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
         }
       ],
-      "cite_count": 8
+      "cite_count": 12
     },
     {
       "id": "ptolemy-almagest",
@@ -1138,6 +1174,17 @@
       "cite_count": 1
     },
     {
+      "id": "biocontainment-of-genetically-modified-organisms-by-synthetic-protein-design",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "benyus-biomimicry",
       "cited_by": [
         {
@@ -1161,8 +1208,14 @@
     },
     {
       "id": "book-of-abraham",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "book-of-enoch",
@@ -1253,9 +1306,14 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "born-in-heaven-made-on-earth-the-making-of-the-cult-image-in-the-ancient-near-ea",
@@ -1618,9 +1676,14 @@
           "section": "timeline",
           "title": "Age of Aquarius",
           "path": "/timeline/age-of-aquarius/"
+        },
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-daniel-g-gibson-j-cr",
@@ -2022,6 +2085,11 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Idolatry",
           "path": "/wiki/idolatry/"
         },
@@ -2036,7 +2104,7 @@
           "path": "/wiki/moses/"
         }
       ],
-      "cite_count": 9
+      "cite_count": 10
     },
     {
       "id": "deuteronomy-32-8-and-the-sons-of-god-bibliotheca-sacra-158-the-4qdeutj-evidence-",
@@ -2172,9 +2240,14 @@
           "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
+        },
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "meyers-discovering-eve",
@@ -2221,9 +2294,14 @@
           "section": "wiki",
           "title": "Adam and Eve",
           "path": "/wiki/adam-and-eve/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "documents-in-mycenaean-greek",
@@ -2295,9 +2373,14 @@
           "section": "timeline",
           "title": "The Wheel Keeps Turning",
           "path": "/timeline/the-wheel-keeps-turning/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 6
+      "cite_count": 7
     },
     {
       "id": "early-islamic-qiblas-a-survey-of-mosques-built-between-1-ah-and-263-ah",
@@ -2806,6 +2889,11 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Idolatry",
           "path": "/wiki/idolatry/"
         },
@@ -2821,11 +2909,16 @@
         },
         {
           "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
+        },
+        {
+          "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 9
+      "cite_count": 11
     },
     {
       "id": "explaining-the-end-of-the-odyssey-zeus-law-xenia-and-the-guest-host-relationship",
@@ -2944,6 +3037,11 @@
         },
         {
           "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        },
+        {
+          "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
         },
@@ -2969,8 +3067,23 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Jesus",
           "path": "/wiki/jesus/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         },
         {
           "section": "wiki",
@@ -3019,11 +3132,16 @@
         },
         {
           "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        },
+        {
+          "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 34
+      "cite_count": 39
     },
     {
       "id": "ezekiel",
@@ -3315,9 +3433,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "from-petra-back-to-makka-from-pibla-back-to-qibla",
@@ -3475,6 +3598,16 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
+        },
+        {
+          "section": "wiki",
           "title": "Mazzaroth",
           "path": "/wiki/mazzaroth/"
         },
@@ -3495,11 +3628,16 @@
         },
         {
           "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        },
+        {
+          "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 32
+      "cite_count": 35
     },
     {
       "id": "genesis-1-11-a-continental-commentary",
@@ -3552,6 +3690,11 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Nephilim",
           "path": "/wiki/nephilim/"
         },
@@ -3571,7 +3714,7 @@
           "path": "/wiki/tree-of-life/"
         }
       ],
-      "cite_count": 11
+      "cite_count": 12
     },
     {
       "id": "genesis-1-15-word-biblical-commentary",
@@ -3636,11 +3779,16 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Tree of Life",
           "path": "/wiki/tree-of-life/"
         }
       ],
-      "cite_count": 5
+      "cite_count": 6
     },
     {
       "id": "genome-editing-of-human-embryos-broadening-the-ethical-debate",
@@ -3957,6 +4105,17 @@
         }
       ],
       "cite_count": 2
+    },
+    {
+      "id": "hachimoji-dna-and-rna-a-genetic-system-with-eight-building-blocks",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm",
@@ -4336,9 +4495,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "how-life-works-a-user-s-guide-to-the-new-biology",
@@ -4524,6 +4688,17 @@
           "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "inscriptions-of-asoka",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
         }
       ],
       "cite_count": 1
@@ -4839,6 +5014,17 @@
       "cite_count": 2
     },
     {
+      "id": "is-there-a-common-chemical-model-for-life-in-the-universe",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "isaiah",
       "cited_by": [
         {
@@ -5029,15 +5215,20 @@
       "cite_count": 1
     },
     {
-      "id": "joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s",
+      "id": "bushman-rough-stone-rolling",
       "cited_by": [
         {
           "section": "articles",
           "title": "The Forty Chairs",
           "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "joshua",
@@ -5869,6 +6060,11 @@
         },
         {
           "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        },
+        {
+          "section": "wiki",
           "title": "Eden",
           "path": "/wiki/eden/"
         },
@@ -5894,8 +6090,18 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Jesus",
           "path": "/wiki/jesus/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
         },
         {
           "section": "wiki",
@@ -5929,11 +6135,16 @@
         },
         {
           "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        },
+        {
+          "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 20
+      "cite_count": 24
     },
     {
       "id": "nickell-levengood-skeptical-inquirer-1996",
@@ -5948,8 +6159,14 @@
     },
     {
       "id": "leviticus",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "leviticus-25-8-23-the-sabbath-of-years-the-jubilee-and-the-land-tenure-principle",
@@ -5963,9 +6180,14 @@
           "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
+        },
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "life-itself-its-origin-and-nature-the-book-length-development-of-directed-panspe",
@@ -6124,11 +6346,16 @@
       "cited_by": [
         {
           "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        },
+        {
+          "section": "wiki",
           "title": "Satan",
           "path": "/wiki/satan/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "williams-mahayana-buddhism",
@@ -6172,11 +6399,16 @@
         },
         {
           "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
+        },
+        {
+          "section": "wiki",
           "title": "Tree of Life",
           "path": "/wiki/tree-of-life/"
         }
       ],
-      "cite_count": 4
+      "cite_count": 5
     },
     {
       "id": "making-mars-habitable",
@@ -6314,9 +6546,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "mecca-and-macoraba-al-u-r-al-wus-26",
@@ -6524,9 +6761,14 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "morphology-of-the-folktale-the-thirty-one-functions-the-sequential-rival-to-both",
@@ -6566,9 +6808,14 @@
           "section": "articles",
           "title": "The Forty Chairs",
           "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 3
+      "cite_count": 4
     },
     {
       "id": "muhammad-and-the-believers-at-the-origins-of-islam",
@@ -6748,6 +6995,17 @@
       "cite_count": 2
     },
     {
+      "id": "no-man-knows-my-history-the-life-of-joseph-smith",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "no-mineralogic-or-geochemical-evidence-of-impact-at-tall-el-hammam-a-middle-bron",
       "cited_by": [
         {
@@ -6860,9 +7118,14 @@
           "section": "wiki",
           "title": "Moses",
           "path": "/wiki/moses/"
+        },
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
         }
       ],
-      "cite_count": 4
+      "cite_count": 5
     },
     {
       "id": "oblivion-film",
@@ -7359,9 +7622,14 @@
           "section": "wiki",
           "title": "Hebrew Bible",
           "path": "/wiki/hebrew-bible/"
+        },
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "prolegomena-zur-geschichte-israels",
@@ -7551,9 +7819,14 @@
           "section": "timeline",
           "title": "The Wheel Keeps Turning",
           "path": "/timeline/the-wheel-keeps-turning/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 4
+      "cite_count": 5
     },
     {
       "id": "rael-dot-org",
@@ -8339,6 +8612,17 @@
       "cite_count": 1
     },
     {
+      "id": "synthetic-genetic-polymers-capable-of-heredity-and-evolution",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "ibrahim-spinosaurus-aquatic-2020",
       "cited_by": [
         {
@@ -8784,9 +9068,19 @@
           "section": "wiki",
           "title": "Hebrew Bible",
           "path": "/wiki/hebrew-bible/"
+        },
+        {
+          "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 3
     },
     {
       "id": "friedman-bible-sources-revealed",
@@ -8828,9 +9122,14 @@
           "section": "articles",
           "title": "Monotheism Is the Wrong Question",
           "path": "/articles/monotheism-is-the-wrong-question/"
+        },
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "the-book-of-enoch",
@@ -9031,6 +9330,11 @@
         },
         {
           "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        },
+        {
+          "section": "wiki",
           "title": "Carl Jung",
           "path": "/wiki/carl-jung/"
         },
@@ -9121,6 +9425,11 @@
         },
         {
           "section": "wiki",
+          "title": "Hebrews",
+          "path": "/wiki/hebrews/"
+        },
+        {
+          "section": "wiki",
           "title": "Idolatry",
           "path": "/wiki/idolatry/"
         },
@@ -9146,6 +9455,11 @@
         },
         {
           "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
+        },
+        {
+          "section": "wiki",
           "title": "Lucifer",
           "path": "/wiki/lucifer/"
         },
@@ -9153,6 +9467,11 @@
           "section": "wiki",
           "title": "Mazzaroth",
           "path": "/wiki/mazzaroth/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         },
         {
           "section": "wiki",
@@ -9226,6 +9545,11 @@
         },
         {
           "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
+        },
+        {
+          "section": "wiki",
           "title": "Tauroctony",
           "path": "/wiki/tauroctony/"
         },
@@ -9251,6 +9575,11 @@
         },
         {
           "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        },
+        {
+          "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
         },
@@ -9260,7 +9589,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 76
+      "cite_count": 82
     },
     {
       "id": "the-books-of-enoch-aramaic-fragments-of-qumr-n-cave-4-the-edition-that-proved-1-",
@@ -9511,6 +9840,17 @@
       "id": "the-cyclic-ekpyrotic-universe",
       "cited_by": [],
       "cite_count": 0
+    },
+    {
+      "id": "the-dating-of-the-historical-buddha-die-datierung-des-historischen-buddha",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-dead-hand-the-untold-story-of-the-cold-war-arms-race-and-its-dangerous-legac",
@@ -9766,6 +10106,17 @@
       "cite_count": 1
     },
     {
+      "id": "the-earliest-buddhist-shrine-excavating-the-birthplace-of-the-buddha-lumbini-nep",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "the-early-development-of-the-quranic-hanif",
       "cited_by": [
         {
@@ -9992,6 +10343,17 @@
       "cite_count": 2
     },
     {
+      "id": "the-epistle-to-the-hebrews",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "the-epoch-of-the-constellations-on-the-farnese-atlas-and-their-origin-in-hipparc",
       "cited_by": [
         {
@@ -10099,6 +10461,17 @@
       "cite_count": 3
     },
     {
+      "id": "the-farther-the-safer-a-manifesto-for-securely-navigating-synthetic-species-away",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "the-field-guide-crop-circle-making",
       "cited_by": [
         {
@@ -10159,15 +10532,20 @@
       "cite_count": 0
     },
     {
-      "id": "the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million",
+      "id": "gethin-foundations-of-buddhism",
       "cited_by": [
         {
           "section": "articles",
           "title": "The Forty Chairs",
           "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "the-fractal-geometry-of-nature",
@@ -10509,9 +10887,14 @@
           "section": "wiki",
           "title": "Idolatry",
           "path": "/wiki/idolatry/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "the-induction-of-the-cult-image-in-ancient-mesopotamia-the-mesopotamian-mis-pi-r",
@@ -10568,15 +10951,20 @@
       "cite_count": 1
     },
     {
-      "id": "the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books",
+      "id": "joseph-smith-papers-manuscript-revelation-books",
       "cited_by": [
         {
           "section": "articles",
           "title": "Six Mornings, Six Years",
           "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "wiki",
+          "title": "Joseph Smith",
+          "path": "/wiki/joseph-smith/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "the-jubilee-from-leviticus-to-qumran-vtsup-115-the-jubilee-as-eschatological-cou",
@@ -10649,9 +11037,14 @@
           "section": "articles",
           "title": "The Forty Chairs",
           "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
         }
       ],
-      "cite_count": 3
+      "cite_count": 4
     },
     {
       "id": "the-literature-of-ancient-sumer",
@@ -10660,6 +11053,17 @@
           "section": "wiki",
           "title": "Sumerian King List",
           "path": "/wiki/sumerian-king-list/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "the-long-discourses-of-the-buddha-a-translation-of-the-d-gha-nik-ya",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
         }
       ],
       "cite_count": 1
@@ -11339,11 +11743,16 @@
       "cited_by": [
         {
           "section": "wiki",
+          "title": "Buddha",
+          "path": "/wiki/buddha/"
+        },
+        {
+          "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "the-privileged-planet-how-our-place-in-the-cosmos-is-designed-for-discovery-the-",
@@ -11448,6 +11857,11 @@
         },
         {
           "section": "wiki",
+          "title": "Mecca",
+          "path": "/wiki/mecca/"
+        },
+        {
+          "section": "wiki",
           "title": "Monotheism",
           "path": "/wiki/monotheism/"
         },
@@ -11462,7 +11876,7 @@
           "path": "/wiki/satan/"
         }
       ],
-      "cite_count": 11
+      "cite_count": 12
     },
     {
       "id": "the-qur-an-3-67-2-135-142-145-6-92-14-4-16-123",
@@ -12463,9 +12877,14 @@
           "section": "wiki",
           "title": "Hebrew Bible",
           "path": "/wiki/hebrew-bible/"
+        },
+        {
+          "section": "wiki",
+          "title": "Tabernacle",
+          "path": "/wiki/tabernacle/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "who-wrote-the-bible",
@@ -12528,6 +12947,17 @@
           "section": "wiki",
           "title": "Cosmic Chain",
           "path": "/wiki/cosmic-chain/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "xenobiology-a-new-form-of-life-as-the-ultimate-biosafety-tool",
+      "cited_by": [
+        {
+          "section": "wiki",
+          "title": "Xenobiology",
+          "path": "/wiki/xenobiology/"
         }
       ],
       "cite_count": 1

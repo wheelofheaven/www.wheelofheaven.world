@@ -37,10 +37,15 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Tree of Life",
       "path": "/wiki/tree-of-life/"
     }
   ],
-  "cite_count": 5,
+  "cite_count": 6,
   "licensing_status": "licensed"
 }

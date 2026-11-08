@@ -522,9 +522,41 @@ CANONICAL_MERGES = {
     # older reference form reappears.
     "aliens-adored-ra-l-s-ufo-religion": "aliens-adored",
     "aliens-adored-ra-l-s-ufo-religion-the-standard-academic-study-of-ra-lism-notes-s": "aliens-adored",
+    # Annotated-title harvests from The Forty Chairs / Six Mornings; the
+    # 2026-11 wiki batch cites the clean canonical ids directly.
+    "joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s": "bushman-rough-stone-rolling",
+    "the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million": "gethin-foundations-of-buddhism",
+    "the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books": "joseph-smith-papers-manuscript-revelation-books",
 }
 
 CANONICAL_RECORDS = {
+    "bushman-rough-stone-rolling": {
+        "title": "Joseph Smith: Rough Stone Rolling",
+        "authored_by": ["Richard Lyman Bushman"],
+        "publish_date": "2005",
+        "follow_url": "",
+        "medium": "nonfiction-book",
+        "description": "Richard Lyman Bushman's biography of Joseph Smith, the standard scholarly life: the treasure-seeking milieu, the divergent First Vision accounts, the witnesses, and the development of Smith's theology.",
+        "topics": ["joseph-smith", "mormonism", "new-religious-movements"],
+    },
+    "gethin-foundations-of-buddhism": {
+        "title": "The Foundations of Buddhism",
+        "authored_by": ["Rupert Gethin"],
+        "publish_date": "1998",
+        "follow_url": "",
+        "medium": "nonfiction-book",
+        "description": "Rupert Gethin's introduction to the shared foundations of Buddhist thought and practice, including the world-systems cosmology and the early tradition's account of its founder.",
+        "topics": ["buddhism", "comparative-religion"],
+    },
+    "joseph-smith-papers-manuscript-revelation-books": {
+        "title": "The Joseph Smith Papers: Revelations and Translations, Volume 1: Manuscript Revelation Books",
+        "authored_by": ["Robin Scott Jensen, Robert J. Woodford & Steven C. Harper (eds.)"],
+        "publish_date": "2009",
+        "follow_url": "",
+        "medium": "nonfiction-book",
+        "description": "Documentary edition of Smith's manuscript revelation books, which records the revision of his revelations between the 1833 Book of Commandments and the 1835 Doctrine and Covenants.",
+        "topics": ["joseph-smith", "mormonism"],
+    },
     "collins-dead-sea-scrolls-biography": {
         "title": "The Dead Sea Scrolls: A Biography (Lives of Great Religious Books)",
         "authored_by": ["John J. Collins"],

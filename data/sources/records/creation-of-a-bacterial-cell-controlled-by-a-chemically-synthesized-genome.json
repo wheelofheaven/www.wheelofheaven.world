@@ -14,8 +14,13 @@
       "section": "timeline",
       "title": "Age of Aquarius",
       "path": "/timeline/age-of-aquarius/"
+    },
+    {
+      "section": "wiki",
+      "title": "Xenobiology",
+      "path": "/wiki/xenobiology/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "unverified"
 }

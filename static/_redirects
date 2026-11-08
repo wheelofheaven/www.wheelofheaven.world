@@ -13,6 +13,14 @@
 # Browsers and crawlers also request the conventional root icon directly.
 /favicon.ico                        /brand/favicon.ico                   301
 
+# 2026-11-08 — annotated-title source ids merged into clean canonical records.
+/sources/joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s/ /sources/bushman-rough-stone-rolling/ 301
+/:lang/sources/joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s/ /:lang/sources/bushman-rough-stone-rolling/ 301
+/sources/the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million/ /sources/gethin-foundations-of-buddhism/ 301
+/:lang/sources/the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million/ /:lang/sources/gethin-foundations-of-buddhism/ 301
+/sources/the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books/ /sources/joseph-smith-papers-manuscript-revelation-books/ 301
+/:lang/sources/the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books/ /:lang/sources/joseph-smith-papers-manuscript-revelation-books/ 301
+
 # The first pagination page is the Newsroom root; redirect at the HTTP layer.
 /news/page/1/                       /news/                               301
 

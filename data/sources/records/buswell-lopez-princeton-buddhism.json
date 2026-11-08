@@ -18,10 +18,15 @@
   "cited_by": [
     {
       "section": "wiki",
+      "title": "Buddha",
+      "path": "/wiki/buddha/"
+    },
+    {
+      "section": "wiki",
       "title": "Cosmic Chain",
       "path": "/wiki/cosmic-chain/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "licensed"
 }

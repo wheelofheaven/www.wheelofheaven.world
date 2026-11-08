@@ -24,8 +24,13 @@
       "section": "articles",
       "title": "The Religion of Religions",
       "path": "/articles/the-religion-of-religions/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
     }
   ],
-  "cite_count": 2,
+  "cite_count": 3,
   "licensing_status": "public_domain"
 }

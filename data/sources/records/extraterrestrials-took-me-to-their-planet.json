@@ -112,6 +112,11 @@
     },
     {
       "section": "wiki",
+      "title": "Buddha",
+      "path": "/wiki/buddha/"
+    },
+    {
+      "section": "wiki",
       "title": "Cosmic Chain",
       "path": "/wiki/cosmic-chain/"
     },
@@ -137,8 +142,23 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Jesus",
       "path": "/wiki/jesus/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    },
+    {
+      "section": "wiki",
+      "title": "Mecca",
+      "path": "/wiki/mecca/"
     },
     {
       "section": "wiki",
@@ -187,10 +207,15 @@
     },
     {
       "section": "wiki",
+      "title": "Xenobiology",
+      "path": "/wiki/xenobiology/"
+    },
+    {
+      "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
     }
   ],
-  "cite_count": 34,
+  "cite_count": 39,
   "licensing_status": "licensed"
 }

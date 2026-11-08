@@ -1304,6 +1304,12 @@
         "description": "Ancient Builders, in popular and alternative-archaeology usage, is the proposition that a lost or unknown civilization built many of the world's great stone mon"
       },
       {
+        "path": "/wiki/hebrews/",
+        "title": "Hebrews",
+        "category": "Peoples & Groups",
+        "description": "The Hebrews (ʿIvrim) are the biblical people of Abraham and his descendants. The canon calls the people of Israel the creators' chosen and descended people."
+      },
+      {
         "path": "/wiki/nabataeans/",
         "title": "Nabataeans",
         "category": "Peoples & Groups",
@@ -1314,12 +1320,6 @@
         "title": "Nephilim",
         "category": "Peoples & Groups",
         "description": "The Nephilim of Genesis 6 are the offspring of the 'sons of the Elohim' and human women — in the Raëlian canon, hybrid children of the exiled Elohim faction."
-      },
-      {
-        "path": "/wiki/watchers/",
-        "title": "Watchers",
-        "category": "Peoples & Groups",
-        "description": "The Watchers are the beings of 1 Enoch who descend to Earth before the Flood and father the Nephilim — in the Raëlian canon, the exiled Lucifer-faction Elohim."
       }
     ],
     "wiki/ancient-astronaut-hypothesis": [
@@ -1356,6 +1356,12 @@
         "description": "Who were the Adamites? In the Wheel of Heaven framework, they are the original human population engineered by the Elohim in the antediluvian Garden of Eden."
       },
       {
+        "path": "/wiki/hebrews/",
+        "title": "Hebrews",
+        "category": "Peoples & Groups",
+        "description": "The Hebrews (ʿIvrim) are the biblical people of Abraham and his descendants. The canon calls the people of Israel the creators' chosen and descended people."
+      },
+      {
         "path": "/wiki/nabataeans/",
         "title": "Nabataeans",
         "category": "Peoples & Groups",
@@ -1366,12 +1372,6 @@
         "title": "Nephilim",
         "category": "Peoples & Groups",
         "description": "The Nephilim of Genesis 6 are the offspring of the 'sons of the Elohim' and human women — in the Raëlian canon, hybrid children of the exiled Elohim faction."
-      },
-      {
-        "path": "/wiki/watchers/",
-        "title": "Watchers",
-        "category": "Peoples & Groups",
-        "description": "The Watchers are the beings of 1 Enoch who descend to Earth before the Flood and father the Nephilim — in the Raëlian canon, the exiled Lucifer-faction Elohim."
       }
     ],
     "wiki/antediluvian": [
@@ -1558,6 +1558,12 @@
     ],
     "wiki/bible": [
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -1574,12 +1580,6 @@
         "title": "Idolatry",
         "category": "Theology & Traditions",
         "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
-      },
-      {
-        "path": "/wiki/monotheism/",
-        "title": "Monotheism",
-        "category": "Theology & Traditions",
-        "description": "Monotheism names belief in one God, but ancient sources often use oneness to order worship, allegiance, mediation, and creation rather than count beings."
       }
     ],
     "wiki/biglino-method": [
@@ -1632,6 +1632,32 @@
         "title": "Hebrew Bible",
         "category": "Texts & Sources",
         "description": "The Hebrew Bible (Hebrew: תָּנָ״ךְ, *Tanakh*) is the twenty-four-book Hebrew-language scriptural corpus — Torah, Nevi'im, and Ketuvim — composed across roughly "
+      }
+    ],
+    "wiki/buddha": [
+      {
+        "path": "/wiki/bible/",
+        "title": "Bible",
+        "category": "Theology & Traditions",
+        "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
+      },
+      {
+        "path": "/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya (Arabic ٱلْحَنِيفِيَّة al-Ḥanīfiyyah, from حَنِيف ḥanīf, 'one inclined away from idolatry toward the upright primordial worship') is the Quranic and e"
+      },
+      {
+        "path": "/wiki/hebrew/",
+        "title": "Hebrew",
+        "category": "Theology & Traditions",
+        "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
+      },
+      {
+        "path": "/wiki/idolatry/",
+        "title": "Idolatry",
+        "category": "Theology & Traditions",
+        "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
       }
     ],
     "wiki/carl-jung": [
@@ -2078,6 +2104,12 @@
     ],
     "wiki/eden": [
       {
+        "path": "/wiki/mecca/",
+        "title": "Mecca",
+        "category": "Places & Locations",
+        "description": "Mecca, holiest city of Islam: the Kaʿba, the qibla and the hajj in the tradition's own terms, the contested early-qibla case for Petra, and the canon's silence."
+      },
+      {
         "path": "/wiki/new-jerusalem/",
         "title": "New Jerusalem",
         "category": "Places & Locations",
@@ -2094,12 +2126,6 @@
         "title": "Petra",
         "category": "Places & Locations",
         "description": "Petra (Greek Πέτρα 'rock'; Nabataean Aramaic רקמו Raqmū; Hebrew רֶקֶם Reqem; Arabic ٱلْبَتْرَاء al-Batrāʾ) is the rock-cut capital of the Nabataean kingdom in p"
-      },
-      {
-        "path": "/wiki/third-temple/",
-        "title": "Third Temple",
-        "category": "Places & Locations",
-        "description": "The Third Temple (Hebrew *Beit ha-Mikdash ha-Shlishi*, \"the Third Holy House\") is the future Temple that Jewish tradition expects to rise in Jerusalem after the"
       }
     ],
     "wiki/elijah": [
@@ -2708,6 +2734,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hebrew/",
         "title": "Hebrew",
         "category": "Theology & Traditions",
@@ -2718,12 +2750,6 @@
         "title": "Idolatry",
         "category": "Theology & Traditions",
         "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
-      },
-      {
-        "path": "/wiki/monotheism/",
-        "title": "Monotheism",
-        "category": "Theology & Traditions",
-        "description": "Monotheism names belief in one God, but ancient sources often use oneness to order worship, allegiance, mediation, and creation rather than count beings."
       }
     ],
     "wiki/hebrew": [
@@ -2732,6 +2758,12 @@
         "title": "Bible",
         "category": "Theology & Traditions",
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
+      },
+      {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
       },
       {
         "path": "/wiki/hanafiyya/",
@@ -2744,12 +2776,6 @@
         "title": "Idolatry",
         "category": "Theology & Traditions",
         "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
-      },
-      {
-        "path": "/wiki/monotheism/",
-        "title": "Monotheism",
-        "category": "Theology & Traditions",
-        "description": "Monotheism names belief in one God, but ancient sources often use oneness to order worship, allegiance, mediation, and creation rather than count beings."
       }
     ],
     "wiki/hebrew-bible": [
@@ -2776,6 +2802,32 @@
         "title": "Hamlet's Mill",
         "category": "Texts & Sources",
         "description": "Hamlet's Mill: An Essay on Myth and the Frame of Time (originally subtitled An Essay Investigating the Origins of Human Knowledge and Its Transmission Through M"
+      }
+    ],
+    "wiki/hebrews": [
+      {
+        "path": "/wiki/adamites/",
+        "title": "Adamites",
+        "category": "Peoples & Groups",
+        "description": "Who were the Adamites? In the Wheel of Heaven framework, they are the original human population engineered by the Elohim in the antediluvian Garden of Eden."
+      },
+      {
+        "path": "/wiki/ancient-builders/",
+        "title": "Ancient Builders",
+        "category": "Peoples & Groups",
+        "description": "Ancient Builders, in popular and alternative-archaeology usage, is the proposition that a lost or unknown civilization built many of the world's great stone mon"
+      },
+      {
+        "path": "/wiki/nabataeans/",
+        "title": "Nabataeans",
+        "category": "Peoples & Groups",
+        "description": "The Nabataeans (Nabataean Aramaic נבטו Nabaṭu; Greek Ναβαταῖοι Nabataîoi; Arabic ٱلْأَنْبَاط al-Anbāṭ) were an ancient North Arabian people who from roughly the"
+      },
+      {
+        "path": "/wiki/nephilim/",
+        "title": "Nephilim",
+        "category": "Peoples & Groups",
+        "description": "The Nephilim of Genesis 6 are the offspring of the 'sons of the Elohim' and human women — in the Raëlian canon, hybrid children of the exiled Elohim faction."
       }
     ],
     "wiki/hekhalot-literature": [
@@ -2838,6 +2890,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -2848,12 +2906,6 @@
         "title": "Hebrew",
         "category": "Theology & Traditions",
         "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
-      },
-      {
-        "path": "/wiki/monotheism/",
-        "title": "Monotheism",
-        "category": "Theology & Traditions",
-        "description": "Monotheism names belief in one God, but ancient sources often use oneness to order worship, allegiance, mediation, and creation rather than count beings."
       }
     ],
     "wiki/infinity": [
@@ -3010,6 +3062,32 @@
         "title": "Carl Jung",
         "category": "Methodology",
         "description": "Carl Jung (1875–1961), founder of analytical psychology. His book Aion reads the Christian era as the astrological Age of Pisces — the corpus's fullest modern w"
+      }
+    ],
+    "wiki/joseph-smith": [
+      {
+        "path": "/wiki/bible/",
+        "title": "Bible",
+        "category": "Theology & Traditions",
+        "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
+      },
+      {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
+        "path": "/wiki/hanafiyya/",
+        "title": "Hanafiyya",
+        "category": "Theology & Traditions",
+        "description": "Hanafiyya (Arabic ٱلْحَنِيفِيَّة al-Ḥanīfiyyah, from حَنِيف ḥanīf, 'one inclined away from idolatry toward the upright primordial worship') is the Quranic and e"
+      },
+      {
+        "path": "/wiki/hebrew/",
+        "title": "Hebrew",
+        "category": "Theology & Traditions",
+        "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
       }
     ],
     "wiki/kabbalah": [
@@ -3428,6 +3506,32 @@
         "description": "The Golden Age is, in the Wheel of Heaven framework, the form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
       }
     ],
+    "wiki/mecca": [
+      {
+        "path": "/wiki/eden/",
+        "title": "Eden",
+        "category": "Places & Locations",
+        "description": "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their "
+      },
+      {
+        "path": "/wiki/new-jerusalem/",
+        "title": "New Jerusalem",
+        "category": "Places & Locations",
+        "description": "New Jerusalem is, in the Wheel of Heaven framework, one of three names — with Third Temple and Embassy — for the structure meant to receive the Elohim's formal "
+      },
+      {
+        "path": "/wiki/pangaea/",
+        "title": "Pangaea",
+        "category": "Places & Locations",
+        "description": "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years "
+      },
+      {
+        "path": "/wiki/petra/",
+        "title": "Petra",
+        "category": "Places & Locations",
+        "description": "Petra (Greek Πέτρα 'rock'; Nabataean Aramaic רקמו Raqmū; Hebrew רֶקֶם Reqem; Arabic ٱلْبَتْرَاء al-Batrāʾ) is the rock-cut capital of the Nabataean kingdom in p"
+      }
+    ],
     "wiki/menorah": [
       {
         "path": "/wiki/ark-of-the-covenant/",
@@ -3514,6 +3618,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -3524,12 +3634,6 @@
         "title": "Hebrew",
         "category": "Theology & Traditions",
         "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
-      },
-      {
-        "path": "/wiki/idolatry/",
-        "title": "Idolatry",
-        "category": "Theology & Traditions",
-        "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
       }
     ],
     "wiki/moses": [
@@ -3624,16 +3728,16 @@
         "description": "Ancient Builders, in popular and alternative-archaeology usage, is the proposition that a lost or unknown civilization built many of the world's great stone mon"
       },
       {
+        "path": "/wiki/hebrews/",
+        "title": "Hebrews",
+        "category": "Peoples & Groups",
+        "description": "The Hebrews (ʿIvrim) are the biblical people of Abraham and his descendants. The canon calls the people of Israel the creators' chosen and descended people."
+      },
+      {
         "path": "/wiki/nephilim/",
         "title": "Nephilim",
         "category": "Peoples & Groups",
         "description": "The Nephilim of Genesis 6 are the offspring of the 'sons of the Elohim' and human women — in the Raëlian canon, hybrid children of the exiled Elohim faction."
-      },
-      {
-        "path": "/wiki/watchers/",
-        "title": "Watchers",
-        "category": "Peoples & Groups",
-        "description": "The Watchers are the beings of 1 Enoch who descend to Earth before the Flood and father the Nephilim — in the Raëlian canon, the exiled Lucifer-faction Elohim."
       }
     ],
     "wiki/neo-euhemerism": [
@@ -3676,16 +3780,16 @@
         "description": "Ancient Builders, in popular and alternative-archaeology usage, is the proposition that a lost or unknown civilization built many of the world's great stone mon"
       },
       {
+        "path": "/wiki/hebrews/",
+        "title": "Hebrews",
+        "category": "Peoples & Groups",
+        "description": "The Hebrews (ʿIvrim) are the biblical people of Abraham and his descendants. The canon calls the people of Israel the creators' chosen and descended people."
+      },
+      {
         "path": "/wiki/nabataeans/",
         "title": "Nabataeans",
         "category": "Peoples & Groups",
         "description": "The Nabataeans (Nabataean Aramaic נבטו Nabaṭu; Greek Ναβαταῖοι Nabataîoi; Arabic ٱلْأَنْبَاط al-Anbāṭ) were an ancient North Arabian people who from roughly the"
-      },
-      {
-        "path": "/wiki/watchers/",
-        "title": "Watchers",
-        "category": "Peoples & Groups",
-        "description": "The Watchers are the beings of 1 Enoch who descend to Earth before the Flood and father the Nephilim — in the Raëlian canon, the exiled Lucifer-faction Elohim."
       }
     ],
     "wiki/new-commandments": [
@@ -3722,6 +3826,12 @@
         "description": "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their "
       },
       {
+        "path": "/wiki/mecca/",
+        "title": "Mecca",
+        "category": "Places & Locations",
+        "description": "Mecca, holiest city of Islam: the Kaʿba, the qibla and the hajj in the tradition's own terms, the contested early-qibla case for Petra, and the canon's silence."
+      },
+      {
         "path": "/wiki/pangaea/",
         "title": "Pangaea",
         "category": "Places & Locations",
@@ -3732,12 +3842,6 @@
         "title": "Petra",
         "category": "Places & Locations",
         "description": "Petra (Greek Πέτρα 'rock'; Nabataean Aramaic רקמו Raqmū; Hebrew רֶקֶם Reqem; Arabic ٱلْبَتْرَاء al-Batrāʾ) is the rock-cut capital of the Nabataean kingdom in p"
-      },
-      {
-        "path": "/wiki/third-temple/",
-        "title": "Third Temple",
-        "category": "Places & Locations",
-        "description": "The Third Temple (Hebrew *Beit ha-Mikdash ha-Shlishi*, \"the Third Holy House\") is the future Temple that Jewish tradition expects to rise in Jerusalem after the"
       }
     ],
     "wiki/noah": [
@@ -3878,6 +3982,12 @@
         "description": "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their "
       },
       {
+        "path": "/wiki/mecca/",
+        "title": "Mecca",
+        "category": "Places & Locations",
+        "description": "Mecca, holiest city of Islam: the Kaʿba, the qibla and the hajj in the tradition's own terms, the contested early-qibla case for Petra, and the canon's silence."
+      },
+      {
         "path": "/wiki/new-jerusalem/",
         "title": "New Jerusalem",
         "category": "Places & Locations",
@@ -3888,12 +3998,6 @@
         "title": "Petra",
         "category": "Places & Locations",
         "description": "Petra (Greek Πέτρα 'rock'; Nabataean Aramaic רקמו Raqmū; Hebrew רֶקֶם Reqem; Arabic ٱلْبَتْرَاء al-Batrāʾ) is the rock-cut capital of the Nabataean kingdom in p"
-      },
-      {
-        "path": "/wiki/third-temple/",
-        "title": "Third Temple",
-        "category": "Places & Locations",
-        "description": "The Third Temple (Hebrew *Beit ha-Mikdash ha-Shlishi*, \"the Third Holy House\") is the future Temple that Jewish tradition expects to rise in Jerusalem after the"
       }
     ],
     "wiki/pantropy": [
@@ -3982,6 +4086,12 @@
         "description": "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their "
       },
       {
+        "path": "/wiki/mecca/",
+        "title": "Mecca",
+        "category": "Places & Locations",
+        "description": "Mecca, holiest city of Islam: the Kaʿba, the qibla and the hajj in the tradition's own terms, the contested early-qibla case for Petra, and the canon's silence."
+      },
+      {
         "path": "/wiki/new-jerusalem/",
         "title": "New Jerusalem",
         "category": "Places & Locations",
@@ -3992,12 +4102,6 @@
         "title": "Pangaea",
         "category": "Places & Locations",
         "description": "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years "
-      },
-      {
-        "path": "/wiki/third-temple/",
-        "title": "Third Temple",
-        "category": "Places & Locations",
-        "description": "The Third Temple (Hebrew *Beit ha-Mikdash ha-Shlishi*, \"the Third Holy House\") is the future Temple that Jewish tradition expects to rise in Jerusalem after the"
       }
     ],
     "wiki/plurality-of-gods": [
@@ -4190,6 +4294,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -4200,12 +4310,6 @@
         "title": "Hebrew",
         "category": "Theology & Traditions",
         "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
-      },
-      {
-        "path": "/wiki/idolatry/",
-        "title": "Idolatry",
-        "category": "Theology & Traditions",
-        "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
       }
     ],
     "wiki/religion": [
@@ -4216,6 +4320,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -4226,12 +4336,6 @@
         "title": "Hebrew",
         "category": "Theology & Traditions",
         "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
-      },
-      {
-        "path": "/wiki/idolatry/",
-        "title": "Idolatry",
-        "category": "Theology & Traditions",
-        "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
       }
     ],
     "wiki/sacred-geometry": [
@@ -4624,6 +4728,32 @@
         "description": "The Drake equation is the formula the American radio astronomer Frank Drake (1930-2022) wrote in 1961 to organize the factors that determine how many communicat"
       }
     ],
+    "wiki/tabernacle": [
+      {
+        "path": "/wiki/eden/",
+        "title": "Eden",
+        "category": "Places & Locations",
+        "description": "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their "
+      },
+      {
+        "path": "/wiki/mecca/",
+        "title": "Mecca",
+        "category": "Places & Locations",
+        "description": "Mecca, holiest city of Islam: the Kaʿba, the qibla and the hajj in the tradition's own terms, the contested early-qibla case for Petra, and the canon's silence."
+      },
+      {
+        "path": "/wiki/new-jerusalem/",
+        "title": "New Jerusalem",
+        "category": "Places & Locations",
+        "description": "New Jerusalem is, in the Wheel of Heaven framework, one of three names — with Third Temple and Embassy — for the structure meant to receive the Elohim's formal "
+      },
+      {
+        "path": "/wiki/pangaea/",
+        "title": "Pangaea",
+        "category": "Places & Locations",
+        "description": "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years "
+      }
+    ],
     "wiki/tannin": [
       {
         "path": "/wiki/ark-of-the-covenant/",
@@ -4736,6 +4866,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -4746,12 +4882,6 @@
         "title": "Hebrew",
         "category": "Theology & Traditions",
         "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
-      },
-      {
-        "path": "/wiki/idolatry/",
-        "title": "Idolatry",
-        "category": "Theology & Traditions",
-        "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
       }
     ],
     "wiki/the-truth": [
@@ -4762,6 +4892,12 @@
         "description": "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
       },
       {
+        "path": "/wiki/buddha/",
+        "title": "Buddha",
+        "category": "Theology & Traditions",
+        "description": "The Raëlian canon names Buddha among the Elohim's messengers, seated at Jesus's left; the corpus identifies him with Siddhārtha Gautama, founder of Buddhism."
+      },
+      {
         "path": "/wiki/hanafiyya/",
         "title": "Hanafiyya",
         "category": "Theology & Traditions",
@@ -4772,12 +4908,6 @@
         "title": "Hebrew",
         "category": "Theology & Traditions",
         "description": "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in whic"
-      },
-      {
-        "path": "/wiki/idolatry/",
-        "title": "Idolatry",
-        "category": "Theology & Traditions",
-        "description": "Idolatry is condemned as service to powerless images or unauthorised intermediaries; Wheel of Heaven reads it as a breakdown of creator memory and allegiance."
       }
     ],
     "wiki/theomachy": [
@@ -4814,6 +4944,12 @@
         "description": "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their "
       },
       {
+        "path": "/wiki/mecca/",
+        "title": "Mecca",
+        "category": "Places & Locations",
+        "description": "Mecca, holiest city of Islam: the Kaʿba, the qibla and the hajj in the tradition's own terms, the contested early-qibla case for Petra, and the canon's silence."
+      },
+      {
         "path": "/wiki/new-jerusalem/",
         "title": "New Jerusalem",
         "category": "Places & Locations",
@@ -4824,12 +4960,6 @@
         "title": "Pangaea",
         "category": "Places & Locations",
         "description": "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years "
-      },
-      {
-        "path": "/wiki/petra/",
-        "title": "Petra",
-        "category": "Places & Locations",
-        "description": "Petra (Greek Πέτρα 'rock'; Nabataean Aramaic רקמו Raqmū; Hebrew רֶקֶם Reqem; Arabic ٱلْبَتْرَاء al-Batrāʾ) is the rock-cut capital of the Nabataean kingdom in p"
       }
     ],
     "wiki/tower-of-babel": [
@@ -4976,16 +5106,16 @@
         "description": "Ancient Builders, in popular and alternative-archaeology usage, is the proposition that a lost or unknown civilization built many of the world's great stone mon"
       },
       {
+        "path": "/wiki/hebrews/",
+        "title": "Hebrews",
+        "category": "Peoples & Groups",
+        "description": "The Hebrews (ʿIvrim) are the biblical people of Abraham and his descendants. The canon calls the people of Israel the creators' chosen and descended people."
+      },
+      {
         "path": "/wiki/nabataeans/",
         "title": "Nabataeans",
         "category": "Peoples & Groups",
         "description": "The Nabataeans (Nabataean Aramaic נבטו Nabaṭu; Greek Ναβαταῖοι Nabataîoi; Arabic ٱلْأَنْبَاط al-Anbāṭ) were an ancient North Arabian people who from roughly the"
-      },
-      {
-        "path": "/wiki/nephilim/",
-        "title": "Nephilim",
-        "category": "Peoples & Groups",
-        "description": "The Nephilim of Genesis 6 are the offspring of the 'sons of the Elohim' and human women — in the Raëlian canon, hybrid children of the exiled Elohim faction."
       }
     ],
     "wiki/wheel-of-heaven": [
@@ -5038,6 +5168,32 @@
         "title": "Golden Age",
         "category": "Cosmic Chronology",
         "description": "The Golden Age is, in the Wheel of Heaven framework, the form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
+      }
+    ],
+    "wiki/xenobiology": [
+      {
+        "path": "/wiki/astrobiology/",
+        "title": "Astrobiology",
+        "category": "Science & Technology",
+        "description": "Astrobiology is the scientific study of the origin, evolution, distribution, and future of life in the universe, drawing on astronomy, biology, geology, chemist"
+      },
+      {
+        "path": "/wiki/cosmic-evolution/",
+        "title": "Cosmic evolution",
+        "category": "Science & Technology",
+        "description": "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The full entry is at Cosmic Chain."
+      },
+      {
+        "path": "/wiki/cosmic-pluralism/",
+        "title": "Cosmic pluralism",
+        "category": "Science & Technology",
+        "description": "Cosmic pluralism is the doctrine that the universe contains many worlds — in its stronger form, many inhabited worlds — traced from Greek atomism to exoplanets."
+      },
+      {
+        "path": "/wiki/drake-equation/",
+        "title": "Drake Equation",
+        "category": "Science & Technology",
+        "description": "The Drake equation is the formula the American radio astronomer Frank Drake (1930-2022) wrote in 1961 to organize the factors that determine how many communicat"
       }
     ],
     "wiki/yahweh": [

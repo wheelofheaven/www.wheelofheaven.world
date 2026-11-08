@@ -47,6 +47,11 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Idolatry",
       "path": "/wiki/idolatry/"
     },
@@ -61,6 +66,6 @@
       "path": "/wiki/moses/"
     }
   ],
-  "cite_count": 9,
+  "cite_count": 10,
   "licensing_status": "unverified"
 }

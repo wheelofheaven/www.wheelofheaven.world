@@ -147,6 +147,16 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    },
+    {
+      "section": "wiki",
       "title": "Mazzaroth",
       "path": "/wiki/mazzaroth/"
     },
@@ -167,10 +177,15 @@
     },
     {
       "section": "wiki",
+      "title": "Xenobiology",
+      "path": "/wiki/xenobiology/"
+    },
+    {
+      "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
     }
   ],
-  "cite_count": 32,
+  "cite_count": 35,
   "licensing_status": "unverified"
 }

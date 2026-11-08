@@ -29,8 +29,13 @@
       "section": "wiki",
       "title": "Moses",
       "path": "/wiki/moses/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
     }
   ],
-  "cite_count": 4,
+  "cite_count": 5,
   "licensing_status": "unverified"
 }

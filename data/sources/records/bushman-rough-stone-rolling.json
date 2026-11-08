@@ -1,0 +1,30 @@
+{
+  "id": "bushman-rough-stone-rolling",
+  "title": "Joseph Smith: Rough Stone Rolling",
+  "authored_by": [
+    "Richard Lyman Bushman"
+  ],
+  "publish_date": "2005",
+  "follow_url": "",
+  "description": "Richard Lyman Bushman's biography of Joseph Smith, the standard scholarly life: the treasure-seeking milieu, the divergent First Vision accounts, the witnesses, and the development of Smith's theology.",
+  "medium": "nonfiction-book",
+  "topics": [
+    "joseph-smith",
+    "mormonism",
+    "new-religious-movements"
+  ],
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Forty Chairs",
+      "path": "/articles/the-forty-chairs/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
+    }
+  ],
+  "cite_count": 2,
+  "licensing_status": "unverified"
+}

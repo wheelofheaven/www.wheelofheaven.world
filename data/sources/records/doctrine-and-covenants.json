@@ -19,8 +19,13 @@
       "section": "wiki",
       "title": "Adam and Eve",
       "path": "/wiki/adam-and-eve/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "public_domain"
 }

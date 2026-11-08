@@ -18,8 +18,18 @@
       "section": "wiki",
       "title": "Hebrew Bible",
       "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 3,
   "licensing_status": "unverified"
 }

@@ -17,8 +17,13 @@
       "section": "wiki",
       "title": "Hebrew Bible",
       "path": "/wiki/hebrew-bible/"
+    },
+    {
+      "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "unverified"
 }

@@ -32,10 +32,15 @@
     },
     {
       "section": "wiki",
+      "title": "Tabernacle",
+      "path": "/wiki/tabernacle/"
+    },
+    {
+      "section": "wiki",
       "title": "Tree of Life",
       "path": "/wiki/tree-of-life/"
     }
   ],
-  "cite_count": 4,
+  "cite_count": 5,
   "licensing_status": "licensed"
 }

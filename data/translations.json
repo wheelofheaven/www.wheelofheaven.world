@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-08T13:55:42+00:00",
-    "count": 1298
+    "generated_at": "2026-11-08T15:38:09+00:00",
+    "count": 1314
   },
   "paths": {
     "AGENTS": [
@@ -2276,6 +2276,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/a-semi-synthetic-organism-with-an-expanded-genetic-alphabet": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/a-study-of-history-abridgement-of-vols-i-vi-by-d-c-somervell-challenge-and-respo": [
       "de",
       "en",
@@ -2996,6 +3008,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/biocontainment-of-genetically-modified-organisms-by-synthetic-protein-design": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/birrell-chinese-mythology": [
       "de",
       "en",
@@ -3165,6 +3189,18 @@
       "zh-Hant"
     ],
     "sources/bunch-tall-el-hammam": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/bushman-rough-stone-rolling": [
       "de",
       "en",
       "es",
@@ -4928,6 +4964,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/gethin-foundations-of-buddhism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/gibson-neuromancer": [
       "de",
       "en",
@@ -5241,6 +5289,18 @@
       "zh-Hant"
     ],
     "sources/habitable-worlds-observatory": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/hachimoji-dna-and-rna-a-genetic-system-with-eight-building-blocks": [
       "de",
       "en",
       "es",
@@ -5708,6 +5768,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/inscriptions-of-asoka": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/intelligent-design-message-from-the-designers": [
       "de",
       "en",
@@ -5852,6 +5924,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/is-there-a-common-chemical-model-for-life-in-the-universe": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/isaiah": [
       "de",
       "en",
@@ -5949,6 +6033,18 @@
       "zh-Hant"
     ],
     "sources/jones-instinct-for-dragons": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/joseph-smith-papers-manuscript-revelation-books": [
       "de",
       "en",
       "es",
@@ -7473,6 +7569,18 @@
       "zh-Hant"
     ],
     "sources/nietzsche-zarathustra": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/no-man-knows-my-history-the-life-of-joseph-smith": [
       "de",
       "en",
       "es",
@@ -9356,6 +9464,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/synthetic-genetic-polymers-capable-of-heredity-and-evolution": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/takahashi-yamanaka-2006": [
       "de",
       "en",
@@ -9812,6 +9932,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/the-dating-of-the-historical-buddha-die-datierung-des-historischen-buddha": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/the-dead-hand-the-untold-story-of-the-cold-war-arms-race-and-its-dangerous-legac": [
       "de",
       "en",
@@ -9980,6 +10112,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/the-earliest-buddhist-shrine-excavating-the-birthplace-of-the-buddha-lumbini-nep": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/the-early-development-of-the-quranic-hanif": [
       "de",
       "en",
@@ -10064,6 +10208,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/the-epistle-to-the-hebrews": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/the-epoch-of-the-constellations-on-the-farnese-atlas-and-their-origin-in-hipparc": [
       "de",
       "en",
@@ -10101,6 +10257,18 @@
       "zh-Hant"
     ],
     "sources/the-evolution-of-the-gilgamesh-epic": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/the-farther-the-safer-a-manifesto-for-securely-navigating-synthetic-species-away": [
       "de",
       "en",
       "es",
@@ -10545,6 +10713,18 @@
       "zh-Hant"
     ],
     "sources/the-literature-of-ancient-sumer": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/the-long-discourses-of-the-buddha-a-translation-of-the-d-gha-nik-ya": [
       "de",
       "en",
       "es",
@@ -11988,6 +12168,18 @@
       "zh-Hant"
     ],
     "sources/wright-resurrection-son-of-god": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/xenobiology-a-new-form-of-life-as-the-ultimate-biosafety-tool": [
       "de",
       "en",
       "es",

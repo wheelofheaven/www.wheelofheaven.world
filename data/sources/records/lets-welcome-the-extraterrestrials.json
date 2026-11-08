@@ -57,6 +57,11 @@
     },
     {
       "section": "wiki",
+      "title": "Buddha",
+      "path": "/wiki/buddha/"
+    },
+    {
+      "section": "wiki",
       "title": "Eden",
       "path": "/wiki/eden/"
     },
@@ -82,8 +87,18 @@
     },
     {
       "section": "wiki",
+      "title": "Hebrews",
+      "path": "/wiki/hebrews/"
+    },
+    {
+      "section": "wiki",
       "title": "Jesus",
       "path": "/wiki/jesus/"
+    },
+    {
+      "section": "wiki",
+      "title": "Joseph Smith",
+      "path": "/wiki/joseph-smith/"
     },
     {
       "section": "wiki",
@@ -117,10 +132,15 @@
     },
     {
       "section": "wiki",
+      "title": "Xenobiology",
+      "path": "/wiki/xenobiology/"
+    },
+    {
+      "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
     }
   ],
-  "cite_count": 20,
+  "cite_count": 24,
   "licensing_status": "licensed"
 }

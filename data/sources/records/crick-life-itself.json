@@ -19,8 +19,13 @@
       "section": "wiki",
       "title": "Cosmic Chain",
       "path": "/wiki/cosmic-chain/"
+    },
+    {
+      "section": "wiki",
+      "title": "Xenobiology",
+      "path": "/wiki/xenobiology/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "licensed"
 }
