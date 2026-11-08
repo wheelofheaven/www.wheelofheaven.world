@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-02T06:48:31+00:00",
-    "count": 1214
+    "generated_at": "2026-11-08T13:55:42+00:00",
+    "count": 1298
   },
   "paths": {
     "AGENTS": [
@@ -53,9 +53,6 @@
       "en"
     ],
     "articles/lucifer-and-satan": [
-      "en"
-    ],
-    "articles/made-from-the-ground-to-bear-the-labor": [
       "en"
     ],
     "articles/monotheism-is-the-wrong-question": [
@@ -473,6 +470,9 @@
     "gallery": [
       "en"
     ],
+    "graph": [
+      "en"
+    ],
     "library": [
       "de",
       "en",
@@ -587,6 +587,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/1-thessalonians-woh": [
+      "en"
+    ],
     "library/1-timothy": [
       "de",
       "en",
@@ -685,6 +688,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/2-samuel-woh": [
+      "en"
     ],
     "library/2-thessalonians": [
       "de",
@@ -1370,6 +1376,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/leviticus-woh": [
+      "en"
+    ],
     "library/luke": [
       "de",
       "en",
@@ -1426,6 +1435,9 @@
       "ru",
       "zh",
       "zh-Hant"
+    ],
+    "library/micah-woh": [
+      "en"
     ],
     "library/mormon-book": [
       "de",
@@ -1712,6 +1724,9 @@
       "zh",
       "zh-Hant"
     ],
+    "library/tobit-woh": [
+      "en"
+    ],
     "library/vendidad-woh": [
       "en"
     ],
@@ -1985,6 +2000,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/1-enoch-the-book-of-the-watchers-book-of-parables-astronomical-book": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/1-kings": [
       "de",
       "en",
@@ -2202,6 +2229,18 @@
       "zh-Hant"
     ],
     "sources/a-new-look-at-the-babylonian-background-of-genesis-jts-16": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/a-production-of-amino-acids-under-possible-primitive-earth-conditions": [
       "de",
       "en",
       "es",
@@ -3041,6 +3080,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/book-of-jubilees": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/book-of-mormon": [
       "de",
       "en",
@@ -3066,6 +3117,18 @@
       "zh-Hant"
     ],
     "sources/boyce-zoroastrians": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/breakthrough-starshot": [
       "de",
       "en",
       "es",
@@ -3174,6 +3237,18 @@
       "zh-Hant"
     ],
     "sources/capital-in-the-twenty-first-century-the-r-g-mechanism-of-inherited-concentration": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/carbon-bearing-molecules-in-a-possible-hycean-atmosphere": [
       "de",
       "en",
       "es",
@@ -3533,6 +3608,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-daniel-g-gibson-j-cr": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome-scien": [
       "de",
       "en",
@@ -3857,6 +3944,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/design-and-synthesis-of-a-minimal-bacterial-genome-clyde-a-hutchison-ii": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/deterministic-nonperiodic-flow": [
       "de",
       "en",
@@ -4145,6 +4244,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/early-buddhist-art-and-the-theory-of-aniconism-art-journal-49-4-the-challenge-to": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/early-islamic-qiblas": [
       "de",
       "en",
@@ -4158,6 +4269,18 @@
       "zh-Hant"
     ],
     "sources/early-islamic-qiblas-a-survey-of-mosques-built-between-1-ah-and-263-ah": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/earth-and-mars-evolution-of-atmospheres-and-surface-temperatures": [
       "de",
       "en",
       "es",
@@ -5117,6 +5240,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/habitable-worlds-observatory": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm": [
       "de",
       "en",
@@ -5418,6 +5553,18 @@
       "zh-Hant"
     ],
     "sources/how-accurately-could-early-622-900-c-e-muslims-determine-the-direction-of-prayer": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/how-life-works-a-user-s-guide-to-the-new-biology": [
       "de",
       "en",
       "es",
@@ -6617,6 +6764,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/making-mars-habitable": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/mann-gahagan-gordon-2003-giant-fields": [
       "de",
       "en",
@@ -6965,6 +7124,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/molecular-structure-of-nucleic-acids-a-structure-for-deoxyribose-nucleic-acid": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/monotheism": [
       "de",
       "en",
@@ -7121,6 +7292,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/nasa-exoplanet-archive": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/nash-sarsen-megaliths-2020": [
       "de",
       "en",
@@ -7194,6 +7377,18 @@
       "zh-Hant"
     ],
     "sources/neugebauer-history-astronomy": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/new-insights-from-a-reanalysis-of-the-k2-18b-atmosphere": [
       "de",
       "en",
       "es",
@@ -7470,6 +7665,18 @@
       "zh-Hant"
     ],
     "sources/on-the-origin-of-quranic-arabic": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/on-the-origin-of-species": [
       "de",
       "en",
       "es",
@@ -8777,6 +8984,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/septuagint-greek-translation-of-the-hebrew-bible": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/septuaginta-editio-altera-the-standard-critical-edition": [
       "de",
       "en",
@@ -9450,6 +9669,18 @@
       "zh-Hant"
     ],
     "sources/the-canon-of-the-new-testament-its-origin-development-and-significance-marcion-t": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must": [
       "de",
       "en",
       "es",
@@ -10553,6 +10784,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/the-origin-of-life": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/the-origin-of-satan": [
       "de",
       "en",
@@ -10626,6 +10869,18 @@
       "zh-Hant"
     ],
     "sources/the-phenomenon-of-man-the-noosphere-complexity-consciousness-the-convergence-of-": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/the-planet-venus": [
       "de",
       "en",
       "es",
@@ -11612,6 +11867,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/what-do-we-mean-by-jabneh-journal-of-bible-and-religion-32-2-the-article-that-di": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/who-wrote-the-bible": [
       "de",
       "en",
@@ -12024,6 +12291,702 @@
       "zh-Hant"
     ],
     "timeline/the-wheel-keeps-turning": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/abraham-and-moses": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/ancient-astronaut-literature": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/ancient-sites": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/apocalypse-and-return": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/astrobiology": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/astronomy": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/babel": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/chaos-and-dragons": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/christianity": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/comparative-method": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/contact-and-ufos": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/cosmic-cycles": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/covenant-and-law": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/creation": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/divine-council": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/earth-sciences": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/egypt": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/elohim-hypothesis": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/embassy-and-temple": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/enoch-and-elijah": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/flood": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/folklore": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/future-society": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/genetic-engineering": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/gnosticism-and-hermeticism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/greece": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/hebrew-bible": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/hermeneutics": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/human-origins": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/immortality": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/india-and-persia": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/infinity-and-cosmology": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/intelligent-design": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/islam": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/jesus": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/jewish-mysticism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/levant-and-anatolia": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/lucifer-and-satan": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/mesopotamia": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/monotheism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/new-religions": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/noah": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/open-data": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/philology": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/plurality-of-worlds": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/prophets-and-messengers": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/psychology-and-religion": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/rael": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/raelism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/rebellion": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/second-temple-judaism": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/sodom-and-destruction": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/space-future": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/symbols": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/theomachy": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/watchers-and-giants": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "topics/yahweh": [
       "de",
       "en",
       "es",
