@@ -1,7 +1,7 @@
 // Service Worker for Wheel of Heaven
 // Provides offline support and caching
 
-const CACHE_VERSION = 'v22';
+const CACHE_VERSION = 'v23';
 const STATIC_CACHE = `woh-static-${CACHE_VERSION}`;
 const PAGES_CACHE = `woh-pages-${CACHE_VERSION}`;
 const IMAGES_CACHE = `woh-images-${CACHE_VERSION}`;
@@ -102,9 +102,13 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    // Handle CDN requests (cross-origin images)
+    // Only images belong in the offline image cache. Audio JSON must honor
+    // the player's revalidation requests, and media range requests must
+    // reach the browser/network unchanged for accurate paragraph seeking.
     if (url.origin === CDN_ORIGIN) {
-        event.respondWith(cacheFirst(request, IMAGES_CACHE));
+        if (isImage(url.pathname)) {
+            event.respondWith(cacheFirst(request, IMAGES_CACHE));
+        }
         return;
     }
 
