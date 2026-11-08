@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T19:40:48+00:00",
+  "generated_at": "2026-11-08T08:09:24+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 840,
-  "total_cites": 1544,
+  "total": 842,
+  "total_cites": 1578,
   "media_counts": {
     "religious-text": 98,
     "academic-paper": 95,
-    "unknown": 379,
+    "unknown": 381,
     "nonfiction-book": 190,
     "article": 26,
     "documentary": 17,
@@ -722,8 +722,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -1071,6 +1077,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Man Who Bet the Bible on the Moon",
           "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
         },
@@ -1090,7 +1101,7 @@
           "path": "/articles/the-world-behind-the-odyssey/"
         }
       ],
-      "cite_count": 7,
+      "cite_count": 8,
       "licensing_status": "unverified"
     },
     {
@@ -1255,8 +1266,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -1957,8 +1974,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -2336,11 +2359,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "public_domain"
     },
     {
@@ -4299,6 +4327,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Scrolls That Woke in Year One",
           "path": "/articles/the-scrolls-that-woke-in-year-one/"
         },
@@ -4318,7 +4351,7 @@
           "path": "/timeline/the-wheel-keeps-turning/"
         }
       ],
-      "cite_count": 5,
+      "cite_count": 6,
       "licensing_status": "unverified"
     },
     {
@@ -4502,9 +4535,14 @@
           "section": "articles",
           "title": "Six Mornings, Six Years",
           "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -5274,6 +5312,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -5413,7 +5456,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 33,
+      "cite_count": 34,
       "licensing_status": "licensed"
     },
     {
@@ -6970,8 +7013,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -8511,8 +8560,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -8700,8 +8755,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -8932,11 +8993,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "public_domain"
     },
     {
@@ -9953,9 +10019,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unverified"
     },
     {
@@ -10059,6 +10130,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         },
@@ -10148,7 +10224,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 19,
+      "cite_count": 20,
       "licensing_status": "licensed"
     },
     {
@@ -11282,11 +11358,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -11365,9 +11446,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unverified"
     },
     {
@@ -11988,8 +12074,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -12271,8 +12363,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -12513,8 +12611,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -15953,6 +16057,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -16272,7 +16381,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 75,
+      "cite_count": 76,
       "licensing_status": "licensed"
     },
     {
@@ -16317,8 +16426,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -16396,8 +16511,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -16505,11 +16626,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unknown"
     },
     {
@@ -16909,8 +17035,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -17945,8 +18077,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -18937,9 +19075,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unverified"
     },
     {
@@ -19063,8 +19206,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -20320,6 +20469,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         },
@@ -20359,7 +20513,7 @@
           "path": "/wiki/satan/"
         }
       ],
-      "cite_count": 10,
+      "cite_count": 11,
       "licensing_status": "unverified"
     },
     {
@@ -21952,11 +22106,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -22060,8 +22219,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -22612,8 +22777,35 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
+      "id": "early-buddhist-art-and-the-theory-of-aniconism-art-journal-49-4-the-challenge-to",
+      "title": "‘Early Buddhist Art and the Theory of Aniconism,’ Art Journal 49/4 — the challenge to Foucher’s aniconism thesis that footnote 11 leaves open",
+      "authored_by": [
+        "Susan L. Huntington"
+      ],
+      "publish_date": "1990",
+      "follow_url": "",
+      "description": "",
+      "medium": "",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -22819,6 +23011,27 @@
       "licensing_status": "unverified"
     },
     {
+      "id": "what-do-we-mean-by-jabneh-journal-of-bible-and-religion-32-2-the-article-that-di",
+      "title": "‘What Do We Mean by Jabneh?,’ Journal of Bible and Religion 32/2 — the article that dismantled the ‘Council of Jamnia’ as a canon-closing event",
+      "authored_by": [
+        "Jack P. Lewis"
+      ],
+      "publish_date": "1964",
+      "follow_url": "",
+      "description": "",
+      "medium": "",
+      "topics": [],
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1,
+      "licensing_status": "unverified"
+    },
+    {
       "id": "why-religious-movements-succeed-or-fail-a-revised-general-model-journal-of-conte",
       "title": "‘Why Religious Movements Succeed or Fail: A Revised General Model,’ Journal of Contemporary Religion 11/2 — the success criteria Palmer audits Raëlism against",
       "authored_by": [
@@ -22832,11 +23045,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     }
   ]

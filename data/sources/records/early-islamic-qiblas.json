@@ -22,6 +22,11 @@
     },
     {
       "section": "articles",
+      "title": "The Forty Chairs",
+      "path": "/articles/the-forty-chairs/"
+    },
+    {
+      "section": "articles",
       "title": "The Scrolls That Woke in Year One",
       "path": "/articles/the-scrolls-that-woke-in-year-one/"
     },
@@ -41,6 +46,6 @@
       "path": "/timeline/the-wheel-keeps-turning/"
     }
   ],
-  "cite_count": 5,
+  "cite_count": 6,
   "licensing_status": "unverified"
 }

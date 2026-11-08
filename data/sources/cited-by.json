@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:40:48+00:00",
+  "generated_at": "2026-11-08T08:09:24+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "sources": [
@@ -367,8 +367,14 @@
     },
     {
       "id": "a-marginal-jew-rethinking-the-historical-jesus-volume-one-the-classic-statement-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "a-new-look-at-the-babylonian-background-of-genesis-jts-16",
@@ -541,6 +547,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Man Who Bet the Bible on the Moon",
           "path": "/articles/the-man-who-bet-the-bible-on-the-moon/"
         },
@@ -560,7 +571,7 @@
           "path": "/articles/the-world-behind-the-odyssey/"
         }
       ],
-      "cite_count": 7
+      "cite_count": 8
     },
     {
       "id": "ptolemy-almagest",
@@ -637,8 +648,14 @@
     },
     {
       "id": "an-enquiry-concerning-human-understanding-section-x-of-miracles-the-maxim-on-tes",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "an-exceptionally-well-preserved-theropod-dinosaur-from-the-yixian-formation-of-c",
@@ -1014,8 +1031,14 @@
     },
     {
       "id": "bare-faced-messiah-the-true-story-of-l-ron-hubbard-the-biographical-record-again",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "barton-cylinder",
@@ -1223,11 +1246,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "born-in-heaven-made-on-earth-the-making-of-the-cult-image-in-the-ancient-near-ea",
@@ -2245,6 +2273,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Scrolls That Woke in Year One",
           "path": "/articles/the-scrolls-that-woke-in-year-one/"
         },
@@ -2264,7 +2297,7 @@
           "path": "/timeline/the-wheel-keeps-turning/"
         }
       ],
-      "cite_count": 5
+      "cite_count": 6
     },
     {
       "id": "early-islamic-qiblas-a-survey-of-mosques-built-between-1-ah-and-263-ah",
@@ -2363,9 +2396,14 @@
           "section": "articles",
           "title": "Six Mornings, Six Years",
           "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "oppenheimer-eden-east",
@@ -2841,6 +2879,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -2980,7 +3023,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 33
+      "cite_count": 34
     },
     {
       "id": "ezekiel",
@@ -3917,8 +3960,14 @@
     },
     {
       "id": "hadith-muhammad-s-legacy-in-the-medieval-and-modern-world-the-isn-d-sciences-ilm",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "hagarism-the-making-of-the-islamic-world",
@@ -4878,8 +4927,14 @@
     },
     {
       "id": "jesus-criteria-and-the-demise-of-authenticity-the-collection-that-ended-the-crit",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "jewish-gnosticism-merkabah-mysticism-and-talmudic-tradition-with-saul-lieberman-",
@@ -4975,8 +5030,14 @@
     },
     {
       "id": "joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "joshua",
@@ -5100,11 +5161,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "kit-b-al-anw-r-the-report-that-the-creator-s-stature-comprises-236-000-parasangs",
@@ -5722,9 +5788,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "let-the-stones-speak-archaeology-challenges-islam",
@@ -5765,6 +5836,11 @@
           "section": "articles",
           "title": "Six Mornings, Six Years",
           "path": "/articles/six-mornings-six-years/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         },
         {
           "section": "articles",
@@ -5857,7 +5933,7 @@
           "path": "/wiki/yahweh/"
         }
       ],
-      "cite_count": 19
+      "cite_count": 20
     },
     {
       "id": "nickell-levengood-skeptical-inquirer-1996",
@@ -6441,11 +6517,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "morphology-of-the-folktale-the-thirty-one-functions-the-sequential-rival-to-both",
@@ -6480,9 +6561,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "muhammad-and-the-believers-at-the-origins-of-islam",
@@ -6812,8 +6898,14 @@
     },
     {
       "id": "ofudesaki-the-tip-of-the-writing-brush-1-711-verses-in-nakayama-miki-s-own-hand-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "de-principiis",
@@ -6956,8 +7048,14 @@
     },
     {
       "id": "oomoto-shin-yu-wheel-of-heaven-translation-1-the-1892-opening-oracle-produced-in",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "oomoto-shin-yu-wheel-of-heaven-translation-1-the-1892-opening-oracle-53-ayabe-as",
@@ -7070,8 +7168,14 @@
     },
     {
       "id": "our-knowledge-of-the-past-a-philosophy-of-historiography-bayesian-historiography",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "tegmark-mathematical-universe",
@@ -8832,6 +8936,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Infinite in Both Directions",
           "path": "/articles/the-infinite-in-both-directions/"
         },
@@ -9151,7 +9260,7 @@
           "path": "/wiki/zecharia-sitchin/"
         }
       ],
-      "cite_count": 75
+      "cite_count": 76
     },
     {
       "id": "the-books-of-enoch-aramaic-fragments-of-qumr-n-cave-4-the-edition-that-proved-1-",
@@ -9176,8 +9285,14 @@
     },
     {
       "id": "the-canon-of-the-new-testament-its-origin-development-and-significance-marcion-t",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-case-for-mars-the-plan-to-settle-the-red-planet-and-why-we-must",
@@ -9208,8 +9323,14 @@
     },
     {
       "id": "the-church-of-scientology-a-history-of-a-new-religion-the-documented-transition-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-circles-effect-meaden",
@@ -9264,11 +9385,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "the-coming-of-the-gods",
@@ -9484,8 +9610,14 @@
     },
     {
       "id": "the-death-and-rebirth-of-the-seneca-the-handsome-lake-revelation-of-15-june-1799",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-death-of-gods-in-ancient-egypt-the-osiris-myth-as-record-of-precessional-los",
@@ -10028,8 +10160,14 @@
     },
     {
       "id": "the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-fractal-geometry-of-nature",
@@ -10506,9 +10644,14 @@
           "section": "articles",
           "title": "The First Mosques Faced Petra, Not Mecca",
           "path": "/articles/the-first-mosques-faced-petra-not-mecca/"
+        },
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "the-literature-of-ancient-sumer",
@@ -10567,8 +10710,14 @@
     },
     {
       "id": "the-mandaeans-ancient-texts-and-modern-people-the-last-gnostics-the-ginza-rabba-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "marriage-of-heaven-and-hell",
@@ -11269,6 +11418,11 @@
         },
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         },
@@ -11308,7 +11462,7 @@
           "path": "/wiki/satan/"
         }
       ],
-      "cite_count": 10
+      "cite_count": 11
     },
     {
       "id": "the-qur-an-3-67-2-135-142-145-6-92-14-4-16-123",
@@ -12173,11 +12327,16 @@
       "cited_by": [
         {
           "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
+        {
+          "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "underworld-hancock",
@@ -12224,8 +12383,14 @@
     },
     {
       "id": "veritas-a-harvard-professor-a-con-man-and-the-gospel-of-jesus-s-wife-the-provena",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "vienna-convention-diplomatic-relations",
@@ -12487,8 +12652,25 @@
     },
     {
       "id": "clues-roots-of-an-evidential-paradigm-in-myths-emblems-clues-morelli-s-earlobes-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
+      "id": "early-buddhist-art-and-the-theory-of-aniconism-art-journal-49-4-the-challenge-to",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "extraterrestrial-exegesis-the-ra-lian-movement-as-a-biblical-religion-nova-relig",
@@ -12600,15 +12782,31 @@
       "cite_count": 1
     },
     {
+      "id": "what-do-we-mean-by-jabneh-journal-of-bible-and-religion-32-2-the-article-that-di",
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        }
+      ],
+      "cite_count": 1
+    },
+    {
       "id": "why-religious-movements-succeed-or-fail-a-revised-general-model-journal-of-conte",
       "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Forty Chairs",
+          "path": "/articles/the-forty-chairs/"
+        },
         {
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     }
   ]
 }

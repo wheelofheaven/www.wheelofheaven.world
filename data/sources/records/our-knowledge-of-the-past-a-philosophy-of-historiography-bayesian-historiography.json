@@ -9,7 +9,13 @@
   "description": "",
   "medium": "",
   "topics": [],
-  "cited_by": [],
-  "cite_count": 0,
+  "cited_by": [
+    {
+      "section": "articles",
+      "title": "The Forty Chairs",
+      "path": "/articles/the-forty-chairs/"
+    }
+  ],
+  "cite_count": 1,
   "licensing_status": "unverified"
 }

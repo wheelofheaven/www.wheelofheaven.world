@@ -16,10 +16,15 @@
   "cited_by": [
     {
       "section": "articles",
+      "title": "The Forty Chairs",
+      "path": "/articles/the-forty-chairs/"
+    },
+    {
+      "section": "articles",
       "title": "The Religion of Religions",
       "path": "/articles/the-religion-of-religions/"
     }
   ],
-  "cite_count": 1,
+  "cite_count": 2,
   "licensing_status": "public_domain"
 }

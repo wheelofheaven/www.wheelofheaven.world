@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T19:40:48+00:00",
+  "generated_at": "2026-11-08T08:09:24+00:00",
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
-  "total": 840,
+  "total": 842,
   "sources": {
     "1-chronicles": {
       "id": "1-chronicles",
@@ -6730,6 +6730,14 @@
       ],
       "publish_date": "1989"
     },
+    "early-buddhist-art-and-the-theory-of-aniconism-art-journal-49-4-the-challenge-to": {
+      "id": "early-buddhist-art-and-the-theory-of-aniconism-art-journal-49-4-the-challenge-to",
+      "title": "‘Early Buddhist Art and the Theory of Aniconism,’ Art Journal 49/4 — the challenge to Foucher’s aniconism thesis that footnote 11 leaves open",
+      "authored_by": [
+        "Susan L. Huntington"
+      ],
+      "publish_date": "1990"
+    },
     "extraterrestrial-exegesis-the-ra-lian-movement-as-a-biblical-religion-nova-relig": {
       "id": "extraterrestrial-exegesis-the-ra-lian-movement-as-a-biblical-religion-nova-relig",
       "title": "‘Extraterrestrial Exegesis: The Raëlian Movement as a Biblical Religion,’ Nova Religio 14/2, pp. 14–33",
@@ -6801,6 +6809,14 @@
         "Susan J. Palmer & Bryan Sentes"
       ],
       "publish_date": "2012"
+    },
+    "what-do-we-mean-by-jabneh-journal-of-bible-and-religion-32-2-the-article-that-di": {
+      "id": "what-do-we-mean-by-jabneh-journal-of-bible-and-religion-32-2-the-article-that-di",
+      "title": "‘What Do We Mean by Jabneh?,’ Journal of Bible and Religion 32/2 — the article that dismantled the ‘Council of Jamnia’ as a canon-closing event",
+      "authored_by": [
+        "Jack P. Lewis"
+      ],
+      "publish_date": "1964"
     },
     "why-religious-movements-succeed-or-fail-a-revised-general-model-journal-of-conte": {
       "id": "why-religious-movements-succeed-or-fail-a-revised-general-model-journal-of-conte",
