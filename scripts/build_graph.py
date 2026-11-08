@@ -30,6 +30,7 @@ from __future__ import annotations
 
 import argparse
 import collections
+import math
 import json
 import re
 import sys
@@ -135,7 +136,31 @@ def match_topics(text: str, topics: dict) -> list[str]:
 TOPIC_INDEX: dict = {}
 
 
-def topic_index(topics: dict, nodes: dict, page_topics: dict, source_topics: dict) -> dict:
+def topic_orbit(slug: str, t: dict, members: dict, broader: list, narrower: list, degree: dict) -> dict:
+    """Positions for the topic page's neighbourhood figure (the wiki mini-graph's
+    480x340 frame and classes): the topic in the centre, its broader and narrower
+    topics on an inner ring, its most-connected pages on an outer ring."""
+    cx, cy = 240, 170
+    inner = [("topic", f"topics/{x['slug']}", x["name"], x["slug"]) for x in (broader + narrower)][:6]
+    pages = [c for k in ("wiki", "article", "timeline", "news", "book", "dataset") for c in members.get(k, [])]
+    page_id = f"/wiki/{t['page']}/" if t.get("page") else None
+    pages.sort(key=lambda c: (c["url"] != page_id, -degree.get(c["url"], 0), c["label"]))
+    outer = [("page", c["url"], c["label"], c["url"]) for c in pages[:10]]
+    n, e = [], []
+    def ring(items, rx, ry, phase):
+        for i, (kind, url, label, key) in enumerate(items):
+            a = phase + 2 * math.pi * i / max(len(items), 1)
+            x, y = round(cx + rx * math.cos(a), 1), round(cy + ry * math.sin(a), 1)
+            n.append([x, y, label, url, kind, key])
+            e.append([cx, cy, x, y, 0 if kind == "page" else 1])
+    # Outer ring starts at the top; the inner ring sits half an outer step off,
+    # so its nodes and labels fall between the outer spokes.
+    ring(outer, 200, 128, -math.pi / 2)
+    ring(inner, 96, 60, -math.pi / 2 + math.pi / max(len(outer), 1))
+    return {"c": [cx, cy], "n": n, "e": e}
+
+
+def topic_index(topics: dict, nodes: dict, page_topics: dict, source_topics: dict, degree: dict | None = None) -> dict:
     """The /topics/ data: each topic's members by section, its broader and narrower
     topics, and a page → topics lookup for the topic chips on reading pages."""
     order = {slug: i for i, slug in enumerate(topics)}
@@ -181,6 +206,9 @@ def topic_index(topics: dict, nodes: dict, page_topics: dict, source_topics: dic
             "source_count": len(srcs),
             "sources": [{"label": nodes[sid]["label"], "url": nodes[sid]["url"]} for _, sid in srcs[:8] if sid in nodes],
         }
+        b_ = [{"slug": b, "name": topics[b]["name"]} for b in t.get("broader", [])]
+        n_ = [{"slug": x, "name": topics[x]["name"]} for x in narrower.get(slug, [])]
+        out[slug]["orbit"] = topic_orbit(slug, t, m, b_, n_, degree or {})
     return {"topics": out, "by_page": by_page, "kinds": TOPIC_KINDS}
 
 
@@ -225,6 +253,15 @@ def localize_index(index: dict, lang: str) -> dict:
         lt["broader"] = [{"slug": b["slug"], "name": tname(b["slug"], b["name"])} for b in t["broader"]]
         lt["narrower"] = [{"slug": n["slug"], "name": tname(n["slug"], n["name"])} for n in t["narrower"]]
         lt["members"] = {k: [local_card(c) for c in v] for k, v in t["members"].items()}
+        if t.get("orbit"):
+            orb = dict(t["orbit"]); nn = []
+            for x, y, label, url, kind, key in orb["n"]:
+                if kind == "topic":
+                    nn.append([x, y, tname(key, label), url, kind, key])
+                else:
+                    c = local_card({"label": label, "url": url, "meta": "", "desc": ""})
+                    nn.append([x, y, c["label"], c["url"], kind, key])
+            orb["n"] = nn; lt["orbit"] = orb
         if t.get("page"):
             pc = local_card({"label": t["page_label"], "url": t["page"], "meta": "", "desc": ""})
             lt["page"], lt["page_label"] = pc["url"], pc["label"]
@@ -455,7 +492,10 @@ def build(core_dir: Path | None) -> dict:
         }
         for p in citing:
             links.append((p, node_id, "cites"))
-        for t in match_topics(" ; ".join(s.get("topics", [])), topics):
+        tags = {x.strip().lower() for x in s.get("topics", [])}
+        hits = set(match_topics(" ; ".join(s.get("topics", [])), topics))
+        hits |= {slug for slug, tt in topics.items() if tags & {x.lower() for x in tt.get("source_tags", [])}}
+        for t in sorted(hits):
             links.append((node_id, f"topic:{t}", "about"))
             source_topics[t].append((len(citing), node_id))
 
@@ -496,7 +536,7 @@ def build(core_dir: Path | None) -> dict:
     if untopiced:
         print("   ", " ".join(untopiced[:40]), "…" if len(untopiced) > 40 else "")
 
-    TOPIC_INDEX.update(topic_index(topics, nodes, page_topics, source_topics))
+    TOPIC_INDEX.update(topic_index(topics, nodes, page_topics, source_topics, degree))
     return {
         "schema": "wheelofheaven/graph@1",
         "description": "The Wheel of Heaven knowledge graph: pages, topics, core claims and cited sources, and the links between them. CC0.",

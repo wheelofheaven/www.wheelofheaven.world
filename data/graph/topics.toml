@@ -20,6 +20,8 @@
 #                and against a source's topic list
 #   exclude      page paths a match term catches by accident ("/wiki/ark-of-the-covenant/")
 #   include      page paths the match terms miss but that belong here
+#   source_tags  source topic tags filed here on an exact (case-insensitive) match,
+#                for tags a whole-word term can't take without catching others
 #
 # Adding a topic: add the entry, then run `mise run graph`. The build prints topics that
 # match nothing and pages that match no topic, so gaps are visible.
@@ -140,6 +142,7 @@ broader = ["apocalypse-and-return"]
 page = "embassy"
 match = ["embassy", "third temple", "tabernacle", "new jerusalem", "petra", "qibla", "mosque", "sanctuary", "the temple"]
 exclude = ["/articles/the-scrolls-that-woke-in-year-one/", "/wiki/nabataeans/", "/timeline/age-of-pisces/", "/wiki/crop-circles/", "/articles/the-forty-chairs/"]
+source_tags = ["temple"]
 
 [apocalypse-and-return]
 name = "Apocalypse and return"
@@ -475,6 +478,7 @@ description = "Design in nature — the canon's version, distinct from the creat
 broader = ["creation"]
 page = "intelligent-design"
 match = ["intelligent design", "design argument", "stephen meyer", "irreducible complexity", "darwin"]
+include = ["/wiki/life-engineering/", "/wiki/synthetic-biology/", "/wiki/synthetic-genomics/", "/wiki/genetic-engineering/", "/wiki/elohim/"]
 
 [earth-sciences]
 name = "Earth and its history"
