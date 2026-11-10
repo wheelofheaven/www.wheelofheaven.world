@@ -14,7 +14,8 @@ whose English source exists, set in [extra]:
                        Measures structure, not prose.
 
 "Real change" = the newest commit whose diff for that file touches anything other
-than bookkeeping fields (core_* bindings, translation_* fields, editorial_pass).
+than bookkeeping fields (core_* bindings, claim_type, same_as, translation_* fields,
+editorial_pass) — metadata copied from the English is not a translation change.
 Dates come from `git log` in the content repository.
 
 Usage: python3 scripts/translation_audit.py [--content content] [--dry-run]
@@ -36,7 +37,7 @@ FIELDS = ("translation_status", "translation_updated", "source_updated",
           "translation_stale", "translation_sync")
 BOOKKEEPING = re.compile(
     r"^[+-]\s*(core_versions|core_claim_ids|translation_status|translation_updated|"
-    r"source_updated|translation_stale|translation_sync|editorial_pass)\s*=")
+    r"source_updated|translation_stale|translation_sync|editorial_pass|claim_type|same_as)\s*=")
 SC = re.compile(r"\{%\s*(wiki|libref|library|claim)\(([^)]*)\)\s*%\}"
                 r"|\{\{\s*(cite|footnote|figure)\(([^)]*)\)\s*\}\}")
 FM = re.compile(r"\A(\s*\+\+\+\s*\n)(.*?)(\n\+\+\+\s*\n)", re.S)
