@@ -9,9 +9,10 @@ whose English source exists, set in [extra]:
   source_updated       date of the English page's last real change
   translation_stale    true when the English changed after the translation
   translation_sync     structural parity with the English, 0–100: the share of the
-                       English page's shortcodes (wiki/libref/library/claim/cite/
-                       footnote/figure) and headings that the translation carries.
-                       Measures structure, not prose.
+                       shortcodes (wiki/libref/library/claim/cite/footnote/figure,
+                       keyed by target) and headings shared by English and
+                       translation, out of all that either has. Missing and
+                       leftover structure both lower it. Measures structure, not prose.
 
 "Real change" = the newest commit whose diff for that file touches anything other
 than bookkeeping fields (core_* bindings, claim_type, same_as, translation_* fields,
@@ -38,8 +39,11 @@ FIELDS = ("translation_status", "translation_updated", "source_updated",
 BOOKKEEPING = re.compile(
     r"^[+-]\s*(core_versions|core_claim_ids|translation_status|translation_updated|"
     r"source_updated|translation_stale|translation_sync|editorial_pass|claim_type|same_as)\s*=")
-SC = re.compile(r"\{%\s*(wiki|libref|library|claim)\(([^)]*)\)\s*%\}"
-                r"|\{\{\s*(cite|footnote|figure)\(([^)]*)\)\s*\}\}")
+# Quoted arguments may contain ")" (figure captions do), so match them whole.
+ARGS = r'\(((?:[^)"]|"(?:[^"\\]|\\.)*")*)\)'
+SC = re.compile(r"\{%\s*(wiki|libref|library|claim)" + ARGS + r"\s*%\}"
+                r"|\{\{\s*(cite|footnote|figure)" + ARGS + r"\s*\}\}")
+KEY_ARGS = ("slug", "book", "chapter", "verse", "id", "src", "type")
 FM = re.compile(r"\A(\s*\+\+\+\s*\n)(.*?)(\n\+\+\+\s*\n)", re.S)
 
 
@@ -86,15 +90,18 @@ def structure(body: str) -> collections.Counter:
     c = collections.Counter()
     for m in SC.finditer(body):
         name = m.group(1) or m.group(3)
-        args = re.sub(r"\s", "", m.group(2) or m.group(4) or "")
-        key = re.search(r'(slug|id|src|book)="([^"]+)"', args)
-        c[(name, key.group(2) if key else args)] += 1
+        args = dict(re.findall(r'(\w+)\s*=\s*("(?:[^"\\]|\\.)*"|[^,\s)]+)', m.group(2) or m.group(4) or ""))
+        # Identify by target only: labels, titles, alt text and captions are translated.
+        c[(name, tuple((k, args[k]) for k in KEY_ARGS if k in args))] += 1
     c[("heading",)] = len(re.findall(r"^#{2,6}\s", body, re.M))
     return c
 
 
 def parity(en: collections.Counter, tr: collections.Counter) -> int:
-    total = sum(en.values())
+    """Shared share of the union, so missing AND leftover structure both count:
+    a translation of an older, longer English scores low even if it still has
+    every current link."""
+    total = sum((en | tr).values())
     if not total:
         return 100
     return round(100 * sum((en & tr).values()) / total)
