@@ -26,8 +26,8 @@ the stagger.
 |---|---|---|---|---|---|---|
 | 1 | 2026-09-01 | The Signature and the Designers | 7,834 | speculative | 0036, 0030 | **published** — live in 10 langs, Telegram 51 |
 | 2 | 2026-09-15 | Six Mornings, Six Years | 8,180 | inferred | 0035 | **published** — live in 10 langs |
-| 3 | 2026-09-29 | Made from the Ground to Bear the Labor | 4,796 | inferred | 0034 | queued |
-| 4 | 2026-10-13 | The Filing Cabinet of the Gods | 7,394 | speculative | 0056 | queued |
+| 3 | 2026-09-29 | Made from the Ground to Bear the Labor | 4,796 | inferred | 0034 | **withdrawn** 2026-11-08 |
+| 4 | 2026-11-12 | The Filing Cabinet of the Gods | 7,394 | speculative | 0056 | **published** 2026-11-12 — live in 10 langs (Thompson birthplace fixed to Kentucky; "scheduled return" removed) |
 | 5 | 2026-11-01 | The Forty Chairs | 10,165 | inferred | 0054 | **published** 2026-11-01 — live in 10 langs |
 | 6 | 2026-11-10 | The Jubilee and the Machine | 7,178 | inferred | 0055 | queued |
 | 7 | 2026-11-24 | The Reporter at the Razor's Edge | 7,137 | inferred | 0057 | queued |
