@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-11-08T15:38:09+00:00",
-    "count": 1314
+    "generated_at": "2026-11-20T18:29:47+00:00",
+    "count": 1326
   },
   "paths": {
     "AGENTS": [
@@ -140,7 +140,16 @@
       "zh-Hant"
     ],
     "articles/the-filing-cabinet-of-the-gods": [
-      "en"
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "articles/the-first-mosques-faced-petra-not-mecca": [
       "de",
@@ -1901,6 +1910,18 @@
       "zh",
       "zh-Hant"
     ],
+    "news/pursue-release-08-the-cias-1952-file-and-reids-request": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "news/synthetic-cell-eats-and-divides": [
       "de",
       "en",
@@ -3128,6 +3149,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/book-of-moses": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/born-in-heaven-made-on-earth-the-making-of-the-cult-image-in-the-ancient-near-ea": [
       "de",
       "en",
@@ -4137,6 +4170,18 @@
       "zh-Hant"
     ],
     "sources/dietz-holden-1970-pangaea": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/digha-nikaya-26-sujato": [
       "de",
       "en",
       "es",
@@ -5420,6 +5465,18 @@
       "zh",
       "zh-Hant"
     ],
+    "sources/haran-temples-and-temple-service": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "sources/hard-to-be-a-god": [
       "de",
       "en",
@@ -5577,6 +5634,18 @@
       "zh-Hant"
     ],
     "sources/hittite-myths": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/homan-to-your-tents": [
       "de",
       "en",
       "es",
@@ -6056,18 +6125,6 @@
       "zh",
       "zh-Hant"
     ],
-    "sources/joseph-smith-rough-stone-rolling-the-standard-scholarly-biography-the-treasure-s": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "he",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
     "sources/joshua": [
       "de",
       "en",
@@ -6129,6 +6186,18 @@
       "zh-Hant"
     ],
     "sources/kalevala-runos-10-and-38-43-the-forging-of-the-sampo-with-its-many-colored-cover": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/kaminsky-yet-i-loved-jacob": [
       "de",
       "en",
       "es",
@@ -6681,6 +6750,18 @@
       "zh-Hant"
     ],
     "sources/levengood-physiologia-plantarum-1994": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/levenson-universal-horizon-biblical-particularism": [
       "de",
       "en",
       "es",
@@ -7629,6 +7710,18 @@
       "zh-Hant"
     ],
     "sources/nous-autres-gens-du-moyen-ge-the-historiographical-thesis-concessionaires-versus": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/novak-election-of-israel": [
       "de",
       "en",
       "es",
@@ -8721,6 +8814,18 @@
       "zh-Hant"
     ],
     "sources/review-of-nuclear-war-a-scenario-the-daily-telegraph-the-case-that-the-book-s-pr": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "sources/ritner-joseph-smith-egyptian-papyri": [
       "de",
       "en",
       "es",
@@ -10328,18 +10433,6 @@
       "zh",
       "zh-Hant"
     ],
-    "sources/the-foundations-of-buddhism-the-world-systems-cosmology-thousandfold-and-million": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "he",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
     "sources/the-fractal-geometry-of-nature": [
       "de",
       "en",
@@ -10605,18 +10698,6 @@
       "zh-Hant"
     ],
     "sources/the-invasion-of-eden-did-our-ancestors-warn-us-about-et-invasions-the-sky-armies": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "he",
-      "ja",
-      "ko",
-      "ru",
-      "zh",
-      "zh-Hant"
-    ],
-    "sources/the-joseph-smith-papers-revelations-and-translations-manuscript-revelation-books": [
       "de",
       "en",
       "es",
@@ -13367,6 +13448,18 @@
     "wiki/book-of-enoch": [
       "en"
     ],
+    "wiki/buddha": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "wiki/carl-jung": [
       "en"
     ],
@@ -13814,6 +13907,18 @@
       "zh",
       "zh-Hant"
     ],
+    "wiki/hebrews": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "wiki/hekhalot-literature": [
       "de",
       "en",
@@ -13885,6 +13990,18 @@
     ],
     "wiki/john-anthony-west": [
       "en"
+    ],
+    "wiki/joseph-smith": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "wiki/kabbalah": [
       "de",
@@ -14041,6 +14158,18 @@
     ],
     "wiki/mazzaroth": [
       "en"
+    ],
+    "wiki/mecca": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
     ],
     "wiki/menorah": [
       "de",
@@ -14522,6 +14651,18 @@
       "zh",
       "zh-Hant"
     ],
+    "wiki/tabernacle": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
     "wiki/tannin": [
       "de",
       "en",
@@ -14685,6 +14826,18 @@
       "zh-Hant"
     ],
     "wiki/world-age": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "he",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "zh-Hant"
+    ],
+    "wiki/xenobiology": [
       "de",
       "en",
       "es",
