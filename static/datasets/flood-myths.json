@@ -1,0 +1,2210 @@
+{
+  "name": "Wheel of Heaven Flood-Myth Concordance",
+  "description": "Eleven textual flood accounts with 88 passage-level observations, evidence states, named editions and qualified chronology. Row count is not evidence of a shared event.",
+  "license": "CC0-1.0",
+  "version": "1.2",
+  "updated": "2026-11-20",
+  "landing_page": "https://www.wheelofheaven.world/datasets/flood-myths/",
+  "columns": [
+    "id",
+    "tradition",
+    "source_text",
+    "approx_date",
+    "survivor",
+    "flood_decreed_by",
+    "warned_by",
+    "cause",
+    "vessel",
+    "birds_released",
+    "landing_place",
+    "aftermath",
+    "woh_library",
+    "inspected_scope",
+    "survivor_state",
+    "survivor_references",
+    "survivor_note",
+    "flood_decreed_by_state",
+    "flood_decreed_by_references",
+    "flood_decreed_by_note",
+    "warned_by_state",
+    "warned_by_references",
+    "warned_by_note",
+    "cause_state",
+    "cause_references",
+    "cause_note",
+    "vessel_state",
+    "vessel_references",
+    "vessel_note",
+    "birds_released_state",
+    "birds_released_references",
+    "birds_released_note",
+    "landing_place_state",
+    "landing_place_references",
+    "landing_place_note",
+    "aftermath_state",
+    "aftermath_references",
+    "aftermath_note",
+    "chronology"
+  ],
+  "count": 11,
+  "row_unit": "An inspected textual account at a named edition and bounded scope; legacy IDs retained for reconciliation.",
+  "fields": [
+    "survivor",
+    "flood_decreed_by",
+    "warned_by",
+    "cause",
+    "vessel",
+    "birds_released",
+    "landing_place",
+    "aftermath"
+  ],
+  "state_definitions": {
+    "attested": "Feature stated in the selected translation; not proof of the narrated event.",
+    "not_stated": "Inspected scope makes no statement; not a demonstrated absence across a whole tradition.",
+    "text_damaged": "Gaps or excerpt lacunae block a determination; does not assert the feature occupied the gap.",
+    "uncertain": "Reading or attribution remains qualified in the inspected representation.",
+    "not_checked": "Relevant primary passage not inspected.",
+    "explicitly_absent": "Source explicitly denies the feature; requires a cited denial. No current cell uses this state."
+  },
+  "chronology_policy": "Composition, physical witness, internal textual date and proposed historical event date are distinct. Edition/translation provenance is recorded through edition_source_ids and the source register. Legacy dates are retained for comparison, not endorsed.",
+  "chronology_state_definitions": {
+    "not_reassessed": "Inherited composition date has not been independently supported in this audit.",
+    "not_established": "No date for a physical witness has been established by the inspected sources.",
+    "not_audited": "Internal textual chronology has not been systematically inspected; no absence claim.",
+    "not_assigned": "No historical event date is asserted.",
+    "catalogue_estimate": "A collection catalogue supplies an approximate physical-witness date.",
+    "colophon_attested": "The inspected edition translates a dating formula in the witness colophon.",
+    "edition_estimate": "The inspected editor proposes a date; this is a report of that argument, not present consensus.",
+    "editor_report": "The inspected editor reports manuscript dates; no direct manuscript dating is performed.",
+    "text_attested": "The inspected text states this date; its relation to composition or surviving copy is not assumed."
+  },
+  "compatibility": "The first 13 columns and account IDs are retained. Unknown observations now carry explicit labels and states. approx_date contains only a qualified composition estimate or an explicit unresolved label; former mixed dates remain unendorsed in legacy_date. JSON observations preserve nulls; CSV chronology is JSON-encoded.",
+  "review": {
+    "scope": "Selected-source verification of all 88 observations and five positive chronology entries; not original-language collation or historical-event verification.",
+    "limitations": "Ten composition dates remain unreassessed. Source adaptations and restorations are disclosed; related textual streams are not independent evidence."
+  },
+  "provenance": {
+    "research_file": "core/docs/research/flood-concordance/concordance.json",
+    "research_sha256": "5481027abdee601c3dd29b83e72a88679fcc1c99f359e5b7d85542026524c88f",
+    "research_format_version": "0.2.0",
+    "baseline_version": "1.1",
+    "core_bindings": {
+      "woh-claim-0010": "0.1.0",
+      "woh-claim-0060": "0.1.0"
+    }
+  },
+  "sources": [
+    {
+      "id": "sum-jacobsen-livius",
+      "title": "Sumerian Flood Story / Eridu Genesis",
+      "edition": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page",
+      "url": "https://www.livius.org/articles/misc/great-flood/flood2-t/",
+      "inspected_scope": "Displayed translation, lines 81′–185′ and marked lacunae",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "An adapted excerpt, not manuscript collation. Editorial headings and bracketed reconstructions are not preserved ancient lines. The page introduction supplies a noise motive not present in its displayed text. Oxford ETCSL direct retrieval failed; its edition is not claimed as inspected here.",
+      "retrieved_bytes_sha256": "f5bbfbb27370e3167ef49bd364ef364efbb9b5d8bccbf5cc2b22cb6e07f87f10"
+    },
+    {
+      "id": "atra-foster-livius",
+      "title": "Atra-hasis flood excerpts",
+      "edition": "Livius adaptation of B. R. Foster; page does not identify the edition or fully reconcile its line labels",
+      "url": "https://www.livius.org/articles/misc/great-flood/flood3_t-arahasis/",
+      "inspected_scope": "Displayed excerpts from the dream/warning through the birth restrictions",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Use the page’s printed labels, not invented Lambert–Millard equivalents. Source excerpts and editorial gap summaries are separated. This is not access to the full critical edition.",
+      "retrieved_bytes_sha256": "7b5c27417f210f394d7d01fe15d2ab318cfde9376b73241b9fb32563e4aef57a"
+    },
+    {
+      "id": "gil-kovacs-livius",
+      "title": "Epic of Gilgamesh, Standard Babylonian Tablet XI",
+      "edition": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org",
+      "url": "https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/",
+      "inspected_scope": "Tablet XI, displayed lines 1–209",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Adapted translation; line labels are those printed on this page. Original-language collation and manuscript dating not performed.",
+      "retrieved_bytes_sha256": "efd9e0012edde6fdc141c0d54fe0446441e0be7dd4401b6a17582a00365064d0"
+    },
+    {
+      "id": "gen6-jps",
+      "title": "Genesis 6",
+      "edition": "JPS 1917 English alongside Hebrew, Mechon-Mamre",
+      "url": "https://mechon-mamre.org/p/pt/pt0106.htm",
+      "inspected_scope": "Chapter 6",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Reading of displayed text and English translation; no manuscript or redaction-critical collation.",
+      "retrieved_bytes_sha256": "58fd5e6f71f012212937766eeba0a2ece6e4273da7eb7b41057dcac6ee33cb62"
+    },
+    {
+      "id": "gen8-jps",
+      "title": "Genesis 8",
+      "edition": "JPS 1917 English alongside Hebrew, Mechon-Mamre",
+      "url": "https://mechon-mamre.org/p/pt/pt0108.htm",
+      "inspected_scope": "Chapter 8",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Reading of displayed text and English translation; no manuscript or redaction-critical collation.",
+      "retrieved_bytes_sha256": "2034b5998e16a5d78210faa277f7f5a1b4253e39a7101a497e66bc513c702525"
+    },
+    {
+      "id": "gen9-jps",
+      "title": "Genesis 9",
+      "edition": "JPS 1917 English alongside Hebrew, Mechon-Mamre",
+      "url": "https://mechon-mamre.org/p/pt/pt0109.htm",
+      "inspected_scope": "Chapter 9",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Reading of displayed text and English translation; no manuscript or redaction-critical collation.",
+      "retrieved_bytes_sha256": "ceef429d915136244b0a589f24572334b4782bd324b113aa518e971e87f75ce5"
+    },
+    {
+      "id": "quran11-shakir",
+      "title": "Qur’an, Surah 11",
+      "edition": "M. H. Shakir translation as reproduced by Livius",
+      "url": "https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/",
+      "inspected_scope": "11:25–49",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "This revision narrows the row to the inspected passage; it does not claim a census of all Qur’anic flood passages or independent verification of Arabic.",
+      "retrieved_bytes_sha256": "62543b09e339b830266f07a5df37c9e79d3e9c8867be05d4fcd88a813b955147"
+    },
+    {
+      "id": "apollodorus-frazer",
+      "title": "Apollodorus, Library 1.7.2",
+      "edition": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios",
+      "url": "https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html",
+      "inspected_scope": "1.7.2, complete displayed Greek and English passage",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Observations use Frazer’s English; no fresh Greek translation. Other Deucalion versions are not merged into this witness.",
+      "retrieved_bytes_sha256": "bd55f16dd545b4fdd60ba8d9427534f12cef7edda7fcb6c0f88d4ada0a0935e1"
+    },
+    {
+      "id": "berossus-vw-livius",
+      "title": "Berossus fragment in Syncellus",
+      "edition": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius",
+      "url": "https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/",
+      "inspected_scope": "Syncellus, Chronological Excerpts 53–56, as labelled on the page",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Indirect preservation. Translator/editor identifications of Cronus with Enki are not words of the surviving excerpt. Full transmission history not independently collated.",
+      "retrieved_bytes_sha256": "fb64a2a2c0c893d794688e2e373e93adecf261f083455531cff4aed7cd643990"
+    },
+    {
+      "id": "satapatha-eggeling-titus",
+      "title": "Śatapatha Brāhmaṇa, Mādhyandina 1.8.1",
+      "edition": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt",
+      "url": "https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm",
+      "inspected_scope": "1.8.1.1–6",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Source translation inspected on the web. The fish is unnamed in this passage; subsequent identifications are not imported."
+    },
+    {
+      "id": "satapatha-eggeling-ritual",
+      "title": "Śatapatha Brāhmaṇa, Mādhyandina 1.8.1, ritual aftermath",
+      "edition": "Julius Eggeling, Sacred Books of the East 12, 1882, transcription at Sacred Texts",
+      "url": "https://sacred-texts.com/book/the-satapatha-brahmana-part-i/story-of-the-flood-of-manu",
+      "inspected_scope": "1.8.1.7–11, printed pp. 218–219 in the displayed transcription",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Only the numbered source transcription was used, inspected online. Site-generated summaries are not evidence."
+    },
+    {
+      "id": "soles-velazquez",
+      "title": "Leyenda de los Soles",
+      "edition": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019",
+      "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf",
+      "inspected_scope": "Printed pp. 119–120; PDF leaves 2–3; p. 120 visually checked",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Spanish translation inspected, not an independent Nahuatl reading. The text’s 1558 date is not automatically the date of the surviving manuscript.",
+      "retrieved_bytes_sha256": "c7030229e738ff9f4a17c9bd2e3d6310c758f8429b4013c275a68de354eafbef"
+    },
+    {
+      "id": "molina-markham",
+      "title": "Cristóbal de Molina, An Account of the Fables and Rites of the Yncas",
+      "edition": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873",
+      "url": "https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up",
+      "inspected_scope": "Printed pp. 4–5; p. 4 (PDF leaf 30) visually checked; Introduction p. vii (PDF leaf 13)",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "A colonial author’s report in a nineteenth-century English translation. Betanzos has not been inspected and contributes no revised cells.",
+      "retrieved_bytes_sha256": "0a2e1c037bd78b3b0ade769cd2da93f5843e842b5c1f48d1166c5a3eb0c7559c"
+    },
+    {
+      "id": "edda-brodeur",
+      "title": "Snorri Sturluson, Gylfaginning VII",
+      "edition": "Arthur Gilchrist Brodeur, The Prose Edda, 1916",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf",
+      "inspected_scope": "Printed p. 19 (PDF leaf 51), text and footnote visually checked; Introduction p. xv (PDF leaf 25)",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Snorri’s prose and quoted verse are one inspected witness here. Vafþrúðnismál has not been separately collated. The English ship rendering has a qualifying footnote.",
+      "retrieved_bytes_sha256": "e8fa338f68e7f975ee9470a7b34fbe16a39259190782eb5ac52e5fd63e2adfc1"
+    },
+    {
+      "id": "atra-seal-i",
+      "title": "Atraḫasis I (all periods), SEAL 1515",
+      "edition": "Nathan Wasserman and Michael P. Streck, SEAL edition, translation and commentary, revision 29 December 2024",
+      "url": "https://seal.huji.ac.il/index.php/node/1515",
+      "inspected_scope": "Translation I 351–363 and revision history",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "A synoptic edition combining manuscripts from different periods. Brackets and sigla are significant; not a single continuously preserved Old Babylonian witness.",
+      "retrieved_bytes_sha256": "261db3336bb8bafe4d0e82beaf9df6f15fc097de3c6fb0a064132a92ca6016cf"
+    },
+    {
+      "id": "atra-seal-ii",
+      "title": "Atraḫasis II (all periods), SEAL 39732",
+      "edition": "SEAL synoptic edition; revision history credits Nathan Wasserman, 10–11 August 2026",
+      "url": "https://seal.huji.ac.il/index.php/node/39732?tid=339",
+      "inspected_scope": "Translation segments A 1–20, E 56–78, G 16–97, H 1–28; commentary H 16–25 and I 7f–i; revision history",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Combines Old, Middle and Neo-Assyrian/Babylonian witnesses. G 49q–u is supplied through Middle Babylonian X-MB; do not present it as preserved in the Sippar Tablet II.",
+      "retrieved_bytes_sha256": "8119ab7d946ee39c93c84608e044b99d61b85cdce429aa069957000d31496913"
+    },
+    {
+      "id": "atra-seal-iii",
+      "title": "Atraḫasis OB III (Sippar), SEAL 1517",
+      "edition": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969",
+      "url": "https://seal.huji.ac.il/node/1517?tid=80",
+      "inspected_scope": "Displayed translation of C1 (+) C2, columns i–viii, including colophon; catalogue and revision history",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Witnesses BM 78942+78971+80385 (+) MAH 16064. Restored names and words are bracketed; substantial passages are missing. The regnal date belongs to this copy, not the composition.",
+      "retrieved_bytes_sha256": "cec1ff8175604aee8fac53899114dd3f3e223d4af80982b432682d94a9fb7ab8"
+    },
+    {
+      "id": "sum-etcsl-composite",
+      "title": "The Flood story, ETCSL 1.7.4, composite text",
+      "edition": "Oxford ETCSL, static composite text, revisions through 1999; header reformatted 2001",
+      "url": "https://etcsl.orinst.ox.ac.uk/section1/c174.htm",
+      "inspected_scope": "Segments A–E, line labels and explicitly marked gaps; bibliography at https://etcsl.orinst.ox.ac.uk/section1/b174.htm",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Used to check the edition’s gap structure, not to supply a new English translation. The Oxford English translation could not be retrieved and was not inspected for this review."
+    },
+    {
+      "id": "sum-kramer-1963",
+      "title": "The Sumerians: Their History, Culture, and Character",
+      "edition": "Samuel Noah Kramer, University of Chicago Press, 1963, pp. 163–164; scan hosted by UChicago ISAC",
+      "url": "https://isac.uchicago.edu/publications/sumerians-their-history-culture-and-character",
+      "inspected_scope": "Flood-story discussion pp. 163–164; printed p. 163 visually checked (PDF leaf 193)",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Scholarly synopsis, not a line-by-line critical edition. Used for the expressly tentative identification of the warning deity and the missing construction scene; its 1963 inventory of known tablets is not a current census.",
+      "retrieved_bytes_sha256": "9008bf9f1b44f6fce5dc21e4d717315d0f9a55fff43069d78246e0e914352b9f"
+    },
+    {
+      "id": "sum-penn-cbs10673",
+      "title": "Flood Tablet / Deluge Tablet, CBS10673",
+      "edition": "Penn Museum collection catalogue, object 97591, consulted 20 November 2026",
+      "url": "https://collections.penn.museum/collections/object/97591",
+      "inspected_scope": "Object details: period, Date Made, description, joins and CDLI identifier",
+      "access": "selected_passages",
+      "checked_on": "2026-11-20",
+      "limitations": "Museum’s approximate date for a physical witness; not a composition date or earliest-attestation claim. The dating was not independently reassessed palaeographically."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel-001",
+      "members": [
+        "babylonian-atrahasis",
+        "babylonian-utnapishtim",
+        "hebrew-noah"
+      ],
+      "relation": "shared_textual_stream",
+      "status": "inherited_core_position_not_reassessed",
+      "basis": "woh-claim-0010@0.1.0 and woh-claim-0060@0.1.0",
+      "note": "Existing core treats these as a related stream for independence control. This audit does not establish a direct linear transmission route or count independent events."
+    },
+    {
+      "id": "rel-002",
+      "members": [
+        "berossus-xisuthros"
+      ],
+      "relation": "indirect_preservation",
+      "status": "edition_report",
+      "basis": "berossus-vw-livius: introduction and 53–56",
+      "note": "Berossus is read through the excerpt preserved in Syncellus. Reprints of that excerpt are not independent witnesses. Full Alexander Polyhistor/Eusebius/Syncellus transmission collation remains open."
+    },
+    {
+      "id": "rel-003",
+      "members": [
+        "norse-bergelmir"
+      ],
+      "relation": "quotation_within_witness",
+      "status": "observed",
+      "basis": "edda-brodeur: Gylfaginning VII, p. 19",
+      "note": "Snorri introduces verse after his prose account. This inspection supplies one source, not independent prose and poetic confirmations."
+    },
+    {
+      "id": "rel-004",
+      "members": [
+        "inca-viracocha"
+      ],
+      "relation": "composite_row_split_by_scope",
+      "status": "editorial_correction",
+      "basis": "molina-markham: pp. 4–5",
+      "note": "The legacy row cites Betanzos and Molina together. This revision represents Molina only; a separate Betanzos observation requires an inspected edition."
+    },
+    {
+      "id": "rel-005",
+      "members": [
+        "hebrew-noah",
+        "islamic-nuh"
+      ],
+      "relation": "comparison_without_route_assignment",
+      "status": "not_reassessed",
+      "basis": "gen6-jps, gen8-jps, gen9-jps; quran11-shakir",
+      "note": "Comparable Noah narratives are recorded. A direct borrowing route from this Genesis text to this Qur’anic passage has not been established here."
+    }
+  ],
+  "rows": [
+    {
+      "id": "sumerian-ziusudra",
+      "tradition": "Sumerian",
+      "source_text": "Sumerian Flood Story, selected surviving lines",
+      "inspected_scope": "Jacobsen/Livius 81′–185′; ETCSL composite gap structure C–E; Kramer 1963 pp. 163–164",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "https://www.wheelofheaven.world/library/flood-story-woh/",
+      "survivor": "Ziusudra, king and purification priest",
+      "survivor_state": "attested",
+      "survivor_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 86′–91′; 175′–185′ (https://www.livius.org/articles/misc/great-flood/flood2-t/)",
+      "survivor_note": "",
+      "flood_decreed_by": "The divine assembly; the order of An and Enlil",
+      "flood_decreed_by_state": "attested",
+      "flood_decreed_by_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 92′–101′ (https://www.livius.org/articles/misc/great-flood/flood2-t/)",
+      "flood_decreed_by_note": "",
+      "warned_by": "An unnamed warning voice in the selected lines; Enki is a qualified scholarly identification",
+      "warned_by_state": "uncertain",
+      "warned_by_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 81′–85′; 92′–101′ (https://www.livius.org/articles/misc/great-flood/flood2-t/) | Samuel Noah Kramer, University of Chicago Press, 1963, pp. 163–164; scan hosted by UChicago ISAC: p. 163 (PDF leaf 193) (https://isac.uchicago.edu/publications/sumerians-their-history-culture-and-character)",
+      "warned_by_note": "Livius names Enki in a heading. Kramer explicitly treats the identification as probable; this supports retaining uncertainty, not converting the heading into a preserved speaker name.",
+      "cause": "Not stated in the inspected passage",
+      "cause_state": "not_stated",
+      "cause_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 81′–101′ (https://www.livius.org/articles/misc/great-flood/flood2-t/)",
+      "cause_note": "A decision to destroy is reported; its motive is not stated in these surviving lines. The page introduction’s noise explanation is not a translated line.",
+      "vessel": "A large boat",
+      "vessel_state": "attested",
+      "vessel_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 132′–140′ (https://www.livius.org/articles/misc/great-flood/flood2-t/) | Oxford ETCSL, static composite text, revisions through 1999; header reformatted 2001: gap of approximately 38 lines after C 28, before D 1 (https://etcsl.orinst.ox.ac.uk/section1/c174.htm) | Samuel Noah Kramer, University of Chicago Press, 1963, pp. 163–164; scan hosted by UChicago ISAC: p. 163, missing construction instructions (https://isac.uchicago.edu/publications/sumerians-their-history-culture-and-character)",
+      "vessel_note": "Construction instructions fall in a lacuna; their reconstruction is not encoded as attested.",
+      "birds_released": "Undetermined: damaged text",
+      "birds_released_state": "text_damaged",
+      "birds_released_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: lacunae before 132′ and 175′ (https://www.livius.org/articles/misc/great-flood/flood2-t/) | Oxford ETCSL, static composite text, revisions through 1999; header reformatted 2001: gaps between C/D and D/E; damaged D 12–17 (https://etcsl.orinst.ox.ac.uk/section1/c174.htm)",
+      "birds_released_note": "No release episode survives in the excerpt. Gaps prevent coding absence.",
+      "landing_place": "Undetermined: damaged text",
+      "landing_place_state": "text_damaged",
+      "landing_place_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 132′–185′ and intervening lacuna (https://www.livius.org/articles/misc/great-flood/flood2-t/) | Oxford ETCSL, static composite text, revisions through 1999; header reformatted 2001: D 12–17 and gap of approximately 33 lines before E 1 (https://etcsl.orinst.ox.ac.uk/section1/c174.htm)",
+      "landing_place_note": "Dilmun is a subsequent residence; it is not explicitly the boat’s landing place.",
+      "aftermath": "Sacrifice to Utu; An and Enlil grant enduring life and settle Ziusudra in Dilmun",
+      "aftermath_state": "attested",
+      "aftermath_references": "Livius adaptation attributed to Thorkild Jacobsen; underlying edition not specified on page: 137′–145′; 175′–185′ (https://www.livius.org/articles/misc/great-flood/flood2-t/)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": "CBS10673 (+ CBS10867), approximately 1650 BCE (Penn Museum catalogue)",
+          "status": "catalogue_estimate",
+          "references": [
+            {
+              "source_id": "sum-penn-cbs10673",
+              "locator": "Date Made; Description; Other Number"
+            }
+          ],
+          "note": "A date for the Nippur tablet, not the composition; the catalogue also describes seventeenth-century BCE script. No claim of earliest witness."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "sum-jacobsen-livius",
+        "sum-kramer-1963",
+        "sum-etcsl-composite"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Ziusudra, king and purification priest",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "86′–91′; 175′–185′"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": "The divine assembly; the order of An and Enlil",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "92′–101′"
+            }
+          ],
+          "note": ""
+        },
+        "warned_by": {
+          "value": "An unnamed warning voice in the selected lines; Enki is a qualified scholarly identification",
+          "state": "uncertain",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "81′–85′; 92′–101′"
+            },
+            {
+              "source_id": "sum-kramer-1963",
+              "locator": "p. 163 (PDF leaf 193)"
+            }
+          ],
+          "note": "Livius names Enki in a heading. Kramer explicitly treats the identification as probable; this supports retaining uncertainty, not converting the heading into a preserved speaker name."
+        },
+        "cause": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "81′–101′"
+            }
+          ],
+          "note": "A decision to destroy is reported; its motive is not stated in these surviving lines. The page introduction’s noise explanation is not a translated line."
+        },
+        "vessel": {
+          "value": "A large boat",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "132′–140′"
+            },
+            {
+              "source_id": "sum-etcsl-composite",
+              "locator": "gap of approximately 38 lines after C 28, before D 1"
+            },
+            {
+              "source_id": "sum-kramer-1963",
+              "locator": "p. 163, missing construction instructions"
+            }
+          ],
+          "note": "Construction instructions fall in a lacuna; their reconstruction is not encoded as attested."
+        },
+        "birds_released": {
+          "value": null,
+          "state": "text_damaged",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "lacunae before 132′ and 175′"
+            },
+            {
+              "source_id": "sum-etcsl-composite",
+              "locator": "gaps between C/D and D/E; damaged D 12–17"
+            }
+          ],
+          "note": "No release episode survives in the excerpt. Gaps prevent coding absence."
+        },
+        "landing_place": {
+          "value": null,
+          "state": "text_damaged",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "132′–185′ and intervening lacuna"
+            },
+            {
+              "source_id": "sum-etcsl-composite",
+              "locator": "D 12–17 and gap of approximately 33 lines before E 1"
+            }
+          ],
+          "note": "Dilmun is a subsequent residence; it is not explicitly the boat’s landing place."
+        },
+        "aftermath": {
+          "value": "Sacrifice to Utu; An and Enlil grant enduring life and settle Ziusudra in Dilmun",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "sum-jacobsen-livius",
+              "locator": "137′–145′; 175′–185′"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "c. 1600 BCE (text)",
+      "editorial_note": "The Jacobsen/Livius translation remains the base representation. Oxford’s composite corroborates gap structure; Kramer’s scholarly synopsis qualifies the warning deity. No new Sumerian translation or full critical-edition collation is claimed."
+    },
+    {
+      "id": "babylonian-atrahasis",
+      "tradition": "Babylonian (Akkadian)",
+      "source_text": "Atra-hasis, Sippar Tablet III with synoptic motivation passages",
+      "inspected_scope": "SEAL III C1 (+) C2, displayed translation i–viii; I 351–363; II A 1–20, E 56–78, G 16–97 and H 1–28",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "https://www.wheelofheaven.world/library/atrahasis-woh/",
+      "survivor": "Atrahasis; his family is brought aboard",
+      "survivor_state": "attested",
+      "survivor_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C2 i 11′–24′; C1 ii 40″–52″; vi 5–19 (https://seal.huji.ac.il/node/1517?tid=80)",
+      "survivor_note": "",
+      "flood_decreed_by": "The great Anunnaki decide together on oath; Enlil is blamed for bringing the flood",
+      "flood_decreed_by_state": "attested",
+      "flood_decreed_by_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C1 iii 36′–43′; v 41″–45″; vi 5–10 (https://seal.huji.ac.il/node/1517?tid=80)",
+      "flood_decreed_by_note": "The collective decision is recalled after the flood. This does not turn a later blame statement into a separately preserved pre-flood council scene.",
+      "warned_by": "Enki, addressing the reed wall and instructing Atrahasis",
+      "warned_by_state": "attested",
+      "warned_by_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C2 i 13′–24′; C1 i 36′–38′; vi 11–19 (https://seal.huji.ac.il/node/1517?tid=80)",
+      "warned_by_note": "The speaker name at i 15′ is restored; vi 13–15 explicitly identifies Enki with the disclosure.",
+      "cause": "Human multiplication and noise provoke successive divine attempts to reduce the population; the sequence escalates to the flood",
+      "cause_state": "attested",
+      "cause_references": "Nathan Wasserman and Michael P. Streck, SEAL edition, translation and commentary, revision 29 December 2024: I 351–363 (https://seal.huji.ac.il/index.php/node/1515) | SEAL synoptic edition; revision history credits Nathan Wasserman, 10–11 August 2026: A 1–20; E 60–78; G 27–49u; H 9–25 (https://seal.huji.ac.il/index.php/node/39732?tid=339) | SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C1 iii 36′–43′ (https://seal.huji.ac.il/node/1517?tid=80)",
+      "cause_note": "Narrative sequence summarized across the synoptic edition: the first noise complaint prompts disease, then deprivation of food and water. The explicit flood oath at II G 49q–u comes from Middle Babylonian X-MB. Tablet III retrospectively links the destruction decision to the people’s noise; the causal sequence is not a verbatim single-line explanation.",
+      "vessel": "A roofed boat strengthened with bitumen; its door is closed with bitumen",
+      "vessel_state": "attested",
+      "vessel_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C2 i 22′–26′; C1 i 29′–33′; ii 51″–54″ (https://seal.huji.ac.il/node/1517?tid=80)",
+      "vessel_note": "The damaged dimensions are not reconstructed; a reed-worker’s participation does not establish an exclusively reed hull.",
+      "birds_released": "Undetermined: damaged text",
+      "birds_released_state": "text_damaged",
+      "birds_released_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C1 ii 34″–35″; iv 24′–27′ and following gap; v 1–31″ (https://seal.huji.ac.il/node/1517?tid=80)",
+      "birds_released_note": "Birds are loaded aboard, but no test-release scene survives in this witness’s displayed translation. The gap around the flood’s ending prevents an absence claim.",
+      "landing_place": "Undetermined: damaged text",
+      "landing_place_state": "text_damaged",
+      "landing_place_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C1 iv 24′–27′ and following gap; v 1–31″ (https://seal.huji.ac.il/node/1517?tid=80)",
+      "landing_place_note": "The transition from storm to sacrifice is substantially missing; no landing location is preserved in the inspected translation.",
+      "aftermath": "Sacrifice; Enki addresses Nintu, followed by provisions for women who cannot bear, infant deaths and priestly restrictions on childbirth",
+      "aftermath_state": "attested",
+      "aftermath_references": "SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C1 v 30″–35″; vi 41′–51′; vii 1–11 (https://seal.huji.ac.il/node/1517?tid=80)",
+      "aftermath_note": "Enlil calls for Enki and Nintu to confer; Enki’s name is restored in vi 45′. The preceding assignment of Death in vi 47′–49′ is substantially restored, so it is not presented as an unqualified preserved clause.",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": "Sippar Tablet III, Ammī-ṣadūqa year 12",
+          "status": "colophon_attested",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C2 viii 26′–31′, colophon (siglum from transliteration)"
+            }
+          ],
+          "note": "SEAL identifies Ammī-ṣadūqa year 12 from a partly restored colophon formula. An absolute BCE conversion and a composition date are not inferred from it; the synoptic I–II witnesses have different dates."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "atra-seal-iii",
+        "atra-seal-i",
+        "atra-seal-ii"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Atrahasis; his family is brought aboard",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C2 i 11′–24′; C1 ii 40″–52″; vi 5–19"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": "The great Anunnaki decide together on oath; Enlil is blamed for bringing the flood",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C1 iii 36′–43′; v 41″–45″; vi 5–10"
+            }
+          ],
+          "note": "The collective decision is recalled after the flood. This does not turn a later blame statement into a separately preserved pre-flood council scene."
+        },
+        "warned_by": {
+          "value": "Enki, addressing the reed wall and instructing Atrahasis",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C2 i 13′–24′; C1 i 36′–38′; vi 11–19"
+            }
+          ],
+          "note": "The speaker name at i 15′ is restored; vi 13–15 explicitly identifies Enki with the disclosure."
+        },
+        "cause": {
+          "value": "Human multiplication and noise provoke successive divine attempts to reduce the population; the sequence escalates to the flood",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "atra-seal-i",
+              "locator": "I 351–363"
+            },
+            {
+              "source_id": "atra-seal-ii",
+              "locator": "A 1–20; E 60–78; G 27–49u; H 9–25"
+            },
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C1 iii 36′–43′"
+            }
+          ],
+          "note": "Narrative sequence summarized across the synoptic edition: the first noise complaint prompts disease, then deprivation of food and water. The explicit flood oath at II G 49q–u comes from Middle Babylonian X-MB. Tablet III retrospectively links the destruction decision to the people’s noise; the causal sequence is not a verbatim single-line explanation."
+        },
+        "vessel": {
+          "value": "A roofed boat strengthened with bitumen; its door is closed with bitumen",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C2 i 22′–26′; C1 i 29′–33′; ii 51″–54″"
+            }
+          ],
+          "note": "The damaged dimensions are not reconstructed; a reed-worker’s participation does not establish an exclusively reed hull."
+        },
+        "birds_released": {
+          "value": null,
+          "state": "text_damaged",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C1 ii 34″–35″; iv 24′–27′ and following gap; v 1–31″"
+            }
+          ],
+          "note": "Birds are loaded aboard, but no test-release scene survives in this witness’s displayed translation. The gap around the flood’s ending prevents an absence claim."
+        },
+        "landing_place": {
+          "value": null,
+          "state": "text_damaged",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C1 iv 24′–27′ and following gap; v 1–31″"
+            }
+          ],
+          "note": "The transition from storm to sacrifice is substantially missing; no landing location is preserved in the inspected translation."
+        },
+        "aftermath": {
+          "value": "Sacrifice; Enki addresses Nintu, followed by provisions for women who cannot bear, infant deaths and priestly restrictions on childbirth",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "atra-seal-iii",
+              "locator": "C1 v 30″–35″; vi 41′–51′; vii 1–11"
+            }
+          ],
+          "note": "Enlil calls for Enki and Nintu to confer; Enki’s name is restored in vi 45′. The preceding assignment of Death in vi 47′–49′ is substantially restored, so it is not presented as an unqualified preserved clause."
+        }
+      },
+      "legacy_date": "c. 1700 BCE",
+      "editorial_note": "Tablet III anchors the flood row. Tablets I–II supply motivation and escalation through an explicitly synoptic edition; variants and restorations are not collapsed into one manuscript."
+    },
+    {
+      "id": "babylonian-utnapishtim",
+      "tradition": "Babylonian (Akkadian)",
+      "source_text": "Epic of Gilgamesh, Standard Babylonian Tablet XI",
+      "inspected_scope": "Kovacs/Livius XI.1–205",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "https://www.wheelofheaven.world/library/gilgamesh-woh/",
+      "survivor": "Utnapishtim, with family, craftsmen and other living beings aboard",
+      "survivor_state": "attested",
+      "survivor_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.80–86; 198–205 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "survivor_note": "",
+      "flood_decreed_by": "The great gods; Enlil is subsequently held responsible",
+      "flood_decreed_by_state": "attested",
+      "flood_decreed_by_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.14–20; 165–175 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "flood_decreed_by_note": "",
+      "warned_by": "Ea, addressing the reed house and wall",
+      "warned_by_state": "attested",
+      "warned_by_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.19–31 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "warned_by_note": "",
+      "cause": "Not stated in the inspected passage",
+      "cause_state": "not_stated",
+      "cause_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.14–20 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "cause_note": "The decision is stated without its initiating motive. Later blame is not a supplied original cause.",
+      "vessel": "Equal-sided boat with six decks making seven levels, divided into compartments",
+      "vessel_state": "attested",
+      "vessel_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.28–31; 54–66 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "vessel_note": "Replaces seven-decked with the selected translation’s distinction between decks and levels. Bitumen is listed among construction supplies; a specific sealing use is not asserted here.",
+      "birds_released": "Dove, swallow, raven; the first two return, the raven does not",
+      "birds_released_state": "attested",
+      "birds_released_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.146–155 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "birds_released_note": "",
+      "landing_place": "Mount Nimuš",
+      "landing_place_state": "attested",
+      "landing_place_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.141–145 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "landing_place_note": "",
+      "aftermath": "Sacrifice, divine dispute, and godlike life for Utnapishtim and his wife",
+      "aftermath_state": "attested",
+      "aftermath_references": "Maureen Gallery Kovacs translation, adapted by Livius via AncientTexts.org: XI.156–205 (https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "gil-kovacs-livius"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Utnapishtim, with family, craftsmen and other living beings aboard",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.80–86; 198–205"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": "The great gods; Enlil is subsequently held responsible",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.14–20; 165–175"
+            }
+          ],
+          "note": ""
+        },
+        "warned_by": {
+          "value": "Ea, addressing the reed house and wall",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.19–31"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.14–20"
+            }
+          ],
+          "note": "The decision is stated without its initiating motive. Later blame is not a supplied original cause."
+        },
+        "vessel": {
+          "value": "Equal-sided boat with six decks making seven levels, divided into compartments",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.28–31; 54–66"
+            }
+          ],
+          "note": "Replaces seven-decked with the selected translation’s distinction between decks and levels. Bitumen is listed among construction supplies; a specific sealing use is not asserted here."
+        },
+        "birds_released": {
+          "value": "Dove, swallow, raven; the first two return, the raven does not",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.146–155"
+            }
+          ],
+          "note": ""
+        },
+        "landing_place": {
+          "value": "Mount Nimuš",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.141–145"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "Sacrifice, divine dispute, and godlike life for Utnapishtim and his wife",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gil-kovacs-livius",
+              "locator": "XI.156–205"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "c. 1200 BCE (standard version)",
+      "editorial_note": "The motive for the initial decision is not supplied. The later rebuke and the initial oath occupy different narrative positions."
+    },
+    {
+      "id": "hebrew-noah",
+      "tradition": "Hebrew / Biblical",
+      "source_text": "Genesis 6–9",
+      "inspected_scope": "Genesis 6, 8 and 9, JPS/Mechon-Mamre",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "https://www.wheelofheaven.world/library/genesis-woh/",
+      "survivor": "Noah, his wife, his sons and their wives",
+      "survivor_state": "attested",
+      "survivor_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 6:18 (https://mechon-mamre.org/p/pt/pt0106.htm) | JPS 1917 English alongside Hebrew, Mechon-Mamre: 8:18 (https://mechon-mamre.org/p/pt/pt0108.htm)",
+      "survivor_note": "",
+      "flood_decreed_by": "YHWH at 6:5–7; Elohim at 6:13,17",
+      "flood_decreed_by_state": "attested",
+      "flood_decreed_by_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 6:5–7,13,17 (https://mechon-mamre.org/p/pt/pt0106.htm)",
+      "flood_decreed_by_note": "",
+      "warned_by": "Elohim gives Noah instructions",
+      "warned_by_state": "attested",
+      "warned_by_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 6:13–22 (https://mechon-mamre.org/p/pt/pt0106.htm)",
+      "warned_by_note": "",
+      "cause": "Human wickedness, corruption and violence",
+      "cause_state": "attested",
+      "cause_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 6:5–7,11–13 (https://mechon-mamre.org/p/pt/pt0106.htm)",
+      "cause_note": "",
+      "vessel": "Ark of gopher wood, pitched inside and out, with three levels",
+      "vessel_state": "attested",
+      "vessel_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 6:14–16 (https://mechon-mamre.org/p/pt/pt0106.htm)",
+      "vessel_note": "",
+      "birds_released": "A raven; then three sendings of a dove, which finally stays away",
+      "birds_released_state": "attested",
+      "birds_released_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 8:6–12 (https://mechon-mamre.org/p/pt/pt0108.htm)",
+      "birds_released_note": "",
+      "landing_place": "The mountains of Ararat",
+      "landing_place_state": "attested",
+      "landing_place_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 8:4 (https://mechon-mamre.org/p/pt/pt0108.htm)",
+      "landing_place_note": "",
+      "aftermath": "Burnt offerings and a covenant with the bow as sign against another destroying flood",
+      "aftermath_state": "attested",
+      "aftermath_references": "JPS 1917 English alongside Hebrew, Mechon-Mamre: 8:20–22 (https://mechon-mamre.org/p/pt/pt0108.htm) | JPS 1917 English alongside Hebrew, Mechon-Mamre: 9:8–17 (https://mechon-mamre.org/p/pt/pt0109.htm)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "gen6-jps",
+        "gen8-jps",
+        "gen9-jps"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Noah, his wife, his sons and their wives",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen6-jps",
+              "locator": "6:18"
+            },
+            {
+              "source_id": "gen8-jps",
+              "locator": "8:18"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": "YHWH at 6:5–7; Elohim at 6:13,17",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen6-jps",
+              "locator": "6:5–7,13,17"
+            }
+          ],
+          "note": ""
+        },
+        "warned_by": {
+          "value": "Elohim gives Noah instructions",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen6-jps",
+              "locator": "6:13–22"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": "Human wickedness, corruption and violence",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen6-jps",
+              "locator": "6:5–7,11–13"
+            }
+          ],
+          "note": ""
+        },
+        "vessel": {
+          "value": "Ark of gopher wood, pitched inside and out, with three levels",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen6-jps",
+              "locator": "6:14–16"
+            }
+          ],
+          "note": ""
+        },
+        "birds_released": {
+          "value": "A raven; then three sendings of a dove, which finally stays away",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen8-jps",
+              "locator": "8:6–12"
+            }
+          ],
+          "note": ""
+        },
+        "landing_place": {
+          "value": "The mountains of Ararat",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen8-jps",
+              "locator": "8:4"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "Burnt offerings and a covenant with the bow as sign against another destroying flood",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "gen8-jps",
+              "locator": "8:20–22"
+            },
+            {
+              "source_id": "gen9-jps",
+              "locator": "9:8–17"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "c. 6th–5th c. BCE (text)",
+      "editorial_note": "Record the divine names by passage; the selected narrative does not stage a dissenting member of a divine assembly."
+    },
+    {
+      "id": "islamic-nuh",
+      "tradition": "Islamic",
+      "source_text": "Qur’an 11:25–49",
+      "inspected_scope": "Shakir/Livius 11:25–49",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "https://www.wheelofheaven.world/library/quran-woh/",
+      "survivor": "Nuh, the believers and family except those excluded",
+      "survivor_state": "attested",
+      "survivor_references": "M. H. Shakir translation as reproduced by Livius: 11:40–43 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "survivor_note": "",
+      "flood_decreed_by": "Allah",
+      "flood_decreed_by_state": "attested",
+      "flood_decreed_by_references": "M. H. Shakir translation as reproduced by Livius: 11:33–40 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "flood_decreed_by_note": "",
+      "warned_by": "Allah’s revelation to Nuh",
+      "warned_by_state": "attested",
+      "warned_by_references": "M. H. Shakir translation as reproduced by Livius: 11:36–37 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "warned_by_note": "",
+      "cause": "Rejection of Nuh and injustice",
+      "cause_state": "attested",
+      "cause_references": "M. H. Shakir translation as reproduced by Livius: 11:25–39 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "cause_note": "",
+      "vessel": "An ark built under divine direction",
+      "vessel_state": "attested",
+      "vessel_references": "M. H. Shakir translation as reproduced by Livius: 11:37–41 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "vessel_note": "",
+      "birds_released": "Not stated in the inspected passage",
+      "birds_released_state": "not_stated",
+      "birds_released_references": "M. H. Shakir translation as reproduced by Livius: 11:25–49 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "birds_released_note": "No statement of this feature in the inspected scope.",
+      "landing_place": "Al-Judi (al-Gudi in the inspected transcription)",
+      "landing_place_state": "attested",
+      "landing_place_references": "M. H. Shakir translation as reproduced by Livius: 11:44 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "landing_place_note": "",
+      "aftermath": "Nuh’s son drowns; the water recedes; Nuh descends with peace and blessings",
+      "aftermath_state": "attested",
+      "aftermath_references": "M. H. Shakir translation as reproduced by Livius: 11:42–48 (https://www.livius.org/articles/misc/great-flood/flood1-t-quran_a/)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "quran11-shakir"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Nuh, the believers and family except those excluded",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:40–43"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": "Allah",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:33–40"
+            }
+          ],
+          "note": ""
+        },
+        "warned_by": {
+          "value": "Allah’s revelation to Nuh",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:36–37"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": "Rejection of Nuh and injustice",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:25–39"
+            }
+          ],
+          "note": ""
+        },
+        "vessel": {
+          "value": "An ark built under divine direction",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:37–41"
+            }
+          ],
+          "note": ""
+        },
+        "birds_released": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:25–49"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "landing_place": {
+          "value": "Al-Judi (al-Gudi in the inspected transcription)",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:44"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "Nuh’s son drowns; the water recedes; Nuh descends with peace and blessings",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "quran11-shakir",
+              "locator": "11:42–48"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "7th c. CE",
+      "editorial_note": "Narrowed from a composite surah list to an explicit inspected unit; silence applies to this unit only."
+    },
+    {
+      "id": "greek-deucalion",
+      "tradition": "Greek",
+      "source_text": "Apollodorus, Library 1.7.2",
+      "inspected_scope": "Frazer 1921, 1.7.2",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "",
+      "survivor": "Deucalion and Pyrrha; a few others escape to high mountains",
+      "survivor_state": "attested",
+      "survivor_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "survivor_note": "",
+      "flood_decreed_by": "Zeus",
+      "flood_decreed_by_state": "attested",
+      "flood_decreed_by_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "flood_decreed_by_note": "",
+      "warned_by": "Prometheus advises Deucalion",
+      "warned_by_state": "attested",
+      "warned_by_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "warned_by_note": "",
+      "cause": "Zeus intends to destroy the Bronze Age people; no further motive is given",
+      "cause_state": "attested",
+      "cause_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "cause_note": "",
+      "vessel": "A chest stocked with provisions",
+      "vessel_state": "attested",
+      "vessel_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "vessel_note": "",
+      "birds_released": "Not stated in the inspected passage",
+      "birds_released_state": "not_stated",
+      "birds_released_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "birds_released_note": "No statement of this feature in the inspected scope.",
+      "landing_place": "Parnassus, after nine days and nights afloat",
+      "landing_place_state": "attested",
+      "landing_place_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "landing_place_note": "",
+      "aftermath": "Sacrifice to Zeus; at Zeus’s instruction stones thrown by the couple become people",
+      "aftermath_state": "attested",
+      "aftermath_references": "J. G. Frazer, The Library, 1921; Perseus text reproduced by Alpheios: 1.7.2 (https://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/book1_card1.7.2.html)",
+      "aftermath_note": "The legacy phrase about a mother’s bones is not in this passage and is removed. Its source has not been established in this audit.",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "apollodorus-frazer"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Deucalion and Pyrrha; a few others escape to high mountains",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": "Zeus",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": ""
+        },
+        "warned_by": {
+          "value": "Prometheus advises Deucalion",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": "Zeus intends to destroy the Bronze Age people; no further motive is given",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": ""
+        },
+        "vessel": {
+          "value": "A chest stocked with provisions",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": ""
+        },
+        "birds_released": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "landing_place": {
+          "value": "Parnassus, after nine days and nights afloat",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "Sacrifice to Zeus; at Zeus’s instruction stones thrown by the couple become people",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "apollodorus-frazer",
+              "locator": "1.7.2"
+            }
+          ],
+          "note": "The legacy phrase about a mother’s bones is not in this passage and is removed. Its source has not been established in this audit."
+        }
+      },
+      "legacy_date": "c. 1st–2nd c. CE (text)",
+      "editorial_note": "Keep this witness separate from other Deucalion accounts. It also allows other people to escape to mountains."
+    },
+    {
+      "id": "berossus-xisuthros",
+      "tradition": "Greco-Babylonian",
+      "source_text": "Berossus flood fragment preserved in Syncellus",
+      "inspected_scope": "Chronological Excerpts 53–56, Verbrugghe/Wickersham adaptation",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "",
+      "survivor": "Xisuthrus with family and friends; other passengers survive his disappearance",
+      "survivor_state": "attested",
+      "survivor_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 54–56 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "survivor_note": "",
+      "flood_decreed_by": "Not stated in the inspected passage",
+      "flood_decreed_by_state": "not_stated",
+      "flood_decreed_by_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 54–56 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "flood_decreed_by_note": "Cronus foretells the event, but is not explicitly said to decree it.",
+      "warned_by": "Cronus, in a dream",
+      "warned_by_state": "attested",
+      "warned_by_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 54 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "warned_by_note": "",
+      "cause": "Not stated in the inspected passage",
+      "cause_state": "not_stated",
+      "cause_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 54–56 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "cause_note": "A coming destruction is predicted; no initiating motive is stated.",
+      "vessel": "Boat five stades long and two broad",
+      "vessel_state": "attested",
+      "vessel_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 54 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "vessel_note": "",
+      "birds_released": "Three releases: return; muddy claws; no return",
+      "birds_released_state": "attested",
+      "birds_released_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 54 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "birds_released_note": "",
+      "landing_place": "A mountain in Armenia; the remains are located in the Gordyenian mountains",
+      "landing_place_state": "attested",
+      "landing_place_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 55 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "landing_place_note": "",
+      "aftermath": "Sacrifice; Xisuthrus, wife, daughter and pilot join the gods; remaining passengers recover writings at Sippar",
+      "aftermath_state": "attested",
+      "aftermath_references": "G. P. Verbrugghe and J. M. Wickersham translation, adapted by Livius: 55–56 (https://www.livius.org/articles/misc/great-flood/flood3_t-berossus/)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "berossus-vw-livius"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Xisuthrus with family and friends; other passengers survive his disappearance",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "54–56"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "54–56"
+            }
+          ],
+          "note": "Cronus foretells the event, but is not explicitly said to decree it."
+        },
+        "warned_by": {
+          "value": "Cronus, in a dream",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "54"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "54–56"
+            }
+          ],
+          "note": "A coming destruction is predicted; no initiating motive is stated."
+        },
+        "vessel": {
+          "value": "Boat five stades long and two broad",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "54"
+            }
+          ],
+          "note": ""
+        },
+        "birds_released": {
+          "value": "Three releases: return; muddy claws; no return",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "54"
+            }
+          ],
+          "note": ""
+        },
+        "landing_place": {
+          "value": "A mountain in Armenia; the remains are located in the Gordyenian mountains",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "55"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "Sacrifice; Xisuthrus, wife, daughter and pilot join the gods; remaining passengers recover writings at Sippar",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "berossus-vw-livius",
+              "locator": "55–56"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "c. 3rd c. BCE",
+      "editorial_note": "Indirect transmission must stay visible. Cronus as warner does not alone establish who decreed the flood."
+    },
+    {
+      "id": "vedic-manu",
+      "tradition": "Vedic / Hindu",
+      "source_text": "Śatapatha Brāhmaṇa, Mādhyandina 1.8.1.1–11",
+      "inspected_scope": "Eggeling 1882; TITUS 1–6 and Sacred Texts 7–11",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "",
+      "survivor": "Manu alone",
+      "survivor_state": "attested",
+      "survivor_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.6 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "survivor_note": "",
+      "flood_decreed_by": "Not stated in the inspected passage",
+      "flood_decreed_by_state": "not_stated",
+      "flood_decreed_by_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.1–6 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "flood_decreed_by_note": "No statement of this feature in the inspected scope.",
+      "warned_by": "A fish raised and protected by Manu",
+      "warned_by_state": "attested",
+      "warned_by_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.1–5 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "warned_by_note": "",
+      "cause": "Not stated in the inspected passage",
+      "cause_state": "not_stated",
+      "cause_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.1–6 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "cause_note": "No statement of this feature in the inspected scope.",
+      "vessel": "Ship tied to the fish’s horn; the fish instructs Manu to fasten it to a tree",
+      "vessel_state": "attested",
+      "vessel_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.4–6 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "vessel_note": "Section 5 narrates attachment to the horn; section 6 gives the tree-fastening instruction without separately narrating its completion.",
+      "birds_released": "Not stated in the inspected passage",
+      "birds_released_state": "not_stated",
+      "birds_released_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.1–6 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "birds_released_note": "No statement of this feature in the inspected scope.",
+      "landing_place": "A northern mountain; the descent is called Manu’s descent",
+      "landing_place_state": "attested",
+      "landing_place_references": "Julius Eggeling, Sacred Books of the East 12, 1882, excerpt on TITUS, Frankfurt: 1.8.1.5–6 (https://titus.uni-frankfurt.de/didact/idg/indi/sbbeispn.htm)",
+      "landing_place_note": "",
+      "aftermath": "Offerings produce a woman identified with Ida; through her and ritual Manu generates his race",
+      "aftermath_state": "attested",
+      "aftermath_references": "Julius Eggeling, Sacred Books of the East 12, 1882, transcription at Sacred Texts: 1.8.1.7–11 (https://sacred-texts.com/book/the-satapatha-brahmana-part-i/story-of-the-flood-of-manu)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "satapatha-eggeling-titus",
+        "satapatha-eggeling-ritual"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Manu alone",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.6"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.1–6"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "warned_by": {
+          "value": "A fish raised and protected by Manu",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.1–5"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.1–6"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "vessel": {
+          "value": "Ship tied to the fish’s horn; the fish instructs Manu to fasten it to a tree",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.4–6"
+            }
+          ],
+          "note": "Section 5 narrates attachment to the horn; section 6 gives the tree-fastening instruction without separately narrating its completion."
+        },
+        "birds_released": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.1–6"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "landing_place": {
+          "value": "A northern mountain; the descent is called Manu’s descent",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-titus",
+              "locator": "1.8.1.5–6"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "Offerings produce a woman identified with Ida; through her and ritual Manu generates his race",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "satapatha-eggeling-ritual",
+              "locator": "1.8.1.7–11"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "c. 8th–6th c. BCE",
+      "editorial_note": "The fish is not identified as Vishnu in this inspected account."
+    },
+    {
+      "id": "aztec-tata-nena",
+      "tradition": "Aztec / Nahua",
+      "source_text": "Leyenda de los Soles, water-sun and Tata/Nene episodes",
+      "inspected_scope": "Velázquez 1992, pp. 119–120",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "",
+      "survivor": "Tata and Nene",
+      "survivor_state": "attested",
+      "survivor_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: p. 120, end of section I (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "survivor_note": "",
+      "flood_decreed_by": "Not stated in the inspected passage",
+      "flood_decreed_by_state": "not_stated",
+      "flood_decreed_by_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: pp. 119–120, water-sun episode (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "flood_decreed_by_note": "The passage describes destruction and warning without a separately stated decree by Tezcatlipoca.",
+      "warned_by": "Titlacahuan, subsequently named Tezcatlipoca",
+      "warned_by_state": "attested",
+      "warned_by_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: p. 120, sections I–II (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "warned_by_note": "",
+      "cause": "The water-sun age ends with inundation and the sinking sky; no further motive is stated",
+      "cause_state": "attested",
+      "cause_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: pp. 119–120 (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "cause_note": "",
+      "vessel": "A hollowed ahuehuetl, closed over the pair",
+      "vessel_state": "attested",
+      "vessel_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: p. 120, section I (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "vessel_note": "",
+      "birds_released": "Not stated in the inspected passage",
+      "birds_released_state": "not_stated",
+      "birds_released_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: pp. 119–120 (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "birds_released_note": "No statement of this feature in the inspected scope.",
+      "landing_place": "Not stated in the inspected passage",
+      "landing_place_state": "not_stated",
+      "landing_place_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: p. 120 (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "landing_place_note": "The water diminishes and the wood stops moving; no place is named.",
+      "aftermath": "They cook fish; the smoke provokes the gods; Tezcatlipoca transforms them into dogs",
+      "aftermath_state": "attested",
+      "aftermath_references": "Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: p. 120, section II (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": "22 May 1558",
+          "status": "text_attested",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "p. 119, opening paragraph"
+            }
+          ],
+          "note": "The text dates its narration; this does not independently date the surviving manuscript or the narrated flood."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "soles-velazquez"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Tata and Nene",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "p. 120, end of section I"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "pp. 119–120, water-sun episode"
+            }
+          ],
+          "note": "The passage describes destruction and warning without a separately stated decree by Tezcatlipoca."
+        },
+        "warned_by": {
+          "value": "Titlacahuan, subsequently named Tezcatlipoca",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "p. 120, sections I–II"
+            }
+          ],
+          "note": ""
+        },
+        "cause": {
+          "value": "The water-sun age ends with inundation and the sinking sky; no further motive is stated",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "pp. 119–120"
+            }
+          ],
+          "note": ""
+        },
+        "vessel": {
+          "value": "A hollowed ahuehuetl, closed over the pair",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "p. 120, section I"
+            }
+          ],
+          "note": ""
+        },
+        "birds_released": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "pp. 119–120"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "landing_place": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "p. 120"
+            }
+          ],
+          "note": "The water diminishes and the wood stops moving; no place is named."
+        },
+        "aftermath": {
+          "value": "They cook fish; the smoke provokes the gods; Tezcatlipoca transforms them into dogs",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "soles-velazquez",
+              "locator": "p. 120, section II"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "1558 CE (manuscript)",
+      "editorial_note": "Names follow the inspected Spanish edition. Calling the warner Tezcatlipoca does not establish an explicit decree in this episode."
+    },
+    {
+      "id": "inca-viracocha",
+      "tradition": "Andean / Inca",
+      "source_text": "Molina, An Account of the Fables and Rites of the Yncas",
+      "inspected_scope": "Markham 1873, pp. 4–5",
+      "approx_date": "Between 1570 and 1584, according to Markham’s introduction",
+      "woh_library": "",
+      "survivor": "An unnamed man and woman in this account",
+      "survivor_state": "attested",
+      "survivor_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: p. 4 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "survivor_note": "",
+      "flood_decreed_by": "Not stated in the inspected passage",
+      "flood_decreed_by_state": "not_stated",
+      "flood_decreed_by_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: pp. 4–5 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "flood_decreed_by_note": "The Creator acts after the flood; a flood decree is not stated in this passage.",
+      "warned_by": "Not stated in the inspected passage",
+      "warned_by_state": "not_stated",
+      "warned_by_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: pp. 4–5 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "warned_by_note": "No statement of this feature in the inspected scope.",
+      "cause": "Not stated in the inspected passage",
+      "cause_state": "not_stated",
+      "cause_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: pp. 4–5 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "cause_note": "The nearby account of people turned to stone for disobedience must not be substituted for a stated cause of this flood.",
+      "vessel": "A box",
+      "vessel_state": "attested",
+      "vessel_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: p. 4 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "vessel_note": "The inspected English says box, without specifying that it was sealed.",
+      "birds_released": "Not stated in the inspected passage",
+      "birds_released_state": "not_stated",
+      "birds_released_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: pp. 4–5 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "birds_released_note": "No statement of this feature in the inspected scope.",
+      "landing_place": "Huanaco in the text, identified as Tia-huanacu in Markham’s footnote 3",
+      "landing_place_state": "attested",
+      "landing_place_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: p. 4 and footnote 3 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "landing_place_note": "",
+      "aftermath": "The Creator forms representatives of nations from clay, gives them life and sends them to their places of emergence",
+      "aftermath_state": "attested",
+      "aftermath_references": "Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: pp. 4–5 (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)",
+      "aftermath_note": "Clay replaces the legacy stone formulation for this witness. Other survival accounts are reported on p. 5.",
+      "chronology": {
+        "composition": {
+          "value": "Between 1570 and 1584, according to Markham’s introduction",
+          "status": "edition_estimate",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "Introduction p. vii (PDF leaf 13)"
+            }
+          ],
+          "note": "A bounded report of this 1873 editor’s dating argument, not an adjudication of modern scholarship. The legacy 1557–1575 span mixed Molina with Betanzos."
+        },
+        "witness": {
+          "value": null,
+          "status": "not_established",
+          "references": [],
+          "note": "No date for a physical manuscript or tablet is established by this row’s inspected translation."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "molina-markham"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "An unnamed man and woman in this account",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "p. 4"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "pp. 4–5"
+            }
+          ],
+          "note": "The Creator acts after the flood; a flood decree is not stated in this passage."
+        },
+        "warned_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "pp. 4–5"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "cause": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "pp. 4–5"
+            }
+          ],
+          "note": "The nearby account of people turned to stone for disobedience must not be substituted for a stated cause of this flood."
+        },
+        "vessel": {
+          "value": "A box",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "p. 4"
+            }
+          ],
+          "note": "The inspected English says box, without specifying that it was sealed."
+        },
+        "birds_released": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "pp. 4–5"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "landing_place": {
+          "value": "Huanaco in the text, identified as Tia-huanacu in Markham’s footnote 3",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "p. 4 and footnote 3"
+            }
+          ],
+          "note": ""
+        },
+        "aftermath": {
+          "value": "The Creator forms representatives of nations from clay, gives them life and sends them to their places of emergence",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "molina-markham",
+              "locator": "pp. 4–5"
+            }
+          ],
+          "note": "Clay replaces the legacy stone formulation for this witness. Other survival accounts are reported on p. 5."
+        }
+      },
+      "legacy_date": "1557–1575 CE (colonial record of pre-Columbian tradition)",
+      "editorial_note": "Legacy ID retained for reconciliation, but the mixed Betanzos/Molina row is narrowed to Molina’s inspected account. No regional synthesis is implied."
+    },
+    {
+      "id": "norse-bergelmir",
+      "tradition": "Norse",
+      "source_text": "Snorri, Gylfaginning VII, including its quoted verse",
+      "inspected_scope": "Brodeur 1916, p. 19",
+      "approx_date": "Composition date not independently verified in this revision",
+      "woh_library": "",
+      "survivor": "Bergelmir and his wife; the prose also mentions his household",
+      "survivor_state": "attested",
+      "survivor_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "survivor_note": "",
+      "flood_decreed_by": "Not stated in the inspected passage",
+      "flood_decreed_by_state": "not_stated",
+      "flood_decreed_by_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "flood_decreed_by_note": "The sons of Borr kill Ymir; a separate decision to send a flood is not narrated.",
+      "warned_by": "Not stated in the inspected passage",
+      "warned_by_state": "not_stated",
+      "warned_by_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "warned_by_note": "No statement of this feature in the inspected scope.",
+      "cause": "Blood from Ymir after his killing drowns the frost giants",
+      "cause_state": "attested",
+      "cause_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "cause_note": "",
+      "vessel": "Brodeur renders the object as a ship, while his footnote gives mill-bench or mortar",
+      "vessel_state": "uncertain",
+      "vessel_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 and footnote 1 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "vessel_note": "The legacy hollowed-tree-trunk gloss is not supported by the inspected edition. Preserve the translation issue instead of selecting a material.",
+      "birds_released": "Not stated in the inspected passage",
+      "birds_released_state": "not_stated",
+      "birds_released_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "birds_released_note": "No statement of this feature in the inspected scope.",
+      "landing_place": "Not stated in the inspected passage",
+      "landing_place_state": "not_stated",
+      "landing_place_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "landing_place_note": "No statement of this feature in the inspected scope.",
+      "aftermath": "The surviving pair become ancestors of the frost giants",
+      "aftermath_state": "attested",
+      "aftermath_references": "Arthur Gilchrist Brodeur, The Prose Edda, 1916: Gylfaginning VII, p. 19 (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)",
+      "aftermath_note": "",
+      "chronology": {
+        "composition": {
+          "value": null,
+          "status": "not_reassessed",
+          "references": [],
+          "note": "No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date."
+        },
+        "witness": {
+          "value": "Codex Upsaliensis around 1300; Regius early fourteenth century; Wormianus fourteenth century, as reported by Brodeur",
+          "status": "editor_report",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Introduction p. xv (PDF leaf 25)"
+            }
+          ],
+          "note": "Dates reported by the selected 1916 editor, not a current manuscript census, direct manuscript inspection, or an independent date for the quoted poem."
+        },
+        "internal_date": {
+          "value": null,
+          "status": "not_audited",
+          "references": [],
+          "note": "Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates."
+        },
+        "event_date": {
+          "value": null,
+          "status": "not_assigned",
+          "references": [],
+          "note": "No historical date is assigned to the narrated flood."
+        }
+      },
+      "edition_source_ids": [
+        "edda-brodeur"
+      ],
+      "observations": {
+        "survivor": {
+          "value": "Bergelmir and his wife; the prose also mentions his household",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": ""
+        },
+        "flood_decreed_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": "The sons of Borr kill Ymir; a separate decision to send a flood is not narrated."
+        },
+        "warned_by": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "cause": {
+          "value": "Blood from Ymir after his killing drowns the frost giants",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": ""
+        },
+        "vessel": {
+          "value": "Brodeur renders the object as a ship, while his footnote gives mill-bench or mortar",
+          "state": "uncertain",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19 and footnote 1"
+            }
+          ],
+          "note": "The legacy hollowed-tree-trunk gloss is not supported by the inspected edition. Preserve the translation issue instead of selecting a material."
+        },
+        "birds_released": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "landing_place": {
+          "value": null,
+          "state": "not_stated",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": "No statement of this feature in the inspected scope."
+        },
+        "aftermath": {
+          "value": "The surviving pair become ancestors of the frost giants",
+          "state": "attested",
+          "references": [
+            {
+              "source_id": "edda-brodeur",
+              "locator": "Gylfaginning VII, p. 19"
+            }
+          ],
+          "note": ""
+        }
+      },
+      "legacy_date": "c. 1220 CE (Prose Edda); older eddic verse",
+      "editorial_note": "This is a giant-survival account. The quoted verse is not counted as a second independent witness; its separate poem edition remains uninspected."
+    }
+  ]
+}

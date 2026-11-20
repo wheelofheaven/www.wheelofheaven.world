@@ -1,0 +1,45 @@
+row_id,date_kind,value,status,references,note
+sumerian-ziusudra,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+sumerian-ziusudra,witness,"CBS10673 (+ CBS10867), approximately 1650 BCE (Penn Museum catalogue)",catalogue_estimate,"Penn Museum collection catalogue, object 97591, consulted 20 November 2026: Date Made; Description; Other Number (https://collections.penn.museum/collections/object/97591)","A date for the Nippur tablet, not the composition; the catalogue also describes seventeenth-century BCE script. No claim of earliest witness."
+sumerian-ziusudra,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+sumerian-ziusudra,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+babylonian-atrahasis,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+babylonian-atrahasis,witness,"Sippar Tablet III, Ammī-ṣadūqa year 12",colophon_attested,"SEAL edition credited to Nathan Wasserman, 8 September 2020; indexing/commentary Yulia Tulaikova, 1 July 2021. Bibliography identifies Wasserman 2020, pp. 19–37, and Lambert/Millard 1969: C2 viii 26′–31′, colophon (siglum from transliteration) (https://seal.huji.ac.il/node/1517?tid=80)",SEAL identifies Ammī-ṣadūqa year 12 from a partly restored colophon formula. An absolute BCE conversion and a composition date are not inferred from it; the synoptic I–II witnesses have different dates.
+babylonian-atrahasis,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+babylonian-atrahasis,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+babylonian-utnapishtim,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+babylonian-utnapishtim,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+babylonian-utnapishtim,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+babylonian-utnapishtim,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+hebrew-noah,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+hebrew-noah,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+hebrew-noah,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+hebrew-noah,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+islamic-nuh,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+islamic-nuh,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+islamic-nuh,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+islamic-nuh,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+greek-deucalion,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+greek-deucalion,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+greek-deucalion,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+greek-deucalion,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+berossus-xisuthros,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+berossus-xisuthros,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+berossus-xisuthros,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+berossus-xisuthros,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+vedic-manu,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+vedic-manu,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+vedic-manu,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+vedic-manu,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+aztec-tata-nena,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+aztec-tata-nena,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+aztec-tata-nena,internal_date,22 May 1558,text_attested,"Primo Feliciano Velázquez, Códice Chimalpopoca, 3rd ed., UNAM, 1992; digital publication 2019: p. 119, opening paragraph (https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)",The text dates its narration; this does not independently date the surviving manuscript or the narrated flood.
+aztec-tata-nena,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+inca-viracocha,composition,"Between 1570 and 1584, according to Markham’s introduction",edition_estimate,"Clements R. Markham, Narratives of the Rites and Laws of the Yncas, Hakluyt Society, 1873: Introduction p. vii (PDF leaf 13) (https://archive.org/details/narrativesofrite00markiala/page/4/mode/2up)","A bounded report of this 1873 editor’s dating argument, not an adjudication of modern scholarship. The legacy 1557–1575 span mixed Molina with Betanzos."
+inca-viracocha,witness,,not_established,,No date for a physical manuscript or tablet is established by this row’s inspected translation.
+inca-viracocha,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+inca-viracocha,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
+norse-bergelmir,composition,,not_reassessed,,No independently verified composition date is assigned in this audit; inherited dating text remains only in legacy_date.
+norse-bergelmir,witness,"Codex Upsaliensis around 1300; Regius early fourteenth century; Wormianus fourteenth century, as reported by Brodeur",editor_report,"Arthur Gilchrist Brodeur, The Prose Edda, 1916: Introduction p. xv (PDF leaf 25) (https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29.pdf)","Dates reported by the selected 1916 editor, not a current manuscript census, direct manuscript inspection, or an independent date for the quoted poem."
+norse-bergelmir,internal_date,,not_audited,,Internal narrative chronology has not been systematically audited. This is not a claim that the text contains no dates.
+norse-bergelmir,event_date,,not_assigned,,No historical date is assigned to the narrated flood.
