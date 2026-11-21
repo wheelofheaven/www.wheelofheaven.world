@@ -85,11 +85,11 @@
   },
   "provenance": {
     "research_file": "core/docs/research/flood-concordance/concordance.json",
-    "research_sha256": "5481027abdee601c3dd29b83e72a88679fcc1c99f359e5b7d85542026524c88f",
+    "research_sha256": "2d0aa8b405f6d402c68b1217e007dba11d59ad81bc3052198872f6fd876845cb",
     "research_format_version": "0.2.0",
     "baseline_version": "1.1",
     "core_bindings": {
-      "woh-claim-0010": "0.1.0",
+      "woh-claim-0010": "0.2.0",
       "woh-claim-0060": "0.1.0"
     }
   },
