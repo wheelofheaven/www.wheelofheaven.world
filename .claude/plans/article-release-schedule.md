@@ -29,7 +29,7 @@ the stagger.
 | 3 | 2026-09-29 | Made from the Ground to Bear the Labor | 4,796 | inferred | 0034 | **withdrawn** 2026-11-08 |
 | 4 | 2026-11-12 | The Filing Cabinet of the Gods | 7,394 | speculative | 0056 | **published** 2026-11-12 — live in 10 langs (Thompson birthplace fixed to Kentucky; "scheduled return" removed) |
 | 5 | 2026-11-01 | The Forty Chairs | 10,165 | inferred | 0054 | **published** 2026-11-01 — live in 10 langs |
-| 6 | 2026-11-10 | The Jubilee and the Machine | 7,178 | inferred | 0055 | queued |
+| 6 | 2026-11-25 | The Jubilee and the Machine | 7,178 | inferred | 0055 | **published** 2026-11-25 — live in 10 langs (ADR 0018 pass: LWTE 1:24/1:83–87 labelled as Raël's view, LWTE 2 status flagged; robot count re-cited to ETTMTTP 2:54; links to the unpublished *Reporter* removed — restore them when it ships) |
 | 7 | 2026-11-24 | The Reporter at the Razor's Edge | 7,137 | inferred | 0057 | queued |
 
 Dates are targets, not commitments — the cadence is what matters, not the

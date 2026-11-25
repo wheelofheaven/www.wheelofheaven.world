@@ -139,8 +139,13 @@
       "section": "wiki",
       "title": "Yahweh",
       "path": "/wiki/yahweh/"
+    },
+    {
+      "section": "articles",
+      "title": "The Jubilee and the Machine",
+      "path": "/articles/the-jubilee-and-the-machine/"
     }
   ],
-  "cite_count": 24,
+  "cite_count": 25,
   "licensing_status": "licensed"
 }

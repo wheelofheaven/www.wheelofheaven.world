@@ -429,8 +429,13 @@
       "section": "wiki",
       "title": "Zecharia Sitchin",
       "path": "/wiki/zecharia-sitchin/"
+    },
+    {
+      "section": "articles",
+      "title": "The Jubilee and the Machine",
+      "path": "/articles/the-jubilee-and-the-machine/"
     }
   ],
-  "cite_count": 82,
+  "cite_count": 83,
   "licensing_status": "licensed"
 }

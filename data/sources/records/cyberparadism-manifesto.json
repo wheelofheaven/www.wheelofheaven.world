@@ -23,8 +23,13 @@
       "section": "wiki",
       "title": "Golden Age",
       "path": "/wiki/golden-age/"
+    },
+    {
+      "section": "articles",
+      "title": "The Jubilee and the Machine",
+      "path": "/articles/the-jubilee-and-the-machine/"
     }
   ],
-  "cite_count": 2,
+  "cite_count": 3,
   "licensing_status": "public_domain"
 }

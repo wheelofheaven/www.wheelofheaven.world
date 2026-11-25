@@ -3,7 +3,7 @@
   "generator": "scripts/build_sources.py",
   "schema_version": 1,
   "total": 863,
-  "total_cites": 1649,
+  "total_cites": 1676,
   "media_counts": {
     "religious-text": 100,
     "academic-paper": 96,
@@ -995,8 +995,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -2644,8 +2650,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -2984,8 +2996,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -3455,9 +3473,14 @@
           "section": "wiki",
           "title": "Golden Age",
           "path": "/wiki/golden-age/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "public_domain"
     },
     {
@@ -3800,8 +3823,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -4167,8 +4196,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -5610,9 +5645,14 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 39,
+      "cite_count": 40,
       "licensing_status": "licensed"
     },
     {
@@ -6013,8 +6053,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -7101,8 +7147,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -8391,9 +8443,14 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 35,
+      "cite_count": 36,
       "licensing_status": "unverified"
     },
     {
@@ -9545,9 +9602,14 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 1,
+      "cite_count": 2,
       "licensing_status": "unverified"
     },
     {
@@ -9931,8 +9993,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -10505,9 +10573,14 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 24,
+      "cite_count": 25,
       "licensing_status": "licensed"
     },
     {
@@ -10573,8 +10646,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -11039,8 +11118,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13071,8 +13156,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13323,8 +13414,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -13819,8 +13916,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -14905,8 +15008,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -16819,9 +16928,14 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 82,
+      "cite_count": 83,
       "licensing_status": "licensed"
     },
     {
@@ -18700,8 +18814,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -19568,8 +19688,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -20649,8 +20775,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -21158,8 +21290,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -21721,9 +21859,14 @@
           "section": "wiki",
           "title": "Golden Age",
           "path": "/wiki/golden-age/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 2,
+      "cite_count": 3,
       "licensing_status": "unknown"
     },
     {
@@ -22036,8 +22179,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {
@@ -23162,8 +23311,14 @@
       "description": "",
       "medium": "",
       "topics": [],
-      "cited_by": [],
-      "cite_count": 0,
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1,
       "licensing_status": "unverified"
     },
     {

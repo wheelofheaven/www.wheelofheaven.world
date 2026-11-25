@@ -503,8 +503,14 @@
     },
     {
       "id": "agrarian-justice-the-ground-rent-funded-universal-endowment",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "aion-researches-into-the-phenomenology-of-the-self-cw-9ii-the-pisces-aeon-as-syn",
@@ -1403,8 +1409,14 @@
     },
     {
       "id": "capital-in-the-twenty-first-century-the-r-g-mechanism-of-inherited-concentration",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "carbon-bearing-molecules-in-a-possible-hycean-atmosphere",
@@ -1602,8 +1614,14 @@
     },
     {
       "id": "coase-s-penguin-or-linux-and-the-nature-of-the-firm-yale-law-journal-112-the-pap",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "commentary-on-the-song-of-songs-prologue-the-four-texts-reserved-for-the-very-en",
@@ -1816,9 +1834,14 @@
           "section": "wiki",
           "title": "Golden Age",
           "path": "/wiki/golden-age/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "cyberparadism-field-guide",
@@ -1993,8 +2016,14 @@
     },
     {
       "id": "der-judenstaat-the-preface-pages-that-measure-the-project-against-hertzka-s-frei",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "des-hommes-des-dieux-et-des-extraterrestres-ethnologie-d-une-croyance-moderne-th",
@@ -2219,8 +2248,14 @@
     },
     {
       "id": "die-nat-rliche-wirtschaftsordnung-durch-freiland-und-freigeld-9th-ed-ed-karl-wal",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "bakker-dinosaur-renaissance-1975",
@@ -3144,9 +3179,14 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 39
+      "cite_count": 40
     },
     {
       "id": "ezekiel",
@@ -3396,8 +3436,14 @@
     },
     {
       "id": "freiland-ein-sociales-zukunftsbild-4th-ed-e-pierson-dresden-and-leipzig-four-pri",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "from-hittite-to-homer-the-anatolian-background-of-ancient-greek-epic",
@@ -4060,8 +4106,14 @@
     },
     {
       "id": "guerilla-open-access-manifesto",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "guns-germs-and-steel-the-fates-of-human-societies-chapter-2-a-natural-experiment",
@@ -4885,9 +4937,14 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 35
+      "cite_count": 36
     },
     {
       "id": "intelligent-life-in-the-universe-the-sagan-shklovsky-survey-that-gave-sendy-his-",
@@ -5518,9 +5575,14 @@
           "section": "articles",
           "title": "The Religion of Religions",
           "path": "/articles/the-religion-of-religions/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 1
+      "cite_count": 2
     },
     {
       "id": "la-kabbale-que-sais-je-no-1105-2nd-rev-ed-1967",
@@ -5755,8 +5817,14 @@
     },
     {
       "id": "left-libertarianism-and-its-critics-the-contemporary-debate-vallentyne-s-introdu",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "rohl-legend-genesis",
@@ -6147,9 +6215,14 @@
           "section": "wiki",
           "title": "Yahweh",
           "path": "/wiki/yahweh/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 24
+      "cite_count": 25
     },
     {
       "id": "nickell-levengood-skeptical-inquirer-1996",
@@ -6175,8 +6248,14 @@
     },
     {
       "id": "leviticus-25-8-23-the-sabbath-of-years-the-jubilee-and-the-land-tenure-principle",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "crick-life-itself",
@@ -6439,8 +6518,14 @@
     },
     {
       "id": "marc-andreessen-s-techno-optimist-manifesto-is-just-old-school-reactionary-eliti",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "mark-the-evangelist-studies-on-the-redaction-history-of-the-gospel-the-founding-",
@@ -7484,8 +7569,14 @@
     },
     {
       "id": "paths-in-utopia-the-closing-chapter-an-experiment-that-did-not-fail-on-the-kibbu",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "pens-es-the-two-infinities-a-nothing-in-regard-to-the-infinite-an-all-in-regard-",
@@ -7617,8 +7708,14 @@
     },
     {
       "id": "progress-and-poverty-an-inquiry-into-the-cause-of-industrial-depressions-and-of-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "wellhausen-prolegomena",
@@ -7883,8 +7980,14 @@
     },
     {
       "id": "real-freedom-for-all-what-if-anything-can-justify-capitalism",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "real-life-x-files-nickell",
@@ -8440,8 +8543,14 @@
     },
     {
       "id": "silvio-gesell-an-introduction-to-gesellian-economics-great-money-reformers-no-i-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "aveni-skywatchers",
@@ -9597,9 +9706,14 @@
           "section": "wiki",
           "title": "Zecharia Sitchin",
           "path": "/wiki/zecharia-sitchin/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 82
+      "cite_count": 83
     },
     {
       "id": "the-books-of-enoch-aramaic-fragments-of-qumr-n-cave-4-the-edition-that-proved-1-",
@@ -10596,8 +10710,14 @@
     },
     {
       "id": "the-general-theory-of-employment-interest-and-money-ch-23-vi-the-rehabilitation-",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-genesis-flood-the-biblical-record-and-its-scientific-implications-the-founda",
@@ -11010,8 +11130,14 @@
     },
     {
       "id": "the-kibbutz-movement-a-history",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-kumulipo-a-hawaiian-creation-chant",
@@ -11612,8 +11738,14 @@
     },
     {
       "id": "the-origins-of-left-libertarianism-an-anthology-of-historical-writings-john-cunl",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-origins-of-the-mithraic-mysteries-cosmology-and-salvation-in-the-ancient-wor",
@@ -11905,8 +12037,14 @@
     },
     {
       "id": "the-reactionary-futurism-of-marc-andreessen-the-new-york-times-the-reactionary-f",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-religion-of-the-mithras-cult-in-the-roman-empire-mysteries-of-the-unconquere",
@@ -12182,9 +12320,14 @@
           "section": "wiki",
           "title": "Golden Age",
           "path": "/wiki/golden-age/"
+        },
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
         }
       ],
-      "cite_count": 2
+      "cite_count": 3
     },
     {
       "id": "the-text-of-the-new-testament-its-transmission-corruption-and-restoration-the-wo",
@@ -12339,8 +12482,14 @@
     },
     {
       "id": "the-venus-project-the-redesign-of-a-culture-global-cyber-visions-venus-florida",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "the-wars-of-gods-and-men",
@@ -12967,8 +13116,14 @@
     },
     {
       "id": "wikinomics-how-mass-collaboration-changes-everything-expanded-edition",
-      "cited_by": [],
-      "cite_count": 0
+      "cited_by": [
+        {
+          "section": "articles",
+          "title": "The Jubilee and the Machine",
+          "path": "/articles/the-jubilee-and-the-machine/"
+        }
+      ],
+      "cite_count": 1
     },
     {
       "id": "wonders-in-the-sky",
