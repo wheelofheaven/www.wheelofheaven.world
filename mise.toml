@@ -39,6 +39,10 @@ run = "python3 -m scripts.broadcast"
 description = "Dry-run the social broadcaster (no API calls, no state writes)"
 run = "python3 -m scripts.broadcast --dry-run"
 
+[tasks.genesis]
+description = "Regenerate content/genesis/1..50.md (Genesis four-lens reader stubs) from data/library/genesis-woh"
+run = "python3 scripts/build_genesis_pages.py"
+
 [tasks.graph]
 description = "Rebuild static/graph/graph.json (the /graph/ knowledge graph) from content, topics, sources and ../core"
 run = "python3 scripts/build_graph.py"

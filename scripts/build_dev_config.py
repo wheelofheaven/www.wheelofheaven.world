@@ -118,6 +118,16 @@ def render(src: str, note: str, extra_patterns: list[str]) -> str:
     if not n_ignore:
         raise SystemExit("config.toml: expected a [markdown] table to anchor ignored_content")
 
+    # Dev-only switch: the Genesis reader renders draft lens files
+    # (data/library/genesis-woh/lenses/chapter-N.json with a status other
+    # than "stable") only when this is set. config.toml never sets it, so a
+    # production build shows signed-off lens files only.
+    out, n_extra = re.subn(
+        r"^\[extra\]$", "[extra]\ngenesis_show_drafts = true", out, count=1, flags=re.M
+    )
+    if not n_extra:
+        raise SystemExit("config.toml: expected a top-level [extra] table")
+
     return BANNER.format(what=note) + out
 
 
