@@ -11,6 +11,10 @@
 # probably be condensed.
 
 # Browsers and crawlers also request the conventional root icon directly.
+# Genesis four-lens reader moved under its library book (2026-11-27)
+/genesis                             /library/genesis-woh/lenses/          301
+/genesis/*                           /library/genesis-woh/lenses/:splat    301
+
 /favicon.ico                        /brand/favicon.ico                   301
 
 # 2026-11-08 — annotated-title source ids merged into clean canonical records.

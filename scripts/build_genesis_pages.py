@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Generate the chapter stubs of the Genesis four-lens reader.
 
-Writes content/genesis/1.md … 50.md (template genesis-chapter.html). The
+Writes content/library/genesis-woh/lenses/1.md … 50.md (template genesis-chapter.html). The
 stubs carry only frontmatter: the page body is rendered by the template from
 data/library/genesis-woh/chapter-N.json (lens 1 Hebrew + transliteration,
 lens 2 the Wheel of Heaven literal translation) and, when it exists,
 data/library/genesis-woh/lenses/chapter-N.json (lens 3 Reading, lens 4
-Meaning). The section page content/genesis/_index.md is hand-written and is
+Meaning). The section page content/library/genesis-woh/lenses/_index.md is hand-written and is
 never touched here.
 
 The description depends on whether the chapter's lens file is published
@@ -30,7 +30,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BOOK = ROOT / "data" / "library" / "genesis-woh"
 LENSES = BOOK / "lenses"
-OUT = ROOT / "content" / "genesis"
+OUT = ROOT / "content" / "library" / "genesis-woh" / "lenses"
 
 # Reading groups on the section page; the chapter stub records its group so
 # the chapter page can name it without recomputing the ranges.
@@ -130,9 +130,9 @@ def main() -> int:
         if stale:
             print("stale:", *stale, sep="\n  ")
             return 1
-        print("content/genesis stubs are current")
+        print("content/library/genesis-woh/lenses stubs are current")
         return 0
-    print(f"content/genesis: {len(stale)} stub(s) written, {len(files) - len(stale)} unchanged")
+    print(f"content/library/genesis-woh/lenses: {len(stale)} stub(s) written, {len(files) - len(stale)} unchanged")
     return 0
 
 
