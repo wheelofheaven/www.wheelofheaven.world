@@ -69,9 +69,9 @@ def lens_status(n: int) -> str:
 def description(n: int, title: str, four: bool) -> str:
     if four:
         text = (f"Genesis {n}, “{title}”, in four lenses: the Hebrew, a literal translation, "
-                "a reading through the Messages, and a plain explanation.")
+                "a reading with the decoded words, and its meaning in plain language.")
         short = (f"Genesis {n} in four lenses: the Hebrew, a literal translation, "
-                 "a reading through the Messages, and a plain explanation of each passage.")
+                 "a decoded reading, and the meaning of each verse in plain language.")
     else:
         text = (f"Genesis {n}, “{title}”: the Hebrew with transliteration beside the "
                 "Wheel of Heaven literal translation, verse by verse.")
